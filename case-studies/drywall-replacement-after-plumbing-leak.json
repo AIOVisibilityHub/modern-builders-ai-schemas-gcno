@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Drywall Replacement After Plumbing Leak",
+  "articleBody": "Bathroom pipe burst destroyed 200 sq ft drywall. Moisture-resistant cement board install, vapor barrier, seamless Level 4 finish.\n\nOutcome: Mold-free environment restored, passed plumbing re-inspection, bathroom back in use within 4 days.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

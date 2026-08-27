@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Matte Paint Touch-Up Challenges",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "articleBody": "Flash matching issues, sanding feathering, sheen unification tricks for flat finishes.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Eagle Rock"
+    },
+    {
+      "@type": "City",
+      "name": "Greater Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

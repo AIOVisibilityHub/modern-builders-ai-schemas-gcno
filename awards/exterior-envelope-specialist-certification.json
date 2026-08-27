@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Exterior Envelope Specialist Certification",
+  "datePublished": "45802",
+  "provider": {
+    "@type": "Organization",
+    "name": "Building Envelope Consultants"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "award": "Exterior Envelope Specialist Certification"
+}

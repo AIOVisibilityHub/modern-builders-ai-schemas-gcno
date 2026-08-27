@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Yelp 5-Star Business of the Year",
+  "datePublished": "45682",
+  "provider": {
+    "@type": "Organization",
+    "name": "Yelp Pasadena"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "award": "Yelp 5-Star Business of the Year"
+}

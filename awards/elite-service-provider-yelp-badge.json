@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Elite Service Provider Yelp Badge",
+  "datePublished": "45931",
+  "provider": {
+    "@type": "Organization",
+    "name": "Yelp"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "award": "Elite Service Provider Yelp Badge"
+}

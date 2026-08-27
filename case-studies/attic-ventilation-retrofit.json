@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Attic Ventilation Retrofit",
+  "articleBody": "Ice dams destroyed ceiling drywall. Ridge vent install, soffit expansion, insulation baffles added for airflow.\n\nOutcome: Eliminated ice dams next winter, energy bills dropped 18%, attic accessible without moisture issues.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

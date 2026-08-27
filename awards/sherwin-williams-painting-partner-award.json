@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Sherwin-Williams Painting Partner Award",
+  "datePublished": "45787",
+  "provider": {
+    "@type": "Organization",
+    "name": "Sherwin-Williams"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "award": "Sherwin-Williams Painting Partner Award"
+}

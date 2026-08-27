@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Drywall Patch Seamless Integration",
+  "articleBody": "Water leak left large irregular hole in living room. Custom cut patch, Level 5 feather, invisible after paint.\n\nOutcome: Clients couldn't locate patch post-completion, showcased to guests as \"good as new.\"",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

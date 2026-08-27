@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "5-Star Review Consistency Award",
+  "datePublished": "45818",
+  "provider": {
+    "@type": "Organization",
+    "name": "ReviewTrackers Local Excellence"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "award": "5-Star Review Consistency Award"
+}

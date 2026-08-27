@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Metal Roof Retrofit Over Shingles",
+  "articleBody": "Energy-conscious homeowners wanted durable upgrade. Installed standing seam steel over existing asphalt, cool roof coating.\n\nOutcome: 50-year roof warranty, 30% cooling cost reduction first summer, exceptional wind resistance in local gusts.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

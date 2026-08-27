@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Pasadena Craftsman Bungalow Roof Replacement",
+  "articleBody": "Historic 1923 home with failing asphalt shingles and poor ventilation causing attic mold. Replaced with architectural shingles, added ridge/soffit vents, repaired decking.\n\nOutcome: Eliminated leaks, improved energy efficiency by 25%, preserved architectural style while meeting HOA approval. Homeowner reported cooler attic temps.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Stucco Parapet Wall Rebuild",
+  "articleBody": "Earthquake damage to flat roof parapet. Reinforced concrete base, stucco finish matching house body.\n\nOutcome: Structural engineer approved, seismic upgrade completed, seamless aesthetic integration.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

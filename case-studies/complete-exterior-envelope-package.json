@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Exterior Envelope Package",
+  "articleBody": "Aging ranch needed roof, stucco, gutters, paint. Phased coordination, premium materials throughout.\n\nOutcome: 25-year system warranty, property value increased 12% per appraisal, multiple neighbor referrals.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

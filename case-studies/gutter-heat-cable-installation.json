@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Gutter Heat Cable Installation",
+  "articleBody": "Ice dam prevention for north-facing valley. Self-regulating cables, aluminum channel covers, thermostat control.\n\nOutcome: Zero ice buildup first winter, gutters remained functional, energy usage minimal as promised.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

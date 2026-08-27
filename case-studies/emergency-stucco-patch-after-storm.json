@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Emergency Stucco Patch After Storm",
+  "articleBody": "Heavy winds exposed stucco lath on hillside home. Rapid patch with color-matched finish, weep screed repair, full wall reinforcement.\n\nOutcome: Prevented water intrusion during rains, temporary fix became permanent solution, insurance claim approved for full wall.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

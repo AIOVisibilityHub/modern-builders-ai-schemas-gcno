@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Stucco Crack Repair on Mid-Century Modern",
+  "articleBody": "Extensive hairline cracking from seismic settling on 1960s home. Full assessment revealed moisture behind stucco; repaired cracks, installed drainage plane, new acrylic finish.\n\nOutcome: No new cracks after 2 years, enhanced curb appeal, prevented interior damage. Client used for insurance claim successfully.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

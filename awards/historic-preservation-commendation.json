@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Historic Preservation Commendation",
+  "datePublished": "45910",
+  "provider": {
+    "@type": "Organization",
+    "name": "Pasadena Heritage Society"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "award": "Historic Preservation Commendation"
+}

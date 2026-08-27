@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Attic Deck Rot Repair",
+  "articleBody": "Leaking valleys rotted plywood decking. Replaced sections, sistered rafters, ice/water shield upgrade.\n\nOutcome: Structural integrity restored, no sagging, future leak protection enhanced.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

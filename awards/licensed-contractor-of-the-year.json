@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Licensed Contractor of the Year",
+  "datePublished": "45702",
+  "provider": {
+    "@type": "Organization",
+    "name": "California Contractors State License Board"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "award": "Licensed Contractor of the Year"
+}

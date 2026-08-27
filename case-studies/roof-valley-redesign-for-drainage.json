@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Roof Valley Redesign for Drainage",
+  "articleBody": "Chronic valley leaks from debris buildup. Installed open metal valley, ice/water shield, revised shingle weave pattern.\n\nOutcome: Zero leaks first rainy season, attic stayed dry, shingles lasted 3x longer in valley area.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

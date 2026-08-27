@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Interior Painting for Allergy Sufferers",
+  "articleBody": "Clients needed low-VOC repaint throughout home. Zero-VOC paints, HEPA filtration during job, anti-microbial additives.\n\nOutcome: Improved indoor air quality verified by test, allergy symptoms reduced, family could occupy during painting.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Emergency Roof Tarp After Fire",
+  "articleBody": "Neighboring house fire damaged shingles via embers. Blue tarp secured, full repair including fire-rated underlayment.\n\nOutcome: Protected undamaged areas, insurance covered ember damage, rapid return to livable condition.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

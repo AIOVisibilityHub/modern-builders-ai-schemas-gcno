@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Historic Roof Tile Restoration",
+  "articleBody": "1930s clay tiles cracking from tree roots. Selective replacement, mortar repointing, custom color blending.\n\nOutcome: Preserved historic designation, matched irreplaceable tiles, maintained 90-year roof warranty.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

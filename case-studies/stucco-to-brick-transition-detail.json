@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Stucco to Brick Transition Detail",
+  "articleBody": "Adding brick accent wall to stucco house. Z-flashing integration, weep holes, expansion joint caulking.\n\nOutcome: Clean material transition, no differential movement cracks, architecturally cohesive addition.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}
