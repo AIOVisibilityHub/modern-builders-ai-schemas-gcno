@@ -21,6 +21,7 @@ Package contents:
 - [canonical] Modern Builders — canonical website — https://modernbuilders.aiovisibility.net
 - [ai-data-hub] Modern Builders — AI Data Hub — https://modernbuilders.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/modern-builders-ai-schemas-gcno/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

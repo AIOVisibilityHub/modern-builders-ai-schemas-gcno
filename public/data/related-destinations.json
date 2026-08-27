@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T22:43:47.192Z",
+  "generatedAt": "2026-08-27T22:43:58.374Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -31,12 +31,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/modern-builders-ai-schemas-gcno/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/modern-builders-ai-schemas-gcno/",
       "repo": "AIOVisibilityHub/modern-builders-ai-schemas-gcno"
     }
   }

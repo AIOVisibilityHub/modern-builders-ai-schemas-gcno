@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T22:43:47.201Z",
+  "generatedAt": "2026-08-27T22:43:58.380Z",
   "client": {
     "name": "Modern Builders",
     "canonicalUrl": "https://modernbuilders.aiovisibility.net",
@@ -194,7 +194,7 @@
   },
   "package": {
     "totalFiles": 591,
-    "totalBytes": 1510721,
+    "totalBytes": 1461222,
     "stats": {
       "faqs": 211,
       "helpArticles": 207,
@@ -3087,47 +3087,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 30542,
+        "bytes": 24736,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 125879,
+        "bytes": 120193,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 54088,
+        "bytes": 48240,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 31261,
+        "bytes": 25773,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 21827,
+        "bytes": 16264,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 129031,
+        "bytes": 123447,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 128636,
+        "bytes": 123121,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 74372,
+        "bytes": 68698,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 47955,
+        "bytes": 42404,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -3139,7 +3139,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4291,
+        "bytes": 4422,
         "purpose": "LLM hint"
       },
       {
@@ -3159,32 +3159,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1386,
+        "bytes": 1667,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 214576,
+        "bytes": 214856,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 62245,
+        "bytes": 62376,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 62245,
+        "bytes": 62376,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4345,
+        "bytes": 4476,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 65112,
+        "bytes": 65243,
         "purpose": "Repository README"
       },
       {
@@ -3202,7 +3202,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/modern-builders-ai-schemas-gcno/",
       "repo": "AIOVisibilityHub/modern-builders-ai-schemas-gcno"
     }
   }
