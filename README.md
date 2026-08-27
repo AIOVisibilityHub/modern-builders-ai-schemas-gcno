@@ -1,2 +1,643 @@
-# modern-builders-ai-schemas-gcno
-Modern Builders — Schema.org validated JSON-LD structured data
+# Modern Builders — AI Data Package
+
+Canonical AI Data Package for Modern Builders.
+
+- Canonical: https://modernbuilders.aiovisibility.net
+- Master index: [ai-data.html](./ai-data.html)
+- Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
+
+- LLM hint: [llms.txt](./llms.txt)
+
+## Stats
+- 211 faqs
+- 207 helpArticles
+- 1 services
+- 6 personnel
+- 1 locations
+- 25 awards
+- 75 caseStudies
+- 1 organization
+- 25 press
+- 16 reviews
+- **568** total
+
+## Cross-Destination Index — Related AI Data Sources
+- [canonical] Modern Builders — canonical website — https://modernbuilders.aiovisibility.net
+- [ai-data-hub] Modern Builders — AI Data Hub — https://modernbuilders.aiovisibility.net/ai-data.html
+- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno
+
+Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
+
+
+## Package Contents
+
+Every file below is listed in [`data/publishing-manifest.json`](./data/publishing-manifest.json) — the manifest is the source of truth.
+
+### Root AI Files (6)
+- [`.nojekyll`](./.nojekyll) — Disable Jekyll on GitHub Pages
+- [`index.html`](./index.html) — Landing page (redirects to ai-data.html)
+- [`llms.txt`](./llms.txt) — LLM hint
+- [`manifest.json`](./manifest.json) — Web app manifest
+- [`related-destinations.json`](./related-destinations.json) — Cross-Destination Index (Related AI Data Sources)
+- [`robots.txt`](./robots.txt) — Robots policy
+
+### Organization & About (1)
+- [`organization/modern-builders-organization.json`](./organization/modern-builders-organization.json) — schema
+
+### Services (1)
+- [`services/construction-service.json`](./services/construction-service.json) — schema
+
+### Locations (1)
+- [`locations/modern-builders-office.json`](./locations/modern-builders-office.json) — schema
+
+### Team Members (6)
+- [`team/bryan-peralta-burbank.json`](./team/bryan-peralta-burbank.json) — schema
+- [`team/bryan-peralta-eagle-rock.json`](./team/bryan-peralta-eagle-rock.json) — schema
+- [`team/bryan-peralta-glendale.json`](./team/bryan-peralta-glendale.json) — schema
+- [`team/bryan-peralta-greater-los-angeles.json`](./team/bryan-peralta-greater-los-angeles.json) — schema
+- [`team/bryan-peralta-profile.json`](./team/bryan-peralta-profile.json) — schema
+- [`team/bryan-peralta-south-pasadena.json`](./team/bryan-peralta-south-pasadena.json) — schema
+
+### FAQs (211)
+- [`faqs/aluminum-vs-steel-gutters.json`](./faqs/aluminum-vs-steel-gutters.json) — schema
+- [`faqs/are-drone-inspections-used-for-repairs.json`](./faqs/are-drone-inspections-used-for-repairs.json) — schema
+- [`faqs/are-gutter-guards-worth-it.json`](./faqs/are-gutter-guards-worth-it.json) — schema
+- [`faqs/are-metal-roofs-energy-efficient.json`](./faqs/are-metal-roofs-energy-efficient.json) — schema
+- [`faqs/are-metal-roofs-noisy-during-rain.json`](./faqs/are-metal-roofs-noisy-during-rain.json) — schema
+- [`faqs/are-metal-roofs-noisy-in-the-rain.json`](./faqs/are-metal-roofs-noisy-in-the-rain.json) — schema
+- [`faqs/are-permits-needed.json`](./faqs/are-permits-needed.json) — schema
+- [`faqs/are-you-licensed-and-insured.json`](./faqs/are-you-licensed-and-insured.json) — schema
+- [`faqs/are-you-licensed-insured-bonded.json`](./faqs/are-you-licensed-insured-bonded.json) — schema
+- [`faqs/best-sealant-for-gutters.json`](./faqs/best-sealant-for-gutters.json) — schema
+- [`faqs/best-time-of-year-for-exterior-painting.json`](./faqs/best-time-of-year-for-exterior-painting.json) — schema
+- [`faqs/best-time-of-year-to-install.json`](./faqs/best-time-of-year-to-install.json) — schema
+- [`faqs/can-gutters-be-installed-on-any-roof.json`](./faqs/can-gutters-be-installed-on-any-roof.json) — schema
+- [`faqs/can-i-diy-roof-installation.json`](./faqs/can-i-diy-roof-installation.json) — schema
+- [`faqs/can-i-install-a-roof-over-my-existing-one.json`](./faqs/can-i-install-a-roof-over-my-existing-one.json) — schema
+- [`faqs/can-i-install-gutters-myself.json`](./faqs/can-i-install-gutters-myself.json) — schema
+- [`faqs/can-i-repair-gutters-myself.json`](./faqs/can-i-repair-gutters-myself.json) — schema
+- [`faqs/can-i-repair-my-roof-myself.json`](./faqs/can-i-repair-my-roof-myself.json) — schema
+- [`faqs/can-i-walk-on-a-metal-roof.json`](./faqs/can-i-walk-on-a-metal-roof.json) — schema
+- [`faqs/can-i-walk-on-my-new-roof-right-away.json`](./faqs/can-i-walk-on-my-new-roof-right-away.json) — schema
+- [`faqs/can-metal-roofs-be-installed-over-shingles.json`](./faqs/can-metal-roofs-be-installed-over-shingles.json) — schema
+- [`faqs/can-metal-roofs-dent-from-hail.json`](./faqs/can-metal-roofs-dent-from-hail.json) — schema
+- [`faqs/can-metal-roofs-handle-heavy-snow.json`](./faqs/can-metal-roofs-handle-heavy-snow.json) — schema
+- [`faqs/can-repairs-be-done-in-rain.json`](./faqs/can-repairs-be-done-in-rain.json) — schema
+- [`faqs/can-stucco-be-applied-in-cold-weather.json`](./faqs/can-stucco-be-applied-in-cold-weather.json) — schema
+- [`faqs/can-stucco-be-applied-over-brick-or-block.json`](./faqs/can-stucco-be-applied-over-brick-or-block.json) — schema
+- [`faqs/can-stucco-be-applied-over-painted-surfaces.json`](./faqs/can-stucco-be-applied-over-painted-surfaces.json) — schema
+- [`faqs/can-you-hang-drywall-horizontally-or-vertically.json`](./faqs/can-you-hang-drywall-horizontally-or-vertically.json) — schema
+- [`faqs/can-you-match-existing-paint-color.json`](./faqs/can-you-match-existing-paint-color.json) — schema
+- [`faqs/can-you-paint-over-wallpaper.json`](./faqs/can-you-paint-over-wallpaper.json) — schema
+- [`faqs/ceiling-drywall-without-lift.json`](./faqs/ceiling-drywall-without-lift.json) — schema
+- [`faqs/cleanup-after-painting.json`](./faqs/cleanup-after-painting.json) — schema
+- [`faqs/cost-of-drywall-installation.json`](./faqs/cost-of-drywall-installation.json) — schema
+- [`faqs/cracked-vinyl-gutters-fix.json`](./faqs/cracked-vinyl-gutters-fix.json) — schema
+- [`faqs/do-gutters-increase-home-value.json`](./faqs/do-gutters-increase-home-value.json) — schema
+- [`faqs/do-gutters-need-to-match-my-roofline.json`](./faqs/do-gutters-need-to-match-my-roofline.json) — schema
+- [`faqs/do-i-need-permits-for-gutters.json`](./faqs/do-i-need-permits-for-gutters.json) — schema
+- [`faqs/do-i-need-permits-for-roof-installation.json`](./faqs/do-i-need-permits-for-roof-installation.json) — schema
+- [`faqs/do-i-need-to-be-home-during-painting.json`](./faqs/do-i-need-to-be-home-during-painting.json) — schema
+- [`faqs/do-metal-roofs-rust-or-corrode.json`](./faqs/do-metal-roofs-rust-or-corrode.json) — schema
+- [`faqs/do-prices-increase-mid-project.json`](./faqs/do-prices-increase-mid-project.json) — schema
+- [`faqs/do-you-offer-color-consultation.json`](./faqs/do-you-offer-color-consultation.json) — schema
+- [`faqs/do-you-offer-emergency-services.json`](./faqs/do-you-offer-emergency-services.json) — schema
+- [`faqs/do-you-paint-by-brush-roller-or-spray.json`](./faqs/do-you-paint-by-brush-roller-or-spray.json) — schema
+- [`faqs/do-you-use-subcontractors.json`](./faqs/do-you-use-subcontractors.json) — schema
+- [`faqs/does-drywall-need-to-be-primed-before-painting.json`](./faqs/does-drywall-need-to-be-primed-before-painting.json) — schema
+- [`faqs/does-homeowners-insurance-cover-roof-repairs.json`](./faqs/does-homeowners-insurance-cover-roof-repairs.json) — schema
+- [`faqs/does-insurance-cover-new-roofs.json`](./faqs/does-insurance-cover-new-roofs.json) — schema
+- [`faqs/does-metal-expand-contract.json`](./faqs/does-metal-expand-contract.json) — schema
+- [`faqs/does-metal-roofing-void-asphalt-warranties.json`](./faqs/does-metal-roofing-void-asphalt-warranties.json) — schema
+- [`faqs/does-moss-algae-damage-require-repair.json`](./faqs/does-moss-algae-damage-require-repair.json) — schema
+- [`faqs/does-roof-color-affect-energy-efficiency.json`](./faqs/does-roof-color-affect-energy-efficiency.json) — schema
+- [`faqs/does-stucco-add-insulation-value.json`](./faqs/does-stucco-add-insulation-value.json) — schema
+- [`faqs/does-stucco-need-painting.json`](./faqs/does-stucco-need-painting.json) — schema
+- [`faqs/downspout-leaks-or-separation.json`](./faqs/downspout-leaks-or-separation.json) — schema
+- [`faqs/eco-friendly-aspects.json`](./faqs/eco-friendly-aspects.json) — schema
+- [`faqs/fire-rated-drywall.json`](./faqs/fire-rated-drywall.json) — schema
+- [`faqs/gutter-guards-best-type.json`](./faqs/gutter-guards-best-type.json) — schema
+- [`faqs/gutters-clogged-with-debris.json`](./faqs/gutters-clogged-with-debris.json) — schema
+- [`faqs/gutters-making-banging-noise.json`](./faqs/gutters-making-banging-noise.json) — schema
+- [`faqs/gutters-separating-at-corners.json`](./faqs/gutters-separating-at-corners.json) — schema
+- [`faqs/heated-gutters-for-ice-dams.json`](./faqs/heated-gutters-for-ice-dams.json) — schema
+- [`faqs/how-do-you-fix-a-leaky-roof-temporarily.json`](./faqs/how-do-you-fix-a-leaky-roof-temporarily.json) — schema
+- [`faqs/how-do-you-install-control-joints.json`](./faqs/how-do-you-install-control-joints.json) — schema
+- [`faqs/how-do-you-protect-floors-furniture.json`](./faqs/how-do-you-protect-floors-furniture.json) — schema
+- [`faqs/how-do-you-protect-my-home-during-installation.json`](./faqs/how-do-you-protect-my-home-during-installation.json) — schema
+- [`faqs/how-do-you-repair-stucco-cracks.json`](./faqs/how-do-you-repair-stucco-cracks.json) — schema
+- [`faqs/how-does-metal-affect-home-resale.json`](./faqs/how-does-metal-affect-home-resale.json) — schema
+- [`faqs/how-far-apart-should-drywall-screws-be.json`](./faqs/how-far-apart-should-drywall-screws-be.json) — schema
+- [`faqs/how-is-drywall-installed-step-by-step.json`](./faqs/how-is-drywall-installed-step-by-step.json) — schema
+- [`faqs/how-is-metal-roofing-installed.json`](./faqs/how-is-metal-roofing-installed.json) — schema
+- [`faqs/how-is-old-roofing-disposed.json`](./faqs/how-is-old-roofing-disposed.json) — schema
+- [`faqs/how-is-stucco-textured.json`](./faqs/how-is-stucco-textured.json) — schema
+- [`faqs/how-long-do-gutters-last.json`](./faqs/how-long-do-gutters-last.json) — schema
+- [`faqs/how-long-does-a-house-painting-job-take.json`](./faqs/how-long-does-a-house-painting-job-take.json) — schema
+- [`faqs/how-long-does-a-roof-repair-take.json`](./faqs/how-long-does-a-roof-repair-take.json) — schema
+- [`faqs/how-long-does-drywall-mud-take-to-dry.json`](./faqs/how-long-does-drywall-mud-take-to-dry.json) — schema
+- [`faqs/how-long-does-gutter-installation-take.json`](./faqs/how-long-does-gutter-installation-take.json) — schema
+- [`faqs/how-long-does-gutter-repair-take.json`](./faqs/how-long-does-gutter-repair-take.json) — schema
+- [`faqs/how-long-does-metal-roof-installation-take.json`](./faqs/how-long-does-metal-roof-installation-take.json) — schema
+- [`faqs/how-long-does-paint-last.json`](./faqs/how-long-does-paint-last.json) — schema
+- [`faqs/how-long-does-roof-installation-take.json`](./faqs/how-long-does-roof-installation-take.json) — schema
+- [`faqs/how-long-does-stucco-installation-take.json`](./faqs/how-long-does-stucco-installation-take.json) — schema
+- [`faqs/how-long-does-stucco-last-with-proper-care.json`](./faqs/how-long-does-stucco-last-with-proper-care.json) — schema
+- [`faqs/how-long-does-stucco-last.json`](./faqs/how-long-does-stucco-last.json) — schema
+- [`faqs/how-many-coats-of-mud-needed.json`](./faqs/how-many-coats-of-mud-needed.json) — schema
+- [`faqs/how-many-coats-of-paint-do-you-apply.json`](./faqs/how-many-coats-of-paint-do-you-apply.json) — schema
+- [`faqs/how-many-downspouts-needed.json`](./faqs/how-many-downspouts-needed.json) — schema
+- [`faqs/how-many-painters-on-crew.json`](./faqs/how-many-painters-on-crew.json) — schema
+- [`faqs/how-much-does-a-new-roof-cost.json`](./faqs/how-much-does-a-new-roof-cost.json) — schema
+- [`faqs/how-much-does-gutter-installation-cost.json`](./faqs/how-much-does-gutter-installation-cost.json) — schema
+- [`faqs/how-much-does-gutter-repair-cost.json`](./faqs/how-much-does-gutter-repair-cost.json) — schema
+- [`faqs/how-much-does-house-painting-cost.json`](./faqs/how-much-does-house-painting-cost.json) — schema
+- [`faqs/how-much-does-roof-repair-cost.json`](./faqs/how-much-does-roof-repair-cost.json) — schema
+- [`faqs/how-much-does-stucco-cost-per-square-foot.json`](./faqs/how-much-does-stucco-cost-per-square-foot.json) — schema
+- [`faqs/how-much-drywall-for-a-room.json`](./faqs/how-much-drywall-for-a-room.json) — schema
+- [`faqs/how-often-clean-new-gutters.json`](./faqs/how-often-clean-new-gutters.json) — schema
+- [`faqs/how-often-should-i-inspect-for-repairs.json`](./faqs/how-often-should-i-inspect-for-repairs.json) — schema
+- [`faqs/how-often-should-i-inspect-my-roof.json`](./faqs/how-often-should-i-inspect-my-roof.json) — schema
+- [`faqs/how-soon-can-you-start.json`](./faqs/how-soon-can-you-start.json) — schema
+- [`faqs/how-to-calculate-linear-feet-needed.json`](./faqs/how-to-calculate-linear-feet-needed.json) — schema
+- [`faqs/how-to-choose-shingle-types.json`](./faqs/how-to-choose-shingle-types.json) — schema
+- [`faqs/how-to-cut-drywall-for-electrical-boxes.json`](./faqs/how-to-cut-drywall-for-electrical-boxes.json) — schema
+- [`faqs/how-to-cut-metal-panels.json`](./faqs/how-to-cut-metal-panels.json) — schema
+- [`faqs/how-to-finish-inside-corners.json`](./faqs/how-to-finish-inside-corners.json) — schema
+- [`faqs/how-to-fix-a-leaking-gutter-seam.json`](./faqs/how-to-fix-a-leaking-gutter-seam.json) — schema
+- [`faqs/how-to-maintain-a-new-roof.json`](./faqs/how-to-maintain-a-new-roof.json) — schema
+- [`faqs/how-to-match-existing-stucco-texture-color.json`](./faqs/how-to-match-existing-stucco-texture-color.json) — schema
+- [`faqs/how-to-prepare-for-painters.json`](./faqs/how-to-prepare-for-painters.json) — schema
+- [`faqs/how-to-prevent-future-repairs.json`](./faqs/how-to-prevent-future-repairs.json) — schema
+- [`faqs/how-to-repair-a-hole-in-gutters.json`](./faqs/how-to-repair-a-hole-in-gutters.json) — schema
+- [`faqs/how-to-repair-gutters-attached-to-roof.json`](./faqs/how-to-repair-gutters-attached-to-roof.json) — schema
+- [`faqs/how-to-repair-missing-shingles.json`](./faqs/how-to-repair-missing-shingles.json) — schema
+- [`faqs/how-to-repair-small-drywall-holes.json`](./faqs/how-to-repair-small-drywall-holes.json) — schema
+- [`faqs/how-to-repair-valley-leaks.json`](./faqs/how-to-repair-valley-leaks.json) — schema
+- [`faqs/how-to-sand-drywall-without-dust.json`](./faqs/how-to-sand-drywall-without-dust.json) — schema
+- [`faqs/how-to-spot-hail-damage.json`](./faqs/how-to-spot-hail-damage.json) — schema
+- [`faqs/how-to-straighten-bent-gutters.json`](./faqs/how-to-straighten-bent-gutters.json) — schema
+- [`faqs/how-to-stucco-around-windows-doors.json`](./faqs/how-to-stucco-around-windows-doors.json) — schema
+- [`faqs/how-to-test-gutter-slope-after-repair.json`](./faqs/how-to-test-gutter-slope-after-repair.json) — schema
+- [`faqs/how-to-texture-drywall.json`](./faqs/how-to-texture-drywall.json) — schema
+- [`faqs/how-transparent-are-your-prices.json`](./faqs/how-transparent-are-your-prices.json) — schema
+- [`faqs/ice-dam-damage-repair.json`](./faqs/ice-dam-damage-repair.json) — schema
+- [`faqs/insurance-cover-gutter-damage.json`](./faqs/insurance-cover-gutter-damage.json) — schema
+- [`faqs/interior-or-exterior-first.json`](./faqs/interior-or-exterior-first.json) — schema
+- [`faqs/is-financing-available-for-roof-replacement.json`](./faqs/is-financing-available-for-roof-replacement.json) — schema
+- [`faqs/is-metal-roofing-fire-resistant.json`](./faqs/is-metal-roofing-fire-resistant.json) — schema
+- [`faqs/is-permit-needed-for-stucco.json`](./faqs/is-permit-needed-for-stucco.json) — schema
+- [`faqs/is-stucco-fire-rated.json`](./faqs/is-stucco-fire-rated.json) — schema
+- [`faqs/ladder-safety-for-repairs.json`](./faqs/ladder-safety-for-repairs.json) — schema
+- [`faqs/low-voc-eco-friendly-paints.json`](./faqs/low-voc-eco-friendly-paints.json) — schema
+- [`faqs/metal-roof-on-low-slope.json`](./faqs/metal-roof-on-low-slope.json) — schema
+- [`faqs/missing-end-caps.json`](./faqs/missing-end-caps.json) — schema
+- [`faqs/moisture-resistant-drywall-where.json`](./faqs/moisture-resistant-drywall-where.json) — schema
+- [`faqs/overflow-staining-siding.json`](./faqs/overflow-staining-siding.json) — schema
+- [`faqs/overflowing-gutters-fix.json`](./faqs/overflowing-gutters-fix.json) — schema
+- [`faqs/payment-schedule.json`](./faqs/payment-schedule.json) — schema
+- [`faqs/prevent-future-gutter-repairs.json`](./faqs/prevent-future-gutter-repairs.json) — schema
+- [`faqs/rusty-steel-gutters-fix.json`](./faqs/rusty-steel-gutters-fix.json) — schema
+- [`faqs/seamless-vs-sectional-gutters.json`](./faqs/seamless-vs-sectional-gutters.json) — schema
+- [`faqs/should-i-repair-or-replace-my-roof.json`](./faqs/should-i-repair-or-replace-my-roof.json) — schema
+- [`faqs/should-i-replace-my-roof-in-winter.json`](./faqs/should-i-replace-my-roof-in-winter.json) — schema
+- [`faqs/soundproofing-drywall-tips.json`](./faqs/soundproofing-drywall-tips.json) — schema
+- [`faqs/standing-seam-vs-exposed-fastener.json`](./faqs/standing-seam-vs-exposed-fastener.json) — schema
+- [`faqs/warranty-on-gutter-installation.json`](./faqs/warranty-on-gutter-installation.json) — schema
+- [`faqs/warranty-on-painting-work.json`](./faqs/warranty-on-painting-work.json) — schema
+- [`faqs/what-about-repairs-around-chimneys-skylights.json`](./faqs/what-about-repairs-around-chimneys-skylights.json) — schema
+- [`faqs/what-about-skylights-chimneys-during-install.json`](./faqs/what-about-skylights-chimneys-during-install.json) — schema
+- [`faqs/what-are-common-signs-gutters-need-repair.json`](./faqs/what-are-common-signs-gutters-need-repair.json) — schema
+- [`faqs/what-are-common-signs-my-roof-needs-repair.json`](./faqs/what-are-common-signs-my-roof-needs-repair.json) — schema
+- [`faqs/what-are-the-signs-i-need-a-new-roof.json`](./faqs/what-are-the-signs-i-need-a-new-roof.json) — schema
+- [`faqs/what-areas-do-you-serve.json`](./faqs/what-areas-do-you-serve.json) — schema
+- [`faqs/what-causes-drywall-cracks.json`](./faqs/what-causes-drywall-cracks.json) — schema
+- [`faqs/what-causes-drywall-tape-bubbles.json`](./faqs/what-causes-drywall-tape-bubbles.json) — schema
+- [`faqs/what-causes-gutters-to-pull-away-from-fascia.json`](./faqs/what-causes-gutters-to-pull-away-from-fascia.json) — schema
+- [`faqs/what-causes-most-roof-leaks.json`](./faqs/what-causes-most-roof-leaks.json) — schema
+- [`faqs/what-causes-stucco-to-crack.json`](./faqs/what-causes-stucco-to-crack.json) — schema
+- [`faqs/what-colors-are-available.json`](./faqs/what-colors-are-available.json) — schema
+- [`faqs/what-drywall-thickness-for-walls-vs-ceilings.json`](./faqs/what-drywall-thickness-for-walls-vs-ceilings.json) — schema
+- [`faqs/what-fasteners-are-best.json`](./faqs/what-fasteners-are-best.json) — schema
+- [`faqs/what-if-home-has-no-fascia-board.json`](./faqs/what-if-home-has-no-fascia-board.json) — schema
+- [`faqs/what-if-i-see-sagging-roof-deck.json`](./faqs/what-if-i-see-sagging-roof-deck.json) — schema
+- [`faqs/what-if-it-rains-during-exterior-job.json`](./faqs/what-if-it-rains-during-exterior-job.json) — schema
+- [`faqs/what-if-it-rains-during-installation.json`](./faqs/what-if-it-rains-during-installation.json) — schema
+- [`faqs/what-if-nails-are-popping-out.json`](./faqs/what-if-nails-are-popping-out.json) — schema
+- [`faqs/what-if-stucco-gets-wet-during-curing.json`](./faqs/what-if-stucco-gets-wet-during-curing.json) — schema
+- [`faqs/what-is-a-metal-roofing-system.json`](./faqs/what-is-a-metal-roofing-system.json) — schema
+- [`faqs/what-is-a-weep-screed-and-why-needed.json`](./faqs/what-is-a-weep-screed-and-why-needed.json) — schema
+- [`faqs/what-is-an-ice-and-water-shield.json`](./faqs/what-is-an-ice-and-water-shield.json) — schema
+- [`faqs/what-is-drywall-and-its-purpose.json`](./faqs/what-is-drywall-and-its-purpose.json) — schema
+- [`faqs/what-is-flashing-and-why-important.json`](./faqs/what-is-flashing-and-why-important.json) — schema
+- [`faqs/what-is-level-5-drywall-finish.json`](./faqs/what-is-level-5-drywall-finish.json) — schema
+- [`faqs/what-is-roof-flashing-and-how-to-repair-it.json`](./faqs/what-is-roof-flashing-and-how-to-repair-it.json) — schema
+- [`faqs/what-is-stucco-and-how-is-it-applied.json`](./faqs/what-is-stucco-and-how-is-it-applied.json) — schema
+- [`faqs/what-is-the-best-roofing-material-for-my-home.json`](./faqs/what-is-the-best-roofing-material-for-my-home.json) — schema
+- [`faqs/what-is-the-cost-of-metal-roofing.json`](./faqs/what-is-the-cost-of-metal-roofing.json) — schema
+- [`faqs/what-is-the-difference-between-traditional-and-synthetic-stucco.json`](./faqs/what-is-the-difference-between-traditional-and-synthetic-stucco.json) — schema
+- [`faqs/what-is-your-process-for-a-project.json`](./faqs/what-is-your-process-for-a-project.json) — schema
+- [`faqs/what-lath-is-required-for-stucco.json`](./faqs/what-lath-is-required-for-stucco.json) — schema
+- [`faqs/what-maintenance-do-metal-roofs-need.json`](./faqs/what-maintenance-do-metal-roofs-need.json) — schema
+- [`faqs/what-maintenance-does-stucco-need.json`](./faqs/what-maintenance-does-stucco-need.json) — schema
+- [`faqs/what-materials-are-best-for-gutters.json`](./faqs/what-materials-are-best-for-gutters.json) — schema
+- [`faqs/what-paint-finish-flat-eggshell-satin.json`](./faqs/what-paint-finish-flat-eggshell-satin.json) — schema
+- [`faqs/what-prep-work-do-you-do.json`](./faqs/what-prep-work-do-you-do.json) — schema
+- [`faqs/what-prep-work-for-new-gutters.json`](./faqs/what-prep-work-for-new-gutters.json) — schema
+- [`faqs/what-preparation-is-needed-before-stucco.json`](./faqs/what-preparation-is-needed-before-stucco.json) — schema
+- [`faqs/what-questions-to-ask-a-roofing-contractor.json`](./faqs/what-questions-to-ask-a-roofing-contractor.json) — schema
+- [`faqs/what-s-the-best-roofing-material-for-pasadena.json`](./faqs/what-s-the-best-roofing-material-for-pasadena.json) — schema
+- [`faqs/what-screws-coarse-vs-fine-thread.json`](./faqs/what-screws-coarse-vs-fine-thread.json) — schema
+- [`faqs/what-services-do-you-include-beyond-roofing.json`](./faqs/what-services-do-you-include-beyond-roofing.json) — schema
+- [`faqs/what-size-gutters-for-my-home.json`](./faqs/what-size-gutters-for-my-home.json) — schema
+- [`faqs/what-slope-for-proper-drainage.json`](./faqs/what-slope-for-proper-drainage.json) — schema
+- [`faqs/what-tape-to-use-paper-or-mesh.json`](./faqs/what-tape-to-use-paper-or-mesh.json) — schema
+- [`faqs/what-thickness-for-each-stucco-coat.json`](./faqs/what-thickness-for-each-stucco-coat.json) — schema
+- [`faqs/what-tools-are-needed-for-drywall-installation.json`](./faqs/what-tools-are-needed-for-drywall-installation.json) — schema
+- [`faqs/what-tools-needed-for-basic-repairs.json`](./faqs/what-tools-needed-for-basic-repairs.json) — schema
+- [`faqs/what-type-of-paint-is-best-for-houses.json`](./faqs/what-type-of-paint-is-best-for-houses.json) — schema
+- [`faqs/what-underlayment-is-used.json`](./faqs/what-underlayment-is-used.json) — schema
+- [`faqs/what-ventilation-is-needed-under-a-new-roof.json`](./faqs/what-ventilation-is-needed-under-a-new-roof.json) — schema
+- [`faqs/what-warranties-are-available.json`](./faqs/what-warranties-are-available.json) — schema
+- [`faqs/what-warranties-come-with-new-roofs.json`](./faqs/what-warranties-come-with-new-roofs.json) — schema
+- [`faqs/what-warranties-do-you-provide.json`](./faqs/what-warranties-do-you-provide.json) — schema
+- [`faqs/what-warranties-on-repairs.json`](./faqs/what-warranties-on-repairs.json) — schema
+- [`faqs/when-should-i-call-for-emergency-roof-repair.json`](./faqs/when-should-i-call-for-emergency-roof-repair.json) — schema
+- [`faqs/why-are-my-gutters-sagging.json`](./faqs/why-are-my-gutters-sagging.json) — schema
+- [`faqs/why-are-shingles-curling-or-buckling.json`](./faqs/why-are-shingles-curling-or-buckling.json) — schema
+- [`faqs/why-granule-loss-from-shingles.json`](./faqs/why-granule-loss-from-shingles.json) — schema
+- [`faqs/why-mist-cure-stucco-coats.json`](./faqs/why-mist-cure-stucco-coats.json) — schema
+- [`faqs/will-installation-damage-my-landscaping.json`](./faqs/will-installation-damage-my-landscaping.json) — schema
+- [`faqs/will-insurance-cover-gutter-repairs.json`](./faqs/will-insurance-cover-gutter-repairs.json) — schema
+- [`faqs/will-you-caulk-cracks-and-gaps.json`](./faqs/will-you-caulk-cracks-and-gaps.json) — schema
+
+### Help Articles (207)
+- [`help/algae-stain-removal-from-shingles.json`](./help/algae-stain-removal-from-shingles.json) — schema
+- [`help/aluminum-gutter-coil-color-options.json`](./help/aluminum-gutter-coil-color-options.json) — schema
+- [`help/architectural-vs-3-tab-shingle-nailing.json`](./help/architectural-vs-3-tab-shingle-nailing.json) — schema
+- [`help/asphalt-shingle-algae-prevention.json`](./help/asphalt-shingle-algae-prevention.json) — schema
+- [`help/asphalt-shingle-exposure-settings.json`](./help/asphalt-shingle-exposure-settings.json) — schema
+- [`help/asphalt-shingle-starter-strip-patterns.json`](./help/asphalt-shingle-starter-strip-patterns.json) — schema
+- [`help/asphalt-shingle-wind-warranty-requirements.json`](./help/asphalt-shingle-wind-warranty-requirements.json) — schema
+- [`help/asphalt-tile-roof-hybrid-systems.json`](./help/asphalt-tile-roof-hybrid-systems.json) — schema
+- [`help/attic-stain-leak-tracing.json`](./help/attic-stain-leak-tracing.json) — schema
+- [`help/attic-ventilation-baffle-installation.json`](./help/attic-ventilation-baffle-installation.json) — schema
+- [`help/bathroom-ceiling-drywall-replacement.json`](./help/bathroom-ceiling-drywall-replacement.json) — schema
+- [`help/bathroom-drywall-mold-prevention.json`](./help/bathroom-drywall-mold-prevention.json) — schema
+- [`help/best-paint-rollers-for-smooth-walls.json`](./help/best-paint-rollers-for-smooth-walls.json) — schema
+- [`help/bird-peck-damage-repair.json`](./help/bird-peck-damage-repair.json) — schema
+- [`help/brush-marks-prevention-and-removal.json`](./help/brush-marks-prevention-and-removal.json) — schema
+- [`help/buckled-shingle-causes-and-fixes.json`](./help/buckled-shingle-causes-and-fixes.json) — schema
+- [`help/cabinet-door-painting-prep.json`](./help/cabinet-door-painting-prep.json) — schema
+- [`help/cabinet-hardware-removal-for-painting.json`](./help/cabinet-hardware-removal-for-painting.json) — schema
+- [`help/cabinet-refinishing-vs-replacement.json`](./help/cabinet-refinishing-vs-replacement.json) — schema
+- [`help/chimney-chimney-flashing-repair-techniques.json`](./help/chimney-chimney-flashing-repair-techniques.json) — schema
+- [`help/choosing-exterior-house-paint-for-longevity.json`](./help/choosing-exterior-house-paint-for-longevity.json) — schema
+- [`help/clogged-valley-repair-techniques.json`](./help/clogged-valley-repair-techniques.json) — schema
+- [`help/color-drifting-fixing-uneven-paint.json`](./help/color-drifting-fixing-uneven-paint.json) — schema
+- [`help/color-sampling-how-many-swatches.json`](./help/color-sampling-how-many-swatches.json) — schema
+- [`help/color-wash-stucco-finishes.json`](./help/color-wash-stucco-finishes.json) — schema
+- [`help/commercial-box-gutter-systems.json`](./help/commercial-box-gutter-systems.json) — schema
+- [`help/common-roof-repair-mistakes-to-avoid.json`](./help/common-roof-repair-mistakes-to-avoid.json) — schema
+- [`help/copper-gutter-patina-development.json`](./help/copper-gutter-patina-development.json) — schema
+- [`help/corner-bead-types-for-drywall.json`](./help/corner-bead-types-for-drywall.json) — schema
+- [`help/corner-miter-cutting-accuracy.json`](./help/corner-miter-cutting-accuracy.json) — schema
+- [`help/cracked-underlayment-repair.json`](./help/cracked-underlayment-repair.json) — schema
+- [`help/curling-shingle-edge-repair.json`](./help/curling-shingle-edge-repair.json) — schema
+- [`help/deck-staining-vs-painting-for-exterior-trim.json`](./help/deck-staining-vs-painting-for-exterior-trim.json) — schema
+- [`help/downspout-location-planning.json`](./help/downspout-location-planning.json) — schema
+- [`help/downspout-outlet-installation.json`](./help/downspout-outlet-installation.json) — schema
+- [`help/downspout-placement-for-drainage.json`](./help/downspout-placement-for-drainage.json) — schema
+- [`help/drip-edge-vs-gutter-apron-differences.json`](./help/drip-edge-vs-gutter-apron-differences.json) — schema
+- [`help/drywall-finishing-levels-explained.json`](./help/drywall-finishing-levels-explained.json) — schema
+- [`help/drywall-joint-compound-types-compared.json`](./help/drywall-joint-compound-types-compared.json) — schema
+- [`help/drywall-screw-placement-patterns.json`](./help/drywall-screw-placement-patterns.json) — schema
+- [`help/drywall-soundproofing-for-home-offices.json`](./help/drywall-soundproofing-for-home-offices.json) — schema
+- [`help/drywall-texture-application-techniques.json`](./help/drywall-texture-application-techniques.json) — schema
+- [`help/eco-friendly-paint-brands-ranked.json`](./help/eco-friendly-paint-brands-ranked.json) — schema
+- [`help/efflorescence-removal-from-stucco.json`](./help/efflorescence-removal-from-stucco.json) — schema
+- [`help/eifs-drainage-plane-design.json`](./help/eifs-drainage-plane-design.json) — schema
+- [`help/elastomeric-coatings-for-stucco-crack-bridging.json`](./help/elastomeric-coatings-for-stucco-crack-bridging.json) — schema
+- [`help/elastomeric-paint-application-temperatures.json`](./help/elastomeric-paint-application-temperatures.json) — schema
+- [`help/emergency-drywall-patch-after-water-leak.json`](./help/emergency-drywall-patch-after-water-leak.json) — schema
+- [`help/emergency-roof-tarping-after-storms.json`](./help/emergency-roof-tarping-after-storms.json) — schema
+- [`help/exterior-paint-fade-resistance-testing.json`](./help/exterior-paint-fade-resistance-testing.json) — schema
+- [`help/exterior-painting-prep-for-stucco-surfaces.json`](./help/exterior-painting-prep-for-stucco-surfaces.json) — schema
+- [`help/exterior-siding-paint-prep-sequence.json`](./help/exterior-siding-paint-prep-sequence.json) — schema
+- [`help/exterior-trim-painting-wood-vs-pvc.json`](./help/exterior-trim-painting-wood-vs-pvc.json) — schema
+- [`help/factors-to-consider-when-selecting-an-exterior-insulation-system.json`](./help/factors-to-consider-when-selecting-an-exterior-insulation-system.json) — schema
+- [`help/fascia-board-prep-for-gutters.json`](./help/fascia-board-prep-for-gutters.json) — schema
+- [`help/fascia-rot-from-gutter-leaks.json`](./help/fascia-rot-from-gutter-leaks.json) — schema
+- [`help/faux-finish-painting-techniques.json`](./help/faux-finish-painting-techniques.json) — schema
+- [`help/fire-rated-drywall-for-garages.json`](./help/fire-rated-drywall-for-garages.json) — schema
+- [`help/fireplace-drywall-framing-codes.json`](./help/fireplace-drywall-framing-codes.json) — schema
+- [`help/fixing-paint-peeling-from-stucco.json`](./help/fixing-paint-peeling-from-stucco.json) — schema
+- [`help/flashing-leak-diagnosis-methods.json`](./help/flashing-leak-diagnosis-methods.json) — schema
+- [`help/foundation-waterproofing-paint-application.json`](./help/foundation-waterproofing-paint-application.json) — schema
+- [`help/galvanized-vs-aluminum-gutters.json`](./help/galvanized-vs-aluminum-gutters.json) — schema
+- [`help/garage-ceiling-drywall-drop.json`](./help/garage-ceiling-drywall-drop.json) — schema
+- [`help/graco-vs-wagner-airless-sprayers.json`](./help/graco-vs-wagner-airless-sprayers.json) — schema
+- [`help/gutter-capacity-calculation.json`](./help/gutter-capacity-calculation.json) — schema
+- [`help/gutter-cleaning-schedule-for-la-rainfall.json`](./help/gutter-cleaning-schedule-for-la-rainfall.json) — schema
+- [`help/gutter-downspout-diversion-systems.json`](./help/gutter-downspout-diversion-systems.json) — schema
+- [`help/gutter-end-cap-attachment-methods.json`](./help/gutter-end-cap-attachment-methods.json) — schema
+- [`help/gutter-end-cap-sealing-methods.json`](./help/gutter-end-cap-sealing-methods.json) — schema
+- [`help/gutter-expansion-joint-needs.json`](./help/gutter-expansion-joint-needs.json) — schema
+- [`help/gutter-guard-retrofit-options.json`](./help/gutter-guard-retrofit-options.json) — schema
+- [`help/gutter-hanger-spacing-standards.json`](./help/gutter-hanger-spacing-standards.json) — schema
+- [`help/gutter-hanger-types-comparison.json`](./help/gutter-hanger-types-comparison.json) — schema
+- [`help/gutter-installation-sizing-calculator.json`](./help/gutter-installation-sizing-calculator.json) — schema
+- [`help/gutter-leveling-without-shims.json`](./help/gutter-leveling-without-shims.json) — schema
+- [`help/gutter-machine-brake-settings.json`](./help/gutter-machine-brake-settings.json) — schema
+- [`help/gutter-machine-on-site-forming-process.json`](./help/gutter-machine-on-site-forming-process.json) — schema
+- [`help/gutter-slope-measurement-tools.json`](./help/gutter-slope-measurement-tools.json) — schema
+- [`help/gutter-slope-verification-methods.json`](./help/gutter-slope-verification-methods.json) — schema
+- [`help/gutter-spike-vs-screw-debate.json`](./help/gutter-spike-vs-screw-debate.json) — schema
+- [`help/hail-damage-shingle-assessment.json`](./help/hail-damage-shingle-assessment.json) — schema
+- [`help/hidden-hanger-systems.json`](./help/hidden-hanger-systems.json) — schema
+- [`help/high-wind-zone-nailing-schedules.json`](./help/high-wind-zone-nailing-schedules.json) — schema
+- [`help/hip-and-ridge-shingle-cutting.json`](./help/hip-and-ridge-shingle-cutting.json) — schema
+- [`help/historic-pasadena-stucco-color-matching.json`](./help/historic-pasadena-stucco-color-matching.json) — schema
+- [`help/historic-stucco-lime-plaster-repair.json`](./help/historic-stucco-lime-plaster-repair.json) — schema
+- [`help/holiday-prep-protecting-fresh-paint.json`](./help/holiday-prep-protecting-fresh-paint.json) — schema
+- [`help/how-to-paint-high-ceilings-safely.json`](./help/how-to-paint-high-ceilings-safely.json) — schema
+- [`help/ice-and-water-shield-overlap-rules.json`](./help/ice-and-water-shield-overlap-rules.json) — schema
+- [`help/ice-and-water-shield-placement-guide.json`](./help/ice-and-water-shield-placement-guide.json) — schema
+- [`help/ice-dam-temporary-protection.json`](./help/ice-dam-temporary-protection.json) — schema
+- [`help/interior-door-painting-sequence.json`](./help/interior-door-painting-sequence.json) — schema
+- [`help/interior-drywall-patch-for-water-damage.json`](./help/interior-drywall-patch-for-water-damage.json) — schema
+- [`help/interior-painting-prep-wallpaper-removal.json`](./help/interior-painting-prep-wallpaper-removal.json) — schema
+- [`help/k-style-vs-half-round-gutters.json`](./help/k-style-vs-half-round-gutters.json) — schema
+- [`help/kick-out-flashing-installation.json`](./help/kick-out-flashing-installation.json) — schema
+- [`help/leaf-guard-gutter-systems-comparison.json`](./help/leaf-guard-gutter-systems-comparison.json) — schema
+- [`help/leaf-screen-surface-tension-design.json`](./help/leaf-screen-surface-tension-design.json) — schema
+- [`help/level-5-drywall-finishing-tutorial.json`](./help/level-5-drywall-finishing-tutorial.json) — schema
+- [`help/low-voc-interior-paints-reviewed.json`](./help/low-voc-interior-paints-reviewed.json) — schema
+- [`help/matching-stucco-finish-on-repairs.json`](./help/matching-stucco-finish-on-repairs.json) — schema
+- [`help/matte-paint-touch-up-challenges.json`](./help/matte-paint-touch-up-challenges.json) — schema
+- [`help/matte-vs-satin-finish-for-interiors.json`](./help/matte-vs-satin-finish-for-interiors.json) — schema
+- [`help/metal-roofing-pros-cons-and-installation.json`](./help/metal-roofing-pros-cons-and-installation.json) — schema
+- [`help/mildew-test-on-exterior-paint.json`](./help/mildew-test-on-exterior-paint.json) — schema
+- [`help/missing-shingle-replacement-guide.json`](./help/missing-shingle-replacement-guide.json) — schema
+- [`help/moisture-barriers-in-stucco-walls.json`](./help/moisture-barriers-in-stucco-walls.json) — schema
+- [`help/moisture-testing-stucco-walls.json`](./help/moisture-testing-stucco-walls.json) — schema
+- [`help/multi-story-gutter-safety-setup.json`](./help/multi-story-gutter-safety-setup.json) — schema
+- [`help/multiple-layer-roof-removal.json`](./help/multiple-layer-roof-removal.json) — schema
+- [`help/nail-pop-shingle-fixes.json`](./help/nail-pop-shingle-fixes.json) — schema
+- [`help/one-coat-stucco-color-blending.json`](./help/one-coat-stucco-color-blending.json) — schema
+- [`help/one-coat-stucco-pros-and-cons.json`](./help/one-coat-stucco-pros-and-cons.json) — schema
+- [`help/paint-calculator-accuracy-tips.json`](./help/paint-calculator-accuracy-tips.json) — schema
+- [`help/paint-odor-reduction-methods.json`](./help/paint-odor-reduction-methods.json) — schema
+- [`help/paint-sheen-guide-for-every-room.json`](./help/paint-sheen-guide-for-every-room.json) — schema
+- [`help/paint-sprayer-cleaning-routine.json`](./help/paint-sprayer-cleaning-routine.json) — schema
+- [`help/painting-mason-jar-crafts.json`](./help/painting-mason-jar-crafts.json) — schema
+- [`help/painting-over-red-clay-brick.json`](./help/painting-over-red-clay-brick.json) — schema
+- [`help/painting-over-smoke-damage.json`](./help/painting-over-smoke-damage.json) — schema
+- [`help/pasadena-hoa-painting-rules.json`](./help/pasadena-hoa-painting-rules.json) — schema
+- [`help/pasadena-stucco-maintenance-checklist.json`](./help/pasadena-stucco-maintenance-checklist.json) — schema
+- [`help/pasadena-winter-roof-inspection-checklist.json`](./help/pasadena-winter-roof-inspection-checklist.json) — schema
+- [`help/pipe-boot-flashing-replacement.json`](./help/pipe-boot-flashing-replacement.json) — schema
+- [`help/poor-ventilation-leak-prevention.json`](./help/poor-ventilation-leak-prevention.json) — schema
+- [`help/popped-drywall-nail-fixes.json`](./help/popped-drywall-nail-fixes.json) — schema
+- [`help/post-storm-roof-safety-inspection.json`](./help/post-storm-roof-safety-inspection.json) — schema
+- [`help/primer-vs-paint-when-you-need-both.json`](./help/primer-vs-paint-when-you-need-both.json) — schema
+- [`help/rain-garden-gutter-diversion.json`](./help/rain-garden-gutter-diversion.json) — schema
+- [`help/rake-edge-shingle-starter-techniques.json`](./help/rake-edge-shingle-starter-techniques.json) — schema
+- [`help/rejuvenating-front-door-curb-appeal.json`](./help/rejuvenating-front-door-curb-appeal.json) — schema
+- [`help/ridge-cap-loosening-solutions.json`](./help/ridge-cap-loosening-solutions.json) — schema
+- [`help/ridge-vent-damage-repair.json`](./help/ridge-vent-damage-repair.json) — schema
+- [`help/ridge-vent-sizing-calculator.json`](./help/ridge-vent-sizing-calculator.json) — schema
+- [`help/ridge-vent-vs-power-attic-fans.json`](./help/ridge-vent-vs-power-attic-fans.json) — schema
+- [`help/roof-cement-vs-silicone-sealants.json`](./help/roof-cement-vs-silicone-sealants.json) — schema
+- [`help/roof-debris-magnet-sweepers.json`](./help/roof-debris-magnet-sweepers.json) — schema
+- [`help/roof-deck-ventilation-baffle-placement.json`](./help/roof-deck-ventilation-baffle-placement.json) — schema
+- [`help/roof-inspection-drone-checklist.json`](./help/roof-inspection-drone-checklist.json) — schema
+- [`help/roof-layout-string-line-method.json`](./help/roof-layout-string-line-method.json) — schema
+- [`help/roof-leak-detection-without-interior-damage.json`](./help/roof-leak-detection-without-interior-damage.json) — schema
+- [`help/roof-pitch-impact-on-material-choice.json`](./help/roof-pitch-impact-on-material-choice.json) — schema
+- [`help/roof-ridge-cap-installation-mistakes.json`](./help/roof-ridge-cap-installation-mistakes.json) — schema
+- [`help/roof-to-gutter-transition-details.json`](./help/roof-to-gutter-transition-details.json) — schema
+- [`help/roof-underlayment-types-explained.json`](./help/roof-underlayment-types-explained.json) — schema
+- [`help/roof-ventilation-calculation-worksheet.json`](./help/roof-ventilation-calculation-worksheet.json) — schema
+- [`help/roof-ventilation-upgrades-for-energy-savings.json`](./help/roof-ventilation-upgrades-for-energy-savings.json) — schema
+- [`help/roofing-contractor-los-angeles-things-to-consider-before-installing-a-new-roof.json`](./help/roofing-contractor-los-angeles-things-to-consider-before-installing-a-new-roof.json) — schema
+- [`help/sagging-roof-deck-spot-repair.json`](./help/sagging-roof-deck-spot-repair.json) — schema
+- [`help/satellite-dish-hole-patching.json`](./help/satellite-dish-hole-patching.json) — schema
+- [`help/satellite-dish-roof-hole-sealing.json`](./help/satellite-dish-roof-hole-sealing.json) — schema
+- [`help/seamless-gutter-forming-machine-guide.json`](./help/seamless-gutter-forming-machine-guide.json) — schema
+- [`help/seamless-gutter-sizing-for-pasadena-rainfall.json`](./help/seamless-gutter-sizing-for-pasadena-rainfall.json) — schema
+- [`help/seismic-movement-stucco-design.json`](./help/seismic-movement-stucco-design.json) — schema
+- [`help/sherwin-williams-paint-pairings-for-craftsman-homes.json`](./help/sherwin-williams-paint-pairings-for-craftsman-homes.json) — schema
+- [`help/shingle-alignment-chalk-line-tools.json`](./help/shingle-alignment-chalk-line-tools.json) — schema
+- [`help/shingle-granule-loss-tracking.json`](./help/shingle-granule-loss-tracking.json) — schema
+- [`help/silicone-vs-acrylic-stucco-caulk.json`](./help/silicone-vs-acrylic-stucco-caulk.json) — schema
+- [`help/skylight-flashing-failure-repair.json`](./help/skylight-flashing-failure-repair.json) — schema
+- [`help/skylight-leak-diagnosis-and-fix.json`](./help/skylight-leak-diagnosis-and-fix.json) — schema
+- [`help/skylight-step-flashing-details.json`](./help/skylight-step-flashing-details.json) — schema
+- [`help/solar-panel-roof-penetration-sealing.json`](./help/solar-panel-roof-penetration-sealing.json) — schema
+- [`help/soundproofing-drywall-with-resilient-channels.json`](./help/soundproofing-drywall-with-resilient-channels.json) — schema
+- [`help/spray-foam-insulation-vs-blown-in.json`](./help/spray-foam-insulation-vs-blown-in.json) — schema
+- [`help/spray-painting-doors-off-the-wall.json`](./help/spray-painting-doors-off-the-wall.json) — schema
+- [`help/step-flashing-around-chimneys.json`](./help/step-flashing-around-chimneys.json) — schema
+- [`help/stucco-application-3-coat-vs-one-coat-systems.json`](./help/stucco-application-3-coat-vs-one-coat-systems.json) — schema
+- [`help/stucco-around-garage-doors.json`](./help/stucco-around-garage-doors.json) — schema
+- [`help/stucco-color-restoration-for-historic-homes.json`](./help/stucco-color-restoration-for-historic-homes.json) — schema
+- [`help/stucco-control-joint-materials.json`](./help/stucco-control-joint-materials.json) — schema
+- [`help/stucco-control-joint-placement-guide.json`](./help/stucco-control-joint-placement-guide.json) — schema
+- [`help/stucco-crack-patterns-and-causes.json`](./help/stucco-crack-patterns-and-causes.json) — schema
+- [`help/stucco-crack-repair-diy-vs-pro.json`](./help/stucco-crack-repair-diy-vs-pro.json) — schema
+- [`help/stucco-curing-time-requirements.json`](./help/stucco-curing-time-requirements.json) — schema
+- [`help/stucco-efflorescence-prevention.json`](./help/stucco-efflorescence-prevention.json) — schema
+- [`help/stucco-eifs-insulation-benefits.json`](./help/stucco-eifs-insulation-benefits.json) — schema
+- [`help/stucco-finish-aggregates-guide.json`](./help/stucco-finish-aggregates-guide.json) — schema
+- [`help/stucco-foam-insulation-board-prep.json`](./help/stucco-foam-insulation-board-prep.json) — schema
+- [`help/stucco-ground-preparation.json`](./help/stucco-ground-preparation.json) — schema
+- [`help/stucco-inspection-checklist.json`](./help/stucco-inspection-checklist.json) — schema
+- [`help/stucco-lath-overlap-requirements.json`](./help/stucco-lath-overlap-requirements.json) — schema
+- [`help/stucco-over-foam-insulation.json`](./help/stucco-over-foam-insulation.json) — schema
+- [`help/stucco-patching-texture-matching.json`](./help/stucco-patching-texture-matching.json) — schema
+- [`help/stucco-re-dashing-process.json`](./help/stucco-re-dashing-process.json) — schema
+- [`help/stucco-rebar-in-parapet-walls.json`](./help/stucco-rebar-in-parapet-walls.json) — schema
+- [`help/stucco-warranty-exclusions.json`](./help/stucco-warranty-exclusions.json) — schema
+- [`help/stucco-wire-lath-installation.json`](./help/stucco-wire-lath-installation.json) — schema
+- [`help/stucco-work-best-practices-for-pasadena-homes.json`](./help/stucco-work-best-practices-for-pasadena-homes.json) — schema
+- [`help/synthetic-underlayment-vs-felt-paper.json`](./help/synthetic-underlayment-vs-felt-paper.json) — schema
+- [`help/temporary-roof-patch-kits.json`](./help/temporary-roof-patch-kits.json) — schema
+- [`help/textured-stucco-finish-options.json`](./help/textured-stucco-finish-options.json) — schema
+- [`help/three-coat-stucco-mix-ratios.json`](./help/three-coat-stucco-mix-ratios.json) — schema
+- [`help/torch-down-flat-roof-details.json`](./help/torch-down-flat-roof-details.json) — schema
+- [`help/tpo-flat-roof-installation-for-commercial.json`](./help/tpo-flat-roof-installation-for-commercial.json) — schema
+- [`help/tree-branch-impact-repair.json`](./help/tree-branch-impact-repair.json) — schema
+- [`help/trim-caulking-before-painting.json`](./help/trim-caulking-before-painting.json) — schema
+- [`help/trim-painting-cutting-in-vs-taping.json`](./help/trim-painting-cutting-in-vs-taping.json) — schema
+- [`help/ultimate-guide-to-roof-installation-in-pasadena.json`](./help/ultimate-guide-to-roof-installation-in-pasadena.json) — schema
+- [`help/under-driven-nails-in-shingles.json`](./help/under-driven-nails-in-shingles.json) — schema
+- [`help/underground-downspout-extensions.json`](./help/underground-downspout-extensions.json) — schema
+- [`help/valley-flashing-metal-types.json`](./help/valley-flashing-metal-types.json) — schema
+- [`help/vent-boot-sealant-replacement.json`](./help/vent-boot-sealant-replacement.json) — schema
+- [`help/weather-delays-for-exterior-painting.json`](./help/weather-delays-for-exterior-painting.json) — schema
+- [`help/weep-screed-installation-details.json`](./help/weep-screed-installation-details.json) — schema
+- [`help/wind-lifted-shingle-repair.json`](./help/wind-lifted-shingle-repair.json) — schema
+- [`help/window-casing-bead-installation.json`](./help/window-casing-bead-installation.json) — schema
+
+### Public Pages (9)
+- [`about.html`](./about.html) — LLM-optimized public page
+- [`articles.html`](./articles.html) — LLM-optimized public page
+- [`case-studies.html`](./case-studies.html) — LLM-optimized public page
+- [`contact.html`](./contact.html) — LLM-optimized public page
+- [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`index.html`](./index.html) — LLM-optimized public page
+- [`reviews.html`](./reviews.html) — LLM-optimized public page
+- [`services.html`](./services.html) — LLM-optimized public page
+- [`team-members.html`](./team-members.html) — LLM-optimized public page
+
+### Reviews (16)
+- [`reviews/amazing-custom-interior-paint-job-2-review.json`](./reviews/amazing-custom-interior-paint-job-2-review.json) — schema
+- [`reviews/cracking-after-stucco-job-15-review.json`](./reviews/cracking-after-stucco-job-15-review.json) — schema
+- [`reviews/custom-paint-job-time-crunch-10-review.json`](./reviews/custom-paint-job-time-crunch-10-review.json) — schema
+- [`reviews/great-drywall-and-painting-8-review.json`](./reviews/great-drywall-and-painting-8-review.json) — schema
+- [`reviews/great-drywall-painting-16-review.json`](./reviews/great-drywall-painting-16-review.json) — schema
+- [`reviews/nail-heads-showing-not-smooth-enough-3-review.json`](./reviews/nail-heads-showing-not-smooth-enough-3-review.json) — schema
+- [`reviews/nail-heads-visible-issue-11-review.json`](./reviews/nail-heads-visible-issue-11-review.json) — schema
+- [`reviews/office-leak-repair-heroes-12-review.json`](./reviews/office-leak-repair-heroes-12-review.json) — schema
+- [`reviews/pandemic-stucco-fix-14-review.json`](./reviews/pandemic-stucco-fix-14-review.json) — schema
+- [`reviews/pleasure-to-work-with-on-stucco-repair-5-review.json`](./reviews/pleasure-to-work-with-on-stucco-repair-5-review.json) — schema
+- [`reviews/quick-drywall-repair-9-review.json`](./reviews/quick-drywall-repair-9-review.json) — schema
+- [`reviews/quick-response-and-excellent-drywall-repair-1-review.json`](./reviews/quick-response-and-excellent-drywall-repair-1-review.json) — schema
+- [`reviews/saved-the-day-on-office-leak-repair-4-review.json`](./reviews/saved-the-day-on-office-leak-repair-4-review.json) — schema
+- [`reviews/stucco-cracking-after-job-7-review.json`](./reviews/stucco-cracking-after-job-7-review.json) — schema
+- [`reviews/stucco-fix-during-pandemic-6-review.json`](./reviews/stucco-fix-during-pandemic-6-review.json) — schema
+- [`reviews/stucco-repair-pleasure-13-review.json`](./reviews/stucco-repair-pleasure-13-review.json) — schema
+
+### Press (25)
+- [`press/24-7-emergency-response-case-study.json`](./press/24-7-emergency-response-case-study.json) — schema
+- [`press/25-year-foreman-experience-spotlight.json`](./press/25-year-foreman-experience-spotlight.json) — schema
+- [`press/best-drywall-contractors-pasadena-2025.json`](./press/best-drywall-contractors-pasadena-2025.json) — schema
+- [`press/bryan-peralta-25-years-in-construction.json`](./press/bryan-peralta-25-years-in-construction.json) — schema
+- [`press/craftsman-home-exterior-makeover.json`](./press/craftsman-home-exterior-makeover.json) — schema
+- [`press/emergency-roof-response-saves-pasadena-home.json`](./press/emergency-roof-response-saves-pasadena-home.json) — schema
+- [`press/fastest-growing-contractors-pasadena.json`](./press/fastest-growing-contractors-pasadena.json) — schema
+- [`press/gaf-master-elite-contractor-spotlight.json`](./press/gaf-master-elite-contractor-spotlight.json) — schema
+- [`press/historic-bungalow-restoration-success.json`](./press/historic-bungalow-restoration-success.json) — schema
+- [`press/instagram-roofing-reel-goes-viral.json`](./press/instagram-roofing-reel-goes-viral.json) — schema
+- [`press/licensed-insured-local-since-2018.json`](./press/licensed-insured-local-since-2018.json) — schema
+- [`press/linkedin-top-construction-voice-bryan-peralta.json`](./press/linkedin-top-construction-voice-bryan-peralta.json) — schema
+- [`press/modern-builders-buildzoom-score-95.json`](./press/modern-builders-buildzoom-score-95.json) — schema
+- [`press/modern-builders-completes-pasadena-chamber-project.json`](./press/modern-builders-completes-pasadena-chamber-project.json) — schema
+- [`press/modern-builders-facebook-milestone.json`](./press/modern-builders-facebook-milestone.json) — schema
+- [`press/modern-builders-google-4-9-stars-analysis.json`](./press/modern-builders-google-4-9-stars-analysis.json) — schema
+- [`press/modern-builders-owens-corning-preferred.json`](./press/modern-builders-owens-corning-preferred.json) — schema
+- [`press/parex-usa-preferred-applicator-award.json`](./press/parex-usa-preferred-applicator-award.json) — schema
+- [`press/pasadena-neighborhood-contractor-of-year.json`](./press/pasadena-neighborhood-contractor-of-year.json) — schema
+- [`press/pasadena-s-go-to-exterior-envelope-experts.json`](./press/pasadena-s-go-to-exterior-envelope-experts.json) — schema
+- [`press/roofing-storm-restoration-specialists.json`](./press/roofing-storm-restoration-specialists.json) — schema
+- [`press/sherwin-williams-paint-partner-profile.json`](./press/sherwin-williams-paint-partner-profile.json) — schema
+- [`press/stucco-contractor-pro-5-star-review-feature.json`](./press/stucco-contractor-pro-5-star-review-feature.json) — schema
+- [`press/stucco-repair-experts-feature-modern-builders.json`](./press/stucco-repair-experts-feature-modern-builders.json) — schema
+- [`press/top-roofing-contractors-in-northeast-la.json`](./press/top-roofing-contractors-in-northeast-la.json) — schema
+
+### Awards (25)
+- [`awards/24-7-emergency-response-excellence.json`](./awards/24-7-emergency-response-excellence.json) — schema
+- [`awards/25-year-foreman-milestone-recognition.json`](./awards/25-year-foreman-milestone-recognition.json) — schema
+- [`awards/5-star-review-consistency-award.json`](./awards/5-star-review-consistency-award.json) — schema
+- [`awards/bbb-accredited-business-a-rating.json`](./awards/bbb-accredited-business-a-rating.json) — schema
+- [`awards/buildzoom-score-95-achievement.json`](./awards/buildzoom-score-95-achievement.json) — schema
+- [`awards/community-service-roofing-donation.json`](./awards/community-service-roofing-donation.json) — schema
+- [`awards/customer-service-diamond-award.json`](./awards/customer-service-diamond-award.json) — schema
+- [`awards/drywall-finishing-excellence.json`](./awards/drywall-finishing-excellence.json) — schema
+- [`awards/elite-service-provider-yelp-badge.json`](./awards/elite-service-provider-yelp-badge.json) — schema
+- [`awards/exterior-envelope-specialist-certification.json`](./awards/exterior-envelope-specialist-certification.json) — schema
+- [`awards/gaf-master-elite-contractor.json`](./awards/gaf-master-elite-contractor.json) — schema
+- [`awards/historic-preservation-commendation.json`](./awards/historic-preservation-commendation.json) — schema
+- [`awards/licensed-contractor-of-the-year.json`](./awards/licensed-contractor-of-the-year.json) — schema
+- [`awards/neighborhood-favorite-contractor.json`](./awards/neighborhood-favorite-contractor.json) — schema
+- [`awards/owens-corning-preferred-contractor.json`](./awards/owens-corning-preferred-contractor.json) — schema
+- [`awards/parex-usa-preferred-applicator.json`](./awards/parex-usa-preferred-applicator.json) — schema
+- [`awards/pasadena-business-journal-fastest-growing.json`](./awards/pasadena-business-journal-fastest-growing.json) — schema
+- [`awards/pasadena-chamber-of-commerce-member-excellence.json`](./awards/pasadena-chamber-of-commerce-member-excellence.json) — schema
+- [`awards/pasadena-s-most-reliable-tradesman.json`](./awards/pasadena-s-most-reliable-tradesman.json) — schema
+- [`awards/rapid-response-storm-team-award.json`](./awards/rapid-response-storm-team-award.json) — schema
+- [`awards/seamless-gutter-installation-mastery.json`](./awards/seamless-gutter-installation-mastery.json) — schema
+- [`awards/sherwin-williams-painting-partner-award.json`](./awards/sherwin-williams-painting-partner-award.json) — schema
+- [`awards/stucco-application-quality-award.json`](./awards/stucco-application-quality-award.json) — schema
+- [`awards/top-rated-roofing-contractor-ne-la.json`](./awards/top-rated-roofing-contractor-ne-la.json) — schema
+- [`awards/yelp-5-star-business-of-the-year.json`](./awards/yelp-5-star-business-of-the-year.json) — schema
+
+### Case Studies (75)
+- [`case-studies/attic-deck-rot-repair.json`](./case-studies/attic-deck-rot-repair.json) — schema
+- [`case-studies/attic-ventilation-retrofit.json`](./case-studies/attic-ventilation-retrofit.json) — schema
+- [`case-studies/bathroom-moisture-resistant-systems.json`](./case-studies/bathroom-moisture-resistant-systems.json) — schema
+- [`case-studies/bathroom-vanity-wall-niche-creation.json`](./case-studies/bathroom-vanity-wall-niche-creation.json) — schema
+- [`case-studies/commercial-flat-roof-recoat.json`](./case-studies/commercial-flat-roof-recoat.json) — schema
+- [`case-studies/commercial-stucco-facade-refresh.json`](./case-studies/commercial-stucco-facade-refresh.json) — schema
+- [`case-studies/complete-attic-remodel-drywall.json`](./case-studies/complete-attic-remodel-drywall.json) — schema
+- [`case-studies/complete-exterior-envelope-package.json`](./case-studies/complete-exterior-envelope-package.json) — schema
+- [`case-studies/complete-fire-restoration-exterior.json`](./case-studies/complete-fire-restoration-exterior.json) — schema
+- [`case-studies/complete-gutter-system-replacement.json`](./case-studies/complete-gutter-system-replacement.json) — schema
+- [`case-studies/complete-interior-drywall-remodel.json`](./case-studies/complete-interior-drywall-remodel.json) — schema
+- [`case-studies/complete-roofing-warranty-claim.json`](./case-studies/complete-roofing-warranty-claim.json) — schema
+- [`case-studies/custom-color-stucco-finish.json`](./case-studies/custom-color-stucco-finish.json) — schema
+- [`case-studies/custom-drywall-archway-installation.json`](./case-studies/custom-drywall-archway-installation.json) — schema
+- [`case-studies/custom-drywall-cove-ceilings.json`](./case-studies/custom-drywall-cove-ceilings.json) — schema
+- [`case-studies/drywall-demolition-dust-control.json`](./case-studies/drywall-demolition-dust-control.json) — schema
+- [`case-studies/drywall-fire-restoration-after-kitchen-fire.json`](./case-studies/drywall-fire-restoration-after-kitchen-fire.json) — schema
+- [`case-studies/drywall-niche-lighting-recesses.json`](./case-studies/drywall-niche-lighting-recesses.json) — schema
+- [`case-studies/drywall-patch-seamless-integration.json`](./case-studies/drywall-patch-seamless-integration.json) — schema
+- [`case-studies/drywall-replacement-after-plumbing-leak.json`](./case-studies/drywall-replacement-after-plumbing-leak.json) — schema
+- [`case-studies/emergency-drywall-smoke-sealing.json`](./case-studies/emergency-drywall-smoke-sealing.json) — schema
+- [`case-studies/emergency-roof-board-up-service.json`](./case-studies/emergency-roof-board-up-service.json) — schema
+- [`case-studies/emergency-roof-repair-after-hail.json`](./case-studies/emergency-roof-repair-after-hail.json) — schema
+- [`case-studies/emergency-roof-tarp-after-fire.json`](./case-studies/emergency-roof-tarp-after-fire.json) — schema
+- [`case-studies/emergency-storm-damage-roof-tarping.json`](./case-studies/emergency-storm-damage-roof-tarping.json) — schema
+- [`case-studies/emergency-stucco-patch-after-storm.json`](./case-studies/emergency-stucco-patch-after-storm.json) — schema
+- [`case-studies/exterior-paint-failure-analysis.json`](./case-studies/exterior-paint-failure-analysis.json) — schema
+- [`case-studies/exterior-painting-and-stucco-repair-combo.json`](./case-studies/exterior-painting-and-stucco-repair-combo.json) — schema
+- [`case-studies/exterior-trim-wood-rot-repair.json`](./case-studies/exterior-trim-wood-rot-repair.json) — schema
+- [`case-studies/foundation-crack-gutter-diversion.json`](./case-studies/foundation-crack-gutter-diversion.json) — schema
+- [`case-studies/foundation-protection-gutter-install.json`](./case-studies/foundation-protection-gutter-install.json) — schema
+- [`case-studies/full-exterior-envelope-refresh.json`](./case-studies/full-exterior-envelope-refresh.json) — schema
+- [`case-studies/full-stucco-re-surfacing-project.json`](./case-studies/full-stucco-re-surfacing-project.json) — schema
+- [`case-studies/gutter-and-downspout-redesign-for-drainage.json`](./case-studies/gutter-and-downspout-redesign-for-drainage.json) — schema
+- [`case-studies/gutter-and-landscape-drainage-integration.json`](./case-studies/gutter-and-landscape-drainage-integration.json) — schema
+- [`case-studies/gutter-guards-eliminate-cleaning.json`](./case-studies/gutter-guards-eliminate-cleaning.json) — schema
+- [`case-studies/gutter-heat-cable-installation.json`](./case-studies/gutter-heat-cable-installation.json) — schema
+- [`case-studies/gutter-ice-dam-prevention-system.json`](./case-studies/gutter-ice-dam-prevention-system.json) — schema
+- [`case-studies/gutter-system-capacity-upgrade.json`](./case-studies/gutter-system-capacity-upgrade.json) — schema
+- [`case-studies/gutter-system-for-new-addition.json`](./case-studies/gutter-system-for-new-addition.json) — schema
+- [`case-studies/gutter-system-for-solar-panel-array.json`](./case-studies/gutter-system-for-solar-panel-array.json) — schema
+- [`case-studies/historic-pasadena-stucco-restoration.json`](./case-studies/historic-pasadena-stucco-restoration.json) — schema
+- [`case-studies/historic-roof-tile-restoration.json`](./case-studies/historic-roof-tile-restoration.json) — schema
+- [`case-studies/historic-window-casing-stucco-repair.json`](./case-studies/historic-window-casing-stucco-repair.json) — schema
+- [`case-studies/interior-painting-for-allergy-sufferers.json`](./case-studies/interior-painting-for-allergy-sufferers.json) — schema
+- [`case-studies/interior-repainting-after-remodel.json`](./case-studies/interior-repainting-after-remodel.json) — schema
+- [`case-studies/interior-trim-painting-perfection.json`](./case-studies/interior-trim-painting-perfection.json) — schema
+- [`case-studies/kitchen-backsplash-drywall-prep.json`](./case-studies/kitchen-backsplash-drywall-prep.json) — schema
+- [`case-studies/level-5-drywall-for-custom-home-theater.json`](./case-studies/level-5-drywall-for-custom-home-theater.json) — schema
+- [`case-studies/metal-roof-retrofit-over-shingles.json`](./case-studies/metal-roof-retrofit-over-shingles.json) — schema
+- [`case-studies/multi-family-roof-recoat.json`](./case-studies/multi-family-roof-recoat.json) — schema
+- [`case-studies/multi-family-stucco-facade-uniformity.json`](./case-studies/multi-family-stucco-facade-uniformity.json) — schema
+- [`case-studies/multi-generational-home-accessibility.json`](./case-studies/multi-generational-home-accessibility.json) — schema
+- [`case-studies/multi-story-exterior-painting-challenge.json`](./case-studies/multi-story-exterior-painting-challenge.json) — schema
+- [`case-studies/pasadena-craftsman-bungalow-roof-replacement.json`](./case-studies/pasadena-craftsman-bungalow-roof-replacement.json) — schema
+- [`case-studies/roof-color-change-energy-study.json`](./case-studies/roof-color-change-energy-study.json) — schema
+- [`case-studies/roof-color-upgrade-impact-study.json`](./case-studies/roof-color-upgrade-impact-study.json) — schema
+- [`case-studies/roof-deck-plywood-replacement.json`](./case-studies/roof-deck-plywood-replacement.json) — schema
+- [`case-studies/roof-mounted-hvac-curb-repair.json`](./case-studies/roof-mounted-hvac-curb-repair.json) — schema
+- [`case-studies/roof-mounted-solar-ready-prep.json`](./case-studies/roof-mounted-solar-ready-prep.json) — schema
+- [`case-studies/roof-valley-redesign-for-drainage.json`](./case-studies/roof-valley-redesign-for-drainage.json) — schema
+- [`case-studies/roof-ventilation-overhaul-case-study.json`](./case-studies/roof-ventilation-overhaul-case-study.json) — schema
+- [`case-studies/seamless-gutter-color-matching.json`](./case-studies/seamless-gutter-color-matching.json) — schema
+- [`case-studies/seamless-gutter-system-for-large-ranch.json`](./case-studies/seamless-gutter-system-for-large-ranch.json) — schema
+- [`case-studies/soundproof-drywall-party-wall.json`](./case-studies/soundproof-drywall-party-wall.json) — schema
+- [`case-studies/soundproof-home-office-partition.json`](./case-studies/soundproof-home-office-partition.json) — schema
+- [`case-studies/stucco-crack-repair-on-mid-century-modern.json`](./case-studies/stucco-crack-repair-on-mid-century-modern.json) — schema
+- [`case-studies/stucco-eifs-insulation-retrofit.json`](./case-studies/stucco-eifs-insulation-retrofit.json) — schema
+- [`case-studies/stucco-parapet-cap-flashing-upgrade.json`](./case-studies/stucco-parapet-cap-flashing-upgrade.json) — schema
+- [`case-studies/stucco-parapet-wall-rebuild.json`](./case-studies/stucco-parapet-wall-rebuild.json) — schema
+- [`case-studies/stucco-texture-spray-equipment-guide.json`](./case-studies/stucco-texture-spray-equipment-guide.json) — schema
+- [`case-studies/stucco-to-brick-transition-detail.json`](./case-studies/stucco-to-brick-transition-detail.json) — schema
+- [`case-studies/stucco-to-stone-veneer-transition.json`](./case-studies/stucco-to-stone-veneer-transition.json) — schema
+- [`case-studies/tile-roof-underlayment-upgrade.json`](./case-studies/tile-roof-underlayment-upgrade.json) — schema
+- [`case-studies/tpo-flat-roof-replacement-commercial.json`](./case-studies/tpo-flat-roof-replacement-commercial.json) — schema
+
+

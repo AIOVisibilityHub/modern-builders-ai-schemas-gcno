@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T22:43:47.192Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Modern Builders",
+    "canonicalUrl": "https://modernbuilders.aiovisibility.net",
+    "primaryWebsiteUrl": "https://modernbuilderscali.com",
+    "aiDataHub": "https://modernbuilders.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Modern Builders — canonical website",
+      "url": "https://modernbuilders.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Modern Builders — AI Data Hub",
+      "url": "https://modernbuilders.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/modern-builders-ai-schemas-gcno"
+    }
+  }
+}
