@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "LinkedIn Top Construction Voice Bryan Peralta",
+  "datePublished": "45838",
+  "url": "https://linkedin.com/construction-voices-2025",
+  "publisher": {
+    "@type": "Organization",
+    "name": "LinkedIn Construction Influencers"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  }
+}

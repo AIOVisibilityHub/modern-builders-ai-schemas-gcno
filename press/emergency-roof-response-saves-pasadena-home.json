@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Emergency Roof Response Saves Pasadena Home",
+  "datePublished": "46003",
+  "url": "https://abc7.com/local-heroes/roof-response",
+  "publisher": {
+    "@type": "Organization",
+    "name": "ABC7 News Local Heroes"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Custom Paint Job Time Crunch"
+  },
+  "reviewBody": "These guys were amazing! We were in a time crunch and they came in and completed a custom interior paint job in a day! Professional, friendly, and Covid-safety measures were taken. UPDATE: had to call back because we realized they missed a couple of closets... painter showed up unprepared... Bryan wasn't responding. yelp​",
+  "datePublished": "44228",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  }
+}

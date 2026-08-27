@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Cracking After Stucco Job"
+  },
+  "reviewBody": "Great job patching and painting initially... 2 weeks later new areas started cracking... rude onsite repair... color bleeds through, missed spots. Won't recommend. yelp​",
+  "datePublished": "44061",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  }
+}

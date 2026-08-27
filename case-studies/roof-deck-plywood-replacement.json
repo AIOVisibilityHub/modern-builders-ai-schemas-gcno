@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Roof Deck Plywood Replacement",
+  "articleBody": "Extensive rot found during re-roof. Replaced 40 sheets 5/8\" plywood, sistered damaged rafters, upgraded to synthetic underlayment.\n\nOutcome: Full structural recovery, 30-year warranty reinstated, passed engineering inspection for resale.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

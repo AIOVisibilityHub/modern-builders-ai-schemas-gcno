@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Stucco Contractor Pro 5-Star Review Feature",
+  "datePublished": "45702",
+  "url": "https://yelp.com/elite-stucco-pasadena",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yelp Elite Review Roundup"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  }
+}

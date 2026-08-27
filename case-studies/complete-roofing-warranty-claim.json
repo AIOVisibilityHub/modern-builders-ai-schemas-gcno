@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Complete Roofing Warranty Claim",
+  "articleBody": "Insurance roof replacement coordinated start to finish. Documentation, contractor selection, quality oversight.\n\nOutcome: Full replacement cost covered, upgraded materials included, homeowners stress-free throughout.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

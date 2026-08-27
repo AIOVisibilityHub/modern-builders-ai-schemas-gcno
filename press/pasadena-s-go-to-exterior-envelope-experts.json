@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Pasadena's Go-To Exterior Envelope Experts",
+  "datePublished": "45728",
+  "url": "https://eastpasadenapost.com/exterior-experts",
+  "publisher": {
+    "@type": "Organization",
+    "name": "East Pasadena Post"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  }
+}

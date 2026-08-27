@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Parex USA Preferred Applicator Award",
+  "datePublished": "45772",
+  "url": "https://parexusa.com/applicators/modern-builders",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Parex USA Newsletter"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  }
+}

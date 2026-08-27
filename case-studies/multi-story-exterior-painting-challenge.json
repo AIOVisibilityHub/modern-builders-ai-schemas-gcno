@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Multi-Story Exterior Painting Challenge",
+  "articleBody": "3-story Victorian needed full repaint. Swing stages, containment systems, period color restoration.\n\nOutcome: Award-winning restoration, featured on historic homes tour, property value assessment up 18%.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

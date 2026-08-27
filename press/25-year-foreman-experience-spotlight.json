@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "25-Year Foreman Experience Spotlight",
+  "datePublished": "45755",
+  "url": "https://constructiondive.com/foreman-spotlight",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Construction Dive Contractor Stories"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  }
+}

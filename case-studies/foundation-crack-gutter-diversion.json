@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Foundation Crack Gutter Diversion",
+  "articleBody": "Diagonal settling cracks from poor drainage. Relocated all downspouts 10ft from house, underground piping system.\n\nOutcome: Crack progression halted, interior slab stabilized, structural engineer signed off on repairs.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

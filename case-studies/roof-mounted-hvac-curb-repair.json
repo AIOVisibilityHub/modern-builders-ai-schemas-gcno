@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Roof-Mounted HVAC Curb Repair",
+  "articleBody": "Rusted HVAC platform causing leaks. New galvanized curb, sealed penetrations, vibration isolation pads.\n\nOutcome: Unit stability improved, no vibration noise, leak-free performance through rainy season.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}

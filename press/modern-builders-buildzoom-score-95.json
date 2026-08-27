@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Modern Builders BuildZoom Score 95+",
+  "datePublished": "45853",
+  "url": "https://buildzoom.com/modern-builders-profile",
+  "publisher": {
+    "@type": "Organization",
+    "name": "BuildZoom Contractor Rankings"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  }
+}

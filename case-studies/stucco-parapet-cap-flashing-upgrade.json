@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Stucco Parapet Cap Flashing Upgrade",
+  "articleBody": "Leaking concrete parapets on flat roof home. Copper cap flashing, counterflashing integration, proper slope.\n\nOutcome: Eliminated interior ceiling stains, protected roof edge, aesthetically improved roofline.",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "genre": "Case Study"
+}
