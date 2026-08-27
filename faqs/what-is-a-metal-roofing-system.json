@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a metal roofing system?",
+  "description": "Durable panels made from steel, aluminum, or copper formed into profiles like standing seam or corrugated, offering 40-70+ year lifespans with low maintenance.",
+  "url": "https://modernbuilderscali.com/faq/what-is-a-metal-roofing-system",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a metal roofing system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Durable panels made from steel, aluminum, or copper formed into profiles like standing seam or corrugated, offering 40-70+ year lifespans with low maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

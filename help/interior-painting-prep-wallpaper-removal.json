@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Interior Painting Prep: Wallpaper Removal",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "articleBody": "Steaming vs chemical strippers, repairing wall damage, priming for new paint adhesion.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Eagle Rock"
+    },
+    {
+      "@type": "City",
+      "name": "Greater Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

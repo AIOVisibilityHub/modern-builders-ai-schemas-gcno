@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco installation take?",
+  "description": "Full house: 1-2 weeks depending on size, weather; each coat needs 24-48 hours cure time with misting.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-stucco-installation-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco installation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full house: 1-2 weeks depending on size, weather; each coat needs 24-48 hours cure time with misting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

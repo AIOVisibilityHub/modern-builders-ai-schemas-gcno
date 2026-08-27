@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is drywall and its purpose?",
+  "description": "Drywall (gypsum board) is a panel made of gypsum plaster pressed between paper layers, used to create interior walls/ceilings quickly and smoothly for painting.",
+  "url": "https://modernbuilderscali.com/faq/what-is-drywall-and-its-purpose",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is drywall and its purpose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall (gypsum board) is a panel made of gypsum plaster pressed between paper layers, used to create interior walls/ceilings quickly and smoothly for painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Overflowing gutters—fix?",
+  "description": "Check slope (1/4\"/10ft), enlarge downspouts, add leaders, trim trees; clean debris first.",
+  "url": "https://modernbuilderscali.com/faq/overflowing-gutters-fix",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Overflowing gutters—fix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check slope (1/4\"/10ft), enlarge downspouts, add leaders, trim trees; clean debris first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

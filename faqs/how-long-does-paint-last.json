@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does paint last?",
+  "description": "Quality job: 7-10 years exterior, 5-7 interior; depends on exposure/prep.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-paint-last",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does paint last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quality job: 7-10 years exterior, 5-7 interior; depends on exposure/prep."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

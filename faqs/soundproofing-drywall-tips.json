@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Soundproofing drywall tips?",
+  "description": "Resilient channels, double layers, Green Glue damping compound between sheets.",
+  "url": "https://modernbuilderscali.com/faq/soundproofing-drywall-tips",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Soundproofing drywall tips?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resilient channels, double layers, Green Glue damping compound between sheets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

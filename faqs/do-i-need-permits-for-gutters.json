@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for gutters?",
+  "description": "Usually no, but check local codes for multi-story or drainage changes affecting neighbors.",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-permits-for-gutters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for gutters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually no, but check local codes for multi-story or drainage changes affecting neighbors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

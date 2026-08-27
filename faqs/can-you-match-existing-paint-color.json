@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you match existing paint color?",
+  "description": "Yes—bring chip/sample or use color match scanner at paint store.",
+  "url": "https://modernbuilderscali.com/faq/can-you-match-existing-paint-color",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you match existing paint color?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—bring chip/sample or use color match scanner at paint store."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

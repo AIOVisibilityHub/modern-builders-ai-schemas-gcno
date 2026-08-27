@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between traditional and synthetic stucco?",
+  "description": "Traditional: cement-based 3-coat (heavier, more durable); synthetic: acrylic one-coat (lighter, flexible, faster).",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-traditional-and-synthetic-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between traditional and synthetic stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional: cement-based 3-coat (heavier, more durable); synthetic: acrylic one-coat (lighter, flexible, faster)."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

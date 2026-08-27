@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ice dam damage repair?",
+  "description": "Remove broken sections, check for rot in fascia/soffit, heat tape prevention.",
+  "url": "https://modernbuilderscali.com/faq/ice-dam-damage-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ice dam damage repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Remove broken sections, check for rot in fascia/soffit, heat tape prevention."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

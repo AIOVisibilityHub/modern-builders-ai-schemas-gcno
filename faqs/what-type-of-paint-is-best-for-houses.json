@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of paint is best for houses?",
+  "description": "Premium 100% acrylic latex (Sherwin-Williams Duration/Everlast, Benjamin Moore Aura); durable, mildew-resistant, self-priming for exteriors.",
+  "url": "https://modernbuilderscali.com/faq/what-type-of-paint-is-best-for-houses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of paint is best for houses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Premium 100% acrylic latex (Sherwin-Williams Duration/Everlast, Benjamin Moore Aura); durable, mildew-resistant, self-priming for exteriors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

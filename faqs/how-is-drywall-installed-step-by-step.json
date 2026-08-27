@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is drywall installed step-by-step?",
+  "description": "Measure/cut sheets, hang perpendicular to studs starting from corners/ceiling, screw every 12-16\" into framing, tape/mud joints, sand smooth.",
+  "url": "https://modernbuilderscali.com/faq/how-is-drywall-installed-step-by-step",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is drywall installed step-by-step?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measure/cut sheets, hang perpendicular to studs starting from corners/ceiling, screw every 12-16\" into framing, tape/mud joints, sand smooth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

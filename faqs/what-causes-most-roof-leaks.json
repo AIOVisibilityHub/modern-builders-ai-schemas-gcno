@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes most roof leaks?",
+  "description": "Faulty flashing (80% of cases), cracked/missing shingles, clogged valleys, ice dams, poor ventilation leading to condensation.",
+  "url": "https://modernbuilderscali.com/faq/what-causes-most-roof-leaks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes most roof leaks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Faulty flashing (80% of cases), cracked/missing shingles, clogged valleys, ice dams, poor ventilation leading to condensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

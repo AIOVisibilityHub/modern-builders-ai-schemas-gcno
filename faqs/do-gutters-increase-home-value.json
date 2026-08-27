@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do gutters increase home value?",
+  "description": "Marginal ROI (50-70%); appeals for curb appeal, protects foundation/siding.",
+  "url": "https://modernbuilderscali.com/faq/do-gutters-increase-home-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do gutters increase home value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Marginal ROI (50-70%); appeals for curb appeal, protects foundation/siding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

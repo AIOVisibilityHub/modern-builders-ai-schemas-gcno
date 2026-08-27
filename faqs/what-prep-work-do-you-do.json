@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What prep work do you do?",
+  "description": "Power wash, scrape loose paint, sand, patch holes/cracks, prime bare spots, mask/tape.",
+  "url": "https://modernbuilderscali.com/faq/what-prep-work-do-you-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What prep work do you do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Power wash, scrape loose paint, sand, patch holes/cracks, prime bare spots, mask/tape."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

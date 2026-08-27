@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Fire-rated drywall?",
+  "description": "Type X with fiberglass; 5/8\" single layer 1-hour walls; layered for apartments.",
+  "url": "https://modernbuilderscali.com/faq/fire-rated-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Fire-rated drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Type X with fiberglass; 5/8\" single layer 1-hour walls; layered for apartments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

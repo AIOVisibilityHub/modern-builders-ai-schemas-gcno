@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ceiling drywall without lift?",
+  "description": "T-braces (2x4s), deadman (plywood triangle), helper, or French cleats.",
+  "url": "https://modernbuilderscali.com/faq/ceiling-drywall-without-lift",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ceiling drywall without lift?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "T-braces (2x4s), deadman (plywood triangle), helper, or French cleats."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

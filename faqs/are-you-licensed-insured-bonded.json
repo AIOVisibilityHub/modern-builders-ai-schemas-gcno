@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are you licensed, insured, bonded?",
+  "description": "Verify contractor's license, $1M+ liability/workers comp; proof on request.",
+  "url": "https://modernbuilderscali.com/faq/are-you-licensed-insured-bonded",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are you licensed, insured, bonded?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify contractor's license, $1M+ liability/workers comp; proof on request."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

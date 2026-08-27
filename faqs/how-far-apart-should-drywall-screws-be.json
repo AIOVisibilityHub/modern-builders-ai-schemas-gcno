@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How far apart should drywall screws be?",
+  "description": "Edges: 8\"; field: 12-16\" on ceilings, 16\" on walls; countersink slightly below surface.",
+  "url": "https://modernbuilderscali.com/faq/how-far-apart-should-drywall-screws-be",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far apart should drywall screws be?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Edges: 8\"; field: 12-16\" on ceilings, 16\" on walls; countersink slightly below surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

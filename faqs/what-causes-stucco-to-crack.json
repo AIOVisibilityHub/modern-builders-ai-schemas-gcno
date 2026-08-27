@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes stucco to crack?",
+  "description": "Poor mix/water ratio, fast drying, no control joints, substrate movement, inadequate lath attachment.",
+  "url": "https://modernbuilderscali.com/faq/what-causes-stucco-to-crack",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes stucco to crack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Poor mix/water ratio, fast drying, no control joints, substrate movement, inadequate lath attachment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

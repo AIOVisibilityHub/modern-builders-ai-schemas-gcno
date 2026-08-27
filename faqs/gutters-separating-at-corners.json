@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Gutters separating at corners?",
+  "description": "Install corner miters or adjustable miters, screw/seal securely.",
+  "url": "https://modernbuilderscali.com/faq/gutters-separating-at-corners",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Gutters separating at corners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Install corner miters or adjustable miters, screw/seal securely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

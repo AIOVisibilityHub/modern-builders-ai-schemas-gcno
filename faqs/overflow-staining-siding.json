@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Overflow staining siding?",
+  "description": "Extend downspouts 5-10ft from house, splash blocks, French drain if pooling.",
+  "url": "https://modernbuilderscali.com/faq/overflow-staining-siding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Overflow staining siding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Extend downspouts 5-10ft from house, splash blocks, French drain if pooling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I repair or replace my roof?",
+  "description": "Repair if under 15 years old with isolated damage; replace if over 20 years, multiple issues, or granule loss everywhere. Inspection needed.",
+  "url": "https://modernbuilderscali.com/faq/should-i-repair-or-replace-my-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I repair or replace my roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repair if under 15 years old with isolated damage; replace if over 20 years, multiple issues, or granule loss everywhere. Inspection needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

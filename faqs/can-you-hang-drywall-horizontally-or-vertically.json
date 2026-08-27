@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you hang drywall horizontally or vertically?",
+  "description": "Vertical preferred for fewer seams; horizontal ok on tall walls but more taping labor.",
+  "url": "https://modernbuilderscali.com/faq/can-you-hang-drywall-horizontally-or-vertically",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you hang drywall horizontally or vertically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vertical preferred for fewer seams; horizontal ok on tall walls but more taping labor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why are my gutters sagging?",
+  "description": "Loose/missing hangers, thermal expansion, ice weight overload; re-secure or add brackets every 2 ft.",
+  "url": "https://modernbuilderscali.com/faq/why-are-my-gutters-sagging",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why are my gutters sagging?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Loose/missing hangers, thermal expansion, ice weight overload; re-secure or add brackets every 2 ft."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

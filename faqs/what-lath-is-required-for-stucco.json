@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What lath is required for stucco?",
+  "description": "3.4 lb/sq yd self-furring diamond mesh; stapled not less than 3 strands, 6\" spacing.",
+  "url": "https://modernbuilderscali.com/faq/what-lath-is-required-for-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What lath is required for stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3.4 lb/sq yd self-furring diamond mesh; stapled not less than 3 strands, 6\" spacing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

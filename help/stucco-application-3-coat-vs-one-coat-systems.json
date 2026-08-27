@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Stucco Application: 3-Coat vs One-Coat Systems",
+  "author": {
+    "@type": "Organization",
+    "name": "Modern Builders"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Modern Builders",
+    "url": "https://modernbuilderscali.com"
+  },
+  "articleBody": "Breakdown of traditional cement vs acrylic finishes, costs, crack resistance, ideal for Pasadena's seismic activity and sun exposure.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Eagle Rock"
+    },
+    {
+      "@type": "City",
+      "name": "Greater Los Angeles"
+    }
+  ],
+  "datePublished": "2026-08-27",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do metal roofs rust or corrode?",
+  "description": "Galvalume/steel coated with Kynar 500 paint lasts 40-60 years; regular cleaning prevents issues.",
+  "url": "https://modernbuilderscali.com/faq/do-metal-roofs-rust-or-corrode",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do metal roofs rust or corrode?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Galvalume/steel coated with Kynar 500 paint lasts 40-60 years; regular cleaning prevents issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

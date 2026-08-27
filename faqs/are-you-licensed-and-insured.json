@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are you licensed and insured?",
+  "description": "Yes, fully licensed (CSL #1079589) and insured; Bryan has 25+ years experience.",
+  "url": "https://modernbuilderscali.com/faq/are-you-licensed-and-insured",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are you licensed and insured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, fully licensed (CSL #1079589) and insured; Bryan has 25+ years experience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

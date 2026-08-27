@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does metal affect home resale?",
+  "description": "Boosts value 6-7%; appeals to eco-conscious buyers with longevity claims.",
+  "url": "https://modernbuilderscali.com/faq/how-does-metal-affect-home-resale",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does metal affect home resale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Boosts value 6-7%; appeals to eco-conscious buyers with longevity claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

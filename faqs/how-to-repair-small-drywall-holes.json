@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to repair small drywall holes?",
+  "description": "Apply mesh patch, 3 thin mud layers feathering wide, sand smooth after full dry.",
+  "url": "https://modernbuilderscali.com/faq/how-to-repair-small-drywall-holes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to repair small drywall holes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Apply mesh patch, 3 thin mud layers feathering wide, sand smooth after full dry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is your process for a project?",
+  "description": "1. Meet to ascertain requirements. 2. Create detailed game plan with charges and materials. 3. Complete the job with designated contact throughout.",
+  "url": "https://modernbuilderscali.com/faq/what-is-your-process-for-a-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is your process for a project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1. Meet to ascertain requirements. 2. Create detailed game plan with charges and materials. 3. Complete the job with designated contact throughout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

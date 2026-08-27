@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve?",
+  "description": "Pasadena ZIPs and neighborhoods, plus South Pasadena, Glendale, Eagle Rock, and Greater Los Angeles.",
+  "url": "https://modernbuilderscali.com/faq/what-areas-do-you-serve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pasadena ZIPs and neighborhoods, plus South Pasadena, Glendale, Eagle Rock, and Greater Los Angeles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

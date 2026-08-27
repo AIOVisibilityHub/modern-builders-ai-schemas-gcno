@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does drywall need to be primed before painting?",
+  "description": "Yes—seal paper texture, uniform paint absorption; use drywall primer or PVA.",
+  "url": "https://modernbuilderscali.com/faq/does-drywall-need-to-be-primed-before-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does drywall need to be primed before painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—seal paper texture, uniform paint absorption; use drywall primer or PVA."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

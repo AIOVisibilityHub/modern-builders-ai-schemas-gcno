@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to repair valley leaks?",
+  "description": "Install ice/water shield full length, weave new shingles or add metal flashing; clean debris regularly.",
+  "url": "https://modernbuilderscali.com/faq/how-to-repair-valley-leaks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to repair valley leaks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Install ice/water shield full length, weave new shingles or add metal flashing; clean debris regularly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

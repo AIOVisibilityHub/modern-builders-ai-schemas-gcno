@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Downspout leaks or separation?",
+  "description": "Reconnect with sleeves/cement, replace elbows, secure straps; extend buried sections.",
+  "url": "https://modernbuilderscali.com/faq/downspout-leaks-or-separation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Downspout leaks or separation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reconnect with sleeves/cement, replace elbows, secure straps; extend buried sections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many painters on crew?",
+  "description": "2-6 typical; consistent team, background-checked, uniformed.",
+  "url": "https://modernbuilderscali.com/faq/how-many-painters-on-crew",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many painters on crew?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2-6 typical; consistent team, background-checked, uniformed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

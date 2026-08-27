@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a weep screed and why needed?",
+  "description": "Ground-level trim allowing water drainage from wall cavity; required by code at foundation line.",
+  "url": "https://modernbuilderscali.com/faq/what-is-a-weep-screed-and-why-needed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a weep screed and why needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ground-level trim allowing water drainage from wall cavity; required by code at foundation line."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

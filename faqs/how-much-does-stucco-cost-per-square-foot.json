@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does stucco cost per square foot?",
+  "description": "$7-15/sq ft installed; traditional cement higher than synthetic one-coat systems.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-stucco-cost-per-square-foot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does stucco cost per square foot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$7-15/sq ft installed; traditional cement higher than synthetic one-coat systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

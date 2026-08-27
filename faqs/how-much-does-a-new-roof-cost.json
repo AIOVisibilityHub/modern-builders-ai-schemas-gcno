@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a new roof cost?",
+  "description": "Averages $8,000-$20,000 for asphalt shingles ($5-10/sq ft installed); metal $10-25/sq ft; tile $15-30/sq ft. Factors: size, pitch, materials, location, removal",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-a-new-roof-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a new roof cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Averages $8,000-$20,000 for asphalt shingles ($5-10/sq ft installed); metal $10-25/sq ft; tile $15-30/sq ft. Factors: size, pitch, materials, location, removal fees. Get multiple quotes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

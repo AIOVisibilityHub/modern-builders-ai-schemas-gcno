@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs I need a new roof?",
+  "description": "Look for curled/missing shingles, granule loss in gutters, interior leaks or stains, sagging roof deck, or age (20-30 years for asphalt shingles). Get a profess",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-signs-i-need-a-new-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs I need a new roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for curled/missing shingles, granule loss in gutters, interior leaks or stains, sagging roof deck, or age (20-30 years for asphalt shingles). Get a professional inspection before visible ceiling damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

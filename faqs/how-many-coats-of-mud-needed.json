@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How many coats of mud needed?",
+  "description": "3 coats minimum: tape embed, fill, skim; Level 4 = 3 coats tapered joints.",
+  "url": "https://modernbuilderscali.com/faq/how-many-coats-of-mud-needed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many coats of mud needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3 coats minimum: tape embed, fill, skim; Level 4 = 3 coats tapered joints."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

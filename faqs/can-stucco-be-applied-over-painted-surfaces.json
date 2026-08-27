@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can stucco be applied over painted surfaces?",
+  "description": "Remove paint or acid-etch/sandblast; bonding agent required for adhesion.",
+  "url": "https://modernbuilderscali.com/faq/can-stucco-be-applied-over-painted-surfaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can stucco be applied over painted surfaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Remove paint or acid-etch/sandblast; bonding agent required for adhesion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

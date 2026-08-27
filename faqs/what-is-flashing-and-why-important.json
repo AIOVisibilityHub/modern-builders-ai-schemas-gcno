@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is flashing and why important?",
+  "description": "Metal strips seal roof-wall/chimney/skylight joints against water. Poor flashing causes 80% leaks.",
+  "url": "https://modernbuilderscali.com/faq/what-is-flashing-and-why-important",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is flashing and why important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Metal strips seal roof-wall/chimney/skylight joints against water. Poor flashing causes 80% leaks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

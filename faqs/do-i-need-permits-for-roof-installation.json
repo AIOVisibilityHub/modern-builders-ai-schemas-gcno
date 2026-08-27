@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for roof installation?",
+  "description": "Yes, most areas require building permits for full replacements to ensure code compliance. Your contractor handles this; verify with local building department.",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-permits-for-roof-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for roof installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most areas require building permits for full replacements to ensure code compliance. Your contractor handles this; verify with local building department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

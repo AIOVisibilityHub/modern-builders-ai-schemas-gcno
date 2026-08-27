@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Metal roof on low slope?",
+  "description": "Yes, minimum 3:12 pitch; low-slope systems with raised seams.",
+  "url": "https://modernbuilderscali.com/faq/metal-roof-on-low-slope",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Metal roof on low slope?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, minimum 3:12 pitch; low-slope systems with raised seams."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Cost of drywall installation?",
+  "description": "$1.50-3/sq ft labor; materials $0.50-1/sq ft; full room $500-1500 average.",
+  "url": "https://modernbuilderscali.com/faq/cost-of-drywall-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cost of drywall installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$1.50-3/sq ft labor; materials $0.50-1/sq ft; full room $500-1500 average."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

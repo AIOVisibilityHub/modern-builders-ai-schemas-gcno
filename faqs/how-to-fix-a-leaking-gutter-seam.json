@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to fix a leaking gutter seam?",
+  "description": "Clean area, apply gutter sealant (silicone or butyl rubber), clamp overnight; replace if corroded.",
+  "url": "https://modernbuilderscali.com/faq/how-to-fix-a-leaking-gutter-seam",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to fix a leaking gutter seam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clean area, apply gutter sealant (silicone or butyl rubber), clamp overnight; replace if corroded."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you protect floors/furniture?",
+  "description": "Drop cloths/plastic sheeting, mask vents/fixtures, move/ cover furniture.",
+  "url": "https://modernbuilderscali.com/faq/how-do-you-protect-floors-furniture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you protect floors/furniture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drop cloths/plastic sheeting, mask vents/fixtures, move/ cover furniture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

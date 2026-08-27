@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What size gutters for my home?",
+  "description": "5\" for homes <40' wide; 6\" or 7\" for larger roofs/heavy rain; calculate roof sq ft x rainfall factor.",
+  "url": "https://modernbuilderscali.com/faq/what-size-gutters-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size gutters for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "5\" for homes <40' wide; 6\" or 7\" for larger roofs/heavy rain; calculate roof sq ft x rainfall factor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

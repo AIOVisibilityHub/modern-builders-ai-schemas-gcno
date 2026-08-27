@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What drywall thickness for walls vs ceilings?",
+  "description": "Walls: 1/2\"; ceilings: 5/8\" for sag resistance; garages/fire-rated use 5/8\" Type X everywhere.",
+  "url": "https://modernbuilderscali.com/faq/what-drywall-thickness-for-walls-vs-ceilings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What drywall thickness for walls vs ceilings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Walls: 1/2\"; ceilings: 5/8\" for sag resistance; garages/fire-rated use 5/8\" Type X everywhere."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you fix a leaky roof temporarily?",
+  "description": "Apply roofing cement under lifted shingles; use peel-and-stick ice/water shield patches; tarp large areas secured with 1x3 boards screwed down.",
+  "url": "https://modernbuilderscali.com/faq/how-do-you-fix-a-leaky-roof-temporarily",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you fix a leaky roof temporarily?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Apply roofing cement under lifted shingles; use peel-and-stick ice/water shield patches; tarp large areas secured with 1x3 boards screwed down."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

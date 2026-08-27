@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to calculate linear feet needed?",
+  "description": "Perimeter of roof edges minus gables; add 10% waste; measure each run separately.",
+  "url": "https://modernbuilderscali.com/faq/how-to-calculate-linear-feet-needed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to calculate linear feet needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Perimeter of roof edges minus gables; add 10% waste; measure each run separately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

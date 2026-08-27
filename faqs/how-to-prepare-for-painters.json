@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to prepare for painters?",
+  "description": "Clear walls/trim, move furniture, unplug electronics, cover fish tanks/plants.",
+  "url": "https://modernbuilderscali.com/faq/how-to-prepare-for-painters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to prepare for painters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clear walls/trim, move furniture, unplug electronics, cover fish tanks/plants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

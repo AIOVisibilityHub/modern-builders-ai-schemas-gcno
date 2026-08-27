@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I walk on a metal roof?",
+  "description": "Yes, but use walk pads during install; avoid during heat expansion.",
+  "url": "https://modernbuilderscali.com/faq/can-i-walk-on-a-metal-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I walk on a metal roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but use walk pads during install; avoid during heat expansion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

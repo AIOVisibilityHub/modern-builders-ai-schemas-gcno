@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I see sagging roof deck?",
+  "description": "Structural issue—don't repair surface; call for full assessment/possible replacement to avoid collapse.",
+  "url": "https://modernbuilderscali.com/faq/what-if-i-see-sagging-roof-deck",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I see sagging roof deck?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structural issue—don't repair surface; call for full assessment/possible replacement to avoid collapse."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

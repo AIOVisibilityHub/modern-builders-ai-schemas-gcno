@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes drywall cracks?",
+  "description": "Settling, poor taping, humidity changes, no back-blocking on edges.",
+  "url": "https://modernbuilderscali.com/faq/what-causes-drywall-cracks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes drywall cracks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Settling, poor taping, humidity changes, no back-blocking on edges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

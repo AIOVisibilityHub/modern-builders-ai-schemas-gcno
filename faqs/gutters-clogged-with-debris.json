@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Gutters clogged with debris?",
+  "description": "Scoop by hand/roach rod, flush with hose/gutter vacuum; install guards long-term.",
+  "url": "https://modernbuilderscali.com/faq/gutters-clogged-with-debris",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Gutters clogged with debris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scoop by hand/roach rod, flush with hose/gutter vacuum; install guards long-term."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

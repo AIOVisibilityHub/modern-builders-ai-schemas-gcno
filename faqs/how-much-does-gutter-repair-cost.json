@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does gutter repair cost?",
+  "description": "$150-500 minor fixes (seals, hangers); $300-1,000 section replacement; full run $500-2,000 depending on material/access.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-gutter-repair-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does gutter repair cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$150-500 minor fixes (seals, hangers); $300-1,000 section replacement; full run $500-2,000 depending on material/access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

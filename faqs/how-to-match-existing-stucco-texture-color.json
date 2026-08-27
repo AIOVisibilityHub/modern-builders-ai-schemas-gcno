@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to match existing stucco texture/color?",
+  "description": "Sample from house, mix custom batch, spray/trowel same technique; test patch first.",
+  "url": "https://modernbuilderscali.com/faq/how-to-match-existing-stucco-texture-color",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to match existing stucco texture/color?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sample from house, mix custom batch, spray/trowel same technique; test patch first."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

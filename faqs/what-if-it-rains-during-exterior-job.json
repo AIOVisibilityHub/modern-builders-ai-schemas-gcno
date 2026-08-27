@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if it rains during exterior job?",
+  "description": "Tarp areas, pause/resume when dry; contracts include weather delays.",
+  "url": "https://modernbuilderscali.com/faq/what-if-it-rains-during-exterior-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if it rains during exterior job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tarp areas, pause/resume when dry; contracts include weather delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

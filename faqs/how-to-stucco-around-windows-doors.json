@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to stucco around windows/doors?",
+  "description": "Install casing bead, back-wrap flashing, ensure lath continuous, caulk joints.",
+  "url": "https://modernbuilderscali.com/faq/how-to-stucco-around-windows-doors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to stucco around windows/doors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Install casing bead, back-wrap flashing, ensure lath continuous, caulk joints."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

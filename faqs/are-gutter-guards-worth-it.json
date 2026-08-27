@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are gutter guards worth it?",
+  "description": "Yes—prevent clogs (leaf screens $1.50-25/ft, foam $2-3/ft, micro-mesh $8-25/ft); pay for self in reduced cleaning.",
+  "url": "https://modernbuilderscali.com/faq/are-gutter-guards-worth-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are gutter guards worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—prevent clogs (leaf screens $1.50-25/ft, foam $2-3/ft, micro-mesh $8-25/ft); pay for self in reduced cleaning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if stucco gets wet during curing?",
+  "description": "Minor ok if not frozen; prolonged saturation causes efflorescence/softness—allow redry.",
+  "url": "https://modernbuilderscali.com/faq/what-if-stucco-gets-wet-during-curing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if stucco gets wet during curing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minor ok if not frozen; prolonged saturation causes efflorescence/softness—allow redry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

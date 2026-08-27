@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is stucco fire-rated?",
+  "description": "Yes, Class A non-combustible; 1-hour rating typical for 7/8\" system.",
+  "url": "https://modernbuilderscali.com/faq/is-stucco-fire-rated",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is stucco fire-rated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Class A non-combustible; 1-hour rating typical for 7/8\" system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do gutters need to match my roofline?",
+  "description": "Yes—K-style (angular) or half-round (semicircle) to complement architecture; size 5\" or 6\" based on rainfall/roof size.",
+  "url": "https://modernbuilderscali.com/faq/do-gutters-need-to-match-my-roofline",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do gutters need to match my roofline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—K-style (angular) or half-round (semicircle) to complement architecture; size 5\" or 6\" based on rainfall/roof size."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

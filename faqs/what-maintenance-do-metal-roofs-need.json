@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance do metal roofs need?",
+  "description": "Minimal: annual hose-down, clear debris/gutters, inspect fasteners every 5-10 years.",
+  "url": "https://modernbuilderscali.com/faq/what-maintenance-do-metal-roofs-need",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance do metal roofs need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimal: annual hose-down, clear debris/gutters, inspect fasteners every 5-10 years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

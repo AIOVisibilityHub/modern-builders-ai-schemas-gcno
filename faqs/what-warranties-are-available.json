@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What warranties are available?",
+  "description": "Material: 30-40 years non-perforation; finish: 30-40 years fade/chalk; workmanship: 5-20 years.",
+  "url": "https://modernbuilderscali.com/faq/what-warranties-are-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What warranties are available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Material: 30-40 years non-perforation; finish: 30-40 years fade/chalk; workmanship: 5-20 years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
