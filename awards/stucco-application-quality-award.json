@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Stucco Application Quality Award",
-  "datePublished": "45755",
-  "provider": {
-    "@type": "Organization",
-    "name": "Stucco Manufacturers Association"
-  },
+  "@type": "CreativeWork",
+  "award": "Stucco Application Quality Award",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Stucco Application Quality Award"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Stucco Manufacturers Association",
+    "@type": "Organization"
+  },
+  "datePublished": "45755"
 }

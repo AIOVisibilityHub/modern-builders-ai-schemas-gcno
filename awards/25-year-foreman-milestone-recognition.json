@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "25-Year Foreman Milestone Recognition",
-  "datePublished": "45677",
-  "provider": {
-    "@type": "Organization",
-    "name": "Construction Industry Association"
-  },
+  "@type": "CreativeWork",
+  "award": "25-Year Foreman Milestone Recognition",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "25-Year Foreman Milestone Recognition"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Construction Industry Association",
+    "@type": "Organization"
+  },
+  "datePublished": "45677"
 }

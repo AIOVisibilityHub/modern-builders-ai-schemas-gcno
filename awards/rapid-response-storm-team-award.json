@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Rapid Response Storm Team Award",
-  "datePublished": "45964",
-  "provider": {
-    "@type": "Organization",
-    "name": "Insurance Claims Journal"
-  },
+  "@type": "CreativeWork",
+  "award": "Rapid Response Storm Team Award",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Rapid Response Storm Team Award"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Insurance Claims Journal",
+    "@type": "Organization"
+  },
+  "datePublished": "45964"
 }

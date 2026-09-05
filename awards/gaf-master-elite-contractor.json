@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "GAF Master Elite Contractor",
-  "datePublished": "45731",
-  "provider": {
-    "@type": "Organization",
-    "name": "GAF Roofing"
-  },
+  "@type": "CreativeWork",
+  "award": "GAF Master Elite Contractor",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "GAF Master Elite Contractor"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "GAF Roofing",
+    "@type": "Organization"
+  },
+  "datePublished": "45731"
 }

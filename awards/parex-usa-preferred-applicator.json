@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Parex USA Preferred Applicator",
-  "datePublished": "45767",
-  "provider": {
-    "@type": "Organization",
-    "name": "Parex USA"
-  },
+  "@type": "CreativeWork",
+  "award": "Parex USA Preferred Applicator",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Parex USA Preferred Applicator"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Parex USA",
+    "@type": "Organization"
+  },
+  "datePublished": "45767"
 }

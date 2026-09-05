@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Seamless Gutter Installation Mastery",
-  "datePublished": "45918",
-  "provider": {
-    "@type": "Organization",
-    "name": "National Roofing Contractors Association"
-  },
+  "@type": "CreativeWork",
+  "award": "Seamless Gutter Installation Mastery",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Seamless Gutter Installation Mastery"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "National Roofing Contractors Association",
+    "@type": "Organization"
+  },
+  "datePublished": "45918"
 }

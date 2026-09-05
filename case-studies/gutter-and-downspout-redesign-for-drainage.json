@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Gutter and Downspout Redesign for Drainage",
-  "articleBody": "Poor gutter layout caused foundation pooling. Relocated downspouts, underground extensions, French drain integration.\n\nOutcome: Eliminated hydrostatic pressure issues, preserved landscaping, no water intrusion during heavy rains.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Gutter and Downspout Redesign for Drainage",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Poor gutter layout caused foundation pooling. Relocated downspouts, underground extensions, French drain integration.\n\nOutcome: Eliminated hydrostatic pressure issues, preserved landscaping, no water intrusion during heavy rains."
 }

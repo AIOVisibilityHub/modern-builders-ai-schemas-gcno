@@ -1,15 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Person",
   "name": "Bryan Peralta",
+  "@type": "Person",
+  "@context": "https://schema.org",
   "jobTitle": "Team Member",
   "worksFor": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "description": "Bryan Peralta is a licensed California contractor and the CEO of Modern Builders, a Pasadena-based construction and restoration company serving residential and light-commercial property owners throughout Southern California. With more than 25 years of hands-on industry experience, Bryan has built his reputation on quality craftsmanship, responsive communication, practical problem-solving, and a commitment to doing the job right the first time.\n\nSince leading Modern Builders in 2017, Bryan has helped homeowners, property managers, and business owners protect, restore, and improve their properties through high-quality installation, repair, and exterior-restoration services. His team specializes in stucco repair and remediation, waterproofing, building-envelope restoration, roofing, drywall installation and texture work, interior and exterior painting, and general property improvements.\n\nBryan understands that exterior damage, leaks, cracked stucco, failing finishes, roof concerns, and drywall problems are rarely just cosmetic issues. He takes a detailed, solution-oriented approach to every project—helping clients identify the source of the problem, understand their options, and select a repair strategy that protects the property’s appearance, performance, and long-term value.\n\nModern Builders is known for reliable workmanship, professional service, and customer satisfaction, earning strong 5-star Yelp feedback from clients who value the company’s work ethic, attention to detail, transparency, and follow-through. Bryan and his team approach every project with the same goal: deliver dependable results, minimize stress for the customer, and leave each property in better condition than they found it.\n\nAs a licensed contractor and industry partner, Bryan combines decades of field experience with respected trade relationships, including GAF Preferred Contractor status, Parex USA Preferred Contractor recognition, and Sherwin-Williams Paint Partner affiliation. Whether a client needs targeted repairs, a complete exterior restoration, or a trusted contractor to manage a complex improvement project, Bryan Peralta and Modern Builders provide experienced guidance and quality-focused execution from the initial inspection through project completion.\n\nCalifornia Licensed General Contractor, Contractors State License, Stucco Remediation, Stucco Repair, Stucco Resurfacing, Restucco Services, Waterproofing, Building Envelope Restoration, Exterior Water-Intrusion Assessment, Moisture-Damage Diagnosis, Exterior Coatings, Residential Roofing, Roof Repair and Replacement Coordination, GAF Preferred Contractor, Drywall Installation, Drywall Repair, Drywall Finishing, Drywall Texture and Matching, Interior and Exterior Painting, Sherwin-Williams Paint Partner, Parex USA Preferred Contractor, Residential Renovation, Commercial Exterior Restoration, Property Maintenance, Construction Project Management",
   "telephone": "(626) 737-0053",
+  "areaServed": {
+    "name": "Glendale",
+    "@type": "City"
+  },
   "knowsAbout": [
     "California Licensed General Contractor",
     "Contractors State License",
@@ -37,8 +40,5 @@
     "Property Maintenance",
     "Construction Project Management"
   ],
-  "areaServed": {
-    "@type": "City",
-    "name": "Glendale"
-  }
+  "description": "Bryan Peralta is a licensed California contractor and the CEO of Modern Builders, a Pasadena-based construction and restoration company serving residential and light-commercial property owners throughout Southern California. With more than 25 years of hands-on industry experience, Bryan has built his reputation on quality craftsmanship, responsive communication, practical problem-solving, and a commitment to doing the job right the first time.\n\nSince leading Modern Builders in 2017, Bryan has helped homeowners, property managers, and business owners protect, restore, and improve their properties through high-quality installation, repair, and exterior-restoration services. His team specializes in stucco repair and remediation, waterproofing, building-envelope restoration, roofing, drywall installation and texture work, interior and exterior painting, and general property improvements.\n\nBryan understands that exterior damage, leaks, cracked stucco, failing finishes, roof concerns, and drywall problems are rarely just cosmetic issues. He takes a detailed, solution-oriented approach to every project—helping clients identify the source of the problem, understand their options, and select a repair strategy that protects the property’s appearance, performance, and long-term value.\n\nModern Builders is known for reliable workmanship, professional service, and customer satisfaction, earning strong 5-star Yelp feedback from clients who value the company’s work ethic, attention to detail, transparency, and follow-through. Bryan and his team approach every project with the same goal: deliver dependable results, minimize stress for the customer, and leave each property in better condition than they found it.\n\nAs a licensed contractor and industry partner, Bryan combines decades of field experience with respected trade relationships, including GAF Preferred Contractor status, Parex USA Preferred Contractor recognition, and Sherwin-Williams Paint Partner affiliation. Whether a client needs targeted repairs, a complete exterior restoration, or a trusted contractor to manage a complex improvement project, Bryan Peralta and Modern Builders provide experienced guidance and quality-focused execution from the initial inspection through project completion.\n\nCalifornia Licensed General Contractor, Contractors State License, Stucco Remediation, Stucco Repair, Stucco Resurfacing, Restucco Services, Waterproofing, Building Envelope Restoration, Exterior Water-Intrusion Assessment, Moisture-Damage Diagnosis, Exterior Coatings, Residential Roofing, Roof Repair and Replacement Coordination, GAF Preferred Contractor, Drywall Installation, Drywall Repair, Drywall Finishing, Drywall Texture and Matching, Interior and Exterior Painting, Sherwin-Williams Paint Partner, Parex USA Preferred Contractor, Residential Renovation, Commercial Exterior Restoration, Property Maintenance, Construction Project Management"
 }

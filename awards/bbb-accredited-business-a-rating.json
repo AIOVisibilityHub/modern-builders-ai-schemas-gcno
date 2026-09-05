@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "BBB Accredited Business A+ Rating",
-  "datePublished": "45693",
-  "provider": {
-    "@type": "Organization",
-    "name": "Better Business Bureau"
-  },
+  "@type": "CreativeWork",
+  "award": "BBB Accredited Business A+ Rating",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "BBB Accredited Business A+ Rating"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Better Business Bureau",
+    "@type": "Organization"
+  },
+  "datePublished": "45693"
 }

@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Pasadena's Most Reliable Tradesman",
-  "datePublished": "45884",
-  "provider": {
-    "@type": "Organization",
-    "name": "Pasadena Star News Poll"
-  },
+  "@type": "CreativeWork",
+  "award": "Pasadena's Most Reliable Tradesman",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Pasadena's Most Reliable Tradesman"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Pasadena Star News Poll",
+    "@type": "Organization"
+  },
+  "datePublished": "45884"
 }

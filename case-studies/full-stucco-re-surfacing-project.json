@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Full Stucco Re-Surfacing Project",
-  "articleBody": "1980s home with delaminating stucco. Removed loose material, new 3-coat system with control joints, elastomeric paint finish.\n\nOutcome: 10-year warranty provided, transformed dated exterior, increased home value per appraisal.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Full Stucco Re-Surfacing Project",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "1980s home with delaminating stucco. Removed loose material, new 3-coat system with control joints, elastomeric paint finish.\n\nOutcome: 10-year warranty provided, transformed dated exterior, increased home value per appraisal."
 }

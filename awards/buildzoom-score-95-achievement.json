@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "BuildZoom Score 95+ Achievement",
-  "datePublished": "45853",
-  "provider": {
-    "@type": "Organization",
-    "name": "BuildZoom"
-  },
+  "@type": "CreativeWork",
+  "award": "BuildZoom Score 95+ Achievement",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "BuildZoom Score 95+ Achievement"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "BuildZoom",
+    "@type": "Organization"
+  },
+  "datePublished": "45853"
 }

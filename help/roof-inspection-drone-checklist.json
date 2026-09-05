@@ -1,40 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Roof Inspection Drone Checklist",
   "author": {
-    "@type": "Organization",
-    "name": "Modern Builders"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "articleBody": "Thermal imaging settings, 4K photo resolution, flight path patterns for full coverage.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Eagle Rock"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Roof Inspection Drone Checklist",
+  "publisher": {
+    "url": "https://modernbuilderscali.com",
+    "name": "Modern Builders",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -43,5 +19,29 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Eagle Rock",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thermal imaging settings, 4K photo resolution, flight path patterns for full coverage.",
+  "datePublished": "2026-08-27"
 }

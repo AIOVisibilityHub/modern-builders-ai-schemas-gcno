@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Top Rated Roofing Contractor NE LA",
-  "datePublished": "45830",
-  "provider": {
-    "@type": "Organization",
-    "name": "Los Angeles Times Home Awards"
-  },
+  "@type": "CreativeWork",
+  "award": "Top Rated Roofing Contractor NE LA",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Top Rated Roofing Contractor NE LA"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Los Angeles Times Home Awards",
+    "@type": "Organization"
+  },
+  "datePublished": "45830"
 }

@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "24/7 Emergency Response Excellence",
-  "datePublished": "45973",
-  "provider": {
-    "@type": "Organization",
-    "name": "Contractor Connection Magazine"
-  },
+  "@type": "CreativeWork",
+  "award": "24/7 Emergency Response Excellence",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "24/7 Emergency Response Excellence"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Contractor Connection Magazine",
+    "@type": "Organization"
+  },
+  "datePublished": "45973"
 }

@@ -1,40 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Pasadena Winter Roof Inspection Checklist",
   "author": {
-    "@type": "Organization",
-    "name": "Modern Builders"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "articleBody": "Pre-rain season checks for loose shingles, flashing seals, gutter flow; drone inspection benefits for 2-story Craftsman homes.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Eagle Rock"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Pasadena Winter Roof Inspection Checklist",
+  "publisher": {
+    "url": "https://modernbuilderscali.com",
+    "name": "Modern Builders",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -43,5 +19,29 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Eagle Rock",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Pre-rain season checks for loose shingles, flashing seals, gutter flow; drone inspection benefits for 2-story Craftsman homes.",
+  "datePublished": "2026-08-27"
 }

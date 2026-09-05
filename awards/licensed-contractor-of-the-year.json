@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Licensed Contractor of the Year",
-  "datePublished": "45702",
-  "provider": {
-    "@type": "Organization",
-    "name": "California Contractors State License Board"
-  },
+  "@type": "CreativeWork",
+  "award": "Licensed Contractor of the Year",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Licensed Contractor of the Year"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "California Contractors State License Board",
+    "@type": "Organization"
+  },
+  "datePublished": "45702"
 }

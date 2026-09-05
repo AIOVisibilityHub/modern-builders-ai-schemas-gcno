@@ -1,40 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Synthetic Underlayment vs Felt Paper",
   "author": {
-    "@type": "Organization",
-    "name": "Modern Builders"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "articleBody": "UV resistance, breathability, tear strength testing results for steep slopes.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Eagle Rock"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Synthetic Underlayment vs Felt Paper",
+  "publisher": {
+    "url": "https://modernbuilderscali.com",
+    "name": "Modern Builders",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -42,5 +18,29 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Eagle Rock",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "UV resistance, breathability, tear strength testing results for steep slopes.",
+  "datePublished": "2026-08-27"
 }

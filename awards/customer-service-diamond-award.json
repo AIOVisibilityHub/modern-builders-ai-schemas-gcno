@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Customer Service Diamond Award",
-  "datePublished": "45996",
-  "provider": {
-    "@type": "Organization",
-    "name": "Pasadena Now Readers Choice"
-  },
+  "@type": "CreativeWork",
+  "award": "Customer Service Diamond Award",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Customer Service Diamond Award"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Pasadena Now Readers Choice",
+    "@type": "Organization"
+  },
+  "datePublished": "45996"
 }

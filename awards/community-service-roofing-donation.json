@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Community Service Roofing Donation",
-  "datePublished": "45777",
-  "provider": {
-    "@type": "Organization",
-    "name": "Pasadena Schools Foundation"
-  },
+  "@type": "CreativeWork",
+  "award": "Community Service Roofing Donation",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Community Service Roofing Donation"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Pasadena Schools Foundation",
+    "@type": "Organization"
+  },
+  "datePublished": "45777"
 }

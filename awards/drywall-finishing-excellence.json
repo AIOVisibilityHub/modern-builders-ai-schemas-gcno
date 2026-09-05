@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Drywall Finishing Excellence",
-  "datePublished": "45868",
-  "provider": {
-    "@type": "Organization",
-    "name": "Gypsum Association"
-  },
+  "@type": "CreativeWork",
+  "award": "Drywall Finishing Excellence",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Drywall Finishing Excellence"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Gypsum Association",
+    "@type": "Organization"
+  },
+  "datePublished": "45868"
 }

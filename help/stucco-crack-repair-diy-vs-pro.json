@@ -1,40 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Stucco Crack Repair: DIY vs Pro",
   "author": {
-    "@type": "Organization",
-    "name": "Modern Builders"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "articleBody": "Tools, materials for small cracks; when structural issues require full re-stucco, color matching secrets.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Eagle Rock"
-    },
-    {
-      "@type": "City",
-      "name": "Greater Los Angeles"
-    }
-  ],
-  "datePublished": "2026-08-27",
+  "@context": "https://schema.org",
+  "headline": "Stucco Crack Repair: DIY vs Pro",
+  "publisher": {
+    "url": "https://modernbuilderscali.com",
+    "name": "Modern Builders",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -42,5 +18,29 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Eagle Rock",
+      "@type": "City"
+    },
+    {
+      "name": "Greater Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Tools, materials for small cracks; when structural issues require full re-stucco, color matching secrets.",
+  "datePublished": "2026-08-27"
 }

@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Neighborhood Favorite Contractor",
-  "datePublished": "45744",
-  "provider": {
-    "@type": "Organization",
-    "name": "Nextdoor Pasadena Neighborhood"
-  },
+  "@type": "CreativeWork",
+  "award": "Neighborhood Favorite Contractor",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Neighborhood Favorite Contractor"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Nextdoor Pasadena Neighborhood",
+    "@type": "Organization"
+  },
+  "datePublished": "45744"
 }

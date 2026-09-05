@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Complete Interior Drywall Remodel",
-  "articleBody": "Kitchen/bath remodel required full drywall removal due to water damage. Installed soundproof 5/8\" Type X, Level 5 finish, custom texture matching.\n\nOutcome: Seamless integration with existing home, passed final building inspection, clients thrilled with smooth paint-ready surfaces.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Complete Interior Drywall Remodel",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Kitchen/bath remodel required full drywall removal due to water damage. Installed soundproof 5/8\" Type X, Level 5 finish, custom texture matching.\n\nOutcome: Seamless integration with existing home, passed final building inspection, clients thrilled with smooth paint-ready surfaces."
 }

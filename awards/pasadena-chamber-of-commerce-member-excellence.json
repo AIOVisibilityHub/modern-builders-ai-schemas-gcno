@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Pasadena Chamber of Commerce Member Excellence",
-  "datePublished": "45809",
-  "provider": {
-    "@type": "Organization",
-    "name": "Pasadena Chamber of Commerce"
-  },
+  "@type": "CreativeWork",
+  "award": "Pasadena Chamber of Commerce Member Excellence",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Pasadena Chamber of Commerce Member Excellence"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Pasadena Chamber of Commerce",
+    "@type": "Organization"
+  },
+  "datePublished": "45809"
 }

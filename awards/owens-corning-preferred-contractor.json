@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Owens Corning Preferred Contractor",
-  "datePublished": "45874",
-  "provider": {
-    "@type": "Organization",
-    "name": "Owens Corning"
-  },
+  "@type": "CreativeWork",
+  "award": "Owens Corning Preferred Contractor",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "award": "Owens Corning Preferred Contractor"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Owens Corning",
+    "@type": "Organization"
+  },
+  "datePublished": "45874"
 }
