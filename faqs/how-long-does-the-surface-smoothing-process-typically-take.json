@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the surface smoothing process typically take?",
+  "description": "The time varies based on area size, surface condition, and method, ranging from a few hours for small areas to several days for larger or more complex projects,",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-the-surface-smoothing-process-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the surface smoothing process typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of the surface smoothing process depends on the size of the area, the current condition of the surface, and the chosen method. A small concrete slab might take a few hours for basic troweling, while grinding or applying self-leveling compounds to a larger area could take several days, including drying and curing times. Wall smoothing with plaster or drywall compound also requires multiple coats and drying time between applications, extending the overall project timeline.",
+        "description": "The time varies based on area size, surface condition, and method, ranging from a few hours for small areas to several days for larger or more complex projects, including drying times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

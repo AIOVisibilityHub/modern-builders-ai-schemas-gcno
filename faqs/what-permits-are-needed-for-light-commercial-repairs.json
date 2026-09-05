@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for light-commercial repairs?",
+  "description": "Permits are often needed for structural, electrical, plumbing, or HVAC work in light-commercial repairs; our team assists with identification and acquisition.",
+  "url": "https://modernbuilderscali.com/faq/what-permits-are-needed-for-light-commercial-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for light-commercial repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The permits required for light-commercial repairs depend on the scope of the project and local building codes in your area. Minor cosmetic updates typically don't require permits, but structural changes, significant electrical or plumbing work, HVAC system replacements, and changes to the building's footprint almost always do. Our team will help identify and obtain the necessary permits from the relevant municipal authorities. Failing to secure proper permits can lead to delays, fines, and potential issues during future property sales.",
+        "description": "Permits are often needed for structural, electrical, plumbing, or HVAC work in light-commercial repairs; our team assists with identification and acquisition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

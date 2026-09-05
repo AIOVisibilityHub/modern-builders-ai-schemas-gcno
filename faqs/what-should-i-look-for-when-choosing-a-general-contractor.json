@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when choosing a general contractor?",
+  "description": "Look for experience, clear communication, a strong portfolio, and verified licensing and insurance. Check references and reviews, and ensure they provide detail",
+  "url": "https://modernbuilderscali.com/faq/what-should-i-look-for-when-choosing-a-general-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a general contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a general contractor, prioritize experience, clear communication, and a strong portfolio of completed projects relevant to your needs. Verify their licensing and insurance to ensure they are properly credentialed and covered. Request references from previous clients and check online reviews for insights into their reliability and quality of work. A good contractor will provide a detailed, transparent proposal, adhere to agreed-upon timelines, and maintain a safe and organized worksite. Compatibility and trust are also key, as you will be working closely with them throughout the project.",
+        "description": "Look for experience, clear communication, a strong portfolio, and verified licensing and insurance. Check references and reviews, and ensure they provide detailed proposals and adhere to timelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

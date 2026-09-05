@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I schedule a design consultation?",
+  "description": "Schedule a design consultation early in your project planning, before finalizing architectural drawings, to ensure constructability and identify potential effic",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-schedule-a-design-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I schedule a design consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should schedule a design consultation as early as possible in your project planning. Ideally, this occurs before significant architectural drawings are finalized or extensive material selections are made. Early consultation allows us to identify potential efficiencies, suggest cost-saving alternatives, or highlight challenges that might impact your timeline or budget. Engaging us early ensures that constructability is considered from the outset, leading to a smoother project execution and minimizing costly revisions down the line.",
+        "description": "Schedule a design consultation early in your project planning, before finalizing architectural drawings, to ensure constructability and identify potential efficiencies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

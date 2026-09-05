@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of caulk are available, and which is best for my project?",
+  "description": "Common caulk types include acrylic latex (paintable, interior), silicone (flexible, water-resistant for wet areas/exterior), and polyurethane (durable, exterior",
+  "url": "https://modernbuilderscali.com/faq/what-types-of-caulk-are-available-and-which-is-best-for-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of caulk are available, and which is best for my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Various types of caulk are suited for different applications. Acrylic latex caulk is easy to use and paintable, ideal for interior trim. Silicone caulk offers excellent flexibility and water resistance, making it suitable for bathrooms, kitchens, and exterior use around windows, though it's not typically paintable. Polyurethane caulk provides superior durability and adhesion, often used for outdoor construction joints and areas exposed to movement. The best choice depends on the specific project's environment, required flexibility, and whether painting is needed. Consulting with a professional can help determine the most appropriate caulk.",
+        "description": "Common caulk types include acrylic latex (paintable, interior), silicone (flexible, water-resistant for wet areas/exterior), and polyurethane (durable, exterior). Choice depends on project needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

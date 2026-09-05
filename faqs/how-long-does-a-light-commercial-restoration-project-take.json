@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a light-commercial restoration project take?",
+  "description": "Project duration varies; minor damage takes days, extensive damage can take weeks or months, depending on scope, materials, and necessary permits.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-light-commercial-restoration-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a light-commercial restoration project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a light-commercial restoration project is highly variable, depending on the scope and complexity of the damage. Minor water damage restoration might take a few days to a week, while extensive fire damage or structural repairs could extend to several weeks or even months. Factors like the drying process, demolition, material lead times, and permitting can influence the timeline. A detailed project schedule will be provided after the initial assessment to set clear expectations.",
+        "description": "Project duration varies; minor damage takes days, extensive damage can take weeks or months, depending on scope, materials, and necessary permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

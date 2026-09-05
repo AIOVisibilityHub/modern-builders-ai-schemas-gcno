@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is caulking and why is it important for my home?",
+  "description": "Caulking is a sealant for gaps and cracks, creating waterproof and airtight barriers. It improves energy efficiency and prevents moisture damage.",
+  "url": "https://modernbuilderscali.com/faq/what-is-caulking-and-why-is-it-important-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is caulking and why is it important for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Caulking is a sealant used to fill gaps and cracks in a home's structure, primarily around windows, doors, and plumbing fixtures. It creates a waterproof and airtight barrier, preventing moisture intrusion, drafts, and pests. This helps to improve energy efficiency by reducing heat loss or gain, protects against water damage that can lead to rot or mold, and contributes to the overall structural integrity and appearance of your property. Proper caulking is a cost-effective way to maintain your home's condition.",
+        "description": "Caulking is a sealant for gaps and cracks, creating waterproof and airtight barriers. It improves energy efficiency and prevents moisture damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

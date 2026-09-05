@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between surface smoothing and resurfacing?",
+  "description": "Surface smoothing refines an existing surface for uniformity, while resurfacing applies a new, thicker layer to significantly alter or restore it.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-surface-smoothing-and-resurfacing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between surface smoothing and resurfacing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surface smoothing focuses on refining the existing surface to achieve a uniform texture and level. It often involves grinding, troweling, or applying a thin layer of compound to correct minor imperfections. Resurfacing, on the other hand, involves applying a new, thicker layer of material over an existing one to significantly alter or restore the surface. Resurfacing can cover more substantial damage and completely change the look or function of the original surface, providing a more comprehensive restoration.",
+        "description": "Surface smoothing refines an existing surface for uniformity, while resurfacing applies a new, thicker layer to significantly alter or restore it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

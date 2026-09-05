@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a light-commercial restoration project?",
+  "description": "The typical process involves emergency response, damage assessment, planning, remediation, reconstruction, and final inspection to restore your property.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-a-light-commercial-restoration-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a light-commercial restoration project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The restoration process typically begins with an emergency response to secure the property and prevent further damage. This is followed by a thorough damage assessment to determine the scope of work. Next, a detailed plan and estimate are prepared, often for insurance submission. Once approved, the remediation phase addresses immediate issues like water extraction or debris removal. Finally, the reconstruction phase involves rebuilding and finishing the damaged areas to their original or improved condition, followed by final inspections and client walkthroughs.",
+        "description": "The typical process involves emergency response, damage assessment, planning, remediation, reconstruction, and final inspection to restore your property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

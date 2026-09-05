@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the best type of paint for exterior house painting in Pasadena?",
+  "description": "Acrylic latex paint is often best for exterior house painting in Pasadena due to its durability and resistance to our local climate conditions.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-best-type-of-paint-for-exterior-house-painting-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best type of paint for exterior house painting in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For exterior house painting in Pasadena and surrounding areas, acrylic latex paint is generally recommended. It offers excellent durability, flexibility, and resistance to fading, cracking, and peeling, which are crucial for our local climate with warm, sunny days. While oil-based paints offer a harder finish, acrylics provide better breathability and longevity, especially on various surfaces like stucco, wood, and siding. Always consider a high-quality primer for optimal adhesion and finish.",
+        "description": "Acrylic latex paint is often best for exterior house painting in Pasadena due to its durability and resistance to our local climate conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

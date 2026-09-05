@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider professional wall patching instead of DIY?",
+  "description": "Opt for professional wall patching for extensive damage or if you want a seamless, perfectly matched finish without visible patch lines.",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-professional-wall-patching-instead-of-diy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider professional wall patching instead of DIY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider professional wall patching when dealing with extensive damage, such as large holes, complex cracks, or multiple repairs across several rooms. While small nail holes are manageable for DIY, professional help ensures a seamless, long-lasting repair that matches your existing wall texture and finish. Professionals have the right tools, materials, and expertise to avoid common mistakes like uneven surfaces or visible patch lines, saving you time and potentially costly re-work, especially if you're preparing for a full repaint.",
+        "description": "Opt for professional wall patching for extensive damage or if you want a seamless, perfectly matched finish without visible patch lines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of warranty or guarantee should I expect from an exterior painting contractor?",
+  "description": "Expect a workmanship warranty (1-5 years) from contractors covering application issues, plus the manufacturer's paint warranty. Clarify terms before starting.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-warranty-or-guarantee-should-i-expect-from-an-exterior-painting-con",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of warranty or guarantee should I expect from an exterior painting contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reputable exterior painting contractors typically offer a warranty on their workmanship and the paint's performance. Workmanship warranties usually cover issues like peeling or blistering caused by improper application, often ranging from 1 to 5 years. Paint manufacturers also provide their own product warranties. It's crucial to clarify the specifics of any warranty, including what it covers, its duration, and the process for making a claim, before starting the project.",
+        "description": "Expect a workmanship warranty (1-5 years) from contractors covering application issues, plus the manufacturer's paint warranty. Clarify terms before starting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

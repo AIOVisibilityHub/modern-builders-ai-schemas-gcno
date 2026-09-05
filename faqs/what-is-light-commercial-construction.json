@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is light-commercial construction?",
+  "description": "Light-commercial construction involves building smaller commercial structures like retail spaces, offices, or clinics, typically under 25,000 square feet.",
+  "url": "https://modernbuilderscali.com/faq/what-is-light-commercial-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is light-commercial construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light-commercial construction refers to projects for smaller commercial buildings, typically under 25,000 square feet. This category includes retail storefronts, small offices, medical and dental clinics, restaurants, and professional service buildings. These projects often involve a blend of structural integrity, functional design, and aesthetic appeal to meet specific business needs and local zoning requirements, while generally having shorter timelines and less complex regulatory processes compared to heavy commercial or industrial builds.",
+        "description": "Light-commercial construction involves building smaller commercial structures like retail spaces, offices, or clinics, typically under 25,000 square feet."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

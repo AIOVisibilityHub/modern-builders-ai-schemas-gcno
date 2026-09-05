@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between general home repair and remodeling?",
+  "description": "Repair restores existing components to original function. Remodeling changes a space's structure, function, or aesthetics.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-general-home-repair-and-remodeling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between general home repair and remodeling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General home repair focuses on restoring existing components or systems to their original, functional condition after damage, wear, or malfunction. This includes fixing a leaky pipe, repairing a damaged roof, or patching drywall. Remodeling, on the other hand, involves changing the structure, function, or aesthetics of a space, such as updating a kitchen, adding a room, or reconfiguring a bathroom layout. While both improve a home, repairs address existing problems, whereas remodeling creates new features or modernizes spaces.",
+        "description": "Repair restores existing components to original function. Remodeling changes a space's structure, function, or aesthetics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer warranties or guarantees on your new home construction?",
+  "description": "Yes, we offer comprehensive warranties on new home construction, covering structural components, major systems, and cosmetic finishes. Details are provided in o",
+  "url": "https://modernbuilderscali.com/faq/do-you-offer-warranties-or-guarantees-on-your-new-home-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer warranties or guarantees on your new home construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we stand behind the quality of our work with comprehensive warranties and guarantees on all new home construction projects. Our standard warranty typically covers structural components for a specific period, major systems (e.g., plumbing, electrical, HVAC), and cosmetic finishes for a shorter initial period. Specific warranty details are outlined in our construction contracts. This provides our clients with peace of mind, knowing that their investment is protected and that we are committed to addressing any issues that may arise post-completion.",
+        "description": "Yes, we offer comprehensive warranties on new home construction, covering structural components, major systems, and cosmetic finishes. Details are provided in our construction contracts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

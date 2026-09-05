@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is wall patching and why is it necessary?",
+  "description": "Wall patching repairs damage like holes and cracks to restore wall aesthetics and structural integrity, preparing surfaces for finishing.",
+  "url": "https://modernbuilderscali.com/faq/what-is-wall-patching-and-why-is-it-necessary",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is wall patching and why is it necessary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wall patching is the process of repairing damage to drywall, plaster, or other wall surfaces. This includes fixing holes, cracks, dents, or other imperfections. It's necessary to restore the aesthetic appeal of a wall, prevent further damage, and maintain the structural integrity of the surface. Common reasons for patching include nail pops, holes from picture hanging, impacts from moving furniture, or general wear and tear over time. Proper patching ensures a smooth, uniform surface ready for painting or wallpapering.",
+        "description": "Wall patching repairs damage like holes and cracks to restore wall aesthetics and structural integrity, preparing surfaces for finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

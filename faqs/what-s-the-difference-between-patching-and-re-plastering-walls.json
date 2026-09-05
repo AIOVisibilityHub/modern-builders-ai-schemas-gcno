@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between patching and re-plastering walls?",
+  "description": "Patching fixes small, localized damage. Re-plastering applies a new layer over a large area for a uniform finish or to cover widespread damage.",
+  "url": "https://modernbuilderscali.com/faq/what-s-the-difference-between-patching-and-re-plastering-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between patching and re-plastering walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patching refers to repairing a localized area of damage, like a hole or crack, using materials such as drywall compound or spackle. It's suitable for minor imperfections to restore a smooth surface. Re-plastering, on the other hand, involves applying a new layer of plaster or a skim coat over an entire wall or a substantial section. This is done to achieve a uniform finish, smooth out extensive texture, or cover widespread surface damage, effectively creating a new wall surface.",
+        "description": "Patching fixes small, localized damage. Re-plastering applies a new layer over a large area for a uniform finish or to cover widespread damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

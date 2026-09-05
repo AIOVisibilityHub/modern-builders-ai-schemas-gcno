@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of paint finishes are available for interior walls?",
+  "description": "Interior paint finishes range from flat (matte) for a non-reflective look to high-gloss for durability and sheen, suitable for various room types.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-paint-finishes-are-available-for-interior-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of paint finishes are available for interior walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common interior paint finishes include flat (matte), eggshell, satin, semi-gloss, and high-gloss. Flat offers a non-reflective look, while eggshell and satin provide more durability and a slight sheen, making them popular for living areas. Semi-gloss and high-gloss are highly durable and reflective, often used for trim, doors, and high-traffic areas like kitchens and bathrooms.",
+        "description": "Interior paint finishes range from flat (matte) for a non-reflective look to high-gloss for durability and sheen, suitable for various room types."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

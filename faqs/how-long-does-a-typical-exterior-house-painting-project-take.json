@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical exterior house painting project take?",
+  "description": "Exterior painting typically takes 3 days to 2 weeks, depending on house size, surface condition, and weather.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-typical-exterior-house-painting-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical exterior house painting project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an exterior house painting project varies based on the size of the house, surface condition, weather, and complexity. A smaller house (1,000-1,500 sq ft) might take 3-5 days, while a larger or more complex home could take 1-2 weeks. This includes preparation (cleaning, scraping, priming), painting multiple coats, and drying time. Our team aims for efficiency without compromising quality, keeping you informed throughout the process.",
+        "description": "Exterior painting typically takes 3 days to 2 weeks, depending on house size, surface condition, and weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

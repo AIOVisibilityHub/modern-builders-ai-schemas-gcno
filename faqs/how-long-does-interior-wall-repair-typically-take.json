@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does interior wall repair typically take?",
+  "description": "Repair time varies; small jobs take hours, while extensive repairs can take one to three days. It depends on the damage's extent and complexity.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-interior-wall-repair-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does interior wall repair typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of interior wall repair depends on the extent of the damage and the number of walls needing attention. Small patch jobs, like repairing a few nail holes or minor cracks, might take a few hours. More extensive repairs, such as large drywall sections or multiple areas with water damage, could span one to three days, including drying and finishing stages. We provide a time estimate after assessing the specific project requirements.",
+        "description": "Repair time varies; small jobs take hours, while extensive repairs can take one to three days. It depends on the damage's extent and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

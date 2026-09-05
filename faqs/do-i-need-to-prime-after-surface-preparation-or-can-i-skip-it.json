@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to prime after surface preparation, or can I skip it?",
+  "description": "Priming after surface preparation is almost always recommended to improve paint adhesion, seal surfaces, hide imperfections, and ensure a durable, uniform finis",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-to-prime-after-surface-preparation-or-can-i-skip-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to prime after surface preparation, or can I skip it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Priming after surface preparation is generally recommended and rarely advisable to skip. Primer creates a consistent base for the topcoat, improving paint adhesion, hiding minor imperfections, and sealing porous surfaces. It also helps block stains and ensures a more uniform color. Skipping primer can lead to uneven paint absorption, poor adhesion, and a less durable finish, especially when painting over bare materials or significant color changes.",
+        "description": "Priming after surface preparation is almost always recommended to improve paint adhesion, seal surfaces, hide imperfections, and ensure a durable, uniform finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost associated with professional construction project planning?",
+  "description": "Project planning cost is typically 5-15% of the total construction cost, covering design, engineering, scheduling, and permit acquisition.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-cost-associated-with-professional-construction-project-plann",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost associated with professional construction project planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of professional construction project planning is generally integrated into the overall project budget and can vary widely. It's often calculated as a percentage of the total construction cost, ranging from 5% to 15%, depending on the project's scale, complexity, and the level of detail required. For smaller projects, it might be a fixed fee. This cost covers services like architectural design, engineering, feasibility studies, detailed scheduling, budgeting, and permit acquisition, representing an investment that saves money long-term.",
+        "description": "Project planning cost is typically 5-15% of the total construction cost, covering design, engineering, scheduling, and permit acquisition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

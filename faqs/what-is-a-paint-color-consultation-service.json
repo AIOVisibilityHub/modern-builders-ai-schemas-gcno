@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a paint color consultation service?",
+  "description": "A paint color consultation helps you select the best paint colors for your space, considering lighting, furnishings, and style. It ensures a cohesive look and a",
+  "url": "https://modernbuilderscali.com/faq/what-is-a-paint-color-consultation-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a paint color consultation service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A paint color consultation service helps you choose the perfect paint colors for your home or business. Our experts assess your space, considering lighting, existing furnishings, and architectural style, to recommend a cohesive palette. This ensures that the chosen colors enhance the overall aesthetic and create the desired atmosphere, saving you time and preventing costly mistakes.",
+        "description": "A paint color consultation helps you select the best paint colors for your space, considering lighting, furnishings, and style. It ensures a cohesive look and avoids color mistakes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

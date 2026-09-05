@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does construction project management typically cost?",
+  "description": "Construction project management costs vary, often a percentage of the project total (10-20%), a fixed fee, or hourly. It provides value by preventing cost overr",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-construction-project-management-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does construction project management typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of construction project management varies widely based on the project's size, complexity, and duration. It can be a fixed fee, a percentage of the total project cost (typically 10-20%), or an hourly rate. For residential projects in areas like Pasadena, these costs factor into the overall budget. Engaging a project manager can often save money by preventing costly mistakes, optimizing schedules, and securing better pricing from suppliers and subcontractors, ultimately providing value beyond their fee.",
+        "description": "Construction project management costs vary, often a percentage of the project total (10-20%), a fixed fee, or hourly. It provides value by preventing cost overruns and optimizing resources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

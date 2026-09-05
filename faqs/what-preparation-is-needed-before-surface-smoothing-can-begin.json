@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is needed before surface smoothing can begin?",
+  "description": "Preparation includes thorough cleaning, removal of existing coatings or debris, and pre-filling any significant holes or deep cracks to ensure optimal adhesion.",
+  "url": "https://modernbuilderscali.com/faq/what-preparation-is-needed-before-surface-smoothing-can-begin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is needed before surface smoothing can begin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before surface smoothing can begin, the area must be thoroughly cleaned to remove all dirt, dust, grease, and loose debris. Any existing coatings, sealants, or adhesives that could interfere with the smoothing process need to be removed. Significant holes or deep cracks should be pre-filled and allowed to cure. The surface may also need to be degreased or profiled, depending on the material and chosen smoothing method, to ensure optimal adhesion and a quality finish.",
+        "description": "Preparation includes thorough cleaning, removal of existing coatings or debris, and pre-filling any significant holes or deep cracks to ensure optimal adhesion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is exterior coating, and how does it protect my home?",
+  "description": "Exterior coating is a durable, multi-layered protective finish for your home's exterior, offering superior resistance to weathering, UV, and moisture, extending",
+  "url": "https://modernbuilderscali.com/faq/what-is-exterior-coating-and-how-does-it-protect-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is exterior coating, and how does it protect my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior coating is a durable, multi-layered protective finish applied to the exterior surfaces of your home, typically replacing traditional paint. Unlike standard paint, these coatings are formulated with advanced resins and pigments to offer superior resistance to weathering, UV radiation, moisture, and temperature fluctuations. This creates a robust barrier that prevents water penetration, inhibits mold and mildew growth, and significantly reduces the need for frequent repainting, thereby extending the lifespan of your home's exterior and maintaining its aesthetic appeal.",
+        "description": "Exterior coating is a durable, multi-layered protective finish for your home's exterior, offering superior resistance to weathering, UV, and moisture, extending its lifespan and reducing maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

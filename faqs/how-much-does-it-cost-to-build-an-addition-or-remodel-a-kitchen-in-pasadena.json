@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build an addition or remodel a kitchen in Pasadena?",
+  "description": "Costs for additions or kitchen remodels in Pasadena vary widely based on scope, materials, and design. Kitchen remodels can range from $40,000 to over $100,000,",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-it-cost-to-build-an-addition-or-remodel-a-kitchen-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build an addition or remodel a kitchen in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of building an addition or remodeling a kitchen in Pasadena can vary greatly, depending on the scope, materials, finishes, and complexity of the design. A standard kitchen remodel might range from $40,000 to $80,000+, while a more luxurious custom kitchen could exceed $100,000. Home additions often start from $75,000 for smaller projects and can easily exceed $200,000 for multi-room expansions. These figures are estimates, and a detailed quote requires a thorough assessment of your specific project plans and selections. We provide transparent, itemized proposals after an initial consultation.",
+        "description": "Costs for additions or kitchen remodels in Pasadena vary widely based on scope, materials, and design. Kitchen remodels can range from $40,000 to over $100,000, and additions from $75,000 to over $200,000. A detailed quote is provided after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

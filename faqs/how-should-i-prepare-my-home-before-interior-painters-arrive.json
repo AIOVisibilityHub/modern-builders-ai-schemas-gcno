@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my home before interior painters arrive?",
+  "description": "Before painters arrive, clear small items, wall decor, and fragile objects. Move larger furniture to the room center and ensure clear pathways.",
+  "url": "https://modernbuilderscali.com/faq/how-should-i-prepare-my-home-before-interior-painters-arrive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my home before interior painters arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare for interior painters, clear small items, wall decor, and fragile objects from the rooms being painted. Move larger furniture to the center of the room, or remove it entirely if possible. Ensure clear pathways and inform the painting crew of any specific concerns or delicate areas. This helps streamline the process and protects your belongings.",
+        "description": "Before painters arrive, clear small items, wall decor, and fragile objects. Move larger furniture to the room center and ensure clear pathways."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

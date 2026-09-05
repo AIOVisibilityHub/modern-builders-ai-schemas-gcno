@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are exterior coatings suitable for all types of home exteriors?",
+  "description": "Exterior coatings are suitable for many home exteriors like stucco, concrete, and brick, but the specific coating and preparation needed depend on the material.",
+  "url": "https://modernbuilderscali.com/faq/are-exterior-coatings-suitable-for-all-types-of-home-exteriors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are exterior coatings suitable for all types of home exteriors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior coatings are compatible with many common home exterior materials, including stucco, concrete, brick, fiber cement, and wood. However, the specific type of coating and surface preparation may vary depending on the substrate. For instance, elastomeric coatings are excellent for stucco due to their flexibility, while other formulations might be better suited for wood or brick. It's crucial to select a coating designed for your particular exterior material to ensure optimal adhesion, performance, and longevity. An assessment by our team will confirm suitability.",
+        "description": "Exterior coatings are suitable for many home exteriors like stucco, concrete, and brick, but the specific coating and preparation needed depend on the material."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

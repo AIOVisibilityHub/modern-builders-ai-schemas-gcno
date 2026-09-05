@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for surface smoothing in the Pasadena area?",
+  "description": "Choose a contractor with specific experience, proper licensing, insurance, and good references. Review their portfolio and ensure they provide detailed estimate",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-for-surface-smoothing-in-the-pasadena-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for surface smoothing in the Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor for surface smoothing in the Pasadena area, look for companies with specific experience in the type of surface you need smoothed (e.g., concrete, plaster). Check for proper licensing, insurance, and ask for references from past clients. Review their portfolio to see examples of their finishing work. A reputable contractor will provide a detailed estimate, explain the methods they plan to use, and answer your questions thoroughly, ensuring confidence in their service.",
+        "description": "Choose a contractor with specific experience, proper licensing, insurance, and good references. Review their portfolio and ensure they provide detailed estimates for your Pasadena area project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

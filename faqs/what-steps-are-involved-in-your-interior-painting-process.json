@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in your interior painting process?",
+  "description": "Our process involves protecting furnishings, surface preparation (cleaning, sanding, patching), priming, applying two paint coats, cleanup, and final inspection",
+  "url": "https://modernbuilderscali.com/faq/what-steps-are-involved-in-your-interior-painting-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in your interior painting process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our interior painting process typically includes protecting your furniture and flooring with drop cloths, preparing surfaces by cleaning, sanding, and patching as needed, applying primer if necessary, and then two coats of high-quality paint. After painting, we conduct a thorough cleanup and a final inspection with you to ensure satisfaction.",
+        "description": "Our process involves protecting furnishings, surface preparation (cleaning, sanding, patching), priming, applying two paint coats, cleanup, and final inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

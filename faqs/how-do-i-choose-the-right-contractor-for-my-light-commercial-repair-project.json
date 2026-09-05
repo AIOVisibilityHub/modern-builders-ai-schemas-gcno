@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my light-commercial repair project?",
+  "description": "Choose a light-commercial repair contractor based on their experience, licenses, insurance, reputation, detailed bids, communication, and understanding of local",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-for-my-light-commercial-repair-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my light-commercial repair project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor involves evaluating several key factors. Look for contractors with specific experience in light-commercial projects, as commercial work often has different demands than residential. Verify their licenses, insurance, and reputation through references and reviews. Request detailed bids that clearly outline scope, materials, and costs. Consider their communication style and ability to adhere to schedules and budgets. A reliable contractor will also understand local building codes and prioritize safety and quality throughout the project duration.",
+        "description": "Choose a light-commercial repair contractor based on their experience, licenses, insurance, reputation, detailed bids, communication, and understanding of local codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

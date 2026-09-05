@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer emergency light-commercial repair services?",
+  "description": "Yes, we offer emergency light-commercial repair services for critical issues like leaks, electrical failures, or structural damage to prevent disruption.",
+  "url": "https://modernbuilderscali.com/faq/do-you-offer-emergency-light-commercial-repair-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer emergency light-commercial repair services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we understand that unexpected issues can arise in commercial properties that require immediate attention to prevent further damage or business disruption. We offer emergency light-commercial repair services for critical situations such as urgent plumbing leaks, electrical failures, structural damage, or roof breaches. Our team is equipped to respond promptly to assess the situation and implement temporary or permanent solutions to secure your property and restore essential functions. Please contact us directly for immediate assistance with your emergency repair needs.",
+        "description": "Yes, we offer emergency light-commercial repair services for critical issues like leaks, electrical failures, or structural damage to prevent disruption."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

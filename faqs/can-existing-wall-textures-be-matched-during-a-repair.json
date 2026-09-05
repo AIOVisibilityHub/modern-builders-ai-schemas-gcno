@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can existing wall textures be matched during a repair?",
+  "description": "Yes, existing wall textures can be matched during repair. Professionals use specialized tools and techniques to blend the repaired area seamlessly with the surr",
+  "url": "https://modernbuilderscali.com/faq/can-existing-wall-textures-be-matched-during-a-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can existing wall textures be matched during a repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, matching existing wall textures during a repair is a common practice, but it requires skill and experience. Techniques vary depending on the texture type, such as orange peel, knockdown, or skip trowel. Our professionals use specialized tools and application methods to blend the repaired area seamlessly with the surrounding wall texture. While achieving an exact match can be challenging due to age and wear of the existing texture, the goal is always a virtually undetectable repair that integrates smoothly with your home's aesthetic.",
+        "description": "Yes, existing wall textures can be matched during repair. Professionals use specialized tools and techniques to blend the repaired area seamlessly with the surrounding texture for an undetectable finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

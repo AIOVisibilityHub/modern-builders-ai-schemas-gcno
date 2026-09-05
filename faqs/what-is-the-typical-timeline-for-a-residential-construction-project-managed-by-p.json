@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a residential construction project managed by professionals?",
+  "description": "Project timelines vary greatly; small remodels take weeks, large additions months, and new custom homes typically 10-18 months, with professional management pro",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-timeline-for-a-residential-construction-project-managed-by-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a residential construction project managed by professionals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a residential construction project is highly dependent on its scope, from minor renovations to custom home builds. A small remodel might take a few weeks, while a major addition could extend to several months. New custom home construction typically ranges from 10-18 months, not including design and permitting phases. A professional project manager develops a detailed schedule, accounting for material lead times, subcontractor availability, inspections, and potential weather delays to provide a realistic completion estimate.",
+        "description": "Project timelines vary greatly; small remodels take weeks, large additions months, and new custom homes typically 10-18 months, with professional management providing realistic estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

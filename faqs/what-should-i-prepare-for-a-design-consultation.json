@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare for a design consultation?",
+  "description": "For a design consultation, prepare existing plans, property photos, inspiration images, and a general idea of your budget and timeline.",
+  "url": "https://modernbuilderscali.com/faq/what-should-i-prepare-for-a-design-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare for a design consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To make the most of your design consultation, come prepared with any existing architectural plans, surveys, or property photos. Gather inspiration images or a list of desired features and functionalities. It's also helpful to have a general idea of your budget and timeline. The more information you can provide about your vision, preferences, and constraints, the more tailored and effective our advice will be during the session. Don't worry if you don't have everything; we can guide you.",
+        "description": "For a design consultation, prepare existing plans, property photos, inspiration images, and a general idea of your budget and timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

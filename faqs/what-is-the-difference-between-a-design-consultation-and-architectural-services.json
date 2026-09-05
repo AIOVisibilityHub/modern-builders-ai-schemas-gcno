@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a design consultation and architectural services?",
+  "description": "A design consultation is a high-level discussion about project feasibility and direction, while architectural services involve detailed design, drafting, and pe",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-a-design-consultation-and-architectural-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a design consultation and architectural services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A design consultation is typically an initial, high-level discussion focused on project feasibility, preliminary concepts, and general direction, often provided by a builder. Architectural services involve detailed design, drafting of blueprints, structural engineering, and obtaining permits, usually performed by a licensed architect. While there can be overlap, our consultation aims to bridge the gap between your vision and constructible plans, often working in conjunction with your architect or helping you define requirements for one.",
+        "description": "A design consultation is a high-level discussion about project feasibility and direction, while architectural services involve detailed design, drafting, and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

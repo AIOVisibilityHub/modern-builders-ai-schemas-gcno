@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What common types of residential property repairs does Modern Builders handle?",
+  "description": "Modern Builders handles roof, foundation, plumbing, electrical, drywall, siding, and window repairs, as well as water damage restoration.",
+  "url": "https://modernbuilderscali.com/faq/what-common-types-of-residential-property-repairs-does-modern-builders-handle",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What common types of residential property repairs does Modern Builders handle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern Builders provides comprehensive residential repair services, addressing issues from minor wear and tear to significant structural concerns. This includes roof repairs, foundation stabilization, plumbing and electrical system updates, drywall patching, exterior siding replacement, and window and door repairs. We also handle water damage restoration and general home maintenance projects to ensure your property remains safe, functional, and aesthetically pleasing. Our goal is to provide reliable, high-quality solutions for various home repair needs.",
+        "description": "Modern Builders handles roof, foundation, plumbing, electrical, drywall, siding, and window repairs, as well as water damage restoration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

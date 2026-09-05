@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I repair a small ceiling crack versus calling a professional?",
+  "description": "Small hairline cracks can often be a DIY fix. Call a professional for cracks wider than a quarter-inch, those that extend significantly, or if there's sagging.",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-repair-a-small-ceiling-crack-versus-calling-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I repair a small ceiling crack versus calling a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can often address minor hairline cracks in ceiling plaster or drywall yourself with patching compound and paint. However, if cracks are wider than a quarter-inch, extend across the ceiling, or show signs of sagging, it's best to consult a professional. These could indicate more serious structural problems or ongoing water damage that requires expert assessment and repair to ensure safety and long-term stability.",
+        "description": "Small hairline cracks can often be a DIY fix. Call a professional for cracks wider than a quarter-inch, those that extend significantly, or if there's sagging."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

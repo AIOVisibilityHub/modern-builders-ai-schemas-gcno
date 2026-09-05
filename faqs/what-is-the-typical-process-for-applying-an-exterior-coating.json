@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for applying an exterior coating?",
+  "description": "The process includes thorough cleaning, surface repairs, primer application, and then the professional application of multiple layers of the exterior coating to",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-applying-an-exterior-coating",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for applying an exterior coating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The exterior coating application process involves several critical steps to ensure durability and adhesion. First, the existing exterior is thoroughly cleaned, and any loose paint, dirt, or mildew is removed. Next, necessary repairs such as patching cracks, filling holes, and addressing stucco damage are completed. A specialized primer is then applied to ensure optimal adhesion. Finally, one or more layers of the chosen exterior coating are professionally applied, adhering to manufacturer specifications for thickness and drying times. Each step is crucial for the coating's performance.",
+        "description": "The process includes thorough cleaning, surface repairs, primer application, and then the professional application of multiple layers of the exterior coating to ensure durability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

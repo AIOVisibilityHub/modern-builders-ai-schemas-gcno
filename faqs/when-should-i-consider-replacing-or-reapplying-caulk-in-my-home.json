@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing or reapplying caulk in my home?",
+  "description": "Replace caulk when it cracks, peels, shrinks, or discolors, indicating a compromised seal. Regular inspection helps prevent water leaks and drafts.",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-replacing-or-reapplying-caulk-in-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing or reapplying caulk in my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing or reapplying caulk when it shows signs of deterioration, such as cracking, peeling, shrinking, or discoloration. These are indicators that its sealing capabilities are compromised. Typically, caulk around windows and doors might last 3-5 years, while caulk in bathrooms or kitchens might need more frequent attention due to humidity and cleaning. Regular inspection, especially before winter or after heavy rains, can help identify failing caulk before it causes significant issues. Addressing worn caulk promptly prevents water leaks and drafts.",
+        "description": "Replace caulk when it cracks, peels, shrinks, or discolors, indicating a compromised seal. Regular inspection helps prevent water leaks and drafts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

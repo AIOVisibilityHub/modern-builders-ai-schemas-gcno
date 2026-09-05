@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What tools and materials are typically needed for basic surface preparation?",
+  "description": "Basic surface preparation typically requires cleaning supplies, scrapers, sandpaper, spackle or filler, caulk, painter's tape, drop cloths, and a suitable prime",
+  "url": "https://modernbuilderscali.com/faq/what-tools-and-materials-are-typically-needed-for-basic-surface-preparation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What tools and materials are typically needed for basic surface preparation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For basic surface preparation, you'll commonly need a range of tools and materials. These include cleaning supplies like sponges, brushes, and mild detergent for washing; scrapers and wire brushes for removing loose paint; sandpaper (various grits) for sanding; spackle or wood filler for patching holes and cracks; caulk for sealing gaps; and painter's tape and drop cloths for protection. A suitable primer is also essential for most surfaces.",
+        "description": "Basic surface preparation typically requires cleaning supplies, scrapers, sandpaper, spackle or filler, caulk, painter's tape, drop cloths, and a suitable primer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a design consultation for a construction project?",
+  "description": "A design consultation is an initial meeting to discuss your construction project vision, needs, and site, offering preliminary design and material recommendatio",
+  "url": "https://modernbuilderscali.com/faq/what-is-a-design-consultation-for-a-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a design consultation for a construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A design consultation is an initial meeting where our construction experts discuss your project vision, needs, and goals. We assess your site, review your existing plans, and offer preliminary recommendations on design, materials, and potential challenges. This session helps clarify your project scope and provides a foundation for detailed planning, ensuring your vision aligns with practical construction realities and local zoning requirements in areas like Pasadena or Oak Knoll. It's an opportunity to ask questions and understand the next steps in bringing your project to life.",
+        "description": "A design consultation is an initial meeting to discuss your construction project vision, needs, and site, offering preliminary design and material recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

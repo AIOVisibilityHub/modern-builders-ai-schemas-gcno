@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the exterior painting preparation process?",
+  "description": "Exterior painting prep involves cleaning, scraping, sanding, repairing surfaces, and caulking cracks, often followed by priming for optimal paint adhesion.",
+  "url": "https://modernbuilderscali.com/faq/what-is-involved-in-the-exterior-painting-preparation-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the exterior painting preparation process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective surface preparation is crucial for a durable exterior paint job. This typically includes pressure washing to remove dirt, mold, and mildew; scraping loose or peeling paint; sanding rough areas; and making minor repairs to stucco, wood, or siding. Any gaps or cracks are usually filled with caulk. Priming is often applied to bare surfaces or areas with significant repairs to ensure proper paint adhesion and a uniform finish. Proper prep maximizes paint longevity and appearance.",
+        "description": "Exterior painting prep involves cleaning, scraping, sanding, repairing surfaces, and caulking cracks, often followed by priming for optimal paint adhesion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

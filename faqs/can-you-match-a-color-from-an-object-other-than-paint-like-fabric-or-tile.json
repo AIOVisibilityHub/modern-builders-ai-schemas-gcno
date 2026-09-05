@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you match a color from an object other than paint, like fabric or tile?",
+  "description": "Yes, we can match paint colors from objects like fabric or tile by analyzing their chromatic data to create a custom paint formula.",
+  "url": "https://modernbuilderscali.com/faq/can-you-match-a-color-from-an-object-other-than-paint-like-fabric-or-tile",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you match a color from an object other than paint, like fabric or tile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we can often match paint colors from non-paint objects like fabric, wallpaper, or tile. Our color matching technology can analyze the chromatic data from various materials to create a custom paint formula. While the texture and reflectivity of the original object will differ from paint, we strive to capture the closest possible hue. Providing a clean, representative sample of the object helps achieve the most accurate result for your desired paint color.",
+        "description": "Yes, we can match paint colors from objects like fabric or tile by analyzing their chromatic data to create a custom paint formula."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

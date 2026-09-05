@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a custom home build or major renovation?",
+  "description": "Timelines vary; a custom home typically takes 10-18 months, while major renovations can range from 4-12 months. Project specifics, design complexity, and permit",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-timeline-for-a-custom-home-build-or-major-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a custom home build or major renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a custom home build or major renovation varies significantly based on project complexity, size, and material choices. A typical custom home can take anywhere from 10 to 18 months, encompassing design, permitting, and construction. Major renovations, such as a whole-house remodel or a significant addition, might range from 4 to 12 months. Factors like unforeseen site conditions, changes requested during construction, and permit approval times can also influence the overall duration. We provide a detailed project schedule early in the process and communicate updates regularly.",
+        "description": "Timelines vary; a custom home typically takes 10-18 months, while major renovations can range from 4-12 months. Project specifics, design complexity, and permitting influence duration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

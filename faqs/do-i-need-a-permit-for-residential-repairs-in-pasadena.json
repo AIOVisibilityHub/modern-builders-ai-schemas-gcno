@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for residential repairs in Pasadena?",
+  "description": "Permits in Pasadena are needed for structural, electrical, plumbing, or significant roofing work, but not for minor cosmetic repairs.",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-a-permit-for-residential-repairs-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for residential repairs in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether a permit is required for residential repairs in Pasadena depends on the nature and scope of the work. Minor cosmetic repairs like painting or small drywall patches typically do not require permits. However, projects involving structural changes, electrical work, plumbing modifications, significant roofing repairs or replacement, or additions often require permits from the City of Pasadena's Building Division to ensure compliance with safety and building codes. Modern Builders handles all necessary permit applications for your project.",
+        "description": "Permits in Pasadena are needed for structural, electrical, plumbing, or significant roofing work, but not for minor cosmetic repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

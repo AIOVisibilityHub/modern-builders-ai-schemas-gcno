@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common mistakes to avoid during DIY surface preparation?",
+  "description": "Avoid common DIY surface preparation mistakes like insufficient cleaning, improper sanding, neglecting repairs, skipping primer, and rushing drying times, as th",
+  "url": "https://modernbuilderscali.com/faq/what-are-common-mistakes-to-avoid-during-diy-surface-preparation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common mistakes to avoid during DIY surface preparation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common DIY surface preparation mistakes include not cleaning thoroughly enough, leaving behind dirt, grease, or mildew; failing to sand properly, which can lead to poor adhesion; not repairing cracks or holes, allowing imperfections to show through; and skipping or improperly applying primer. Rushing the drying time between cleaning, repairs, and priming is also a frequent error. These shortcuts compromise the final paint finish and its durability.",
+        "description": "Avoid common DIY surface preparation mistakes like insufficient cleaning, improper sanding, neglecting repairs, skipping primer, and rushing drying times, as these compromise the paint finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

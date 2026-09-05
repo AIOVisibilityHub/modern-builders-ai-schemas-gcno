@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you handle mold remediation in commercial buildings?",
+  "description": "Yes, we handle commercial mold remediation by identifying the source, containing it, safely removing contaminated materials, and preventing recurrence.",
+  "url": "https://modernbuilderscali.com/faq/can-you-handle-mold-remediation-in-commercial-buildings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you handle mold remediation in commercial buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, mold remediation in commercial buildings is a critical service we provide. Mold can develop rapidly after water intrusion and poses health risks and structural damage. Our process involves identifying the source of moisture, containing the affected area to prevent spread, safely removing mold-contaminated materials, and thoroughly cleaning and sanitizing the space. We also address the underlying moisture problem to prevent recurrence, restoring healthy indoor air quality and structural integrity.",
+        "description": "Yes, we handle commercial mold remediation by identifying the source, containing it, safely removing contaminated materials, and preventing recurrence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

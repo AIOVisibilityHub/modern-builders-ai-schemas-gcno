@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do to prepare my property before the painters arrive?",
+  "description": "Before painters arrive, clear the perimeter of your home by moving furniture and trimming shrubs to ensure clear access.",
+  "url": "https://modernbuilderscali.com/faq/what-should-i-do-to-prepare-my-property-before-the-painters-arrive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do to prepare my property before the painters arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before our painting crew arrives, we ask that you clear the perimeter of your home. This includes moving patio furniture, grills, potted plants, and any other items away from the exterior walls. Trim back shrubs or tree branches that are touching the house to allow for clear access. If you have pets, ensure they are secured during working hours for their safety and our crew's efficiency. We handle all masking and drop cloth placement.",
+        "description": "Before painters arrive, clear the perimeter of your home by moving furniture and trimming shrubs to ensure clear access."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

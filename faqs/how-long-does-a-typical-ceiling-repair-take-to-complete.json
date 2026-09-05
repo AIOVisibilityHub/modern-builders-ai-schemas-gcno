@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical ceiling repair take to complete?",
+  "description": "Repair times vary; small patches can take hours to a day, while extensive damage might require several days to a week due to drying times for materials.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-typical-ceiling-repair-take-to-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical ceiling repair take to complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of ceiling repair depends on the scope of the damage. Small patches for minor cracks might be completed within a few hours to a day, including drying time for patching compound and paint. Larger repairs involving extensive water damage, drywall replacement, or structural issues could take several days to a week, especially when accounting for drying times between material applications like joint compound and primer. We provide an estimated timeline during your consultation.",
+        "description": "Repair times vary; small patches can take hours to a day, while extensive damage might require several days to a week due to drying times for materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

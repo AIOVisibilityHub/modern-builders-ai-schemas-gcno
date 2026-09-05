@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a paint color consultation cost?",
+  "description": "Consultation costs vary based on project scope, number of rooms, and consultant experience. We provide transparent pricing after assessing your specific needs.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-a-paint-color-consultation-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a paint color consultation cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a paint color consultation can vary based on the scope of the project and the consultant's experience. Factors include the number of rooms, the level of detail required, and whether an in-person visit or virtual consultation is preferred. We offer transparent pricing after an initial assessment of your specific needs, providing a detailed quote upfront.",
+        "description": "Consultation costs vary based on project scope, number of rooms, and consultant experience. We provide transparent pricing after assessing your specific needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does project planning differ for residential versus commercial construction?",
+  "description": "Residential planning focuses on customization and individual needs, while commercial planning involves greater scale, complexity, and strict regulatory complian",
+  "url": "https://modernbuilderscali.com/faq/how-does-project-planning-differ-for-residential-versus-commercial-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does project planning differ for residential versus commercial construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Project planning for residential and commercial construction differs primarily in scale, complexity, and regulatory requirements. Residential projects often involve more client-specific customization and aesthetic considerations, with planning focusing on individual home features. Commercial projects, conversely, typically have larger budgets, longer timelines, and more stringent safety codes and compliance standards. Planning for commercial builds emphasizes structural integrity, public access, and specialized systems, often requiring more extensive permits and coordination with multiple stakeholders.",
+        "description": "Residential planning focuses on customization and individual needs, while commercial planning involves greater scale, complexity, and strict regulatory compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

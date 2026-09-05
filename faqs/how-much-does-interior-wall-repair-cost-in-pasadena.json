@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does interior wall repair cost in Pasadena?",
+  "description": "Interior wall repair costs in Pasadena vary greatly by damage type and extent. Small repairs might be $100-$300, while larger jobs can be much more. A detailed",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-interior-wall-repair-cost-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does interior wall repair cost in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of interior wall repair in Pasadena varies widely based on the type and extent of the damage, the materials required, and the complexity of the repair. Minor repairs, like patching small holes, might range from $100-$300. Larger jobs, such as repairing significant water damage or extensive drywall replacement, could cost several hundred to over a thousand dollars. We provide detailed, transparent quotes after an on-site assessment to accurately determine your project's specific needs and pricing.",
+        "description": "Interior wall repair costs in Pasadena vary greatly by damage type and extent. Small repairs might be $100-$300, while larger jobs can be much more. A detailed quote is provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

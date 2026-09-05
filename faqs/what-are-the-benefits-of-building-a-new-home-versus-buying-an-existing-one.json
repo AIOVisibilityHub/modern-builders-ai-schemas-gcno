@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of building a new home versus buying an existing one?",
+  "description": "Building a new home allows for custom design, better energy efficiency, and modern amenities, often coming with warranties. Existing homes may require immediate",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-benefits-of-building-a-new-home-versus-buying-an-existing-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of building a new home versus buying an existing one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a new home offers several advantages over purchasing an existing property. You gain complete control over the design, layout, and finishes, ensuring the home perfectly suits your lifestyle and preferences. New homes are often built to modern energy efficiency standards, leading to lower utility costs and a reduced environmental footprint. Additionally, new homes typically come with warranties, providing peace of mind regarding structural integrity and major systems. You avoid the need for immediate renovations and can integrate smart home technology from the start.",
+        "description": "Building a new home allows for custom design, better energy efficiency, and modern amenities, often coming with warranties. Existing homes may require immediate renovations and lack personalized features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

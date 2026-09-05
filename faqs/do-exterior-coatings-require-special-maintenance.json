@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do exterior coatings require special maintenance?",
+  "description": "Exterior coatings are low maintenance; routine cleaning with mild detergent and water, or gentle power washing, is usually sufficient to maintain their appearan",
+  "url": "https://modernbuilderscali.com/faq/do-exterior-coatings-require-special-maintenance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do exterior coatings require special maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior coatings are designed for low maintenance, significantly reducing the upkeep typically associated with painted exteriors. Routine cleaning with a mild detergent and water, or a gentle power wash, is generally sufficient to keep the surface looking fresh and to prevent dirt or environmental buildup. This simple maintenance helps preserve the coating's appearance and performance over its extended lifespan. Avoid abrasive cleaners or harsh scrubbing that could damage the surface. Modern Builders can provide specific care instructions for the coating applied to your home.",
+        "description": "Exterior coatings are low maintenance; routine cleaning with mild detergent and water, or gentle power washing, is usually sufficient to maintain their appearance and performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

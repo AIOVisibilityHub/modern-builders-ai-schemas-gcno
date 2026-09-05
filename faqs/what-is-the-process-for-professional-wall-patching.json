@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for professional wall patching?",
+  "description": "Our wall patching involves damage assessment, cleaning, applying appropriate patching materials in layers, sanding, and priming for a smooth finish.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-professional-wall-patching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for professional wall patching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our professional wall patching process begins with an assessment of the damage to determine the best repair method and materials. We then prepare the area by cleaning and removing any loose debris. For holes, we may use a patch, backing material, or mesh tape. We apply spackle or joint compound in thin, even layers, allowing each layer to dry thoroughly before sanding smooth. This process is repeated until the repair is flush with the surrounding wall. Finally, the patched area is primed, making it ready for paint.",
+        "description": "Our wall patching involves damage assessment, cleaning, applying appropriate patching materials in layers, sanding, and priming for a smooth finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I use latex or oil-based paint for my home's exterior?",
+  "description": "Latex paint is generally preferred for most exterior surfaces due to flexibility and fade resistance. Oil-based paint is durable for specific surfaces like meta",
+  "url": "https://modernbuilderscali.com/faq/should-i-use-latex-or-oil-based-paint-for-my-home-s-exterior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I use latex or oil-based paint for my home's exterior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The choice between latex (water-based) and oil-based paint for exteriors depends on the surface and desired performance. Latex paints are widely used due to their flexibility, breathability, easier cleanup, and resistance to cracking and fading. They are generally preferred for most surfaces like wood, stucco, and fiber cement. Oil-based paints offer excellent adhesion and durability on specific surfaces like metal or heavily weathered wood, but they are less flexible and can become brittle over time. Most modern exterior projects utilize high-quality latex paints.",
+        "description": "Latex paint is generally preferred for most exterior surfaces due to flexibility and fade resistance. Oil-based paint is durable for specific surfaces like metal or weathered wood."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

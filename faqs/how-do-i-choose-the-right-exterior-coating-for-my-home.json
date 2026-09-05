@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right exterior coating for my home?",
+  "description": "Choose an exterior coating by considering your home's style, surface material, desired look, and performance needs like durability and moisture resistance. Cons",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-exterior-coating-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right exterior coating for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right exterior coating involves considering several factors, including your home's architectural style, the existing surface material, your desired aesthetic, and performance requirements. Key considerations include durability, color retention, moisture resistance, and potential energy efficiency benefits. We recommend consulting with a professional to assess your specific needs and recommend suitable products. Modern Builders will guide you through options like elastomeric coatings for stucco or breathable siloxane coatings for other substrates, ensuring the best fit for your Pasadena home's unique characteristics and local climate.",
+        "description": "Choose an exterior coating by considering your home's style, surface material, desired look, and performance needs like durability and moisture resistance. Consult a professional for tailored recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer interior painting services in Pasadena, California?",
+  "description": "Yes, Modern Builders offers interior painting services throughout Pasadena, California, including surrounding neighborhoods like Old Town and Bungalow Heaven.",
+  "url": "https://modernbuilderscali.com/faq/do-you-offer-interior-painting-services-in-pasadena-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer interior painting services in Pasadena, California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Modern Builders provides comprehensive interior painting services throughout Pasadena, California, including Old Town Pasadena, East Pasadena, Bungalow Heaven, Oak Knoll, and other surrounding areas. Our local team understands the specific needs and architectural styles prevalent in the region, ensuring a tailored and high-quality finish for your home or business.",
+        "description": "Yes, Modern Builders offers interior painting services throughout Pasadena, California, including surrounding neighborhoods like Old Town and Bungalow Heaven."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

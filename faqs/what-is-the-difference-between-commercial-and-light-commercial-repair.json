@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between commercial and light-commercial repair?",
+  "description": "Light-commercial repair focuses on smaller properties like storefronts and offices, while general commercial repair includes larger, more complex non-residentia",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-commercial-and-light-commercial-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between commercial and light-commercial repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The distinction between commercial and light-commercial repair often lies in the scale, complexity, and specific nature of the property and project. Commercial repair broadly encompasses all non-residential properties, including large-scale industrial complexes, high-rise offices, and expansive retail centers. Light-commercial repair specifically focuses on smaller commercial spaces such as storefronts, small office buildings, restaurants, and multi-tenant common areas. Light-commercial projects typically involve less extensive structural work, simpler systems, and potentially fewer regulatory hurdles compared to large-scale commercial developments, often allowing for quicker turnaround times.",
+        "description": "Light-commercial repair focuses on smaller properties like storefronts and offices, while general commercial repair includes larger, more complex non-residential projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

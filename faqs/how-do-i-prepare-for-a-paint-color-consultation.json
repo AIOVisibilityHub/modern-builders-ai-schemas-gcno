@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare for a paint color consultation?",
+  "description": "Prepare by gathering inspiration photos and considering the desired mood for each room. Also, note any existing furnishings or decor that will remain.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-prepare-for-a-paint-color-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare for a paint color consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare, gather any inspiration photos or ideas you have, such as images from magazines or online. Think about your desired mood for each room and any existing furniture, artwork, or textiles that will remain. This information helps our consultant understand your vision and narrow down suitable color options more efficiently.",
+        "description": "Prepare by gathering inspiration photos and considering the desired mood for each room. Also, note any existing furnishings or decor that will remain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

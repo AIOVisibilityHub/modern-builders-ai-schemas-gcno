@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is surface smoothing in construction?",
+  "description": "Surface smoothing is a construction finishing process to create a uniform, level, and aesthetically pleasing surface by removing imperfections and creating a co",
+  "url": "https://modernbuilderscali.com/faq/what-is-surface-smoothing-in-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is surface smoothing in construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surface smoothing is a finishing process applied to construction surfaces, typically concrete or plaster, to achieve a uniform, level, and aesthetically pleasing finish. This involves using tools and techniques to remove imperfections, fill small voids, and create a consistent texture. It prepares the surface for subsequent treatments like painting, flooring, or sealing, ensuring better adhesion and a professional appearance. The specific method depends on the material and desired outcome.",
+        "description": "Surface smoothing is a construction finishing process to create a uniform, level, and aesthetically pleasing surface by removing imperfections and creating a consistent texture."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

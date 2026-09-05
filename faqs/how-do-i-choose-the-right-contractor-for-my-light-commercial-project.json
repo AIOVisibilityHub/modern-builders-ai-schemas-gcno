@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my light-commercial project?",
+  "description": "Choose a contractor with relevant experience, strong references, proper licensing, clear communication, and a transparent bidding process.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-for-my-light-commercial-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my light-commercial project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a contractor for your light-commercial project, prioritize experience in similar commercial builds, strong references, and a clear communication style. Look for a contractor with a proven track record, proper licensing and insurance, and a transparent bidding process. Review their portfolio, understand their project management approach, and ensure they align with your project's goals and budget. A good contractor will also demonstrate a solid understanding of local building codes and permitting processes.",
+        "description": "Choose a contractor with relevant experience, strong references, proper licensing, clear communication, and a transparent bidding process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

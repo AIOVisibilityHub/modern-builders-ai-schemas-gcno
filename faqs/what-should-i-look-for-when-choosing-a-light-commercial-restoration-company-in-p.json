@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when choosing a light-commercial restoration company in Pasadena?",
+  "description": "Look for experience with commercial properties, relevant certifications, insurance, strong local reputation, and comprehensive services, especially in the Pasad",
+  "url": "https://modernbuilderscali.com/faq/what-should-i-look-for-when-choosing-a-light-commercial-restoration-company-in-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a light-commercial restoration company in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a restoration company in Pasadena, prioritize experience with commercial properties and local building codes. Look for companies with relevant certifications (e.g., IICRC for water or fire damage), proof of insurance, and a strong track record of successful projects. Check client testimonials and ensure they offer comprehensive services, from emergency response to reconstruction, and can assist with insurance claims. Proximity and knowledge of the Pasadena area are also beneficial for quick response times.",
+        "description": "Look for experience with commercial properties, relevant certifications, insurance, strong local reputation, and comprehensive services, especially in the Pasadena area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

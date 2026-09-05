@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes common ceiling damage?",
+  "description": "Common causes of ceiling damage include water leaks, structural issues, mold, and general wear. Identifying the cause helps ensure proper repair.",
+  "url": "https://modernbuilderscali.com/faq/what-causes-common-ceiling-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes common ceiling damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ceiling damage can result from various issues, including water leaks from plumbing or the roof, foundation shifts leading to cracks, poor ventilation causing mold or mildew, or even improper installation of drywall. Everyday wear and tear, impacts, or pest activity can also contribute to ceiling problems. Identifying the root cause is crucial for effective repair and preventing future recurrence.",
+        "description": "Common causes of ceiling damage include water leaks, structural issues, mold, and general wear. Identifying the cause helps ensure proper repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

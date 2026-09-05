@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can wall patching help with minor cracks due to settling?",
+  "description": "Wall patching can fix minor hairline cracks from house settling using flexible compounds, but larger or persistent cracks need prior inspection.",
+  "url": "https://modernbuilderscali.com/faq/can-wall-patching-help-with-minor-cracks-due-to-settling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can wall patching help with minor cracks due to settling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, wall patching can effectively address minor cracks that result from typical house settling. These are usually hairline cracks that don't indicate structural instability. We apply flexible patching compounds designed to accommodate slight movements, helping to prevent the cracks from reappearing quickly. However, it's important to differentiate between minor settling cracks and larger, widening cracks that could signal a more significant structural issue. For persistent or severe cracking, we recommend a thorough inspection to determine the underlying cause before proceeding with repairs.",
+        "description": "Wall patching can fix minor hairline cracks from house settling using flexible compounds, but larger or persistent cracks need prior inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

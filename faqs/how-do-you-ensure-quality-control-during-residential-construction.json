@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you ensure quality control during residential construction?",
+  "description": "We ensure quality through regular site inspections, adherence to building codes, use of vetted subcontractors and quality materials, and transparent client comm",
+  "url": "https://modernbuilderscali.com/faq/how-do-you-ensure-quality-control-during-residential-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure quality control during residential construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quality control is integral to every stage of our residential construction projects. We implement a rigorous oversight process that includes regular site inspections by project managers, adherence to detailed construction schedules, and strict compliance with all building codes and industry standards. We partner with vetted subcontractors who share our commitment to craftsmanship and use high-quality, durable materials. Regular communication with clients and transparent progress reporting also help ensure that the final product meets or exceeds expectations for both quality and design.",
+        "description": "We ensure quality through regular site inspections, adherence to building codes, use of vetted subcontractors and quality materials, and transparent client communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for professional caulking around windows and doors?",
+  "description": "Professional caulking involves removing old caulk, cleaning surfaces, selecting appropriate caulk, applying an even bead, and tooling for a clean finish, ensuri",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-professional-caulking-around-windows-and-doors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for professional caulking around windows and doors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for professional caulking around windows and doors typically begins with thorough surface preparation. This involves carefully removing all old caulk, cleaning the surfaces to eliminate dirt, dust, and debris, and ensuring they are completely dry. Next, the professional selects the appropriate type of caulk for the specific application, considering factors like material compatibility and desired flexibility. The caulk is then applied smoothly and consistently into the joint using a caulk gun, ensuring a continuous, even bead. Finally, the bead is tooled for a clean finish and optimal adhesion. This meticulous approach ensures a long-lasting, effective seal.",
+        "description": "Professional caulking involves removing old caulk, cleaning surfaces, selecting appropriate caulk, applying an even bead, and tooling for a clean finish, ensuring a durable seal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

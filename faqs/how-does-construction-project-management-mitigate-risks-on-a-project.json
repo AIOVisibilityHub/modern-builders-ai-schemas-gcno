@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does construction project management mitigate risks on a project?",
+  "description": "Project management mitigates risks by proactively identifying potential issues, assessing their impact, and developing contingency plans to prevent delays, cost",
+  "url": "https://modernbuilderscali.com/faq/how-does-construction-project-management-mitigate-risks-on-a-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does construction project management mitigate risks on a project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Construction project management mitigates risks through proactive identification, assessment, and development of contingency plans. This involves analyzing potential issues like budget overruns, schedule delays, material shortages, safety hazards, and regulatory non-compliance. A project manager implements strategies such as detailed planning, clear communication protocols, robust contract management, and continuous monitoring to address these risks before they escalate. By anticipating problems and having solutions in place, they help keep the project on track and protect the client's investment.",
+        "description": "Project management mitigates risks by proactively identifying potential issues, assessing their impact, and developing contingency plans to prevent delays, cost overruns, and other problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

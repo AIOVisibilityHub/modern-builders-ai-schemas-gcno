@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a design consultation cost?",
+  "description": "The cost of a design consultation varies by project complexity. Some initial consultations are complimentary, while in-depth sessions may have a fee, which we w",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-a-design-consultation-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a design consultation cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a design consultation varies depending on the project's complexity and scope. Some initial consultations may be complimentary for a basic overview, while more in-depth sessions requiring site visits and preliminary conceptual work will have a fee. We provide transparent pricing upfront, discussing any potential charges before scheduling. Our aim is to ensure you receive valuable insights that help you make informed decisions about your investment, whether it's a renovation in Bungalow Heaven or a new build.",
+        "description": "The cost of a design consultation varies by project complexity. Some initial consultations are complimentary, while in-depth sessions may have a fee, which we will discuss upfront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

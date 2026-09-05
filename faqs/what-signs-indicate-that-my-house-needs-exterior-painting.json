@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What signs indicate that my house needs exterior painting?",
+  "description": "Signs your house needs exterior painting include peeling, cracking, blistering, fading paint, chalking, and visible mold or rot on surfaces.",
+  "url": "https://modernbuilderscali.com/faq/what-signs-indicate-that-my-house-needs-exterior-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What signs indicate that my house needs exterior painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several indicators suggest your home needs a new exterior paint job. These include visible peeling, cracking, or blistering paint, which can expose the underlying material to weather damage. Fading colors, especially on sun-exposed sides, reduce curb appeal. Chalking, where a powdery residue comes off when touched, indicates paint breakdown. Additionally, mold, mildew, or rot on wood surfaces beneath the paint can signify moisture intrusion and the need for immediate attention alongside repainting.",
+        "description": "Signs your house needs exterior painting include peeling, cracking, blistering, fading paint, chalking, and visible mold or rot on surfaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

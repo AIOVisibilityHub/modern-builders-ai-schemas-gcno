@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do Modern Builders serve for general building services?",
+  "description": "Modern Builders serves Pasadena, Old Town Pasadena, East Pasadena, Bungalow Heaven, Oak Knoll, and other surrounding areas within the greater Los Angeles metrop",
+  "url": "https://modernbuilderscali.com/faq/what-areas-do-modern-builders-serve-for-general-building-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do Modern Builders serve for general building services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern Builders primarily serves a wide range of communities including Pasadena, Old Town Pasadena, East Pasadena, Bungalow Heaven, Oak Knoll, and other surrounding areas in the greater Los Angeles metropolitan region. Our service footprint extends across many cities and neighborhoods in Los Angeles County, covering locations from the San Gabriel Valley to parts of the Inland Empire. We focus on providing local expertise with broad reach, ensuring we can cater to clients throughout our established service map with reliable and high-quality building solutions.",
+        "description": "Modern Builders serves Pasadena, Old Town Pasadena, East Pasadena, Bungalow Heaven, Oak Knoll, and other surrounding areas within the greater Los Angeles metropolitan region."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

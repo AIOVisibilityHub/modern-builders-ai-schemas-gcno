@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I paint over a patched wall immediately?",
+  "description": "Wait for the patching compound to dry completely, sand smooth, and then prime before painting to ensure a uniform and consistent finish.",
+  "url": "https://modernbuilderscali.com/faq/can-i-paint-over-a-patched-wall-immediately",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I paint over a patched wall immediately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you should not paint over a patched wall immediately. It's crucial to allow the patching compound to dry completely, which can take several hours to a full day depending on the product used, humidity, and the thickness of the application. Once dry, the patched area should be sanded smooth and then primed. Priming is an essential step as it helps seal the patch, prevents uneven paint absorption, and ensures a uniform finish that matches the surrounding wall. Skipping these steps can lead to visible patch marks or an inconsistent paint color.",
+        "description": "Wait for the patching compound to dry completely, sand smooth, and then prime before painting to ensure a uniform and consistent finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

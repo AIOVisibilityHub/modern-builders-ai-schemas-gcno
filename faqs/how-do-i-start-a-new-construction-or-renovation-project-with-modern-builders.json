@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I start a new construction or renovation project with Modern Builders?",
+  "description": "Begin by scheduling an initial consultation to discuss your project needs and budget. We then prepare a detailed proposal and manage the project from design and",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-start-a-new-construction-or-renovation-project-with-modern-builders",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I start a new construction or renovation project with Modern Builders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Starting a project with Modern Builders typically begins with an initial consultation to discuss your vision, requirements, and budget. During this meeting, we gather essential details and answer any preliminary questions. Following the consultation, we develop a detailed proposal outlining the scope of work, timeline, and cost estimates. Once approved, we assist with design finalization, permitting, and then proceed with construction. Our team manages the project from conception to completion, ensuring clear communication and adherence to timelines and quality standards.",
+        "description": "Begin by scheduling an initial consultation to discuss your project needs and budget. We then prepare a detailed proposal and manage the project from design and permits through construction completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

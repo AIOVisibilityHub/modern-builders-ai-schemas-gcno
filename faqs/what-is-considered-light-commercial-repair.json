@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered light-commercial repair?",
+  "description": "Light-commercial repair covers maintenance and renovation for smaller business properties like retail, offices, and restaurants to keep them functional and appe",
+  "url": "https://modernbuilderscali.com/faq/what-is-considered-light-commercial-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered light-commercial repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light-commercial repair typically involves maintenance, renovation, or restoration services for smaller commercial properties. This can include retail spaces, offices, restaurants, multi-family housing common areas, and light industrial buildings. Services often cover interior and exterior improvements, structural repairs, electrical and plumbing updates, roofing, and general upkeep to ensure the property remains functional, safe, and appealing for business operations. Unlike heavy commercial construction, light-commercial projects usually have a smaller scale and less complex regulatory requirements.",
+        "description": "Light-commercial repair covers maintenance and renovation for smaller business properties like retail, offices, and restaurants to keep them functional and appealing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

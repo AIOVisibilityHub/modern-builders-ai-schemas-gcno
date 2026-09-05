@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer emergency restoration services for businesses in Pasadena?",
+  "description": "Yes, we offer 24/7 emergency restoration services for businesses in Pasadena, responding quickly to mitigate damage from unexpected disasters.",
+  "url": "https://modernbuilderscali.com/faq/do-you-offer-emergency-restoration-services-for-businesses-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer emergency restoration services for businesses in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide 24/7 emergency restoration services for businesses throughout Pasadena and the surrounding areas. Unexpected disasters like burst pipes, fires, or storm damage can strike at any time, requiring immediate attention to mitigate further loss and secure your property. Our emergency teams are equipped to respond quickly, assess the situation, and initiate critical steps such as water extraction, board-ups, or debris removal to protect your commercial asset.",
+        "description": "Yes, we offer 24/7 emergency restoration services for businesses in Pasadena, responding quickly to mitigate damage from unexpected disasters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

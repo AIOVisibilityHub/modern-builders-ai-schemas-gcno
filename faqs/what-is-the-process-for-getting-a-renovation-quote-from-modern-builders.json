@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for getting a renovation quote from Modern Builders?",
+  "description": "Contact us for an initial consultation, followed by a site visit to discuss your vision, budget, and scope. We'll then provide a detailed proposal including cos",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-getting-a-renovation-quote-from-modern-builders",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for getting a renovation quote from Modern Builders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get a renovation quote from Modern Builders, start by contacting us via our website or phone to schedule an initial consultation. During this meeting, we'll discuss your vision, project goals, budget, and timeline. We'll then conduct a site visit to assess the existing conditions and gather necessary measurements. Following this, our team will develop a detailed proposal outlining the scope of work, material allowances, projected costs, and an estimated timeline. We'll review this proposal with you to ensure it aligns with your expectations before proceeding.",
+        "description": "Contact us for an initial consultation, followed by a site visit to discuss your vision, budget, and scope. We'll then provide a detailed proposal including costs and timelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

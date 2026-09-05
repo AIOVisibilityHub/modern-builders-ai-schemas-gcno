@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost associated with paint color matching services in Pasadena?",
+  "description": "Costs for paint color matching in Pasadena vary by complexity and quantity. It can be a standalone fee or integrated into larger project estimates.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-cost-associated-with-paint-color-matching-services-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost associated with paint color matching services in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of paint color matching services in Pasadena varies depending on the complexity of the color, the quantity of paint needed, and whether it's part of a larger painting project. Standalone color matching for a small quantity might incur a service fee in addition to the paint cost, typically ranging from a small charge at a paint store to a more comprehensive fee for specialized analysis by a contractor. For larger projects with Modern Builders, color matching is often integrated into the overall painting estimate, ensuring a seamless and efficient process.",
+        "description": "Costs for paint color matching in Pasadena vary by complexity and quantity. It can be a standalone fee or integrated into larger project estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

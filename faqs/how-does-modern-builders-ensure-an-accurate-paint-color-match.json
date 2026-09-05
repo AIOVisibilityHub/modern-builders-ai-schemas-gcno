@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Modern Builders ensure an accurate paint color match?",
+  "description": "Modern Builders uses spectrophotometry and test swatches in natural light to ensure an accurate paint color match.",
+  "url": "https://modernbuilderscali.com/faq/how-does-modern-builders-ensure-an-accurate-paint-color-match",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Modern Builders ensure an accurate paint color match?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Modern Builders, we achieve accurate paint color matching by using professional-grade tools and experienced painters. Our process typically involves obtaining a sample of the existing paint, which is then analyzed using spectrophotometry. This technology identifies the exact pigment ratios. We then create a custom mix, performing test swatches in the actual lighting conditions of your property to ensure the match is precise before full application. Our painters are skilled in adjusting for factors like aging or fading of the original paint.",
+        "description": "Modern Builders uses spectrophotometry and test swatches in natural light to ensure an accurate paint color match."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

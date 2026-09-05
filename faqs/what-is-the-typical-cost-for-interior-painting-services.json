@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for interior painting services?",
+  "description": "Interior painting costs depend on square footage, room count, paint type, and surface preparation. A detailed estimate follows a site assessment.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-cost-for-interior-painting-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for interior painting services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior painting costs are determined by factors such as square footage, the number of rooms, the type of paint used, surface preparation required, and architectural details. A detailed estimate is provided after a site visit to accurately assess the scope of work. We aim to offer competitive pricing for quality craftsmanship.",
+        "description": "Interior painting costs depend on square footage, room count, paint type, and surface preparation. A detailed estimate follows a site assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

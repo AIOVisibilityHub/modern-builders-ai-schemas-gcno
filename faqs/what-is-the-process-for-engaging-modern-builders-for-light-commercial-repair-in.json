@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for engaging Modern Builders for light-commercial repair in Pasadena?",
+  "description": "Our process involves an initial consultation, on-site assessment, detailed proposal, and then execution of repairs with regular communication in Pasadena.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-engaging-modern-builders-for-light-commercial-repair-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for engaging Modern Builders for light-commercial repair in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Engaging Modern Builders for light-commercial repair in Pasadena typically begins with an initial consultation to discuss your specific needs and project goals. We then conduct a thorough on-site assessment of the property to understand the scope of work, identify potential challenges, and gather necessary details. Following the assessment, we prepare a detailed proposal and estimate outlining the recommended services, materials, timeline, and costs. Once approved, we coordinate permits if required, schedule the work, and our experienced team executes the repairs with minimal disruption to your operations. Regular communication is maintained throughout the project.",
+        "description": "Our process involves an initial consultation, on-site assessment, detailed proposal, and then execution of repairs with regular communication in Pasadena."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

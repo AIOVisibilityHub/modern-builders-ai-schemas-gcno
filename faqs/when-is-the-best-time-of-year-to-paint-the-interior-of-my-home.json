@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time of year to paint the interior of my home?",
+  "description": "Interior painting can be done year-round, but some prefer cooler months to minimize humidity impact on drying times.",
+  "url": "https://modernbuilderscali.com/faq/when-is-the-best-time-of-year-to-paint-the-interior-of-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time of year to paint the interior of my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior painting can be done year-round, as it is not as dependent on weather as exterior painting. However, many prefer cooler months to avoid humidity, which can affect drying times. Good ventilation is key regardless of the season. Our team can work efficiently in any season with proper climate control measures.",
+        "description": "Interior painting can be done year-round, but some prefer cooler months to minimize humidity impact on drying times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

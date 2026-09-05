@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why use Modern Builders for a paint color consultation in Pasadena?",
+  "description": "Modern Builders offers local color expertise in Pasadena, understanding specific architectural styles and lighting. We provide tailored advice for your property",
+  "url": "https://modernbuilderscali.com/faq/why-use-modern-builders-for-a-paint-color-consultation-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why use Modern Builders for a paint color consultation in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern Builders provides local expertise in Pasadena, including areas like Old Town Pasadena, Bungalow Heaven, and Oak Knoll. Our consultants understand the specific architectural styles and lighting conditions prevalent in these neighborhoods. We offer tailored color advice that respects the local aesthetic while aligning with your personal preferences and the unique characteristics of your property.",
+        "description": "Modern Builders offers local color expertise in Pasadena, understanding specific architectural styles and lighting. We provide tailored advice for your property's unique characteristics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

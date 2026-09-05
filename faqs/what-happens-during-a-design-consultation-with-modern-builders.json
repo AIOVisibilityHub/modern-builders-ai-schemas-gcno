@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens during a design consultation with Modern Builders?",
+  "description": "During a consultation, we discuss your goals, review documents, offer design feedback, and outline construction approaches, materials, and timelines.",
+  "url": "https://modernbuilderscali.com/faq/what-happens-during-a-design-consultation-with-modern-builders",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens during a design consultation with Modern Builders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During a design consultation, our team will meet with you to understand your project goals and preferences. We'll review any existing documentation, discuss site-specific considerations, and offer preliminary design feedback. We will also outline potential construction approaches, material options, and an estimated timeline. This session is interactive, allowing you to ask questions and receive expert guidance tailored to your specific project needs. It concludes with a clear understanding of the next steps and how Modern Builders can further assist you.",
+        "description": "During a consultation, we discuss your goals, review documents, offer design feedback, and outline construction approaches, materials, and timelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

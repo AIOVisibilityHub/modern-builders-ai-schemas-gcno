@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be home during the house painting process?",
+  "description": "You don't need to be home constantly, but we'll need exterior access and recommend being available for initial consultations and final walkthroughs.",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-to-be-home-during-the-house-painting-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be home during the house painting process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You do not necessarily need to be home for the entire duration of the exterior house painting project. Our team will need access to the exterior of your property, including water and electrical outlets. Many clients prefer to be present for the initial consultation, color selection, and a final walkthrough. We ensure clear communication throughout the project, providing updates and addressing any concerns, whether you are on-site or away.",
+        "description": "You don't need to be home constantly, but we'll need exterior access and recommend being available for initial consultations and final walkthroughs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical commercial painting project take?",
+  "description": "Project duration varies by size, complexity, and specific requirements; smaller projects take days, larger ones weeks.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-typical-commercial-painting-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical commercial painting project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a commercial painting project varies significantly based on its size, complexity, and specific requirements. Smaller interior projects might take a few days, while large-scale exteriors or multi-building complexes could extend to several weeks. Factors like weather conditions, the need for extensive surface preparation, and whether work must be conducted during off-hours to minimize business disruption also play a role. A professional contractor will provide a detailed timeline after assessing the project scope.",
+        "description": "Project duration varies by size, complexity, and specific requirements; smaller projects take days, larger ones weeks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

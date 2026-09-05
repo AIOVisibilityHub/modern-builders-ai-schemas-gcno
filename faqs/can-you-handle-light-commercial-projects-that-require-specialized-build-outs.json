@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you handle light-commercial projects that require specialized build-outs?",
+  "description": "We handle specialized light-commercial build-outs for medical offices, restaurants, and other businesses with unique operational needs.",
+  "url": "https://modernbuilderscali.com/faq/can-you-handle-light-commercial-projects-that-require-specialized-build-outs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you handle light-commercial projects that require specialized build-outs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we specialize in light-commercial construction projects that demand specialized build-outs. This includes creating functional and compliant spaces for medical offices, dental clinics, restaurants with commercial kitchens, and other businesses with unique operational requirements. Our team works closely with clients and their designers to integrate specialized equipment, systems, and finishes while adhering to all relevant health, safety, and industry-specific regulations to ensure a successful and compliant build.",
+        "description": "We handle specialized light-commercial build-outs for medical offices, restaurants, and other businesses with unique operational needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

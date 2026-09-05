@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does wall patching typically take?",
+  "description": "Patching time varies with damage size and type. Small fixes are quick, while larger repairs with drying time can take hours or a full day.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-wall-patching-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does wall patching typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of wall patching depends on the size and number of repairs, as well as the type of material. Small nail holes might take minutes to fill and sand, while larger areas requiring multiple coats of compound and drying time could extend over several hours or even a day, especially when accounting for drying time between coats. Our team strives for efficient completion while ensuring quality results. We will provide a more accurate time estimate after assessing your specific repair needs.",
+        "description": "Patching time varies with damage size and type. Small fixes are quick, while larger repairs with drying time can take hours or a full day."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

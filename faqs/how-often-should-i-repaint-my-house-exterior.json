@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I repaint my house exterior?",
+  "description": "Exterior paint typically lasts 5-10 years, depending on paint quality, weather exposure, and materials; inspect for signs of wear.",
+  "url": "https://modernbuilderscali.com/faq/how-often-should-i-repaint-my-house-exterior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I repaint my house exterior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The frequency of exterior repainting depends on several factors, including the quality of the previous paint job, the type of paint used, weather exposure, and the materials your home is made of. Generally, a good quality exterior paint job can last between 5-10 years. Homes exposed to harsh sun or moisture might need repainting sooner. Regular inspections for peeling, cracking, or fading can help determine the best time to refresh your home's exterior.",
+        "description": "Exterior paint typically lasts 5-10 years, depending on paint quality, weather exposure, and materials; inspect for signs of wear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

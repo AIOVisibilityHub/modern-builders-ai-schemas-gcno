@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my ceiling damage indicates a structural problem?",
+  "description": "Signs of structural issues include long, continuous cracks, sagging ceilings, sticking doors/windows, uneven floors, or recurring water stains. Professional ass",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-know-if-my-ceiling-damage-indicates-a-structural-problem",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my ceiling damage indicates a structural problem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several signs can point to a structural issue rather than just cosmetic damage. These include long, continuous cracks running across the ceiling or down walls, sagging or bowing in the ceiling, doors or windows that stick, or floors that feel uneven. Water stains that reappear even after fixing a leak could also suggest a deeper issue. If you observe any of these, it's crucial to have a structural engineer or experienced contractor assess the situation.",
+        "description": "Signs of structural issues include long, continuous cracks, sagging ceilings, sticking doors/windows, uneven floors, or recurring water stains. Professional assessment is recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

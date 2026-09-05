@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you work with existing architectural plans or do you provide design services?",
+  "description": "We can work with your existing architectural plans or provide comprehensive design-build services, collaborating with architects to create custom plans that fit",
+  "url": "https://modernbuilderscali.com/faq/can-you-work-with-existing-architectural-plans-or-do-you-provide-design-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you work with existing architectural plans or do you provide design services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern Builders is flexible and capable of working with your existing architectural plans if you already have them. Our team will review your designs to ensure feasibility and provide construction estimates based on your specifications. Alternatively, if you are starting from scratch or need assistance refining your vision, we offer comprehensive design-build services. This includes collaborating with trusted architects and designers to develop custom plans that perfectly align with your aesthetic preferences, functional requirements, and budget. Our goal is to bring your vision to life, whether through your plans or our integrated design process.",
+        "description": "We can work with your existing architectural plans or provide comprehensive design-build services, collaborating with architects to create custom plans that fit your vision and budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

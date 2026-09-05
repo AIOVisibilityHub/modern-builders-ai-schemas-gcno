@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can ceiling cracks affect the air quality in my home?",
+  "description": "Minor cracks generally don't affect air quality. However, larger cracks linked to water damage can lead to mold growth, releasing spores and impacting respirato",
+  "url": "https://modernbuilderscali.com/faq/can-ceiling-cracks-affect-the-air-quality-in-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can ceiling cracks affect the air quality in my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While a simple hairline crack in a ceiling typically won't directly impact air quality, larger cracks, especially those associated with water damage, can. Water infiltration creates an environment ripe for mold and mildew growth, which can release spores into the air and cause respiratory issues or allergic reactions. Additionally, structural cracks might allow pests or insulation fibers into living spaces. Addressing these issues promptly is important for maintaining healthy indoor air.",
+        "description": "Minor cracks generally don't affect air quality. However, larger cracks linked to water damage can lead to mold growth, releasing spores and impacting respiratory health. Prompt repair maintains healthy indoor air."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

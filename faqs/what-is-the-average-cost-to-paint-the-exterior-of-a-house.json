@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost to paint the exterior of a house?",
+  "description": "Exterior house painting costs vary widely based on house size, surface condition, paint type, and necessary repairs.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-average-cost-to-paint-the-exterior-of-a-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost to paint the exterior of a house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of exterior house painting can vary significantly based on several factors, including the size and height of your home, the condition of the existing surfaces, the type of paint chosen, and the amount of preparation required. Minor repairs, extensive scraping, or intricate architectural details can increase labor and material costs. We provide detailed, transparent quotes after an on-site assessment to give you an accurate estimate tailored to your specific project needs.",
+        "description": "Exterior house painting costs vary widely based on house size, surface condition, paint type, and necessary repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

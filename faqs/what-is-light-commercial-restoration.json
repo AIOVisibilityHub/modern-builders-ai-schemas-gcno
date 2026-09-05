@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is light-commercial restoration?",
+  "description": "Light-commercial restoration repairs smaller commercial properties after damage, aiming to restore them to pre-loss condition and ensure they meet current build",
+  "url": "https://modernbuilderscali.com/faq/what-is-light-commercial-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is light-commercial restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light-commercial restoration involves repairing and rebuilding commercial properties after damage from events like fires, floods, or storms. Unlike heavy commercial projects, it typically focuses on smaller buildings such as offices, retail spaces, or multi-tenant facilities. The goal is to restore the property to its pre-damage condition, ensuring it meets current building codes and business operational needs. This often includes structural repairs, interior finishes, and systems restoration like HVAC or plumbing, minimizing downtime for the business.",
+        "description": "Light-commercial restoration repairs smaller commercial properties after damage, aiming to restore them to pre-loss condition and ensure they meet current building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

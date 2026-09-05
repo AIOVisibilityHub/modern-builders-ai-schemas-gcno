@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my commercial insurance cover light-commercial restoration services?",
+  "description": "Yes, most commercial property insurance policies cover light-commercial restoration services; review your policy and report claims promptly.",
+  "url": "https://modernbuilderscali.com/faq/will-my-commercial-insurance-cover-light-commercial-restoration-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my commercial insurance cover light-commercial restoration services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most commercial property insurance policies are designed to cover damage from various perils, including those necessitating light-commercial restoration. This typically includes damage from fires, storms, burst pipes, and vandalism, depending on your specific coverage. It's crucial to review your policy details, understand your deductibles, and report the claim promptly. A professional restoration company can often work directly with your insurer, providing necessary documentation and estimates to facilitate the claims process.",
+        "description": "Yes, most commercial property insurance policies cover light-commercial restoration services; review your policy and report claims promptly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

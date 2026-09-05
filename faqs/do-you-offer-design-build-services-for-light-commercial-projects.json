@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer design-build services for light-commercial projects?",
+  "description": "Yes, we provide design-build services, combining design and construction under one contract for streamlined project delivery.",
+  "url": "https://modernbuilderscali.com/faq/do-you-offer-design-build-services-for-light-commercial-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer design-build services for light-commercial projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer comprehensive design-build services for light-commercial projects. This integrated approach combines architectural design and construction services under a single contract, streamlining communication and accountability. The design-build model fosters collaboration between the client, designer, and contractor from the project's inception, often resulting in faster project completion, cost efficiencies, and a more cohesive overall process compared to traditional design-bid-build methods.",
+        "description": "Yes, we provide design-build services, combining design and construction under one contract for streamlined project delivery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

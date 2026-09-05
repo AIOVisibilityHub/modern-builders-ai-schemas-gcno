@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are used for wall patching?",
+  "description": "Wall patching uses spackle, joint compound, and sometimes mesh tape or drywall patches, depending on the damage and wall type.",
+  "url": "https://modernbuilderscali.com/faq/what-materials-are-used-for-wall-patching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are used for wall patching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common materials for wall patching include various types of spackle, joint compound (also known as drywall mud), and patching plaster. For larger holes, mesh tape, drywall patches, or even backing boards might be used to provide stability. The choice of material depends on the size and depth of the damage, as well as the original wall material. We select high-quality, durable materials appropriate for each specific repair to ensure a long-lasting and smooth finish that integrates seamlessly with your existing walls.",
+        "description": "Wall patching uses spackle, joint compound, and sometimes mesh tape or drywall patches, depending on the damage and wall type."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

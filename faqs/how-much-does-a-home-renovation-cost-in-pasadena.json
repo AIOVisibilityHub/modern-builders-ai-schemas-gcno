@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a home renovation cost in Pasadena?",
+  "description": "Renovation costs in Pasadena vary widely; minor updates might be $15,000-$50,000, while major projects can exceed $100,000, depending on scope and materials.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-a-home-renovation-cost-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a home renovation cost in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a home renovation in Pasadena depends heavily on the project's size, the quality of materials selected, and the extent of structural changes. Minor remodels, such as a basic kitchen or bathroom update, could range from $15,000 to $50,000. Larger projects, like whole-home renovations or significant additions, often start at $100,000 and can exceed $500,000. It's crucial to establish a realistic budget, including a contingency fund of 10-20% for unexpected expenses. Requesting a detailed quote from a builder helps clarify costs.",
+        "description": "Renovation costs in Pasadena vary widely; minor updates might be $15,000-$50,000, while major projects can exceed $100,000, depending on scope and materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

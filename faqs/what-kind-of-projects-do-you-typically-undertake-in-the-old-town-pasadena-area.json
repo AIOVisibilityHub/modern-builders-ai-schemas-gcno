@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of projects do you typically undertake in the Old Town Pasadena area?",
+  "description": "In Old Town Pasadena, we often handle historic storefront renovations, retail build-outs, and office conversions, adhering to local guidelines.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-projects-do-you-typically-undertake-in-the-old-town-pasadena-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of projects do you typically undertake in the Old Town Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the Old Town Pasadena area, we frequently undertake light-commercial projects that involve renovating historic storefronts, building out retail spaces, and converting existing structures into modern offices or dining establishments. These projects often require careful attention to preserving architectural integrity while integrating contemporary functionalities and adhering to the specific zoning and historic preservation guidelines prevalent in Old Town. Our experience in the area ensures compliance and sensitive development.",
+        "description": "In Old Town Pasadena, we often handle historic storefront renovations, retail build-outs, and office conversions, adhering to local guidelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does exterior house painting cost in the Pasadena area?",
+  "description": "Exterior painting costs in Pasadena depend on house size, surface materials, paint quality, and necessary prep. Expect a range from several thousand dollars upw",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-exterior-house-painting-cost-in-the-pasadena-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does exterior house painting cost in the Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior painting costs in the Pasadena area vary widely based on house size, exterior surface materials, paint quality selected, necessary repairs or prep work, and accessibility. Smaller homes might start around a few thousand dollars, while larger or more complex projects can range significantly higher. Obtaining a detailed estimate from a local contractor is essential, as it will factor in labor, materials, and any specific requirements for your property.",
+        "description": "Exterior painting costs in Pasadena depend on house size, surface materials, paint quality, and necessary prep. Expect a range from several thousand dollars upwards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

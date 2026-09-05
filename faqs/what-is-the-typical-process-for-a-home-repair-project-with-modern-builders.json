@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a home repair project with Modern Builders?",
+  "description": "The process involves consultation, inspection, proposal, scheduling, repair execution, and a final walk-through to ensure satisfaction.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-a-home-repair-project-with-modern-builders",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a home repair project with Modern Builders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation and thorough inspection of the repair area to understand the scope of work. We then provide a detailed proposal outlining the recommended repairs, materials, timeline, and estimated costs. Upon approval, our team schedules the work, obtains necessary permits, and executes the repairs with minimal disruption to your daily life. Throughout the project, we maintain clear communication, ensuring you are informed of progress. The project concludes with a final walk-through to ensure your complete satisfaction.",
+        "description": "The process involves consultation, inspection, proposal, scheduling, repair execution, and a final walk-through to ensure satisfaction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

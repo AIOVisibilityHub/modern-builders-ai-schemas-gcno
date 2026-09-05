@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of warranty or guarantee do you offer on your painting services?",
+  "description": "We offer a comprehensive warranty on our exterior painting services, covering issues like paint adhesion, peeling, and blistering.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-your-painting-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of warranty or guarantee do you offer on your painting services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We stand behind the quality of our workmanship and the durability of the materials we use. Modern Builders offers a comprehensive warranty on our exterior house painting services. This warranty typically covers issues related to paint adhesion, peeling, and blistering due to faulty application for a specified period. Details of the warranty, including duration and coverage, are provided in your project contract to ensure full transparency and peace of mind.",
+        "description": "We offer a comprehensive warranty on our exterior painting services, covering issues like paint adhesion, peeling, and blistering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

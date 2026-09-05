@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you match paint colors from different manufacturers?",
+  "description": "Yes, we can match paint colors from different manufacturers by analyzing the pigment composition of your sample.",
+  "url": "https://modernbuilderscali.com/faq/can-you-match-paint-colors-from-different-manufacturers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you match paint colors from different manufacturers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we can match paint colors across different manufacturers. Our color matching process analyzes the unique pigment composition of any given paint sample, rather than relying on a manufacturer's proprietary color codes. This allows us to replicate a specific shade, regardless of its original brand. While slight variations in sheen or finish might occur due to different base formulations, we focus on achieving the closest possible color hue to ensure consistency with your existing surfaces.",
+        "description": "Yes, we can match paint colors from different manufacturers by analyzing the pigment composition of your sample."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

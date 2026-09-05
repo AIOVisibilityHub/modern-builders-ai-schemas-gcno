@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need a construction project manager for my residential project?",
+  "description": "Consider a construction project manager for complex residential projects, large remodels, or new builds to ensure coordination, budget adherence, and timely com",
+  "url": "https://modernbuilderscali.com/faq/when-do-i-need-a-construction-project-manager-for-my-residential-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need a construction project manager for my residential project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically need a construction project manager when your residential project is complex, involves multiple subcontractors, or has a tight budget and timeline. This could include new home construction, significant remodels, or additions. A project manager ensures all trades are coordinated, permits are secured, and materials are ordered efficiently. Their expertise helps prevent delays, cost overruns, and quality issues, providing a single point of contact for all project-related communications.",
+        "description": "Consider a construction project manager for complex residential projects, large remodels, or new builds to ensure coordination, budget adherence, and timely completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does light-commercial restoration cost?",
+  "description": "Restoration costs vary based on damage extent, type, and materials. Insurance often covers it, and a detailed assessment provides an accurate quote.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-light-commercial-restoration-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does light-commercial restoration cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of light-commercial restoration varies significantly depending on the extent and type of damage, the materials involved, and the size of the property. Factors influencing cost include water damage severity, fire damage remediation, mold removal, and the need for structural repairs or specialized equipment. Most projects are covered by commercial property insurance, and a reputable restoration company can help with documentation and estimates for your claim. It's best to get a detailed assessment for an accurate quote.",
+        "description": "Restoration costs vary based on damage extent, type, and materials. Insurance often covers it, and a detailed assessment provides an accurate quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

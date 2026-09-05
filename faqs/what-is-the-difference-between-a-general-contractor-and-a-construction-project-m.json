@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a general contractor and a construction project manager?",
+  "description": "A general contractor performs the physical building, while a construction project manager oversees the entire process (planning, budget, schedule, quality) ofte",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-a-general-contractor-and-a-construction-project-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a general contractor and a construction project manager?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both roles are crucial, a general contractor primarily executes the construction work, directly hiring and managing subcontractors for the physical build. A construction project manager, however, typically oversees the entire project from a client advocacy perspective, focusing on planning, budget, schedule, and quality control, and often manages the general contractor. A project manager's role is more strategic and supervisory, ensuring the overall project objectives align with the client's vision and expectations, whereas the general contractor is responsible for the on-site construction execution.",
+        "description": "A general contractor performs the physical building, while a construction project manager oversees the entire process (planning, budget, schedule, quality) often managing the general contractor for the client."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

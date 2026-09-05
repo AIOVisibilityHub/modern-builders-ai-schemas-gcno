@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my residential construction project?",
+  "description": "Select a contractor with relevant experience, strong references, proper licensing, and clear communication. Review their portfolio and verify their understandin",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-for-my-residential-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my residential construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor is crucial for a successful residential construction project. Look for a contractor with extensive experience in projects similar to yours, strong references, and a transparent communication style. Verify their licensing, insurance, and reputation through online reviews and professional organizations. Request detailed bids that clearly outline costs, timelines, and project scope. A good contractor will also demonstrate a strong understanding of local building codes and permitting processes. We encourage potential clients to review our portfolio and speak with our past clients.",
+        "description": "Select a contractor with relevant experience, strong references, proper licensing, and clear communication. Review their portfolio and verify their understanding of local codes and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

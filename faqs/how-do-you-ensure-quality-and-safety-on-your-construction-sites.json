@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you ensure quality and safety on your construction sites?",
+  "description": "We ensure quality and safety through strict adherence to building codes, regular site inspections, comprehensive safety protocols, and the use of skilled trades",
+  "url": "https://modernbuilderscali.com/faq/how-do-you-ensure-quality-and-safety-on-your-construction-sites",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure quality and safety on your construction sites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern Builders is committed to maintaining the highest standards of quality and safety on all our construction sites. We achieve this through stringent adherence to building codes, regular site inspections, and the use of experienced, skilled tradespeople. All our projects follow comprehensive safety protocols, including daily safety briefings, proper use of personal protective equipment (PPE), and maintaining a clean and organized work environment. We also use high-quality materials and employ proven construction techniques to ensure the durability and longevity of our work, prioritizing both the well-being of our team and the integrity of the final structure.",
+        "description": "We ensure quality and safety through strict adherence to building codes, regular site inspections, comprehensive safety protocols, and the use of skilled tradespeople and high-quality materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

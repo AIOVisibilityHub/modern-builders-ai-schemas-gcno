@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you repair a popcorn ceiling, or does it need to be removed?",
+  "description": "Minor popcorn ceiling damage can be patched. For widespread damage or a new aesthetic, removal is an option, but old popcorn ceilings may require asbestos testi",
+  "url": "https://modernbuilderscali.com/faq/can-you-repair-a-popcorn-ceiling-or-does-it-need-to-be-removed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you repair a popcorn ceiling, or does it need to be removed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Popcorn ceilings can often be repaired, especially for minor damage like small holes or cracks. The repair involves carefully patching the affected area with a matching textured material and blending it. However, if the damage is widespread, or if you prefer a modern look, removal might be a better option. Keep in mind that older popcorn ceilings may contain asbestos, requiring professional testing and removal if present.",
+        "description": "Minor popcorn ceiling damage can be patched. For widespread damage or a new aesthetic, removal is an option, but old popcorn ceilings may require asbestos testing and professional removal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an exterior coating application typically last?",
+  "description": "Exterior coatings typically last 15 to 25 years, depending on the product, application quality, and environment, offering significantly longer protection than c",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-an-exterior-coating-application-typically-last",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an exterior coating application typically last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The longevity of an exterior coating depends on the specific product used, the quality of application, and environmental factors. Generally, high-quality exterior coatings are designed to last significantly longer than conventional paint, often providing protection for 15 to 25 years or even more with proper maintenance. This extended lifespan contributes to long-term cost savings by reducing the frequency of repainting and related labor costs. Modern Builders uses products chosen for their proven durability in the Pasadena climate.",
+        "description": "Exterior coatings typically last 15 to 25 years, depending on the product, application quality, and environment, offering significantly longer protection than conventional paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

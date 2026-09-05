@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost per square foot for light-commercial construction?",
+  "description": "Costs per square foot range from $150 to $400+, influenced by building type, materials, finishes, and system complexity.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-cost-per-square-foot-for-light-commercial-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost per square foot for light-commercial construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost per square foot for light-commercial construction can range widely, typically from $150 to $400+, depending on several factors. These include the type of building (e.g., office vs. restaurant), material selections, quality of finishes, site conditions, and the complexity of mechanical, electrical, and plumbing systems. Specialized requirements, such as commercial kitchens or medical facilities, will increase costs. We provide detailed estimates tailored to each project's specifications after an initial consultation.",
+        "description": "Costs per square foot range from $150 to $400+, influenced by building type, materials, finishes, and system complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

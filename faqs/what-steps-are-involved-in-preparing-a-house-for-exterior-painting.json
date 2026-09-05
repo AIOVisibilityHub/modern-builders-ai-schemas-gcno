@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in preparing a house for exterior painting?",
+  "description": "Preparation for exterior painting involves power washing, scraping, sanding, repairing surfaces, caulking, and masking to ensure proper paint adhesion.",
+  "url": "https://modernbuilderscali.com/faq/what-steps-are-involved-in-preparing-a-house-for-exterior-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in preparing a house for exterior painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective preparation is crucial for a lasting paint job. Our process includes power washing to remove dirt and mildew, scraping loose paint, sanding rough areas, repairing stucco or wood damage, caulking cracks, and masking windows and fixtures. Proper preparation ensures paint adheres correctly, creating a smooth, uniform finish that protects your home and looks great for years. Skipping these steps can lead to premature paint failure.",
+        "description": "Preparation for exterior painting involves power washing, scraping, sanding, repairing surfaces, caulking, and masking to ensure proper paint adhesion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

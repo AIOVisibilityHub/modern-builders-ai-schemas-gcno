@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Modern Builders help with emergency home repairs?",
+  "description": "Yes, Modern Builders responds to emergency home repairs like severe leaks or storm damage to quickly restore safety and functionality.",
+  "url": "https://modernbuilderscali.com/faq/can-modern-builders-help-with-emergency-home-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Modern Builders help with emergency home repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Modern Builders understands that certain home repair issues, such as severe leaks, storm damage, or urgent electrical problems, require immediate attention. We strive to respond promptly to emergency repair requests to mitigate further damage and restore safety and functionality to your home as quickly as possible. Please contact us directly to discuss your emergency situation, and we will mobilize our team to assess and address the issue efficiently.",
+        "description": "Yes, Modern Builders responds to emergency home repairs like severe leaks or storm damage to quickly restore safety and functionality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

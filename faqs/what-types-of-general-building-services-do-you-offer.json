@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of general building services do you offer?",
+  "description": "We offer new construction, custom home builds, structural additions, and comprehensive remodeling and renovation services for both residential and commercial cl",
+  "url": "https://modernbuilderscali.com/faq/what-types-of-general-building-services-do-you-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of general building services do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern Builders provides a comprehensive range of general building services, including new construction for residential and commercial properties, custom home builds, and structural additions. We also specialize in remodeling and renovation projects, such as kitchen and bathroom upgrades, whole-house remodels, and commercial tenant improvements. Our services cover various phases, from initial design consultation and permit acquisition to construction management and final project completion. We focus on delivering high-quality craftsmanship and efficient project execution for diverse building needs.",
+        "description": "We offer new construction, custom home builds, structural additions, and comprehensive remodeling and renovation services for both residential and commercial clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

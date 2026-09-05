@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common signs that my home's exterior caulk is failing?",
+  "description": "Failing exterior caulk shows cracks, gaps, shrinkage, peeling, or discoloration. Drafts or water intrusion around openings also signal a compromised seal.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-common-signs-that-my-home-s-exterior-caulk-is-failing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common signs that my home's exterior caulk is failing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs of failing exterior caulk include visible cracks, gaps, or shrinkage where the caulk has pulled away from the surface. You might also notice peeling, crumbling, or discoloration, indicating that the material has degraded due to sun exposure, temperature fluctuations, and moisture. Drafts near windows and doors, or signs of water intrusion around openings like stained drywall or wood rot, are strong indicators that the exterior caulk is no longer providing an effective seal. Regular visual inspection is crucial to catch these issues early.",
+        "description": "Failing exterior caulk shows cracks, gaps, shrinkage, peeling, or discoloration. Drafts or water intrusion around openings also signal a compromised seal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a paint color consultation and a full interior design service?",
+  "description": "A paint color consultation focuses solely on selecting paint colors. Full interior design is a broader service, including space planning, furniture, lighting, a",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-a-paint-color-consultation-and-a-full-interior-de",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a paint color consultation and a full interior design service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A paint color consultation focuses specifically on selecting paint colors and finishes to achieve a desired aesthetic. A full interior design service, conversely, encompasses a broader range of elements including space planning, furniture selection, lighting, textiles, and accessories, in addition to color. While a consultation can be a part of design, it's a more specialized and streamlined service.",
+        "description": "A paint color consultation focuses solely on selecting paint colors. Full interior design is a broader service, including space planning, furniture, lighting, and accessories."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

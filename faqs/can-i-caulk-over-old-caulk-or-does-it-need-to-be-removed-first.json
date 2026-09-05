@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I caulk over old caulk, or does it need to be removed first?",
+  "description": "It is generally recommended to remove old caulk before applying new caulk. This ensures proper adhesion and a more durable, effective seal.",
+  "url": "https://modernbuilderscali.com/faq/can-i-caulk-over-old-caulk-or-does-it-need-to-be-removed-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I caulk over old caulk, or does it need to be removed first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most cases, it is highly recommended to remove old caulk before applying new caulk. Applying new caulk directly over old, failing caulk will likely result in a less durable and effective seal. The old caulk may still be deteriorating underneath, preventing proper adhesion of the new material and leading to premature failure. Removing the old material allows the new caulk to adhere directly to a clean, dry, and sound surface, ensuring a long-lasting and effective seal that performs as intended. Proper preparation is key to a successful caulking job.",
+        "description": "It is generally recommended to remove old caulk before applying new caulk. This ensures proper adhesion and a more durable, effective seal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

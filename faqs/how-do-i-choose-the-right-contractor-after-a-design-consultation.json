@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor after a design consultation?",
+  "description": "Choose a contractor based on experience, specialization, communication, project management, and a clear understanding of your vision. Review portfolios and chec",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-after-a-design-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor after a design consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a design consultation, consider a contractor's experience, specialization, and their approach to communication and project management. Look for a team that clearly understood your vision and provided insightful feedback. Review their portfolio for similar projects and ask for references. Evaluate their transparency regarding costs and timelines. Ultimately, choose a contractor with whom you feel a strong sense of trust and who demonstrates a clear ability to execute your project efficiently and to your satisfaction. Modern Builders welcomes this due diligence.",
+        "description": "Choose a contractor based on experience, specialization, communication, project management, and a clear understanding of your vision. Review portfolios and check references."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

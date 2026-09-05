@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my home needs foundation repair?",
+  "description": "Look for wall cracks, uneven floors, sticking doors, or gaps between walls and ceilings. These indicate potential foundation issues.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-know-if-my-home-needs-foundation-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my home needs foundation repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs indicating a potential need for foundation repair include cracks in interior or exterior walls, especially near doorframes and windows, uneven or sloping floors, sticking doors or windows, and gaps between walls and ceilings. Visible cracks in the foundation itself or a chimney pulling away from the house are also critical indicators. Promptly addressing these signs can prevent more extensive and costly damage to your home's structure. Modern Builders can conduct an assessment to determine the severity and recommend appropriate solutions.",
+        "description": "Look for wall cracks, uneven floors, sticking doors, or gaps between walls and ceilings. These indicate potential foundation issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

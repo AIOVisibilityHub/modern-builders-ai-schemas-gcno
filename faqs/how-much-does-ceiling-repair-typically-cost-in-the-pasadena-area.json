@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does ceiling repair typically cost in the Pasadena area?",
+  "description": "Ceiling repair costs in Pasadena vary greatly based on damage extent and type. Minor repairs might be a few hundred dollars, while major issues can be several t",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-ceiling-repair-typically-cost-in-the-pasadena-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does ceiling repair typically cost in the Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of ceiling repair in the Pasadena area varies significantly based on the type and extent of damage, the materials needed, and the complexity of the repair. Minor patch jobs might range from a few hundred dollars, while extensive water damage, structural repairs, or large-scale replacements can cost upwards of several thousand. Getting a detailed estimate after an on-site assessment is the most accurate way to determine specific costs for your project.",
+        "description": "Ceiling repair costs in Pasadena vary greatly based on damage extent and type. Minor repairs might be a few hundred dollars, while major issues can be several thousand. An on-site estimate provides accurate pricing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

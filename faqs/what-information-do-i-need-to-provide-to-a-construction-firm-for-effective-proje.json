@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to a construction firm for effective project planning?",
+  "description": "Provide your project vision, budget, designs, site surveys, desired timelines, material preferences, and any known local regulations for effective planning.",
+  "url": "https://modernbuilderscali.com/faq/what-information-do-i-need-to-provide-to-a-construction-firm-for-effective-proje",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to a construction firm for effective project planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For effective project planning, you should provide a clear understanding of your project vision, desired outcomes, and budget expectations. Essential information includes preliminary designs or architectural plans, site surveys, and any specific functional or aesthetic requirements. Details on desired timelines, preferred materials, and any known regulatory constraints or local zoning laws pertinent to Pasadena are also highly valuable. The more comprehensive the initial information, the more accurate and tailored the project plan will be.",
+        "description": "Provide your project vision, budget, designs, site surveys, desired timelines, material preferences, and any known local regulations for effective planning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

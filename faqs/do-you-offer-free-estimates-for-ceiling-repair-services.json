@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer free estimates for ceiling repair services?",
+  "description": "Yes, Modern Builders offers free, no-obligation estimates for ceiling repair within our service areas like Pasadena. Our experts assess damage, discuss repairs,",
+  "url": "https://modernbuilderscali.com/faq/do-you-offer-free-estimates-for-ceiling-repair-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer free estimates for ceiling repair services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Modern Builders provides free, no-obligation estimates for all ceiling repair services within our service areas, including Pasadena, Old Town Pasadena, and East Pasadena. During the estimate, our experts will assess the damage, discuss the potential causes, outline the recommended repair process, and provide a detailed breakdown of costs and a projected timeline for completion. This allows you to understand the scope of work before committing.",
+        "description": "Yes, Modern Builders offers free, no-obligation estimates for ceiling repair within our service areas like Pasadena. Our experts assess damage, discuss repairs, and provide detailed cost breakdowns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

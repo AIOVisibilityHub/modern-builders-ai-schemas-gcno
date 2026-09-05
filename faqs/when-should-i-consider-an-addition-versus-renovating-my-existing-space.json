@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider an addition versus renovating my existing space?",
+  "description": "Opt for an addition when you need more square footage, and renovating existing space is insufficient. Renovate when your current layout works, but needs updates",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-an-addition-versus-renovating-my-existing-space",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider an addition versus renovating my existing space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consider an addition when your current home lacks sufficient space for your needs, and reconfiguring existing rooms won't achieve your goals. This is often the case for growing families or when creating dedicated spaces like a home office or an in-law suite. Renovating existing space is suitable when your current footprint works, but the layout is inefficient, or finishes are outdated. Additions typically involve higher costs and longer timelines due to new foundation work, roofing, and structural integration, while renovations can be more cost-effective if structural changes are minimal.",
+        "description": "Opt for an addition when you need more square footage, and renovating existing space is insufficient. Renovate when your current layout works, but needs updates or minor reconfigurations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

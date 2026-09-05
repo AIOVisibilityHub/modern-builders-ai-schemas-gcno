@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a remodel and a renovation?",
+  "description": "Renovation restores an existing space without changing its structure, while remodeling alters the structure or layout, often involving more extensive changes.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-a-remodel-and-a-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a remodel and a renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While often used interchangeably, 'renovation' typically refers to restoring something old to a good state of repair, often involving cosmetic updates and repairs without changing the structure. An example would be updating finishes in a kitchen while keeping the existing layout. 'Remodel' implies changing the structure or form, such as altering the layout of a room, moving walls, or adding square footage. A remodel usually involves more extensive work and can significantly change the function or appearance of a space, often requiring more permits.",
+        "description": "Renovation restores an existing space without changing its structure, while remodeling alters the structure or layout, often involving more extensive changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can cracks in interior walls indicate a structural issue?",
+  "description": "Some small cracks are cosmetic, but large or patterned cracks, especially wide ones or those near openings, may signal a structural issue. A professional can as",
+  "url": "https://modernbuilderscali.com/faq/can-cracks-in-interior-walls-indicate-a-structural-issue",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can cracks in interior walls indicate a structural issue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While many small cracks in interior walls are cosmetic due to normal settling or humidity changes, larger or unusually patterned cracks can sometimes indicate a more significant structural issue. Horizontal cracks, stair-step cracks in masonry, or cracks that are wider than a quarter-inch, especially those appearing near door or window frames, warrant further investigation. A professional can assess whether the cracks are superficial or symptoms of underlying foundation or framing problems.",
+        "description": "Some small cracks are cosmetic, but large or patterned cracks, especially wide ones or those near openings, may signal a structural issue. A professional can assess their cause."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

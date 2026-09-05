@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do residential repair projects usually take?",
+  "description": "Project duration varies. Small repairs take days, larger ones weeks. A timeline is provided after assessing the specific repair needs.",
+  "url": "https://modernbuilderscali.com/faq/how-long-do-residential-repair-projects-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do residential repair projects usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a residential repair project depends entirely on its scope and complexity. Small repairs like drywall patching or minor plumbing fixes might be completed within a day or two. Larger projects, such as extensive water damage restoration, roof replacement, or significant structural repairs, could take several weeks. We provide an estimated timeline in our project proposal after assessing the specific repair needs, taking into account material availability, permitting requirements, and the extent of the work involved.",
+        "description": "Project duration varies. Small repairs take days, larger ones weeks. A timeline is provided after assessing the specific repair needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

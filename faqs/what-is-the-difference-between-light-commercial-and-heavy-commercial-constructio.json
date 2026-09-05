@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between light-commercial and heavy commercial construction?",
+  "description": "Light-commercial builds are smaller (under 25,000 sq ft) and less complex; heavy commercial projects are larger and more intricate.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-light-commercial-and-heavy-commercial-constructio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between light-commercial and heavy commercial construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light-commercial construction involves smaller-scale projects such as retail stores, small offices, or medical clinics, typically under 25,000 square feet, with simpler structural demands and regulatory processes. Heavy commercial construction refers to larger, more complex projects like high-rise office buildings, shopping malls, or industrial facilities. These projects often entail greater structural engineering, more extensive site work, longer timelines, and more intricate permitting and compliance requirements.",
+        "description": "Light-commercial builds are smaller (under 25,000 sq ft) and less complex; heavy commercial projects are larger and more intricate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

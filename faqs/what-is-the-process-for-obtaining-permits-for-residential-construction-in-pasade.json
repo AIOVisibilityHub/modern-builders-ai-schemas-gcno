@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for obtaining permits for residential construction in Pasadena?",
+  "description": "Permit acquisition in Pasadena involves submitting architectural plans to city departments for review and approval. We handle all aspects of the permitting proc",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-obtaining-permits-for-residential-construction-in-pasade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for obtaining permits for residential construction in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Obtaining permits for residential construction in Pasadena involves several steps, starting with submitting architectural plans to the city's planning and building departments. This includes zoning review, structural analysis, and adherence to local building codes. Depending on the project, additional permits for environmental review, historical preservation, or specific utility work may be required. We manage the entire permitting process on behalf of our clients, ensuring all necessary documentation is prepared and submitted correctly to facilitate a smooth approval.",
+        "description": "Permit acquisition in Pasadena involves submitting architectural plans to city departments for review and approval. We handle all aspects of the permitting process for our clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

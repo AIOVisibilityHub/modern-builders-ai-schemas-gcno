@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is paint color matching?",
+  "description": "Paint color matching is the process of precisely replicating an existing paint color for touch-ups, repairs, or extensions.",
+  "url": "https://modernbuilderscali.com/faq/what-is-paint-color-matching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is paint color matching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paint color matching is the process of precisely replicating an existing paint color. This is useful for touch-ups, repairs, or extending a color to new areas while ensuring a seamless look. Specialized equipment, often using spectrophotometers, analyzes the original color's pigment composition to create a custom formula. Factors like age, exposure to light, and the type of finish can affect the original paint's appearance, making accurate matching a skilled process.",
+        "description": "Paint color matching is the process of precisely replicating an existing paint color for touch-ups, repairs, or extensions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

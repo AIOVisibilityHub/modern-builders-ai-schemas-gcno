@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does new caulk typically last once applied?",
+  "description": "New caulk typically lasts 3-20 years, depending on its type, application quality, and environmental exposure. Silicone and polyurethane last longer than acrylic",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-new-caulk-typically-last-once-applied",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does new caulk typically last once applied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The lifespan of new caulk varies significantly based on its type, application quality, and exposure to environmental factors. High-quality silicone or polyurethane caulks, especially when properly applied, can last 10-20 years for exterior applications. Acrylic latex caulks generally have a shorter lifespan, often 3-5 years, particularly in areas with high movement or moisture. Factors like direct sunlight exposure, extreme temperature changes, heavy rain, and constant humidity can accelerate deterioration. Regular inspection helps ensure its integrity and allows for timely reapplication when needed.",
+        "description": "New caulk typically lasts 3-20 years, depending on its type, application quality, and environmental exposure. Silicone and polyurethane last longer than acrylic latex."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

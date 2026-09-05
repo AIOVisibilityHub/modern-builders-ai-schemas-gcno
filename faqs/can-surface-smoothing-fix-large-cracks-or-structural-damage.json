@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can surface smoothing fix large cracks or structural damage?",
+  "description": "No, surface smoothing addresses minor imperfections, not large cracks or structural damage. These require specific repair techniques before smoothing.",
+  "url": "https://modernbuilderscali.com/faq/can-surface-smoothing-fix-large-cracks-or-structural-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can surface smoothing fix large cracks or structural damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surface smoothing is primarily designed to improve the aesthetic and functional quality of a surface finish by addressing minor imperfections like small bumps, slight unevenness, and minor pitting. It is not intended to fix large cracks or structural damage. Significant cracks or foundational issues require specific repair techniques, such as crack filling, patching, or structural reinforcement, before any smoothing process can be effectively applied. Smoothing a structurally damaged surface would only hide, not resolve, the underlying problem.",
+        "description": "No, surface smoothing addresses minor imperfections, not large cracks or structural damage. These require specific repair techniques before smoothing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

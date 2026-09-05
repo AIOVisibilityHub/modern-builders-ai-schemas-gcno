@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical design consultation last?",
+  "description": "A typical design consultation lasts 60 to 90 minutes, allowing for thorough discussion, site overview, and recommendations for your project.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-typical-design-consultation-last",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical design consultation last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical design consultation generally lasts between 60 to 90 minutes. This timeframe allows us to thoroughly discuss your project, conduct a brief site overview if applicable, and provide meaningful feedback and recommendations without rushing the process. For more complex projects or those requiring detailed preliminary assessments, the consultation may extend longer, but we will communicate this in advance. Our goal is to ensure you feel fully informed and confident about your project's next steps.",
+        "description": "A typical design consultation lasts 60 to 90 minutes, allowing for thorough discussion, site overview, and recommendations for your project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

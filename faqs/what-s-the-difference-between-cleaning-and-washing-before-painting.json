@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between cleaning and washing before painting?",
+  "description": "Cleaning is a general term for removing loose debris, while washing specifically uses water and often detergent to remove adhered dirt, grime, and mildew for be",
+  "url": "https://modernbuilderscali.com/faq/what-s-the-difference-between-cleaning-and-washing-before-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between cleaning and washing before painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While often used interchangeably, 'cleaning' can refer to a broader range of tasks like dusting, wiping, or vacuuming to remove loose debris. 'Washing' specifically involves using water, often with a detergent or degreaser, to remove dirt, grime, grease, mildew, and other contaminants that are deeply adhered to the surface. Washing is a more thorough process crucial for ensuring proper paint adhesion and is typically part of comprehensive surface preparation.",
+        "description": "Cleaning is a general term for removing loose debris, while washing specifically uses water and often detergent to remove adhered dirt, grime, and mildew for better paint adhesion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

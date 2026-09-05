@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you assist with architectural design and planning for my new home?",
+  "description": "We collaborate with experienced architects and designers to assist with your new home's design and planning. We ensure constructability and cost-efficiency duri",
+  "url": "https://modernbuilderscali.com/faq/can-you-assist-with-architectural-design-and-planning-for-my-new-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you assist with architectural design and planning for my new home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While we are a construction firm, we frequently collaborate with a network of experienced architects and designers to assist our clients with architectural design and planning. We can recommend professionals whose style and expertise align with your project vision and budget. Our team works closely with the chosen architect throughout the design phase to ensure constructability, cost-efficiency, and adherence to local regulations. This collaborative approach helps streamline the transition from concept to construction, ensuring a cohesive and well-executed project.",
+        "description": "We collaborate with experienced architects and designers to assist with your new home's design and planning. We ensure constructability and cost-efficiency during the design phase."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

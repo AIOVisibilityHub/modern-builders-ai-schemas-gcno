@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you handle the permitting process for building projects?",
+  "description": "Yes, we handle the entire permitting process, including preparing documentation and coordinating with local city planning departments, to ensure your project co",
+  "url": "https://modernbuilderscali.com/faq/do-you-handle-the-permitting-process-for-building-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you handle the permitting process for building projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Modern Builders actively assists clients with the entire permitting process for their building projects. Navigating local building codes and regulations can be complex, especially in areas like Pasadena, Old Town Pasadena, and other communities we serve. Our team has extensive experience preparing and submitting necessary documentation, coordinating with city planning departments, and addressing any requirements or revisions from local authorities. We aim to streamline this phase to help ensure your project progresses smoothly and complies with all legal standards from the outset.",
+        "description": "Yes, we handle the entire permitting process, including preparing documentation and coordinating with local city planning departments, to ensure your project complies with all regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

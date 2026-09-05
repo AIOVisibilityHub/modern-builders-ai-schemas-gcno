@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for a light-commercial tenant improvement project?",
+  "description": "Tenant improvement projects involve design, permitting, construction (modifying interiors and systems), and final inspections.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-a-light-commercial-tenant-improvement-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for a light-commercial tenant improvement project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A light-commercial tenant improvement (TI) project typically starts with a needs assessment and design phase, followed by securing necessary permits. Once permits are approved, construction begins, focusing on interior modifications to customize the space for the tenant's specific operations. This can include reconfiguring layouts, installing new finishes, updating HVAC, electrical, and plumbing systems, and ensuring ADA compliance. The process concludes with final inspections and handover.",
+        "description": "Tenant improvement projects involve design, permitting, construction (modifying interiors and systems), and final inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

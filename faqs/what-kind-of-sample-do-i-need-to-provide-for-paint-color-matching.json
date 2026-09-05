@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of sample do I need to provide for paint color matching?",
+  "description": "Provide a clean paint chip or a small section of the existing painted surface, about the size of a quarter, for the best color match.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-sample-do-i-need-to-provide-for-paint-color-matching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of sample do I need to provide for paint color matching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To achieve the best paint color match, we ideally need a paint chip or a small section of the existing painted surface, roughly the size of a quarter or larger. If providing a chip, ensure it is clean and free of dirt. For walls, a piece of drywall or trim can work. If no physical sample is available, clear, high-resolution photographs taken in natural light can sometimes help, but a physical sample offers the highest accuracy for precise pigment analysis.",
+        "description": "Provide a clean paint chip or a small section of the existing painted surface, about the size of a quarter, for the best color match."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

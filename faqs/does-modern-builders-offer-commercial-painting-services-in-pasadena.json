@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does Modern Builders offer commercial painting services in Pasadena?",
+  "description": "Yes, Modern Builders offers commercial painting services in Pasadena, including Old Town, East Pasadena, and Bungalow Heaven, tailored to local business needs.",
+  "url": "https://modernbuilderscali.com/faq/does-modern-builders-offer-commercial-painting-services-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does Modern Builders offer commercial painting services in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Modern Builders provides comprehensive commercial painting services specifically tailored for businesses in Pasadena, including areas like Old Town Pasadena, East Pasadena, and Bungalow Heaven. Our team understands the unique architectural styles and specific requirements of commercial properties in these regions. We focus on delivering high-quality, durable finishes with minimal disruption to your business operations, ensuring projects are completed efficiently and to your satisfaction.",
+        "description": "Yes, Modern Builders offers commercial painting services in Pasadena, including Old Town, East Pasadena, and Bungalow Heaven, tailored to local business needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

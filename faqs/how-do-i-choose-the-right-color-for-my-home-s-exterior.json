@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right color for my home's exterior?",
+  "description": "Choose exterior paint colors by considering your home's architecture, surroundings, and fixed elements. Test swatches to see how colors look in different light.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-color-for-my-home-s-exterior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right color for my home's exterior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing an exterior paint color involves considering several factors, including your home's architectural style, surrounding landscape, fixed elements like roofing or brick, and neighborhood aesthetics. It's often helpful to look at homes with similar styles, use online visualization tools, and test paint swatches on your home's exterior to see how colors appear in different lighting conditions throughout the day. Consider lighter colors for heat reflection or darker accents for trim to enhance architectural features.",
+        "description": "Choose exterior paint colors by considering your home's architecture, surroundings, and fixed elements. Test swatches to see how colors look in different light."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

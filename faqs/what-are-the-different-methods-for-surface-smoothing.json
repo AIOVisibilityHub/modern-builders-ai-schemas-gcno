@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the different methods for surface smoothing?",
+  "description": "Methods include troweling, grinding, and self-leveling compounds for concrete, and applying and sanding plaster or drywall compounds for walls.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-different-methods-for-surface-smoothing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the different methods for surface smoothing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common methods for surface smoothing vary by material. For concrete, techniques include troweling (hand or power), grinding, and self-leveling compounds. Troweling creates a dense, smooth finish, while grinding removes high spots and prepares for coatings. Self-leveling compounds are poured to create a perfectly flat surface over an existing uneven one. For walls, plaster or drywall compounds are applied and sanded to achieve a seamless finish, removing imperfections before painting.",
+        "description": "Methods include troweling, grinding, and self-leveling compounds for concrete, and applying and sanding plaster or drywall compounds for walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

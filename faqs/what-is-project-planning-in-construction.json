@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is project planning in construction?",
+  "description": "Project planning defines project goals, resources, timelines, and budgets, creating a roadmap for successful construction from start to finish.",
+  "url": "https://modernbuilderscali.com/faq/what-is-project-planning-in-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is project planning in construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Project planning in construction involves defining project goals, objectives, and scope, along with identifying resources, timelines, and budgets. It includes creating a detailed roadmap from conception to completion, outlining tasks, milestones, and responsibilities. Effective planning helps anticipate challenges, optimize resource allocation, and ensure compliance with regulations and client expectations. This foundational phase aims to minimize risks, control costs, and deliver the project on schedule and within quality standards.",
+        "description": "Project planning defines project goals, resources, timelines, and budgets, creating a roadmap for successful construction from start to finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

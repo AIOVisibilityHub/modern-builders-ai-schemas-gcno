@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a residential renovation project?",
+  "description": "Project timelines vary, typically 4-8 weeks for small remodels and 4-12 months for larger renovations, depending on complexity and scope.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-timeline-for-a-residential-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a residential renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a residential renovation project varies greatly depending on the scope and complexity. Small projects like bathroom remodels might take 4-8 weeks, while a full home renovation or a significant addition could extend to 4-12 months or more. Factors such as design finalization, material procurement, permitting processes, and unforeseen structural issues can all impact the schedule. A detailed project plan, including clear milestones and communication channels, helps manage expectations and keep the project on track.",
+        "description": "Project timelines vary, typically 4-8 weeks for small remodels and 4-12 months for larger renovations, depending on complexity and scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

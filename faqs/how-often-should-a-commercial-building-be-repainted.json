@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should a commercial building be repainted?",
+  "description": "Commercial buildings typically need exterior repainting every 5-10 years and high-traffic interior areas every 3-7 years, depending on various factors.",
+  "url": "https://modernbuilderscali.com/faq/how-often-should-a-commercial-building-be-repainted",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should a commercial building be repainted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The frequency for repainting a commercial building depends on several factors, including its location, exposure to weather elements, the type of paint used previously, and the desired aesthetic. Typically, exterior commercial buildings may need repainting every 5-10 years, while high-traffic interior areas might require it every 3-7 years. Buildings in harsher climates or those with significant foot traffic may need more frequent repainting to maintain their appearance and protect the structure.",
+        "description": "Commercial buildings typically need exterior repainting every 5-10 years and high-traffic interior areas every 3-7 years, depending on various factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be home during the exterior painting process?",
+  "description": "You don't typically need to be home throughout the exterior painting process, though being available for initial discussions and final inspections is helpful.",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-to-be-home-during-the-exterior-painting-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be home during the exterior painting process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You generally do not need to be home for the entirety of the exterior painting process, especially once initial consultations and color selections are finalized. Access to the exterior of the house and potentially an outdoor water source or power outlet is usually all that is required. However, it can be beneficial to be available for initial walkthroughs, final inspections, or if any unexpected questions or issues arise during the project. Discuss accessibility and communication preferences with your contractor.",
+        "description": "You don't typically need to be home throughout the exterior painting process, though being available for initial discussions and final inspections is helpful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

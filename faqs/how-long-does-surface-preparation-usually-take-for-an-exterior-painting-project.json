@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does surface preparation usually take for an exterior painting project?",
+  "description": "The time required for exterior surface preparation depends on the surface condition, size, and material, ranging from a couple of days for well-maintained surfa",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-surface-preparation-usually-take-for-an-exterior-painting-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does surface preparation usually take for an exterior painting project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of surface preparation for exterior painting varies significantly based on the existing condition of the surfaces, the size of the area, and the type of materials. A well-maintained surface might require only a day or two for cleaning and light sanding. However, if there's extensive peeling, wood rot, or significant repairs needed, preparation could extend to several days or even a week for a standard-sized home. It often accounts for a substantial portion of the total project timeline.",
+        "description": "The time required for exterior surface preparation depends on the surface condition, size, and material, ranging from a couple of days for well-maintained surfaces to over a week for extensive repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

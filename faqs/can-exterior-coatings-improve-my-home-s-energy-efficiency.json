@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can exterior coatings improve my home's energy efficiency?",
+  "description": "Certain exterior coatings can improve energy efficiency by reflecting solar heat, which may lead to a cooler interior and lower air conditioning costs, especial",
+  "url": "https://modernbuilderscali.com/faq/can-exterior-coatings-improve-my-home-s-energy-efficiency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can exterior coatings improve my home's energy efficiency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, some exterior coatings are specifically designed with reflective or insulative properties that can contribute to improved energy efficiency. These 'cool wall' coatings can reflect a significant portion of the sun's radiant heat away from your home, reducing the heat absorbed by exterior walls. This can lead to a cooler interior, potentially lowering your air conditioning usage and energy bills, especially during the warm Pasadena summers. Modern Builders can discuss specific product options that offer these energy-saving benefits for your home.",
+        "description": "Certain exterior coatings can improve energy efficiency by reflecting solar heat, which may lead to a cooler interior and lower air conditioning costs, especially in warm climates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for repairing a water-damaged ceiling?",
+  "description": "The repair process involves fixing the leak, drying the area, removing damaged material, treating mold, installing new drywall or plaster, and finishing with sa",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-repairing-a-water-damaged-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for repairing a water-damaged ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for repairing water damage begins with addressing the source of the leak and ensuring the area is dry. Next, damaged drywall or plaster is removed, and any mold or mildew is treated. New material is then installed, taped, and mudded to create a smooth surface. Finally, the repaired area is sanded, primed, and painted to match the rest of the ceiling. This multi-step process ensures a durable and seamless repair.",
+        "description": "The repair process involves fixing the leak, drying the area, removing damaged material, treating mold, installing new drywall or plaster, and finishing with sanding, priming, and painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is needed before interior wall repair begins?",
+  "description": "Prepare for wall repair by clearing the area, removing wall hangings, covering floors and furniture, and ensuring good lighting and ventilation. Turn off power",
+  "url": "https://modernbuilderscali.com/faq/what-preparation-is-needed-before-interior-wall-repair-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is needed before interior wall repair begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before interior wall repair, clear the work area by moving furniture away from the walls or out of the room. Remove any wall hangings, pictures, or shelves. Cover floors and immovable items with drop cloths or plastic sheeting to protect them from dust and debris. Ensure adequate lighting and ventilation. If electrical outlets or switches are near the repair, turn off power to those circuits for safety. This preparation ensures a smooth, clean, and safe repair process.",
+        "description": "Prepare for wall repair by clearing the area, removing wall hangings, covering floors and furniture, and ensuring good lighting and ventilation. Turn off power to nearby electrical outlets for safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

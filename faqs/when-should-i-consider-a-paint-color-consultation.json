@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider a paint color consultation?",
+  "description": "Consider a consultation when planning to paint, if overwhelmed by color choices, or for new construction and renovations. It helps ensure colors match your visi",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-a-paint-color-consultation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider a paint color consultation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider a paint color consultation whenever you're planning to paint your home or a specific room, especially if you're feeling overwhelmed by choices or unsure how colors will appear in your space. It's particularly useful for new constructions, renovations, or if you want to update your interior design. A consultation ensures the colors complement your vision and property.",
+        "description": "Consider a consultation when planning to paint, if overwhelmed by color choices, or for new construction and renovations. It helps ensure colors match your vision."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

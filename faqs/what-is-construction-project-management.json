@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is construction project management?",
+  "description": "Construction project management involves planning, executing, and closing a construction project, ensuring it meets objectives on time and within budget.",
+  "url": "https://modernbuilderscali.com/faq/what-is-construction-project-management",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is construction project management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Construction project management involves overseeing all aspects of a building project from conception to completion. This includes planning, scheduling, budgeting, risk management, and quality control. The goal is to ensure the project is delivered on time, within budget, and to the required specifications, while maintaining effective communication among all stakeholders, such as clients, architects, engineers, and subcontractors. It centralizes coordination to streamline complex construction processes.",
+        "description": "Construction project management involves planning, executing, and closing a construction project, ensuring it meets objectives on time and within budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

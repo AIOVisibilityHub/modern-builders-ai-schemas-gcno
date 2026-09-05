@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between light-commercial and heavy-commercial restoration?",
+  "description": "Light-commercial restoration covers smaller properties and less extensive damage, while heavy-commercial restoration addresses larger facilities and more comple",
+  "url": "https://modernbuilderscali.com/faq/what-s-the-difference-between-light-commercial-and-heavy-commercial-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between light-commercial and heavy-commercial restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light-commercial restoration typically involves smaller-scale commercial properties like retail stores, offices, or multi-family dwellings, focusing on less extensive damage to interiors and non-structural elements. Heavy-commercial restoration, on the other hand, deals with larger industrial facilities, manufacturing plants, or extensive structural damage, often requiring specialized equipment and more complex logistical planning. The distinction lies in the size, complexity, and type of property, and the scope of work required.",
+        "description": "Light-commercial restoration covers smaller properties and less extensive damage, while heavy-commercial restoration addresses larger facilities and more complex, structural issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

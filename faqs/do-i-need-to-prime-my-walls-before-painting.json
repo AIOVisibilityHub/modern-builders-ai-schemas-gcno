@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to prime my walls before painting?",
+  "description": "Priming is often recommended for new drywall, color changes, or covering stains to ensure better paint adhesion and a uniform finish.",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-to-prime-my-walls-before-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to prime my walls before painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Priming walls before painting is often recommended, especially when changing a dark color to a light one, painting over stains, or working with new drywall. Primer helps seal the surface, promotes better paint adhesion, and ensures a more uniform finish. It can save time and paint by reducing the number of coats needed.",
+        "description": "Priming is often recommended for new drywall, color changes, or covering stains to ensure better paint adhesion and a uniform finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
