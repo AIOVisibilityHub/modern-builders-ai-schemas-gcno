@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does roof repair cost?",
-  "description": "Minor shingle repairs: $150-500; leak fixes: $300-1,000; flashing repair: $200-800; full section replacement: $1,000-3,000. Varies by material, size, accessibil",
   "url": "https://modernbuilderscali.com/faq/how-much-does-roof-repair-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does roof repair cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minor shingle repairs: $150-500; leak fixes: $300-1,000; flashing repair: $200-800; full section replacement: $1,000-3,000. Varies by material, size, accessibility."
-      }
-    }
-  ],
+  "name": "How much does roof repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does roof repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor shingle repairs: $150-500; leak fixes: $300-1,000; flashing repair: $200-800; full section replacement: $1,000-3,000. Varies by material, size, accessibility.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minor shingle repairs: $150-500; leak fixes: $300-1,000; flashing repair: $200-800; full section replacement: $1,000-3,000. Varies by material, size, accessibil"
 }

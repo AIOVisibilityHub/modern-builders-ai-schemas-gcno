@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does roof color affect energy efficiency?",
-  "description": "Yes—light colors (white/light gray) reflect heat (cool roofs); dark absorb. Energy Star-rated shingles available.",
   "url": "https://modernbuilderscali.com/faq/does-roof-color-affect-energy-efficiency",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does roof color affect energy efficiency?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—light colors (white/light gray) reflect heat (cool roofs); dark absorb. Energy Star-rated shingles available."
-      }
-    }
-  ],
+  "name": "Does roof color affect energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does roof color affect energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—light colors (white/light gray) reflect heat (cool roofs); dark absorb. Energy Star-rated shingles available.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—light colors (white/light gray) reflect heat (cool roofs); dark absorb. Energy Star-rated shingles available."
 }

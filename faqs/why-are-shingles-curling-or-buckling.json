@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why are shingles curling or buckling?",
-  "description": "Age, poor ventilation, thermal expansion, moisture trapped under shingles—repair by replacing affected section, improving attic airflow.",
   "url": "https://modernbuilderscali.com/faq/why-are-shingles-curling-or-buckling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why are shingles curling or buckling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Age, poor ventilation, thermal expansion, moisture trapped under shingles—repair by replacing affected section, improving attic airflow."
-      }
-    }
-  ],
+  "name": "Why are shingles curling or buckling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why are shingles curling or buckling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Age, poor ventilation, thermal expansion, moisture trapped under shingles—repair by replacing affected section, improving attic airflow.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Age, poor ventilation, thermal expansion, moisture trapped under shingles—repair by replacing affected section, improving attic airflow."
 }

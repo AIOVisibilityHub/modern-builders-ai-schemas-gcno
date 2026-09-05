@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Best Drywall Contractors Pasadena 2025",
-  "datePublished": "45672",
   "url": "https://yelp.com/top-contractors-pasadena",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Yelp Pasadena Top Picks"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Best Drywall Contractors Pasadena 2025",
+  "publisher": {
+    "name": "Yelp Pasadena Top Picks",
+    "@type": "Organization"
+  },
+  "datePublished": "45672"
 }

@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "name": "Should I repair or replace my roof?",
-  "description": "Repair if under 15 years old with isolated damage; replace if over 20 years, multiple issues, or granule loss everywhere. Inspection needed.",
+  "description": "Choose repair for isolated damage on a newer roof. Consider replacement if your roof is old, has widespread damage, or multiple leaks. An inspection helps decid",
   "url": "https://modernbuilderscali.com/faq/should-i-repair-or-replace-my-roof",
   "mainEntity": [
     {
@@ -10,7 +10,8 @@
       "name": "Should I repair or replace my roof?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Repair if under 15 years old with isolated damage; replace if over 20 years, multiple issues, or granule loss everywhere. Inspection needed."
+        "text": "Deciding whether to repair or replace your roof depends on several factors, including the age of your roof, the extent of the damage, and the overall condition of the roofing system. If your roof is relatively new and the damage is isolated, repair is often the more cost-effective solution. However, if your roof is nearing the end of its lifespan (typically 20-25 years for asphalt shingles), has widespread damage, or multiple leaks, a full replacement may be a better long-term investment. An inspection can help determine the most suitable option.",
+        "description": "Choose repair for isolated damage on a newer roof. Consider replacement if your roof is old, has widespread damage, or multiple leaks. An inspection helps decide."
       }
     }
   ],

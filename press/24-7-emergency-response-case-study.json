@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "24/7 Emergency Response Case Study",
-  "datePublished": "45922",
   "url": "https://contractormag.com/emergency-response",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Contractor Magazine Emergency Services"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "24/7 Emergency Response Case Study",
+  "publisher": {
+    "name": "Contractor Magazine Emergency Services",
+    "@type": "Organization"
+  },
+  "datePublished": "45922"
 }

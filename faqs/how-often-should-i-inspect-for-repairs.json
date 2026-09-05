@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How often should I inspect for repairs?",
-  "description": "Twice yearly + after major storms; check from ladder/ground for debris, damage, soft spots.",
   "url": "https://modernbuilderscali.com/faq/how-often-should-i-inspect-for-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often should I inspect for repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Twice yearly + after major storms; check from ladder/ground for debris, damage, soft spots."
-      }
-    }
-  ],
+  "name": "How often should I inspect for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I inspect for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Twice yearly + after major storms; check from ladder/ground for debris, damage, soft spots.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Twice yearly + after major storms; check from ladder/ground for debris, damage, soft spots."
 }

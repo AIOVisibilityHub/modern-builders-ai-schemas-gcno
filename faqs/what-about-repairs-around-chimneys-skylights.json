@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What about repairs around chimneys/skylights?",
-  "description": "Re-flash with step flashing/base sheets, bend new counterflashing into chase; silicone seal cracks.",
   "url": "https://modernbuilderscali.com/faq/what-about-repairs-around-chimneys-skylights",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What about repairs around chimneys/skylights?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Re-flash with step flashing/base sheets, bend new counterflashing into chase; silicone seal cracks."
-      }
-    }
-  ],
+  "name": "What about repairs around chimneys/skylights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What about repairs around chimneys/skylights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Re-flash with step flashing/base sheets, bend new counterflashing into chase; silicone seal cracks.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Re-flash with step flashing/base sheets, bend new counterflashing into chase; silicone seal cracks."
 }

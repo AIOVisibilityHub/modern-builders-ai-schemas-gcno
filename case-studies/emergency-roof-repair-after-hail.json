@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Emergency Roof Repair After Hail",
-  "articleBody": "Hail-damaged asphalt shingles on rental property. Spot repairs, impact-resistant upgrade, insurance coordination.\n\nOutcome: Returned to rent-ready condition in 48 hours, full replacement cost covered by claim.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Emergency Roof Repair After Hail",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Hail-damaged asphalt shingles on rental property. Spot repairs, impact-resistant upgrade, insurance coordination.\n\nOutcome: Returned to rent-ready condition in 48 hours, full replacement cost covered by claim."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Payment schedule?",
-  "description": "20-30% deposit, progress payments, final on completion—no full upfront.",
   "url": "https://modernbuilderscali.com/faq/payment-schedule",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Payment schedule?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "20-30% deposit, progress payments, final on completion—no full upfront."
-      }
-    }
-  ],
+  "name": "Payment schedule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Payment schedule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "20-30% deposit, progress payments, final on completion—no full upfront.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "20-30% deposit, progress payments, final on completion—no full upfront."
 }

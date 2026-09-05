@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Soundproof Home Office Partition",
-  "articleBody": "Client needed quiet workspace in busy household. Double drywall layers, staggered studs, acoustic sealant throughout.\n\nOutcome: 52dB noise reduction measured, Zoom calls crystal clear, productivity complaints resolved.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Soundproof Home Office Partition",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Client needed quiet workspace in busy household. Double drywall layers, staggered studs, acoustic sealant throughout.\n\nOutcome: 52dB noise reduction measured, Zoom calls crystal clear, productivity complaints resolved."
 }

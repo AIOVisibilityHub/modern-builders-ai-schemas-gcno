@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Great Drywall Painting"
+    "name": "Great Drywall Painting",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Easy communication... Freddie on time and did a great job with drywall and painting. Will call next time. yelp​",
-  "datePublished": "44996",
   "itemReviewed": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "datePublished": "44996"
 }

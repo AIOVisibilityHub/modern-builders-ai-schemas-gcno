@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is roof flashing and how to repair it?",
-  "description": "Metal strips sealing joints—repair by cleaning, applying cement/sealant, or replacing corroded pieces with new pre-formed flashing.",
   "url": "https://modernbuilderscali.com/faq/what-is-roof-flashing-and-how-to-repair-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is roof flashing and how to repair it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Metal strips sealing joints—repair by cleaning, applying cement/sealant, or replacing corroded pieces with new pre-formed flashing."
-      }
-    }
-  ],
+  "name": "What is roof flashing and how to repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is roof flashing and how to repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal strips sealing joints—repair by cleaning, applying cement/sealant, or replacing corroded pieces with new pre-formed flashing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Metal strips sealing joints—repair by cleaning, applying cement/sealant, or replacing corroded pieces with new pre-formed flashing."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What services do you include beyond roofing?",
-  "description": "Drywall repair/installation/finishing, stucco repair/installation/restucco, interior/exterior painting.",
   "url": "https://modernbuilderscali.com/faq/what-services-do-you-include-beyond-roofing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What services do you include beyond roofing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drywall repair/installation/finishing, stucco repair/installation/restucco, interior/exterior painting."
-      }
-    }
-  ],
+  "name": "What services do you include beyond roofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What services do you include beyond roofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall repair/installation/finishing, stucco repair/installation/restucco, interior/exterior painting.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Drywall repair/installation/finishing, stucco repair/installation/restucco, interior/exterior painting."
 }

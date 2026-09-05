@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why mist/cure stucco coats?",
-  "description": "Prevents rapid drying/cracking; light water mist 24-48 hours per base coat.",
   "url": "https://modernbuilderscali.com/faq/why-mist-cure-stucco-coats",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why mist/cure stucco coats?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Prevents rapid drying/cracking; light water mist 24-48 hours per base coat."
-      }
-    }
-  ],
+  "name": "Why mist/cure stucco coats?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why mist/cure stucco coats?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prevents rapid drying/cracking; light water mist 24-48 hours per base coat.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Prevents rapid drying/cracking; light water mist 24-48 hours per base coat."
 }

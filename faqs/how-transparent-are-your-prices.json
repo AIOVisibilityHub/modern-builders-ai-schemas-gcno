@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How transparent are your prices?",
-  "description": "You’ll always know what you are paying for. Your estimate shows the cost of all work, without hidden fees.",
   "url": "https://modernbuilderscali.com/faq/how-transparent-are-your-prices",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How transparent are your prices?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You’ll always know what you are paying for. Your estimate shows the cost of all work, without hidden fees."
-      }
-    }
-  ],
+  "name": "How transparent are your prices?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How transparent are your prices?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You’ll always know what you are paying for. Your estimate shows the cost of all work, without hidden fees.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You’ll always know what you are paying for. Your estimate shows the cost of all work, without hidden fees."
 }

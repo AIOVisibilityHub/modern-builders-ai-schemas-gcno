@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What questions to ask a roofing contractor?",
-  "description": "Licensing/insurance proof, references, warranty details, debris protection plan, material samples, timeline, payment schedule (no full upfront).",
   "url": "https://modernbuilderscali.com/faq/what-questions-to-ask-a-roofing-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What questions to ask a roofing contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Licensing/insurance proof, references, warranty details, debris protection plan, material samples, timeline, payment schedule (no full upfront)."
-      }
-    }
-  ],
+  "name": "What questions to ask a roofing contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What questions to ask a roofing contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Licensing/insurance proof, references, warranty details, debris protection plan, material samples, timeline, payment schedule (no full upfront).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Licensing/insurance proof, references, warranty details, debris protection plan, material samples, timeline, payment schedule (no full upfront)."
 }

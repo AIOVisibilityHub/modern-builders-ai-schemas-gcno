@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the best roofing material for Pasadena?",
-  "description": "Asphalt shingles or clay tiles work best for local sun, rain, and wind; they recommend based on your home's style and budget during consultation.",
   "url": "https://modernbuilderscali.com/faq/what-s-the-best-roofing-material-for-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the best roofing material for Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Asphalt shingles or clay tiles work best for local sun, rain, and wind; they recommend based on your home's style and budget during consultation."
-      }
-    }
-  ],
+  "name": "What's the best roofing material for Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the best roofing material for Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Asphalt shingles or clay tiles work best for local sun, rain, and wind; they recommend based on your home's style and budget during consultation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Asphalt shingles or clay tiles work best for local sun, rain, and wind; they recommend based on your home's style and budget during consultation."
 }

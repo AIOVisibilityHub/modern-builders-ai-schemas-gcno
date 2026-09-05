@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does roof installation take?",
-  "description": "A standard residential roof installation typically takes 1-2 days, depending on roof size, material type, weather, and whether old materials need removal. Compl",
   "url": "https://modernbuilderscali.com/faq/how-long-does-roof-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does roof installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A standard residential roof installation typically takes 1-2 days, depending on roof size, material type, weather, and whether old materials need removal. Complex roofs or steep pitches may extend to 3-5 days."
-      }
-    }
-  ],
+  "name": "How long does roof installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does roof installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard residential roof installation typically takes 1-2 days, depending on roof size, material type, weather, and whether old materials need removal. Complex roofs or steep pitches may extend to 3-5 days.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A standard residential roof installation typically takes 1-2 days, depending on roof size, material type, weather, and whether old materials need removal. Compl"
 }

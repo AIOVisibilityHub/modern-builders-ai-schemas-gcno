@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Instagram Roofing Reel Goes Viral",
-  "datePublished": "45940",
   "url": "https://socialmediatoday.com/roofing-reel-viral",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Social Media Today Construction"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Instagram Roofing Reel Goes Viral",
+  "publisher": {
+    "name": "Social Media Today Construction",
+    "@type": "Organization"
+  },
+  "datePublished": "45940"
 }

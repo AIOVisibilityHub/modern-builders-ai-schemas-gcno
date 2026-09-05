@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does metal roofing void asphalt warranties?",
-  "description": "No, if installed correctly over shingles; manufacturer guidelines followed.",
   "url": "https://modernbuilderscali.com/faq/does-metal-roofing-void-asphalt-warranties",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does metal roofing void asphalt warranties?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, if installed correctly over shingles; manufacturer guidelines followed."
-      }
-    }
-  ],
+  "name": "Does metal roofing void asphalt warranties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does metal roofing void asphalt warranties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, if installed correctly over shingles; manufacturer guidelines followed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No, if installed correctly over shingles; manufacturer guidelines followed."
 }

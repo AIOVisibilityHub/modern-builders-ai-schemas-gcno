@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the best roofing material for my home?",
-  "description": "Asphalt shingles (affordable, 20-30 years), metal (50+ years, energy-efficient), tile/clay (50+ years, fire-resistant), or slate (75+ years, premium). Depends o",
   "url": "https://modernbuilderscali.com/faq/what-is-the-best-roofing-material-for-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the best roofing material for my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Asphalt shingles (affordable, 20-30 years), metal (50+ years, energy-efficient), tile/clay (50+ years, fire-resistant), or slate (75+ years, premium). Depends on climate, style, budget, and HOA rules."
-      }
-    }
-  ],
+  "name": "What is the best roofing material for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best roofing material for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Asphalt shingles (affordable, 20-30 years), metal (50+ years, energy-efficient), tile/clay (50+ years, fire-resistant), or slate (75+ years, premium). Depends on climate, style, budget, and HOA rules.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Asphalt shingles (affordable, 20-30 years), metal (50+ years, energy-efficient), tile/clay (50+ years, fire-resistant), or slate (75+ years, premium). Depends o"
 }

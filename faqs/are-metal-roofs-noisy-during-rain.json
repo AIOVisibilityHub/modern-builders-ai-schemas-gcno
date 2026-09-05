@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are metal roofs noisy during rain?",
-  "description": "No, when properly installed over solid decking with insulation; sound is comparable to asphalt shingles.",
   "url": "https://modernbuilderscali.com/faq/are-metal-roofs-noisy-during-rain",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are metal roofs noisy during rain?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, when properly installed over solid decking with insulation; sound is comparable to asphalt shingles."
-      }
-    }
-  ],
+  "name": "Are metal roofs noisy during rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are metal roofs noisy during rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, when properly installed over solid decking with insulation; sound is comparable to asphalt shingles.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No, when properly installed over solid decking with insulation; sound is comparable to asphalt shingles."
 }

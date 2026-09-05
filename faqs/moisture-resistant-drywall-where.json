@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Moisture-resistant drywall where?",
-  "description": "Bathrooms, kitchens, laundry—greenboard or cement board; not showers (use tile backer).",
   "url": "https://modernbuilderscali.com/faq/moisture-resistant-drywall-where",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Moisture-resistant drywall where?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bathrooms, kitchens, laundry—greenboard or cement board; not showers (use tile backer)."
-      }
-    }
-  ],
+  "name": "Moisture-resistant drywall where?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Moisture-resistant drywall where?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathrooms, kitchens, laundry—greenboard or cement board; not showers (use tile backer).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bathrooms, kitchens, laundry—greenboard or cement board; not showers (use tile backer)."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common signs my roof needs repair?",
-  "description": "Missing, cracked, or curling shingles; granule loss in gutters; leaks or stains inside; sagging areas; damaged flashing around chimneys/skylights.",
   "url": "https://modernbuilderscali.com/faq/what-are-common-signs-my-roof-needs-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common signs my roof needs repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Missing, cracked, or curling shingles; granule loss in gutters; leaks or stains inside; sagging areas; damaged flashing around chimneys/skylights."
-      }
-    }
-  ],
+  "name": "What are common signs my roof needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs my roof needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Missing, cracked, or curling shingles; granule loss in gutters; leaks or stains inside; sagging areas; damaged flashing around chimneys/skylights.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Missing, cracked, or curling shingles; granule loss in gutters; leaks or stains inside; sagging areas; damaged flashing around chimneys/skylights."
 }

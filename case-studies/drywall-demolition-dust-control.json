@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Drywall Demolition Dust Control",
-  "articleBody": "Whole-house remodel required selective drywall removal. Negative pressure systems, zipwall containment, HEPA vacs.\n\nOutcome: Neighbor complaints eliminated, daily cleaning maintained livability, on-time completion.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Drywall Demolition Dust Control",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Whole-house remodel required selective drywall removal. Negative pressure systems, zipwall containment, HEPA vacs.\n\nOutcome: Neighbor complaints eliminated, daily cleaning maintained livability, on-time completion."
 }

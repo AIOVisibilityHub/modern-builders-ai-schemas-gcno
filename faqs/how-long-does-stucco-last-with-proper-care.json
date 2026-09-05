@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does stucco last with proper care?",
-  "description": "With quality coating and prep, 50 years or more is common.",
   "url": "https://modernbuilderscali.com/faq/how-long-does-stucco-last-with-proper-care",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does stucco last with proper care?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "With quality coating and prep, 50 years or more is common."
-      }
-    }
-  ],
+  "name": "How long does stucco last with proper care?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does stucco last with proper care?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With quality coating and prep, 50 years or more is common.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "With quality coating and prep, 50 years or more is common."
 }

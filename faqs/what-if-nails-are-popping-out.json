@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if nails are popping out?",
-  "description": "Caused by thermal movement—pull nails, add roofing cement, renail higher up into solid decking with ring-shank nails.",
   "url": "https://modernbuilderscali.com/faq/what-if-nails-are-popping-out",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if nails are popping out?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Caused by thermal movement—pull nails, add roofing cement, renail higher up into solid decking with ring-shank nails."
-      }
-    }
-  ],
+  "name": "What if nails are popping out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if nails are popping out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Caused by thermal movement—pull nails, add roofing cement, renail higher up into solid decking with ring-shank nails.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Caused by thermal movement—pull nails, add roofing cement, renail higher up into solid decking with ring-shank nails."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are metal roofs noisy in the rain?",
-  "description": "No, if properly installed with solid sheathing and insulation. Standing seam preferred over corrugated for quieter performance.",
   "url": "https://modernbuilderscali.com/faq/are-metal-roofs-noisy-in-the-rain",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are metal roofs noisy in the rain?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, if properly installed with solid sheathing and insulation. Standing seam preferred over corrugated for quieter performance."
-      }
-    }
-  ],
+  "name": "Are metal roofs noisy in the rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are metal roofs noisy in the rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, if properly installed with solid sheathing and insulation. Standing seam preferred over corrugated for quieter performance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No, if properly installed with solid sheathing and insulation. Standing seam preferred over corrugated for quieter performance."
 }

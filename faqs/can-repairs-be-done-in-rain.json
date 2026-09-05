@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can repairs be done in rain?",
-  "description": "No—wet conditions prevent proper sealing; schedule dry weather or use temporary tarps.",
   "url": "https://modernbuilderscali.com/faq/can-repairs-be-done-in-rain",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can repairs be done in rain?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No—wet conditions prevent proper sealing; schedule dry weather or use temporary tarps."
-      }
-    }
-  ],
+  "name": "Can repairs be done in rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can repairs be done in rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No—wet conditions prevent proper sealing; schedule dry weather or use temporary tarps.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No—wet conditions prevent proper sealing; schedule dry weather or use temporary tarps."
 }

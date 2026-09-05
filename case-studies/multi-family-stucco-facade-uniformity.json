@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Multi-Family Stucco Facade Uniformity",
-  "articleBody": "8-unit apartment complex with mismatched stucco repairs. Full re-stucco with single mix batch, consistent texture/color across all buildings.\n\nOutcome: Uniform professional appearance, tenant retention improved, property management reported 15% rent increase potential.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Multi-Family Stucco Facade Uniformity",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "8-unit apartment complex with mismatched stucco repairs. Full re-stucco with single mix batch, consistent texture/color across all buildings.\n\nOutcome: Uniform professional appearance, tenant retention improved, property management reported 15% rent increase potential."
 }

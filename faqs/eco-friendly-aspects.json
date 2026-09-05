@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Eco-friendly aspects?",
-  "description": "25-95% recycled content; fully recyclable at end-of-life; reduces landfill waste.",
   "url": "https://modernbuilderscali.com/faq/eco-friendly-aspects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Eco-friendly aspects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "25-95% recycled content; fully recyclable at end-of-life; reduces landfill waste."
-      }
-    }
-  ],
+  "name": "Eco-friendly aspects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Eco-friendly aspects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "25-95% recycled content; fully recyclable at end-of-life; reduces landfill waste.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "25-95% recycled content; fully recyclable at end-of-life; reduces landfill waste."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is metal roofing fire-resistant?",
-  "description": "Class A fire-rated; non-combustible metal won't fuel spread.",
   "url": "https://modernbuilderscali.com/faq/is-metal-roofing-fire-resistant",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is metal roofing fire-resistant?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Class A fire-rated; non-combustible metal won't fuel spread."
-      }
-    }
-  ],
+  "name": "Is metal roofing fire-resistant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is metal roofing fire-resistant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Class A fire-rated; non-combustible metal won't fuel spread.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Class A fire-rated; non-combustible metal won't fuel spread."
 }

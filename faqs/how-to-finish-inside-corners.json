@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to finish inside corners?",
-  "description": "Metal/plastic bead with mesh flanges, mud over both sides alternately.",
   "url": "https://modernbuilderscali.com/faq/how-to-finish-inside-corners",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to finish inside corners?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Metal/plastic bead with mesh flanges, mud over both sides alternately."
-      }
-    }
-  ],
+  "name": "How to finish inside corners?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to finish inside corners?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal/plastic bead with mesh flanges, mud over both sides alternately.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Metal/plastic bead with mesh flanges, mud over both sides alternately."
 }

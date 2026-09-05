@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is \"Level 5\" drywall finish?",
-  "description": "Smoothest finish with 3-4 thin skim coats over entire surface; required for flat paint or glossy finishes.",
   "url": "https://modernbuilderscali.com/faq/what-is-level-5-drywall-finish",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is \"Level 5\" drywall finish?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Smoothest finish with 3-4 thin skim coats over entire surface; required for flat paint or glossy finishes."
-      }
-    }
-  ],
+  "name": "What is \"Level 5\" drywall finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is \"Level 5\" drywall finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smoothest finish with 3-4 thin skim coats over entire surface; required for flat paint or glossy finishes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Smoothest finish with 3-4 thin skim coats over entire surface; required for flat paint or glossy finishes."
 }

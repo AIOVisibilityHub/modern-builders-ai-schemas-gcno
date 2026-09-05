@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will you caulk cracks and gaps?",
-  "description": "Yes—windows, doors, siding joints with elastomeric sealant to prevent water intrusion.",
   "url": "https://modernbuilderscali.com/faq/will-you-caulk-cracks-and-gaps",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will you caulk cracks and gaps?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—windows, doors, siding joints with elastomeric sealant to prevent water intrusion."
-      }
-    }
-  ],
+  "name": "Will you caulk cracks and gaps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will you caulk cracks and gaps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—windows, doors, siding joints with elastomeric sealant to prevent water intrusion.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—windows, doors, siding joints with elastomeric sealant to prevent water intrusion."
 }

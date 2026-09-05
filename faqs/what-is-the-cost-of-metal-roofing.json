@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the cost of metal roofing?",
-  "description": "$8-20 per sq ft installed; premium standing seam higher, but long-term savings from durability/energy efficiency.",
   "url": "https://modernbuilderscali.com/faq/what-is-the-cost-of-metal-roofing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cost of metal roofing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$8-20 per sq ft installed; premium standing seam higher, but long-term savings from durability/energy efficiency."
-      }
-    }
-  ],
+  "name": "What is the cost of metal roofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of metal roofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$8-20 per sq ft installed; premium standing seam higher, but long-term savings from durability/energy efficiency.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$8-20 per sq ft installed; premium standing seam higher, but long-term savings from durability/energy efficiency."
 }

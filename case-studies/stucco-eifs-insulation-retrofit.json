@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Stucco EIFS Insulation Retrofit",
-  "articleBody": "Energy audit revealed poor wall insulation. Installed foam board system with stucco finish, drainage plane.\n\nOutcome: R-15 walls achieved, utility bills cut 22%, comfortable year-round indoor temps.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Stucco EIFS Insulation Retrofit",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Energy audit revealed poor wall insulation. Installed foam board system with stucco finish, drainage plane.\n\nOutcome: R-15 walls achieved, utility bills cut 22%, comfortable year-round indoor temps."
 }

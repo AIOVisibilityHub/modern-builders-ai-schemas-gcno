@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Stucco Repair Experts Feature Modern Builders",
-  "datePublished": "45757",
   "url": "https://houzz.com/pro/modernbuilderscali",
-  "publisher": {
-    "@type": "Organization",
-    "name": "HOUZZ Pasadena Pros"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Stucco Repair Experts Feature Modern Builders",
+  "publisher": {
+    "name": "HOUZZ Pasadena Pros",
+    "@type": "Organization"
+  },
+  "datePublished": "45757"
 }

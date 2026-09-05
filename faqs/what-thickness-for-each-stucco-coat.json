@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What thickness for each stucco coat?",
-  "description": "Scratch/brown: 3/8\" each; finish: 1/8\"; total base 3/4\" over lath.",
   "url": "https://modernbuilderscali.com/faq/what-thickness-for-each-stucco-coat",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What thickness for each stucco coat?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Scratch/brown: 3/8\" each; finish: 1/8\"; total base 3/4\" over lath."
-      }
-    }
-  ],
+  "name": "What thickness for each stucco coat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What thickness for each stucco coat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Scratch/brown: 3/8\" each; finish: 1/8\"; total base 3/4\" over lath.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Scratch/brown: 3/8\" each; finish: 1/8\"; total base 3/4\" over lath."
 }

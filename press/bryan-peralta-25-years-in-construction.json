@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bryan Peralta: 25 Years in Construction",
-  "datePublished": "45736",
   "url": "https://pasadenachamber.org/newsletter-march-2025",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pasadena Chamber Newsletter"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Bryan Peralta: 25 Years in Construction",
+  "publisher": {
+    "name": "Pasadena Chamber Newsletter",
+    "@type": "Organization"
+  },
+  "datePublished": "45736"
 }

@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Top Roofing Contractors in Northeast LA",
-  "datePublished": "45891",
   "url": "https://latimes.com/home/roofing-contractors-ne-la",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Los Angeles Times Home Section"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Top Roofing Contractors in Northeast LA",
+  "publisher": {
+    "name": "Los Angeles Times Home Section",
+    "@type": "Organization"
+  },
+  "datePublished": "45891"
 }

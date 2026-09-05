@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Roofing Storm Restoration Specialists",
-  "datePublished": "45870",
   "url": "https://insurancejournal.com/ca/roofing-specialists",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Insurance Journal California"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Roofing Storm Restoration Specialists",
+  "publisher": {
+    "name": "Insurance Journal California",
+    "@type": "Organization"
+  },
+  "datePublished": "45870"
 }

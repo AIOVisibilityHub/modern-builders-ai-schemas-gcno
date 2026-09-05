@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What colors are available?",
-  "description": "30+ standard Kynar colors; custom matches possible for HOA/architectural needs.",
   "url": "https://modernbuilderscali.com/faq/what-colors-are-available",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What colors are available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "30+ standard Kynar colors; custom matches possible for HOA/architectural needs."
-      }
-    }
-  ],
+  "name": "What colors are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What colors are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "30+ standard Kynar colors; custom matches possible for HOA/architectural needs.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "30+ standard Kynar colors; custom matches possible for HOA/architectural needs."
 }

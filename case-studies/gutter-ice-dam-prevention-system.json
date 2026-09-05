@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Gutter Ice Dam Prevention System",
-  "articleBody": "North valley prone to ice buildup. Self-regulating heat cables, insulated channel covers, snow sensor.\n\nOutcome: Zero gutter damage first winter, maintained full flow capacity, energy usage under $50/season.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Gutter Ice Dam Prevention System",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "North valley prone to ice buildup. Self-regulating heat cables, insulated channel covers, snow sensor.\n\nOutcome: Zero gutter damage first winter, maintained full flow capacity, energy usage under $50/season."
 }

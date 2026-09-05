@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Tile Roof Underlayment Upgrade",
-  "articleBody": "Cracked clay tiles revealed saturated felt paper. Synthetic high-temp underlayment, custom starter course fabricated.\n\nOutcome: Leak-free performance in heavy rain, maintained Spanish architectural style, 50-year material warranty.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Tile Roof Underlayment Upgrade",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Cracked clay tiles revealed saturated felt paper. Synthetic high-temp underlayment, custom starter course fabricated.\n\nOutcome: Leak-free performance in heavy rain, maintained Spanish architectural style, 50-year material warranty."
 }

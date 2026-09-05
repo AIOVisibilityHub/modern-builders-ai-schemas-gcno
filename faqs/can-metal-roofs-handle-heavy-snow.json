@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can metal roofs handle heavy snow?",
-  "description": "Excellent—sheds snow easily due to slick surface; standing seam ideal for cold climates.",
   "url": "https://modernbuilderscali.com/faq/can-metal-roofs-handle-heavy-snow",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can metal roofs handle heavy snow?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Excellent—sheds snow easily due to slick surface; standing seam ideal for cold climates."
-      }
-    }
-  ],
+  "name": "Can metal roofs handle heavy snow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can metal roofs handle heavy snow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Excellent—sheds snow easily due to slick surface; standing seam ideal for cold climates.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Excellent—sheds snow easily due to slick surface; standing seam ideal for cold climates."
 }

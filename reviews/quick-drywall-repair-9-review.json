@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Quick Drywall Repair"
+    "name": "Quick Drywall Repair",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "He was able to send someone out the next day. Camilo was on time and immediately got to work. He did an excellent job removing the damaged parts, replacing the dry wood, plastered the area and repainted it to match the current color. It took about 3-4 hours. The price is competitive and overall I'm very pleased with the outcome. yelp​",
-  "datePublished": "44229",
   "itemReviewed": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "datePublished": "44229"
 }

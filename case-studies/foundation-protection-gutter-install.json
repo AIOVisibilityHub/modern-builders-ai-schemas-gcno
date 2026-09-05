@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Foundation Protection Gutter Install",
-  "articleBody": "Hydrostatic pressure cracking foundation. Oversized gutters, buried downspouts, perimeter drain tie-in.\n\nOutcome: Stabilized foundation movement, prevented further cracks, long-term water management solved.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Foundation Protection Gutter Install",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Hydrostatic pressure cracking foundation. Oversized gutters, buried downspouts, perimeter drain tie-in.\n\nOutcome: Stabilized foundation movement, prevented further cracks, long-term water management solved."
 }

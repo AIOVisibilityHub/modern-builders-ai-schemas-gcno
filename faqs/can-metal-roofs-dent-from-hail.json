@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can metal roofs dent from hail?",
-  "description": "Minimal; thicker gauges (26-29) resist; impact-resistant options available.",
   "url": "https://modernbuilderscali.com/faq/can-metal-roofs-dent-from-hail",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can metal roofs dent from hail?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimal; thicker gauges (26-29) resist; impact-resistant options available."
-      }
-    }
-  ],
+  "name": "Can metal roofs dent from hail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can metal roofs dent from hail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimal; thicker gauges (26-29) resist; impact-resistant options available.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minimal; thicker gauges (26-29) resist; impact-resistant options available."
 }

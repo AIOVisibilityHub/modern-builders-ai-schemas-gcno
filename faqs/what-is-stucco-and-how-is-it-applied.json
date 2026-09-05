@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is stucco and how is it applied?",
-  "description": "Stucco is a cement-based plaster applied in 3 coats (scratch, brown, finish) over metal lath for durable exterior finish; total 7/8-1 inch thick.",
   "url": "https://modernbuilderscali.com/faq/what-is-stucco-and-how-is-it-applied",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is stucco and how is it applied?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stucco is a cement-based plaster applied in 3 coats (scratch, brown, finish) over metal lath for durable exterior finish; total 7/8-1 inch thick."
-      }
-    }
-  ],
+  "name": "What is stucco and how is it applied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is stucco and how is it applied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco is a cement-based plaster applied in 3 coats (scratch, brown, finish) over metal lath for durable exterior finish; total 7/8-1 inch thick.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Stucco is a cement-based plaster applied in 3 coats (scratch, brown, finish) over metal lath for durable exterior finish; total 7/8-1 inch thick."
 }

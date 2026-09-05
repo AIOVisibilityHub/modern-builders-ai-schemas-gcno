@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Roof Color Change Energy Study",
-  "articleBody": "Switched from dark asphalt to white TPO flat roof. Temperature sensors documented attic cooling results.\n\nOutcome: 35°F lower surface temps, 22% energy savings verified by PG&E bills, cool roof rebate received.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Roof Color Change Energy Study",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Switched from dark asphalt to white TPO flat roof. Temperature sensors documented attic cooling results.\n\nOutcome: 35°F lower surface temps, 22% energy savings verified by PG&E bills, cool roof rebate received."
 }

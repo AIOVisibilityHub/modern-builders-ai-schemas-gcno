@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are drone inspections used for repairs?",
-  "description": "Yes—increasingly for steep/safe assessment; provides photos/videos for accurate quoting.",
   "url": "https://modernbuilderscali.com/faq/are-drone-inspections-used-for-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are drone inspections used for repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—increasingly for steep/safe assessment; provides photos/videos for accurate quoting."
-      }
-    }
-  ],
+  "name": "Are drone inspections used for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are drone inspections used for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—increasingly for steep/safe assessment; provides photos/videos for accurate quoting.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—increasingly for steep/safe assessment; provides photos/videos for accurate quoting."
 }

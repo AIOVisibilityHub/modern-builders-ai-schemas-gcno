@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Standing seam vs exposed fastener?",
-  "description": "Standing seam: clips hidden, sleeker, better wind uplift; exposed: cheaper, faster DIY install.",
   "url": "https://modernbuilderscali.com/faq/standing-seam-vs-exposed-fastener",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Standing seam vs exposed fastener?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Standing seam: clips hidden, sleeker, better wind uplift; exposed: cheaper, faster DIY install."
-      }
-    }
-  ],
+  "name": "Standing seam vs exposed fastener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Standing seam vs exposed fastener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standing seam: clips hidden, sleeker, better wind uplift; exposed: cheaper, faster DIY install.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Standing seam: clips hidden, sleeker, better wind uplift; exposed: cheaper, faster DIY install."
 }

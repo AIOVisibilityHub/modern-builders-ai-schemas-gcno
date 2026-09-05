@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you paint by brush, roller, or spray?",
-  "description": "Spray for speed/even coverage on large areas, back-roll immediately; brush/roller trim/details.",
   "url": "https://modernbuilderscali.com/faq/do-you-paint-by-brush-roller-or-spray",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you paint by brush, roller, or spray?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Spray for speed/even coverage on large areas, back-roll immediately; brush/roller trim/details."
-      }
-    }
-  ],
+  "name": "Do you paint by brush, roller, or spray?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you paint by brush, roller, or spray?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spray for speed/even coverage on large areas, back-roll immediately; brush/roller trim/details.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Spray for speed/even coverage on large areas, back-roll immediately; brush/roller trim/details."
 }

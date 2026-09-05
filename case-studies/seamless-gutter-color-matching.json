@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Seamless Gutter Color Matching",
-  "articleBody": "Homeowners wanted gutters to blend with new paint. Custom coil color mixed on-site, perfect factory finish match.\n\nOutcome: Invisible integration, complimented as \"factory original,\" set new standard for future projects.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Seamless Gutter Color Matching",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Homeowners wanted gutters to blend with new paint. Custom coil color mixed on-site, perfect factory finish match.\n\nOutcome: Invisible integration, complimented as \"factory original,\" set new standard for future projects."
 }

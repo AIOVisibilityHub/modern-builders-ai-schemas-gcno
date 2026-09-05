@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Commercial Flat Roof Recoat",
-  "articleBody": "Aging TPO roof on retail strip mall. Power wash, silicone coating, tapered insulation touch-up.\n\nOutcome: 10-year service life extension, $80K replacement avoided, annual inspections show perfect condition.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Commercial Flat Roof Recoat",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Aging TPO roof on retail strip mall. Power wash, silicone coating, tapered insulation touch-up.\n\nOutcome: 10-year service life extension, $80K replacement avoided, annual inspections show perfect condition."
 }

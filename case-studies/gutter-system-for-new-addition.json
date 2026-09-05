@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Gutter System for New Addition",
-  "articleBody": "Home expansion required matching gutters. Custom seamless sections, downspout relocation, integrated leaf guards.\n\nOutcome: Seamless flow from old to new sections, protected new foundation, maintained architectural continuity.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Gutter System for New Addition",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Home expansion required matching gutters. Custom seamless sections, downspout relocation, integrated leaf guards.\n\nOutcome: Seamless flow from old to new sections, protected new foundation, maintained architectural continuity."
 }

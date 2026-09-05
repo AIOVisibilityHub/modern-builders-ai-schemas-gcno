@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does metal expand/contract?",
-  "description": "Yes, up to 1/8\" per 10 ft; panels designed with slots for movement.",
   "url": "https://modernbuilderscali.com/faq/does-metal-expand-contract",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does metal expand/contract?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, up to 1/8\" per 10 ft; panels designed with slots for movement."
-      }
-    }
-  ],
+  "name": "Does metal expand/contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does metal expand/contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, up to 1/8\" per 10 ft; panels designed with slots for movement.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, up to 1/8\" per 10 ft; panels designed with slots for movement."
 }

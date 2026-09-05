@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Level 5 Drywall for Custom Home Theater",
-  "articleBody": "High-end media room required flawless surfaces for projector. Skim coated entire room, specialty acoustic panels integrated.\n\nOutcome: Perfect image quality, soundproofing reduced 60% noise transmission, feature of home tour.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Level 5 Drywall for Custom Home Theater",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "High-end media room required flawless surfaces for projector. Skim coated entire room, specialty acoustic panels integrated.\n\nOutcome: Perfect image quality, soundproofing reduced 60% noise transmission, feature of home tour."
 }

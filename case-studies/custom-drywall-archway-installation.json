@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Custom Drywall Archway Installation",
-  "articleBody": "Kitchen opening required curved wall transition. Flexible drywall bending, perfect spline finish, integrated lighting recess.\n\nOutcome: Seamless architectural feature, open floorplan achieved, appraised higher than comparable homes.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Custom Drywall Archway Installation",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Kitchen opening required curved wall transition. Flexible drywall bending, perfect spline finish, integrated lighting recess.\n\nOutcome: Seamless architectural feature, open floorplan achieved, appraised higher than comparable homes."
 }

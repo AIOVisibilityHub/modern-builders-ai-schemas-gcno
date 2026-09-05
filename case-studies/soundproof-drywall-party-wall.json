@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Soundproof Drywall Party Wall",
-  "articleBody": "Neighbors complained about home recording studio. Double 5/8\" drywall, resilient channels, MLV integration.\n\nOutcome: 55dB noise reduction achieved, city sound ordinance compliance, studio operations resumed quietly.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Soundproof Drywall Party Wall",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Neighbors complained about home recording studio. Double 5/8\" drywall, resilient channels, MLV integration.\n\nOutcome: 55dB noise reduction achieved, city sound ordinance compliance, studio operations resumed quietly."
 }

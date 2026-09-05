@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Craftsman Home Exterior Makeover",
-  "datePublished": "45979",
   "url": "https://hgtv.com/pasadena-craftsman-makeover",
-  "publisher": {
-    "@type": "Organization",
-    "name": "HGTV Neighborhood Reno Feature"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Craftsman Home Exterior Makeover",
+  "publisher": {
+    "name": "HGTV Neighborhood Reno Feature",
+    "@type": "Organization"
+  },
+  "datePublished": "45979"
 }

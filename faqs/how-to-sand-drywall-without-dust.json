@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to sand drywall without dust?",
-  "description": "Wet sanding with sponge, purple sanding screens, vacuum attachments, dustless sander.",
   "url": "https://modernbuilderscali.com/faq/how-to-sand-drywall-without-dust",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to sand drywall without dust?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wet sanding with sponge, purple sanding screens, vacuum attachments, dustless sander."
-      }
-    }
-  ],
+  "name": "How to sand drywall without dust?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to sand drywall without dust?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wet sanding with sponge, purple sanding screens, vacuum attachments, dustless sander.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Wet sanding with sponge, purple sanding screens, vacuum attachments, dustless sander."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance does stucco need?",
-  "description": "Inspect annually for cracks, clean with low-pressure wash, re-caulk joints every 5 years.",
   "url": "https://modernbuilderscali.com/faq/what-maintenance-does-stucco-need",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance does stucco need?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Inspect annually for cracks, clean with low-pressure wash, re-caulk joints every 5 years."
-      }
-    }
-  ],
+  "name": "What maintenance does stucco need?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance does stucco need?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Inspect annually for cracks, clean with low-pressure wash, re-caulk joints every 5 years.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Inspect annually for cracks, clean with low-pressure wash, re-caulk joints every 5 years."
 }

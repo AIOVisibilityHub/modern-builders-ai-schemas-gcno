@@ -1,15 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Stucco fix during pandemic"
+    "name": "Stucco fix during pandemic",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Reviews were good so I contacted them... quick responses... in-person consultation... knowledgeable, upfront pricing, affordable. Will recommend. yelp​",
-  "datePublished": "44096",
   "itemReviewed": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "datePublished": "44096"
 }

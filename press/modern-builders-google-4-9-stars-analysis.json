@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Modern Builders Google 4.9 Stars Analysis",
-  "datePublished": "45780",
   "url": "https://reviewtrackers.com/modern-builders",
-  "publisher": {
-    "@type": "Organization",
-    "name": "ReviewTrackers Local Business Report"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Modern Builders Google 4.9 Stars Analysis",
+  "publisher": {
+    "name": "ReviewTrackers Local Business Report",
+    "@type": "Organization"
+  },
+  "datePublished": "45780"
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Complete Attic Remodel Drywall",
-  "articleBody": "Converting storage attic to bedroom/office. Sloped ceiling framing, soundproof drywall, recessed lighting integration.\n\nOutcome: Taxable square footage increased, energy-efficient insulation, comfortable year-round use.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Complete Attic Remodel Drywall",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Converting storage attic to bedroom/office. Sloped ceiling framing, soundproof drywall, recessed lighting integration.\n\nOutcome: Taxable square footage increased, energy-efficient insulation, comfortable year-round use."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What fasteners are best?",
-  "description": "#10-14 wood screws with neoprene washers; never nails—thermal movement loosens.",
   "url": "https://modernbuilderscali.com/faq/what-fasteners-are-best",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What fasteners are best?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "#10-14 wood screws with neoprene washers; never nails—thermal movement loosens."
-      }
-    }
-  ],
+  "name": "What fasteners are best?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What fasteners are best?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "#10-14 wood screws with neoprene washers; never nails—thermal movement loosens.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "#10-14 wood screws with neoprene washers; never nails—thermal movement loosens."
 }

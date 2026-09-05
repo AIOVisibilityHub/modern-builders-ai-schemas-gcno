@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I replace my roof in winter?",
-  "description": "Possible but not ideal—cold affects shingle sealing. Best in warm, dry seasons (spring-fall). Emergency installs ok anytime with proper prep.",
   "url": "https://modernbuilderscali.com/faq/should-i-replace-my-roof-in-winter",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I replace my roof in winter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Possible but not ideal—cold affects shingle sealing. Best in warm, dry seasons (spring-fall). Emergency installs ok anytime with proper prep."
-      }
-    }
-  ],
+  "name": "Should I replace my roof in winter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my roof in winter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Possible but not ideal—cold affects shingle sealing. Best in warm, dry seasons (spring-fall). Emergency installs ok anytime with proper prep.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Possible but not ideal—cold affects shingle sealing. Best in warm, dry seasons (spring-fall). Emergency installs ok anytime with proper prep."
 }

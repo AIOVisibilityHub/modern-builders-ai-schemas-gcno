@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to texture drywall?",
-  "description": "Spray orange peel/knockdown with hopper gun, hand texture with slap brush/sponge.",
   "url": "https://modernbuilderscali.com/faq/how-to-texture-drywall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to texture drywall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Spray orange peel/knockdown with hopper gun, hand texture with slap brush/sponge."
-      }
-    }
-  ],
+  "name": "How to texture drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to texture drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spray orange peel/knockdown with hopper gun, hand texture with slap brush/sponge.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Spray orange peel/knockdown with hopper gun, hand texture with slap brush/sponge."
 }

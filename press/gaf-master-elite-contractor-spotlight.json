@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "GAF Master Elite Contractor Spotlight",
-  "datePublished": "45962",
   "url": "https://gaf.com/contractor-spotlight/modern-builders",
-  "publisher": {
-    "@type": "Organization",
-    "name": "GAF Roofing Magazine"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "GAF Master Elite Contractor Spotlight",
+  "publisher": {
+    "name": "GAF Roofing Magazine",
+    "@type": "Organization"
+  },
+  "datePublished": "45962"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What ventilation is needed under a new roof?",
-  "description": "Ridge/soffit vents for airflow (1:150 ratio net free area). Prevents moisture/heat buildup; critical for asphalt shingles.",
   "url": "https://modernbuilderscali.com/faq/what-ventilation-is-needed-under-a-new-roof",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What ventilation is needed under a new roof?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ridge/soffit vents for airflow (1:150 ratio net free area). Prevents moisture/heat buildup; critical for asphalt shingles."
-      }
-    }
-  ],
+  "name": "What ventilation is needed under a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What ventilation is needed under a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ridge/soffit vents for airflow (1:150 ratio net free area). Prevents moisture/heat buildup; critical for asphalt shingles.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Ridge/soffit vents for airflow (1:150 ratio net free area). Prevents moisture/heat buildup; critical for asphalt shingles."
 }

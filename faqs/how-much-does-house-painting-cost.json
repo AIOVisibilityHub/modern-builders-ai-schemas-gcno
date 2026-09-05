@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does house painting cost?",
-  "description": "$2,000-$6,000 average for exterior (1,500 sq ft, 2-story); $1.50-4/sq ft interior. Factors: size, prep work, paint quality, location, access.",
   "url": "https://modernbuilderscali.com/faq/how-much-does-house-painting-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does house painting cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$2,000-$6,000 average for exterior (1,500 sq ft, 2-story); $1.50-4/sq ft interior. Factors: size, prep work, paint quality, location, access."
-      }
-    }
-  ],
+  "name": "How much does house painting cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does house painting cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$2,000-$6,000 average for exterior (1,500 sq ft, 2-story); $1.50-4/sq ft interior. Factors: size, prep work, paint quality, location, access.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$2,000-$6,000 average for exterior (1,500 sq ft, 2-story); $1.50-4/sq ft interior. Factors: size, prep work, paint quality, location, access."
 }

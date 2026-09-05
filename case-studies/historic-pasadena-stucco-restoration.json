@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Historic Pasadena Stucco Restoration",
-  "articleBody": "1925 bungalow with original lime stucco failing. Matched period formula, breathable repairs, authentic texture/color.\n\nOutcome: Won preservation award, maintained historic tax status, showcased in local architecture magazine.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Historic Pasadena Stucco Restoration",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "1925 bungalow with original lime stucco failing. Matched period formula, breathable repairs, authentic texture/color.\n\nOutcome: Won preservation award, maintained historic tax status, showcased in local architecture magazine."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What about skylights/chimneys during install?",
-  "description": "Custom flashing/step curbs needed. Contractor sketches/shows photos of handling penetrations.",
   "url": "https://modernbuilderscali.com/faq/what-about-skylights-chimneys-during-install",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What about skylights/chimneys during install?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Custom flashing/step curbs needed. Contractor sketches/shows photos of handling penetrations."
-      }
-    }
-  ],
+  "name": "What about skylights/chimneys during install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What about skylights/chimneys during install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom flashing/step curbs needed. Contractor sketches/shows photos of handling penetrations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Custom flashing/step curbs needed. Contractor sketches/shows photos of handling penetrations."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to repair missing shingles?",
-  "description": "Slide new shingle under overlying one, nail 1-1.25\" above sealant strip, seal edges with roofing cement matching color/texture.",
   "url": "https://modernbuilderscali.com/faq/how-to-repair-missing-shingles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to repair missing shingles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Slide new shingle under overlying one, nail 1-1.25\" above sealant strip, seal edges with roofing cement matching color/texture."
-      }
-    }
-  ],
+  "name": "How to repair missing shingles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to repair missing shingles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slide new shingle under overlying one, nail 1-1.25\" above sealant strip, seal edges with roofing cement matching color/texture.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Slide new shingle under overlying one, nail 1-1.25\" above sealant strip, seal edges with roofing cement matching color/texture."
 }

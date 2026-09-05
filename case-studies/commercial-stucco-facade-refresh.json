@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Commercial Stucco Facade Refresh",
-  "articleBody": "Office building entrance showed cracking. Full repair, new EIFS panels, integrated signage cutouts with backlighting.\n\nOutcome: Enhanced professional appearance, tenant retention up, awarded \"best exterior upgrade\" by local business association.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Commercial Stucco Facade Refresh",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Office building entrance showed cracking. Full repair, new EIFS panels, integrated signage cutouts with backlighting.\n\nOutcome: Enhanced professional appearance, tenant retention up, awarded \"best exterior upgrade\" by local business association."
 }

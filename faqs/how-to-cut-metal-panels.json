@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to cut metal panels?",
-  "description": "Nibblers, shears, or circular saw with metal blade; avoid torches/grinders (sparks).",
   "url": "https://modernbuilderscali.com/faq/how-to-cut-metal-panels",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to cut metal panels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Nibblers, shears, or circular saw with metal blade; avoid torches/grinders (sparks)."
-      }
-    }
-  ],
+  "name": "How to cut metal panels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to cut metal panels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Nibblers, shears, or circular saw with metal blade; avoid torches/grinders (sparks).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Nibblers, shears, or circular saw with metal blade; avoid torches/grinders (sparks)."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why granule loss from shingles?",
-  "description": "Normal aging from rain/foot traffic; excessive means UV degradation—monitor, repair bald spots promptly.",
   "url": "https://modernbuilderscali.com/faq/why-granule-loss-from-shingles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why granule loss from shingles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Normal aging from rain/foot traffic; excessive means UV degradation—monitor, repair bald spots promptly."
-      }
-    }
-  ],
+  "name": "Why granule loss from shingles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why granule loss from shingles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Normal aging from rain/foot traffic; excessive means UV degradation—monitor, repair bald spots promptly.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Normal aging from rain/foot traffic; excessive means UV degradation—monitor, repair bald spots promptly."
 }

@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Modern Builders Facebook Milestone",
-  "datePublished": "45989",
   "url": "https://pasadenanow.com/facebook-milestone",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pasadena Now Social Media Watch"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Modern Builders Facebook Milestone",
+  "publisher": {
+    "name": "Pasadena Now Social Media Watch",
+    "@type": "Organization"
+  },
+  "datePublished": "45989"
 }

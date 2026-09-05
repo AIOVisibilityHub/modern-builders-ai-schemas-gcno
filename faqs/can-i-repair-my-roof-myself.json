@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I repair my roof myself?",
-  "description": "Minor shingle patches yes if experienced; anything involving leaks, valleys, or steep pitches—no, hire pros to avoid safety risks and further damage.",
   "url": "https://modernbuilderscali.com/faq/can-i-repair-my-roof-myself",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I repair my roof myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minor shingle patches yes if experienced; anything involving leaks, valleys, or steep pitches—no, hire pros to avoid safety risks and further damage."
-      }
-    }
-  ],
+  "name": "Can I repair my roof myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my roof myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor shingle patches yes if experienced; anything involving leaks, valleys, or steep pitches—no, hire pros to avoid safety risks and further damage.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minor shingle patches yes if experienced; anything involving leaks, valleys, or steep pitches—no, hire pros to avoid safety risks and further damage."
 }

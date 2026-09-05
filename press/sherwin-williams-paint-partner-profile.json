@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Sherwin-Williams Paint Partner Profile",
-  "datePublished": "45795",
   "url": "https://sherwin-williams.com/contractors/modern",
-  "publisher": {
-    "@type": "Organization",
-    "name": "SW Contractor Digest"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Sherwin-Williams Paint Partner Profile",
+  "publisher": {
+    "name": "SW Contractor Digest",
+    "@type": "Organization"
+  },
+  "datePublished": "45795"
 }

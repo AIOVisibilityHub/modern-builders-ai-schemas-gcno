@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you install control joints?",
-  "description": "Every 144 sq ft max; cut through all coats, embed in sealant to allow movement.",
   "url": "https://modernbuilderscali.com/faq/how-do-you-install-control-joints",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you install control joints?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Every 144 sq ft max; cut through all coats, embed in sealant to allow movement."
-      }
-    }
-  ],
+  "name": "How do you install control joints?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you install control joints?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Every 144 sq ft max; cut through all coats, embed in sealant to allow movement.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Every 144 sq ft max; cut through all coats, embed in sealant to allow movement."
 }

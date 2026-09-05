@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Custom Color Stucco Finish",
-  "articleBody": "Homeowners wanted unique Southwest texture. Mixed custom aggregate/color, lace and swirl pattern.\n\nOutcome: Instagram-worthy results, neighborhood buzz, multiple copycat projects nearby.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Custom Color Stucco Finish",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Homeowners wanted unique Southwest texture. Mixed custom aggregate/color, lace and swirl pattern.\n\nOutcome: Instagram-worthy results, neighborhood buzz, multiple copycat projects nearby."
 }

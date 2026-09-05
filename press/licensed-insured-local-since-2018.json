@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Licensed Insured Local Since 2018",
-  "datePublished": "45685",
   "url": "https://pasadenachamber.org/member-modern-builders",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pasadena Chamber Member Profile"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Licensed Insured Local Since 2018",
+  "publisher": {
+    "name": "Pasadena Chamber Member Profile",
+    "@type": "Organization"
+  },
+  "datePublished": "45685"
 }

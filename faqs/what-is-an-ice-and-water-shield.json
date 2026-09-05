@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is an ice and water shield?",
-  "description": "Rubberized asphalt membrane applied under shingles at eaves, valleys, penetrations for leak protection against ice dams, wind-driven rain. Required in many code",
   "url": "https://modernbuilderscali.com/faq/what-is-an-ice-and-water-shield",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an ice and water shield?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rubberized asphalt membrane applied under shingles at eaves, valleys, penetrations for leak protection against ice dams, wind-driven rain. Required in many codes."
-      }
-    }
-  ],
+  "name": "What is an ice and water shield?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ice and water shield?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rubberized asphalt membrane applied under shingles at eaves, valleys, penetrations for leak protection against ice dams, wind-driven rain. Required in many codes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rubberized asphalt membrane applied under shingles at eaves, valleys, penetrations for leak protection against ice dams, wind-driven rain. Required in many code"
 }

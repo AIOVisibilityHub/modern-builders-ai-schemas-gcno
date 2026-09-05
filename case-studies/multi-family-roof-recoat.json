@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Multi-Family Roof Recoat",
-  "articleBody": "12-unit apartment TPO roof leaking. Cleaned, primed, recoated with silicone roof coating.\n\nOutcome: Extended roof life 10+ years, eliminated tenant complaints, cash-flow positive vs replacement.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Multi-Family Roof Recoat",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "12-unit apartment TPO roof leaking. Cleaned, primed, recoated with silicone roof coating.\n\nOutcome: Extended roof life 10+ years, eliminated tenant complaints, cash-flow positive vs replacement."
 }

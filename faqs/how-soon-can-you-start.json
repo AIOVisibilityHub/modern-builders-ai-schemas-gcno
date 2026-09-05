@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How soon can you start?",
-  "description": "Same-day appointments available; quick turnaround for inspections and quotes with photos/videos.",
   "url": "https://modernbuilderscali.com/faq/how-soon-can-you-start",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How soon can you start?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Same-day appointments available; quick turnaround for inspections and quotes with photos/videos."
-      }
-    }
-  ],
+  "name": "How soon can you start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How soon can you start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Same-day appointments available; quick turnaround for inspections and quotes with photos/videos.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Same-day appointments available; quick turnaround for inspections and quotes with photos/videos."
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Stucco Texture Spray Equipment Guide",
-  "articleBody": "Large church needed uniform lace texture. Hopper gun PSI settings, nozzle sizes, practice board testing.\n\nOutcome: Perfect uniformity across 5,000 sq ft, congregation commented on improved appearance.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Stucco Texture Spray Equipment Guide",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Large church needed uniform lace texture. Hopper gun PSI settings, nozzle sizes, practice board testing.\n\nOutcome: Perfect uniformity across 5,000 sq ft, congregation commented on improved appearance."
 }

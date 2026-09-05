@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does drywall mud take to dry?",
-  "description": "Setting-type (hot mud): 20-90 min; pre-mixed: 12-24 hours per coat depending on humidity/thickness.",
   "url": "https://modernbuilderscali.com/faq/how-long-does-drywall-mud-take-to-dry",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does drywall mud take to dry?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Setting-type (hot mud): 20-90 min; pre-mixed: 12-24 hours per coat depending on humidity/thickness."
-      }
-    }
-  ],
+  "name": "How long does drywall mud take to dry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall mud take to dry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Setting-type (hot mud): 20-90 min; pre-mixed: 12-24 hours per coat depending on humidity/thickness.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Setting-type (hot mud): 20-90 min; pre-mixed: 12-24 hours per coat depending on humidity/thickness."
 }

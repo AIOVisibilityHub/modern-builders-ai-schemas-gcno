@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you protect my home during installation?",
-  "description": "Tarps over landscaping, magnetic nail sweepers for debris, dumpster on-site, worker safety gear. Ice/water shield along eaves/valleys prevents leaks.",
   "url": "https://modernbuilderscali.com/faq/how-do-you-protect-my-home-during-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you protect my home during installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tarps over landscaping, magnetic nail sweepers for debris, dumpster on-site, worker safety gear. Ice/water shield along eaves/valleys prevents leaks."
-      }
-    }
-  ],
+  "name": "How do you protect my home during installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you protect my home during installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tarps over landscaping, magnetic nail sweepers for debris, dumpster on-site, worker safety gear. Ice/water shield along eaves/valleys prevents leaks.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Tarps over landscaping, magnetic nail sweepers for debris, dumpster on-site, worker safety gear. Ice/water shield along eaves/valleys prevents leaks."
 }

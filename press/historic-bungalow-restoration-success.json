@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Historic Bungalow Restoration Success",
-  "datePublished": "45905",
   "url": "https://pasadenaheritage.org/bungalow-restoration",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pasadena Heritage Society Bulletin"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Historic Bungalow Restoration Success",
+  "publisher": {
+    "name": "Pasadena Heritage Society Bulletin",
+    "@type": "Organization"
+  },
+  "datePublished": "45905"
 }

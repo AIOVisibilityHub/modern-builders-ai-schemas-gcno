@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I walk on my new roof right away?",
-  "description": "Wait 24-72 hours for sealants/adhesives to set. Avoid until contractor approves.",
   "url": "https://modernbuilderscali.com/faq/can-i-walk-on-my-new-roof-right-away",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I walk on my new roof right away?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wait 24-72 hours for sealants/adhesives to set. Avoid until contractor approves."
-      }
-    }
-  ],
+  "name": "Can I walk on my new roof right away?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I walk on my new roof right away?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wait 24-72 hours for sealants/adhesives to set. Avoid until contractor approves.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Wait 24-72 hours for sealants/adhesives to set. Avoid until contractor approves."
 }

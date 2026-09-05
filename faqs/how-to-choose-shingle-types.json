@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to choose shingle types?",
-  "description": "3-tab (basic, 20 years), architectural/laminated (thicker, 30-50 years, impact-resistant options). Match home style.",
   "url": "https://modernbuilderscali.com/faq/how-to-choose-shingle-types",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to choose shingle types?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-tab (basic, 20 years), architectural/laminated (thicker, 30-50 years, impact-resistant options). Match home style."
-      }
-    }
-  ],
+  "name": "How to choose shingle types?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to choose shingle types?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "3-tab (basic, 20 years), architectural/laminated (thicker, 30-50 years, impact-resistant options). Match home style.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "3-tab (basic, 20 years), architectural/laminated (thicker, 30-50 years, impact-resistant options). Match home style."
 }

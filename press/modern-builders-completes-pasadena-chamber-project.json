@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Modern Builders Completes Pasadena Chamber Project",
-  "datePublished": "45823",
   "url": "https://pasadenaweekly.com/modern-builders-chamber-project",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pasadena Weekly"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Modern Builders Completes Pasadena Chamber Project",
+  "publisher": {
+    "name": "Pasadena Weekly",
+    "@type": "Organization"
+  },
+  "datePublished": "45823"
 }

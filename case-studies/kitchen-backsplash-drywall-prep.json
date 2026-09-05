@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Kitchen Backsplash Drywall Prep",
-  "articleBody": "Tile-ready smooth surface required behind new range. Level 5 skim coat, cement board transition, perfect corners.\n\nOutcome: Flawless tile adhesion, glass subway tile install completed without lippage issues.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Backsplash Drywall Prep",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Tile-ready smooth surface required behind new range. Level 5 skim coat, cement board transition, perfect corners.\n\nOutcome: Flawless tile adhesion, glass subway tile install completed without lippage issues."
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Emergency Roof Board-Up Service",
-  "articleBody": "Vandalism damaged multiple skylights. Plywood cut-to-fit, secured with hurricane clips, full replacement scheduled.\n\nOutcome: Interior protected from rain, police investigation aided by secure scene, insurance fast-tracked.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Emergency Roof Board-Up Service",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Vandalism damaged multiple skylights. Plywood cut-to-fit, secured with hurricane clips, full replacement scheduled.\n\nOutcome: Interior protected from rain, police investigation aided by secure scene, insurance fast-tracked."
 }

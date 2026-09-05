@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does moss/algae damage require repair?",
-  "description": "Yes—kills shingles; clean with bleach solution, repair slipped areas, install zinc strips for prevention.",
   "url": "https://modernbuilderscali.com/faq/does-moss-algae-damage-require-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does moss/algae damage require repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—kills shingles; clean with bleach solution, repair slipped areas, install zinc strips for prevention."
-      }
-    }
-  ],
+  "name": "Does moss/algae damage require repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does moss/algae damage require repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—kills shingles; clean with bleach solution, repair slipped areas, install zinc strips for prevention.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—kills shingles; clean with bleach solution, repair slipped areas, install zinc strips for prevention."
 }

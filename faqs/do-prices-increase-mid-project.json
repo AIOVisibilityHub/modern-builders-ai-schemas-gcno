@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do prices increase mid-project?",
-  "description": "No fixed-price quotes; change orders signed/approved before extra work.",
   "url": "https://modernbuilderscali.com/faq/do-prices-increase-mid-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do prices increase mid-project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No fixed-price quotes; change orders signed/approved before extra work."
-      }
-    }
-  ],
+  "name": "Do prices increase mid-project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do prices increase mid-project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No fixed-price quotes; change orders signed/approved before extra work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No fixed-price quotes; change orders signed/approved before extra work."
 }

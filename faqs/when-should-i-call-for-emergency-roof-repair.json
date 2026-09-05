@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I call for emergency roof repair?",
-  "description": "After storms causing visible damage, active leaks during rain, fallen branches, or holes—tarps provide temporary protection but pros needed ASAP.",
   "url": "https://modernbuilderscali.com/faq/when-should-i-call-for-emergency-roof-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I call for emergency roof repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After storms causing visible damage, active leaks during rain, fallen branches, or holes—tarps provide temporary protection but pros needed ASAP."
-      }
-    }
-  ],
+  "name": "When should I call for emergency roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call for emergency roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After storms causing visible damage, active leaks during rain, fallen branches, or holes—tarps provide temporary protection but pros needed ASAP.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "After storms causing visible damage, active leaks during rain, fallen branches, or holes—tarps provide temporary protection but pros needed ASAP."
 }

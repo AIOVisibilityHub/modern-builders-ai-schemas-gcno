@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How often should I inspect my roof?",
-  "description": "Annually + after major storms. Check shingles, flashing, gutters, attic for issues.",
   "url": "https://modernbuilderscali.com/faq/how-often-should-i-inspect-my-roof",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often should I inspect my roof?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Annually + after major storms. Check shingles, flashing, gutters, attic for issues."
-      }
-    }
-  ],
+  "name": "How often should I inspect my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I inspect my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Annually + after major storms. Check shingles, flashing, gutters, attic for issues.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Annually + after major storms. Check shingles, flashing, gutters, attic for issues."
 }

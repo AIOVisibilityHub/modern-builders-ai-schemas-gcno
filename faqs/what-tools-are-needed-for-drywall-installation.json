@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What tools are needed for drywall installation?",
-  "description": "Drywall lift/jack, screw gun, utility knife, T-square, rasp, joint compound, tape, mud trays/knives (6-12\"), sandpaper/pole sander.",
   "url": "https://modernbuilderscali.com/faq/what-tools-are-needed-for-drywall-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What tools are needed for drywall installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drywall lift/jack, screw gun, utility knife, T-square, rasp, joint compound, tape, mud trays/knives (6-12\"), sandpaper/pole sander."
-      }
-    }
-  ],
+  "name": "What tools are needed for drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What tools are needed for drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall lift/jack, screw gun, utility knife, T-square, rasp, joint compound, tape, mud trays/knives (6-12\"), sandpaper/pole sander.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Drywall lift/jack, screw gun, utility knife, T-square, rasp, joint compound, tape, mud trays/knives (6-12\"), sandpaper/pole sander."
 }

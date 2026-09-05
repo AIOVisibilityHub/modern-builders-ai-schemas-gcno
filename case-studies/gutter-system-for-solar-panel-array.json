@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Gutter System for Solar Panel Array",
-  "articleBody": "Large south-facing roof needed debris-free gutters. Oversized gutters, micro-mesh guards, flow testing verified.\n\nOutcome: Solar production optimized (no shading from debris), warranty maintained, annual cleaning eliminated.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Gutter System for Solar Panel Array",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Large south-facing roof needed debris-free gutters. Oversized gutters, micro-mesh guards, flow testing verified.\n\nOutcome: Solar production optimized (no shading from debris), warranty maintained, annual cleaning eliminated."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to maintain a new roof?",
-  "description": "Trim trees, clean gutters seasonally, remove debris, inspect after storms. Avoid pressure washing shingles.",
   "url": "https://modernbuilderscali.com/faq/how-to-maintain-a-new-roof",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to maintain a new roof?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Trim trees, clean gutters seasonally, remove debris, inspect after storms. Avoid pressure washing shingles."
-      }
-    }
-  ],
+  "name": "How to maintain a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to maintain a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim trees, clean gutters seasonally, remove debris, inspect after storms. Avoid pressure washing shingles.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Trim trees, clean gutters seasonally, remove debris, inspect after storms. Avoid pressure washing shingles."
 }

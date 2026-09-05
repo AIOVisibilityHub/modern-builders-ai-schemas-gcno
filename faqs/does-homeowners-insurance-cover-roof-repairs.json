@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does homeowners insurance cover roof repairs?",
-  "description": "Yes for storm/wind/hail damage (not wear/tear); document thoroughly with photos for claims; deductibles apply.",
   "url": "https://modernbuilderscali.com/faq/does-homeowners-insurance-cover-roof-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does homeowners insurance cover roof repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes for storm/wind/hail damage (not wear/tear); document thoroughly with photos for claims; deductibles apply."
-      }
-    }
-  ],
+  "name": "Does homeowners insurance cover roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowners insurance cover roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes for storm/wind/hail damage (not wear/tear); document thoroughly with photos for claims; deductibles apply.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes for storm/wind/hail damage (not wear/tear); document thoroughly with photos for claims; deductibles apply."
 }

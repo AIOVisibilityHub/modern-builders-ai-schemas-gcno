@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Complete Fire Restoration Exterior",
-  "articleBody": "Wildfire-adjacent home needed full exterior redo. Roof, stucco, gutters, fire-resistant paint system installed.\n\nOutcome: Fire marshal certified, insurance fully reimbursed, peace of mind for fire-prone area living.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Complete Fire Restoration Exterior",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Wildfire-adjacent home needed full exterior redo. Roof, stucco, gutters, fire-resistant paint system installed.\n\nOutcome: Fire marshal certified, insurance fully reimbursed, peace of mind for fire-prone area living."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What tape to use: paper or mesh?",
-  "description": "Paper stronger for high-stress joints; mesh faster for setting compounds, less cracking.",
   "url": "https://modernbuilderscali.com/faq/what-tape-to-use-paper-or-mesh",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What tape to use: paper or mesh?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Paper stronger for high-stress joints; mesh faster for setting compounds, less cracking."
-      }
-    }
-  ],
+  "name": "What tape to use: paper or mesh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What tape to use: paper or mesh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paper stronger for high-stress joints; mesh faster for setting compounds, less cracking.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Paper stronger for high-stress joints; mesh faster for setting compounds, less cracking."
 }

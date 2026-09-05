@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Gutter and Landscape Drainage Integration",
-  "articleBody": "Chronic yard flooding from undersized gutters. Oversized seamless system, French drain tie-in, rain garden creation.\n\nOutcome: Dry landscape year-round, protected mature trees, Xeriscape rebate received from water district.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Gutter and Landscape Drainage Integration",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Chronic yard flooding from undersized gutters. Oversized seamless system, French drain tie-in, rain garden creation.\n\nOutcome: Dry landscape year-round, protected mature trees, Xeriscape rebate received from water district."
 }

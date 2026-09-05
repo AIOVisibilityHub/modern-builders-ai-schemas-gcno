@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if it rains during installation?",
-  "description": "Experienced crews use tarps, phased work, valleys shielded first. Delays possible; contracts include weather clauses.",
   "url": "https://modernbuilderscali.com/faq/what-if-it-rains-during-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if it rains during installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Experienced crews use tarps, phased work, valleys shielded first. Delays possible; contracts include weather clauses."
-      }
-    }
-  ],
+  "name": "What if it rains during installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if it rains during installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Experienced crews use tarps, phased work, valleys shielded first. Delays possible; contracts include weather clauses.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Experienced crews use tarps, phased work, valleys shielded first. Delays possible; contracts include weather clauses."
 }

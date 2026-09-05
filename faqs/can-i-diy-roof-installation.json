@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I DIY roof installation?",
-  "description": "Not recommended—dangerous, voids warranties, code violations. Hire licensed pros.",
   "url": "https://modernbuilderscali.com/faq/can-i-diy-roof-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I DIY roof installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not recommended—dangerous, voids warranties, code violations. Hire licensed pros."
-      }
-    }
-  ],
+  "name": "Can I DIY roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I DIY roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not recommended—dangerous, voids warranties, code violations. Hire licensed pros.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Not recommended—dangerous, voids warranties, code violations. Hire licensed pros."
 }

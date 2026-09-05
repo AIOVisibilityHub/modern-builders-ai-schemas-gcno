@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you offer emergency services?",
-  "description": "Yes, 24/7 emergency roof repair for leaks or storm damage.",
   "url": "https://modernbuilderscali.com/faq/do-you-offer-emergency-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you offer emergency services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, 24/7 emergency roof repair for leaks or storm damage."
-      }
-    }
-  ],
+  "name": "Do you offer emergency services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, 24/7 emergency roof repair for leaks or storm damage.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, 24/7 emergency roof repair for leaks or storm damage."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What tools needed for basic repairs?",
-  "description": "Roofing hammer, pry bar, utility knife, caulk gun, cement, replacement shingles, ladder, safety harness.",
   "url": "https://modernbuilderscali.com/faq/what-tools-needed-for-basic-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What tools needed for basic repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Roofing hammer, pry bar, utility knife, caulk gun, cement, replacement shingles, ladder, safety harness."
-      }
-    }
-  ],
+  "name": "What tools needed for basic repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What tools needed for basic repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roofing hammer, pry bar, utility knife, caulk gun, cement, replacement shingles, ladder, safety harness.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Roofing hammer, pry bar, utility knife, caulk gun, cement, replacement shingles, ladder, safety harness."
 }

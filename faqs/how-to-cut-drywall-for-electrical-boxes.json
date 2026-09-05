@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to cut drywall for electrical boxes?",
-  "description": "Measure/mark, cut outline with utility knife on front, punch out paper backing with drywall saw.",
   "url": "https://modernbuilderscali.com/faq/how-to-cut-drywall-for-electrical-boxes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to cut drywall for electrical boxes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Measure/mark, cut outline with utility knife on front, punch out paper backing with drywall saw."
-      }
-    }
-  ],
+  "name": "How to cut drywall for electrical boxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to cut drywall for electrical boxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measure/mark, cut outline with utility knife on front, punch out paper backing with drywall saw.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Measure/mark, cut outline with utility knife on front, punch out paper backing with drywall saw."
 }

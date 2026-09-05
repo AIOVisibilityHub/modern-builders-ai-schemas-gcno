@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What warranties do you provide?",
-  "description": "Guarantees are provided for all types of work, as we are confident in the quality of services provided.",
   "url": "https://modernbuilderscali.com/faq/what-warranties-do-you-provide",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What warranties do you provide?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Guarantees are provided for all types of work, as we are confident in the quality of services provided."
-      }
-    }
-  ],
+  "name": "What warranties do you provide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What warranties do you provide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Guarantees are provided for all types of work, as we are confident in the quality of services provided.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Guarantees are provided for all types of work, as we are confident in the quality of services provided."
 }

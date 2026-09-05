@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How many coats of paint do you apply?",
-  "description": "2 coats standard (prime + finish); 3 for drastic color changes or heavy stains.",
   "url": "https://modernbuilderscali.com/faq/how-many-coats-of-paint-do-you-apply",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many coats of paint do you apply?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "2 coats standard (prime + finish); 3 for drastic color changes or heavy stains."
-      }
-    }
-  ],
+  "name": "How many coats of paint do you apply?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How many coats of paint do you apply?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "2 coats standard (prime + finish); 3 for drastic color changes or heavy stains.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "2 coats standard (prime + finish); 3 for drastic color changes or heavy stains."
 }

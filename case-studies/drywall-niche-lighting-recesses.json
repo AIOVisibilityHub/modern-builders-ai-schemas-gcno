@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Drywall Niche Lighting Recesses",
-  "articleBody": "Custom built-in niches for LED strips. Precise cutting, backer support, smooth Level 5 compound finish.\n\nOutcome: Perfect lighting effect achieved, showcased feature in living room, admired by all visitors.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Drywall Niche Lighting Recesses",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Custom built-in niches for LED strips. Precise cutting, backer support, smooth Level 5 compound finish.\n\nOutcome: Perfect lighting effect achieved, showcased feature in living room, admired by all visitors."
 }

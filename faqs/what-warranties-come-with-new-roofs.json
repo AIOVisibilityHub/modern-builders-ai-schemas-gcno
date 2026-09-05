@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What warranties come with new roofs?",
-  "description": "Material warranties: 20-50 years (pro-rated); workmanship: 5-10 years from installer. Full system warranties require certified installers (e.g., GAF, Owens Corn",
   "url": "https://modernbuilderscali.com/faq/what-warranties-come-with-new-roofs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What warranties come with new roofs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Material warranties: 20-50 years (pro-rated); workmanship: 5-10 years from installer. Full system warranties require certified installers (e.g., GAF, Owens Corning)."
-      }
-    }
-  ],
+  "name": "What warranties come with new roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What warranties come with new roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Material warranties: 20-50 years (pro-rated); workmanship: 5-10 years from installer. Full system warranties require certified installers (e.g., GAF, Owens Corning).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Material warranties: 20-50 years (pro-rated); workmanship: 5-10 years from installer. Full system warranties require certified installers (e.g., GAF, Owens Corn"
 }

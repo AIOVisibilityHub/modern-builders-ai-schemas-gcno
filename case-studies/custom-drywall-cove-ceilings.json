@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Custom Drywall Cove Ceilings",
-  "articleBody": "Tray ceiling design with curved transitions. Multi-layer bending techniques, perfect compound feathering.\n\nOutcome: Stunning architectural feature, smooth lighting diffusion, featured in design magazine home tour.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Custom Drywall Cove Ceilings",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Tray ceiling design with curved transitions. Multi-layer bending techniques, perfect compound feathering.\n\nOutcome: Stunning architectural feature, smooth lighting diffusion, featured in design magazine home tour."
 }

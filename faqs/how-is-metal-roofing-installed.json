@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is metal roofing installed?",
-  "description": "Prep deck, underlayment, drip edge, panels overlapped/secured with screws, flashing/ridge cap.",
   "url": "https://modernbuilderscali.com/faq/how-is-metal-roofing-installed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is metal roofing installed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Prep deck, underlayment, drip edge, panels overlapped/secured with screws, flashing/ridge cap."
-      }
-    }
-  ],
+  "name": "How is metal roofing installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is metal roofing installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prep deck, underlayment, drip edge, panels overlapped/secured with screws, flashing/ridge cap.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Prep deck, underlayment, drip edge, panels overlapped/secured with screws, flashing/ridge cap."
 }

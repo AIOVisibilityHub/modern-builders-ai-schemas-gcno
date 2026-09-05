@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What preparation is needed before stucco?",
-  "description": "Install weather-resistant barrier (2 layers building paper), metal lath stapled every 6\", weep screed at base, trim accessories.",
   "url": "https://modernbuilderscali.com/faq/what-preparation-is-needed-before-stucco",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What preparation is needed before stucco?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Install weather-resistant barrier (2 layers building paper), metal lath stapled every 6\", weep screed at base, trim accessories."
-      }
-    }
-  ],
+  "name": "What preparation is needed before stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Install weather-resistant barrier (2 layers building paper), metal lath stapled every 6\", weep screed at base, trim accessories.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Install weather-resistant barrier (2 layers building paper), metal lath stapled every 6\", weep screed at base, trim accessories."
 }

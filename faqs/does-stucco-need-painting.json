@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does stucco need painting?",
-  "description": "Optional but recommended every 5-10 years; elastomeric paint best for breathability/moisture protection.",
   "url": "https://modernbuilderscali.com/faq/does-stucco-need-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does stucco need painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Optional but recommended every 5-10 years; elastomeric paint best for breathability/moisture protection."
-      }
-    }
-  ],
+  "name": "Does stucco need painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does stucco need painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Optional but recommended every 5-10 years; elastomeric paint best for breathability/moisture protection.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Optional but recommended every 5-10 years; elastomeric paint best for breathability/moisture protection."
 }

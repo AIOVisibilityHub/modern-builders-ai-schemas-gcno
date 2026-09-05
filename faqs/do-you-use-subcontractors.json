@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you use subcontractors?",
-  "description": "No subcontractors—your crew is consistent start to finish.",
   "url": "https://modernbuilderscali.com/faq/do-you-use-subcontractors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you use subcontractors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No subcontractors—your crew is consistent start to finish."
-      }
-    }
-  ],
+  "name": "Do you use subcontractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you use subcontractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No subcontractors—your crew is consistent start to finish.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No subcontractors—your crew is consistent start to finish."
 }

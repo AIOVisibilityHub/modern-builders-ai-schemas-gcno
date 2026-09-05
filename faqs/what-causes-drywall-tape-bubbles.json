@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What causes drywall tape bubbles?",
-  "description": "Too much mud under tape, poor adhesion, or fast drying—use thin mud layer, press firmly.",
   "url": "https://modernbuilderscali.com/faq/what-causes-drywall-tape-bubbles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What causes drywall tape bubbles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Too much mud under tape, poor adhesion, or fast drying—use thin mud layer, press firmly."
-      }
-    }
-  ],
+  "name": "What causes drywall tape bubbles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What causes drywall tape bubbles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Too much mud under tape, poor adhesion, or fast drying—use thin mud layer, press firmly.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Too much mud under tape, poor adhesion, or fast drying—use thin mud layer, press firmly."
 }

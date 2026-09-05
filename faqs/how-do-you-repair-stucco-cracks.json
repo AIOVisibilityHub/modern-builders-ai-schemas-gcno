@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you repair stucco cracks?",
-  "description": "Chip out loose material, clean, apply bonding agent, patch with matching stucco, texture to blend.",
   "url": "https://modernbuilderscali.com/faq/how-do-you-repair-stucco-cracks",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you repair stucco cracks?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Chip out loose material, clean, apply bonding agent, patch with matching stucco, texture to blend."
-      }
-    }
-  ],
+  "name": "How do you repair stucco cracks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair stucco cracks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Chip out loose material, clean, apply bonding agent, patch with matching stucco, texture to blend.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Chip out loose material, clean, apply bonding agent, patch with matching stucco, texture to blend."
 }

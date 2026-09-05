@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to spot hail damage?",
-  "description": "Bruises/dents on shingles/asphalt; soft spots; get adjuster inspection for insurance claim.",
   "url": "https://modernbuilderscali.com/faq/how-to-spot-hail-damage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to spot hail damage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bruises/dents on shingles/asphalt; soft spots; get adjuster inspection for insurance claim."
-      }
-    }
-  ],
+  "name": "How to spot hail damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to spot hail damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bruises/dents on shingles/asphalt; soft spots; get adjuster inspection for insurance claim.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bruises/dents on shingles/asphalt; soft spots; get adjuster inspection for insurance claim."
 }

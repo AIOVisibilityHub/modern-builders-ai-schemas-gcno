@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to prevent future repairs?",
-  "description": "Trim trees, clean gutters quarterly, ensure ventilation, annual pro inspection, ice/water shield in key areas.",
   "url": "https://modernbuilderscali.com/faq/how-to-prevent-future-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to prevent future repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Trim trees, clean gutters quarterly, ensure ventilation, annual pro inspection, ice/water shield in key areas."
-      }
-    }
-  ],
+  "name": "How to prevent future repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to prevent future repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim trees, clean gutters quarterly, ensure ventilation, annual pro inspection, ice/water shield in key areas.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Trim trees, clean gutters quarterly, ensure ventilation, annual pro inspection, ice/water shield in key areas."
 }

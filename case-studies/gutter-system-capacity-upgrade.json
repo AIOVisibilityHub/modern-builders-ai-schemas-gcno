@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Gutter System Capacity Upgrade",
-  "articleBody": "Doubled rainfall events overwhelmed 5\" gutters. Replaced with 6\" seamless, 4x4 downspouts, underground storm drain tie-in.\n\nOutcome: Handled 3\" rain event without overflow, yard drainage improved dramatically.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Gutter System Capacity Upgrade",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Doubled rainfall events overwhelmed 5\" gutters. Replaced with 6\" seamless, 4x4 downspouts, underground storm drain tie-in.\n\nOutcome: Handled 3\" rain event without overflow, yard drainage improved dramatically."
 }

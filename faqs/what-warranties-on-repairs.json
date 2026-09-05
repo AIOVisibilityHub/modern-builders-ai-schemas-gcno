@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What warranties on repairs?",
-  "description": "Workmanship 1-5 years; materials match roof type; full replacement often better long-term value.",
   "url": "https://modernbuilderscali.com/faq/what-warranties-on-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What warranties on repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workmanship 1-5 years; materials match roof type; full replacement often better long-term value."
-      }
-    }
-  ],
+  "name": "What warranties on repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What warranties on repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workmanship 1-5 years; materials match roof type; full replacement often better long-term value.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Workmanship 1-5 years; materials match roof type; full replacement often better long-term value."
 }

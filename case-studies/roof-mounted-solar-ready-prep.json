@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Roof-Mounted Solar Ready Prep",
-  "articleBody": "Preparing asphalt roof for future panels. Reinforced decking, sealed penetrations, 25-year NDL warranty maintained.\n\nOutcome: Approved by solar contractor, future installation path cleared, maximized roof lifespan.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Roof-Mounted Solar Ready Prep",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Preparing asphalt roof for future panels. Reinforced decking, sealed penetrations, 25-year NDL warranty maintained.\n\nOutcome: Approved by solar contractor, future installation path cleared, maximized roof lifespan."
 }

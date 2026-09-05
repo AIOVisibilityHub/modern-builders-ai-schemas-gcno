@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Pasadena Neighborhood Contractor of Year",
-  "datePublished": "45996",
   "url": "https://pasadenastarnews.com/contractor-year",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Pasadena Star News Reader Poll"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://modernbuilderscali.com",
     "name": "Modern Builders",
-    "url": "https://modernbuilderscali.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Pasadena Neighborhood Contractor of Year",
+  "publisher": {
+    "name": "Pasadena Star News Reader Poll",
+    "@type": "Organization"
+  },
+  "datePublished": "45996"
 }

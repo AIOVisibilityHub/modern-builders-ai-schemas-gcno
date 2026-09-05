@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much drywall for a room?",
-  "description": "Measure length x width x height/8 (4x8 sheets); add 10-15% waste; ceiling separate.",
   "url": "https://modernbuilderscali.com/faq/how-much-drywall-for-a-room",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much drywall for a room?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Measure length x width x height/8 (4x8 sheets); add 10-15% waste; ceiling separate."
-      }
-    }
-  ],
+  "name": "How much drywall for a room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much drywall for a room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measure length x width x height/8 (4x8 sheets); add 10-15% waste; ceiling separate.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Measure length x width x height/8 (4x8 sheets); add 10-15% waste; ceiling separate."
 }

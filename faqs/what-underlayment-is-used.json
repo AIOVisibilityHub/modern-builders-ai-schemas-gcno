@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What underlayment is used?",
-  "description": "Synthetic or ice/water shield; high-temp for steep pitches/valleys.",
   "url": "https://modernbuilderscali.com/faq/what-underlayment-is-used",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What underlayment is used?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Synthetic or ice/water shield; high-temp for steep pitches/valleys."
-      }
-    }
-  ],
+  "name": "What underlayment is used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What underlayment is used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Synthetic or ice/water shield; high-temp for steep pitches/valleys.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Synthetic or ice/water shield; high-temp for steep pitches/valleys."
 }

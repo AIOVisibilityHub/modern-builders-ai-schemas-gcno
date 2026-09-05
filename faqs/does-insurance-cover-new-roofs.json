@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does insurance cover new roofs?",
-  "description": "Hail/wind damage often yes (replacement cost value); wear/tear no. Document storm damage for claims.",
   "url": "https://modernbuilderscali.com/faq/does-insurance-cover-new-roofs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does insurance cover new roofs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hail/wind damage often yes (replacement cost value); wear/tear no. Document storm damage for claims."
-      }
-    }
-  ],
+  "name": "Does insurance cover new roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does insurance cover new roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hail/wind damage often yes (replacement cost value); wear/tear no. Document storm damage for claims.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Hail/wind damage often yes (replacement cost value); wear/tear no. Document storm damage for claims."
 }

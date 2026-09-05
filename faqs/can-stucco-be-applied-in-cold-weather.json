@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can stucco be applied in cold weather?",
-  "description": "No—above 40°F; protect from freezing, use anti-freeze admixtures if needed.",
   "url": "https://modernbuilderscali.com/faq/can-stucco-be-applied-in-cold-weather",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can stucco be applied in cold weather?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No—above 40°F; protect from freezing, use anti-freeze admixtures if needed."
-      }
-    }
-  ],
+  "name": "Can stucco be applied in cold weather?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can stucco be applied in cold weather?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No—above 40°F; protect from freezing, use anti-freeze admixtures if needed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No—above 40°F; protect from freezing, use anti-freeze admixtures if needed."
 }
