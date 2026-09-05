@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost of stucco texture matching in Pasadena?",
+  "description": "Costs vary in Pasadena based on the area size, texture complexity, and site accessibility; a detailed on-site estimate is recommended.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-cost-of-stucco-texture-matching-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of stucco texture matching in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of stucco texture matching in Pasadena varies based on several factors, including the size of the area to be matched, the complexity of the existing texture, and the accessibility of the repair site. Intricate textures or challenging locations may require more labor and specialized materials, increasing the overall cost. We recommend obtaining a detailed estimate after an on-site assessment to accurately determine the specific pricing for your project.",
+        "description": "Costs vary in Pasadena based on the area size, texture complexity, and site accessibility; a detailed on-site estimate is recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

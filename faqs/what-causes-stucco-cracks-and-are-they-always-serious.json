@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes stucco cracks and are they always serious?",
+  "description": "Stucco cracks are caused by settlement, temperature changes, or improper application. Hairline cracks are often cosmetic, but larger or efflorescent cracks can",
+  "url": "https://modernbuilderscali.com/faq/what-causes-stucco-cracks-and-are-they-always-serious",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes stucco cracks and are they always serious?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco cracks can result from various factors, including building settlement, seismic activity, temperature fluctuations causing expansion and contraction, or improper stucco application. Not all cracks are serious; hairline cracks (smaller than 1/16 inch) are often cosmetic and don't compromise the wall's integrity. Larger cracks, especially those wider than 1/8 inch, those with efflorescence, or those that extend through the stucco, can indicate structural issues or allow water intrusion, leading to more significant damage like mold or wood rot. Prompt assessment helps determine the severity and necessary repair.",
+        "description": "Stucco cracks are caused by settlement, temperature changes, or improper application. Hairline cracks are often cosmetic, but larger or efflorescent cracks can indicate serious water intrusion or structural issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

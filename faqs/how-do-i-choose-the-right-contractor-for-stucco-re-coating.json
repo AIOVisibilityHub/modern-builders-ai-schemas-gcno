@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for stucco re-coating?",
+  "description": "Choose a stucco re-coating contractor by checking their experience, portfolio, licenses, insurance, and by comparing detailed written estimates.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-for-stucco-re-coating",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for stucco re-coating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor for stucco re-coating involves several key steps. Look for a contractor with extensive experience specifically in stucco re-coating, not just general painting. Check their portfolio for similar projects and ask for references. Ensure they are licensed and insured in California. Get detailed written estimates from multiple contractors that outline the scope of work, materials used, and warranty information. A reputable contractor will also perform a thorough inspection and clearly explain the process and recommendations.",
+        "description": "Choose a stucco re-coating contractor by checking their experience, portfolio, licenses, insurance, and by comparing detailed written estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

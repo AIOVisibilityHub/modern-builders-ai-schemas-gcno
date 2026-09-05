@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between traditional stucco and synthetic stucco (EIFS)?",
+  "description": "Traditional stucco is a cement-based material, while synthetic stucco (EIFS) is a multi-layered system with insulation. Traditional stucco is breathable, and EI",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-traditional-stucco-and-synthetic-stucco-eifs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between traditional stucco and synthetic stucco (EIFS)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional stucco is made from cement, sand, lime, and water, applied in multiple layers over a wire lath. It's a durable, breathable, and fire-resistant material. Synthetic stucco, or Exterior Insulation and Finish Systems (EIFS), is a multi-layered system that includes insulation board, a base coat with a reinforcing mesh, and a finish coat. EIFS offers superior insulation properties but requires careful installation to prevent moisture intrusion. Each has distinct aesthetic and performance characteristics.",
+        "description": "Traditional stucco is a cement-based material, while synthetic stucco (EIFS) is a multi-layered system with insulation. Traditional stucco is breathable, and EIFS offers better insulation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

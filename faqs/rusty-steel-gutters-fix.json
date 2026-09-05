@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Rusty steel gutters fix?",
-  "description": "Wire brush, rust converter, prime/paint; replace if perforated.",
   "url": "https://modernbuilderscali.com/faq/rusty-steel-gutters-fix",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Rusty steel gutters fix?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wire brush, rust converter, prime/paint; replace if perforated."
-      }
-    }
-  ],
+  "name": "Rusty steel gutters fix?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Rusty steel gutters fix?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wire brush, rust converter, prime/paint; replace if perforated.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Wire brush, rust converter, prime/paint; replace if perforated."
 }

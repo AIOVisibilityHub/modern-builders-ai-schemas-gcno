@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for stucco installation in Pasadena?",
+  "description": "In Pasadena, stucco installation typically costs $7 to $15 per square foot, varying with stucco system type, square footage, architectural complexity, and neede",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-cost-range-for-stucco-installation-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for stucco installation in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of stucco installation in Pasadena can vary significantly depending on several factors, including the type of stucco system (e.g., traditional three-coat, one-coat, EIFS), the total square footage of the area to be covered, the complexity of the architectural details, and the need for any existing siding removal or repairs. Generally, homeowners can expect to pay between $7 to $15 per square foot. We provide detailed, transparent estimates after a site visit to accurately assess your specific project requirements and provide a precise quote.",
+        "description": "In Pasadena, stucco installation typically costs $7 to $15 per square foot, varying with stucco system type, square footage, architectural complexity, and needed repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common signs gutters need repair?",
-  "description": "Sagging sections, leaks at seams, standing water, plants growing, peeling fascia paint, soil erosion at foundation.",
   "url": "https://modernbuilderscali.com/faq/what-are-common-signs-gutters-need-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common signs gutters need repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sagging sections, leaks at seams, standing water, plants growing, peeling fascia paint, soil erosion at foundation."
-      }
-    }
-  ],
+  "name": "What are common signs gutters need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs gutters need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sagging sections, leaks at seams, standing water, plants growing, peeling fascia paint, soil erosion at foundation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sagging sections, leaks at seams, standing water, plants growing, peeling fascia paint, soil erosion at foundation."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to straighten bent gutters?",
-  "description": "Heat with torch (metal only), push into shape, reinforce with braces.",
   "url": "https://modernbuilderscali.com/faq/how-to-straighten-bent-gutters",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to straighten bent gutters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Heat with torch (metal only), push into shape, reinforce with braces."
-      }
-    }
-  ],
+  "name": "How to straighten bent gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to straighten bent gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Heat with torch (metal only), push into shape, reinforce with braces.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Heat with torch (metal only), push into shape, reinforce with braces."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Warranty on painting work?",
-  "description": "1-3 years workmanship; paint manufacturer defects 10-25 years.",
   "url": "https://modernbuilderscali.com/faq/warranty-on-painting-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Warranty on painting work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1-3 years workmanship; paint manufacturer defects 10-25 years."
-      }
-    }
-  ],
+  "name": "Warranty on painting work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Warranty on painting work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1-3 years workmanship; paint manufacturer defects 10-25 years.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1-3 years workmanship; paint manufacturer defects 10-25 years."
 }

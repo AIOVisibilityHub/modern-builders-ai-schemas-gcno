@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I prevent stucco cracks in my home?",
+  "description": "Preventing stucco cracks involves proper drainage, consistent temperatures, regular inspections, and correct application with control joints. Using high-quality",
+  "url": "https://modernbuilderscali.com/faq/how-can-i-prevent-stucco-cracks-in-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I prevent stucco cracks in my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventing stucco cracks involves several proactive measures. Ensuring proper drainage around your home helps prevent foundation movement, a common cause of cracks. Maintaining consistent interior temperatures reduces thermal expansion and contraction stress on the stucco. Regular inspections can identify and address small issues before they become larger cracks. When building or renovating, ensure the stucco is applied correctly with proper lath, control joints, and curing times. Using high-quality, flexible stucco systems can also contribute to crack resistance over time.",
+        "description": "Preventing stucco cracks involves proper drainage, consistent temperatures, regular inspections, and correct application with control joints. Using high-quality, flexible stucco systems also helps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

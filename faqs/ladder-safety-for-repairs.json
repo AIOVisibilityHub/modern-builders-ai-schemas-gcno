@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Ladder safety for repairs?",
-  "description": "Stabilize base, use standoff, tie off, 2-person for high work; hire pros over 1-story.",
   "url": "https://modernbuilderscali.com/faq/ladder-safety-for-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Ladder safety for repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stabilize base, use standoff, tie off, 2-person for high work; hire pros over 1-story."
-      }
-    }
-  ],
+  "name": "Ladder safety for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Ladder safety for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stabilize base, use standoff, tie off, 2-person for high work; hire pros over 1-story.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Stabilize base, use standoff, tie off, 2-person for high work; hire pros over 1-story."
 }

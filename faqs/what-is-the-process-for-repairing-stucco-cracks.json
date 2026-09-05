@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for repairing stucco cracks?",
+  "description": "The stucco crack repair process involves cleaning, preparing, and filling the crack with appropriate materials like caulk or stucco patch. The area is then blen",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-repairing-stucco-cracks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for repairing stucco cracks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The stucco crack repair process typically involves several steps. First, the area around the crack is cleaned and loose debris removed. For hairline cracks, a flexible caulk or sealant may suffice. For wider cracks, the crack is often widened slightly to allow for proper material penetration, then filled with a stucco patch or elastomeric sealant. If the underlying lath is damaged, it may need repair or replacement. Finally, the repaired area is blended with the existing stucco texture and color to ensure a seamless finish, often requiring repainting the entire wall for uniformity.",
+        "description": "The stucco crack repair process involves cleaning, preparing, and filling the crack with appropriate materials like caulk or stucco patch. The area is then blended to match the existing texture and color for a seamless finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

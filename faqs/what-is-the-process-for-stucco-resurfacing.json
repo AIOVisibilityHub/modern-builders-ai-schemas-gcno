@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for stucco resurfacing?",
+  "description": "The process involves cleaning, minor repairs, applying a bonding agent, and then applying and texturing new stucco layers.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-stucco-resurfacing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for stucco resurfacing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The stucco resurfacing process typically begins with a thorough cleaning of the existing stucco surface, followed by any necessary minor repairs to cracks or small holes. Next, a bonding agent is applied to ensure proper adhesion of the new material. Finally, one or more layers of the new stucco finish are applied, textured, and colored according to your specifications. Each step ensures a durable and attractive new exterior for your home.",
+        "description": "The process involves cleaning, minor repairs, applying a bonding agent, and then applying and texturing new stucco layers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

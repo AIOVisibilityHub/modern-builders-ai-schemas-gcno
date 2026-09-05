@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost to install cement stucco per square foot in Pasadena?",
+  "description": "Cement stucco installation in Pasadena generally costs $7 to $15 per square foot, depending on the system, preparation, and design complexity.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-average-cost-to-install-cement-stucco-per-square-foot-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost to install cement stucco per square foot in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of cement stucco installation in Pasadena typically ranges from $7 to $15 per square foot, though this can vary. Factors influencing the price include the type of stucco system (e.g., traditional three-coat vs. one-coat), wall preparation required, the complexity of the architectural design, access to the work area, and the chosen finish texture and color. Obtaining a detailed quote from a local contractor is recommended for an accurate estimate.",
+        "description": "Cement stucco installation in Pasadena generally costs $7 to $15 per square foot, depending on the system, preparation, and design complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

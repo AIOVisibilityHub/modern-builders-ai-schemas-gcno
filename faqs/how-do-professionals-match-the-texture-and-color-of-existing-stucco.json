@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do professionals match the texture and color of existing stucco?",
+  "description": "Professionals match stucco texture by identifying the existing finish and using specialized tools; color is matched using tinting or color-matched paint.",
+  "url": "https://modernbuilderscali.com/faq/how-do-professionals-match-the-texture-and-color-of-existing-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do professionals match the texture and color of existing stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Professionals match stucco texture by identifying the existing finish, such as smooth, dash, or worm, and then using appropriate tools and techniques to replicate it during the patching process. Color matching often involves using tinting kits with a base coat or applying a color-matched paint after the repair cures. They may take samples or use color swatches to achieve the closest possible match, ensuring the repair blends seamlessly with the surrounding stucco.",
+        "description": "Professionals match stucco texture by identifying the existing finish and using specialized tools; color is matched using tinting or color-matched paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

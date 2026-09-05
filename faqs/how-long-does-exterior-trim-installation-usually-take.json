@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does exterior trim installation usually take?",
+  "description": "Installation time depends on your home's size, trim complexity, and materials, ranging from a few days for small jobs to several weeks for full-house replacemen",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-exterior-trim-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does exterior trim installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of exterior trim installation varies significantly based on the size of your home, the complexity of the trim details, and the material chosen. A smaller project involving only a few windows or doors might take a couple of days, while a full-house trim replacement could span several weeks. Weather conditions can also influence the timeline, as much of the work is performed outdoors. We provide an estimated timeline during your initial consultation after assessing your specific project.",
+        "description": "Installation time depends on your home's size, trim complexity, and materials, ranging from a few days for small jobs to several weeks for full-house replacements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

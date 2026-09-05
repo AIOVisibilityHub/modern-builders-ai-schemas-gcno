@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will insurance cover gutter repairs?",
-  "description": "Storm/tree damage yes; neglect/wear no; document with photos.",
   "url": "https://modernbuilderscali.com/faq/will-insurance-cover-gutter-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will insurance cover gutter repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Storm/tree damage yes; neglect/wear no; document with photos."
-      }
-    }
-  ],
+  "name": "Will insurance cover gutter repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will insurance cover gutter repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm/tree damage yes; neglect/wear no; document with photos.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Storm/tree damage yes; neglect/wear no; document with photos."
 }

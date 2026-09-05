@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Gutter guards: best type?",
-  "description": "Micro-mesh/SS screens for debris-heavy areas; foam inserts cheap but clog; surface tension best flow.",
   "url": "https://modernbuilderscali.com/faq/gutter-guards-best-type",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Gutter guards: best type?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Micro-mesh/SS screens for debris-heavy areas; foam inserts cheap but clog; surface tension best flow."
-      }
-    }
-  ],
+  "name": "Gutter guards: best type?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Gutter guards: best type?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Micro-mesh/SS screens for debris-heavy areas; foam inserts cheap but clog; surface tension best flow.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Micro-mesh/SS screens for debris-heavy areas; foam inserts cheap but clog; surface tension best flow."
 }

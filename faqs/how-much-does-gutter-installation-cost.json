@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does gutter installation cost?",
-  "description": "$4-40 per linear foot installed; aluminum $8-28, copper $25-74; average home (200 ft) $1,000-5,000 total including labor. modernize​",
   "url": "https://modernbuilderscali.com/faq/how-much-does-gutter-installation-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does gutter installation cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$4-40 per linear foot installed; aluminum $8-28, copper $25-74; average home (200 ft) $1,000-5,000 total including labor. modernize​"
-      }
-    }
-  ],
+  "name": "How much does gutter installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does gutter installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$4-40 per linear foot installed; aluminum $8-28, copper $25-74; average home (200 ft) $1,000-5,000 total including labor. modernize​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$4-40 per linear foot installed; aluminum $8-28, copper $25-74; average home (200 ft) $1,000-5,000 total including labor. modernize​"
 }

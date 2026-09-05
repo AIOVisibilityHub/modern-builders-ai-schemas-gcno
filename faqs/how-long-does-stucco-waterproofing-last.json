@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco waterproofing last?",
+  "description": "Stucco waterproofing can last 10 to 20 years, depending on materials, application quality, and environmental exposure. Regular maintenance extends its life.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-stucco-waterproofing-last",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco waterproofing last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The lifespan of stucco waterproofing depends on the type of material used, the quality of application, and environmental factors. High-quality acrylic sealants or specialized waterproofing systems can typically last 10 to 20 years or even longer. Regular maintenance and addressing minor issues promptly can significantly extend its durability. Factors like extreme weather exposure, direct sun, and proper drainage around the foundation can also influence longevity.",
+        "description": "Stucco waterproofing can last 10 to 20 years, depending on materials, application quality, and environmental exposure. Regular maintenance extends its life."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

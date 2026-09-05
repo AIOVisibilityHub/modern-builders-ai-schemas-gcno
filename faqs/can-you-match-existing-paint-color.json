@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you match existing paint color?",
-  "description": "Yes—bring chip/sample or use color match scanner at paint store.",
   "url": "https://modernbuilderscali.com/faq/can-you-match-existing-paint-color",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you match existing paint color?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—bring chip/sample or use color match scanner at paint store."
-      }
-    }
-  ],
+  "name": "Can you match existing paint color?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing paint color?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—bring chip/sample or use color match scanner at paint store.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—bring chip/sample or use color match scanner at paint store."
 }

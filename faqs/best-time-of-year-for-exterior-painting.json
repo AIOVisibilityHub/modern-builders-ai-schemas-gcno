@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Best time of year for exterior painting?",
-  "description": "Spring-fall (50-85°F, low humidity); avoid rain/ extreme heat/cold.",
   "url": "https://modernbuilderscali.com/faq/best-time-of-year-for-exterior-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Best time of year for exterior painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Spring-fall (50-85°F, low humidity); avoid rain/ extreme heat/cold."
-      }
-    }
-  ],
+  "name": "Best time of year for exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Best time of year for exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spring-fall (50-85°F, low humidity); avoid rain/ extreme heat/cold.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Spring-fall (50-85°F, low humidity); avoid rain/ extreme heat/cold."
 }

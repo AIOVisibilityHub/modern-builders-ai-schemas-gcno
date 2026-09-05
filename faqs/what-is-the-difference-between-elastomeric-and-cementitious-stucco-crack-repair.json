@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between elastomeric and cementitious stucco crack repair?",
+  "description": "Elastomeric repair uses flexible sealants for moving cracks, while cementitious repair uses rigid stucco patches for stable cracks. The choice depends on the cr",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-elastomeric-and-cementitious-stucco-crack-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between elastomeric and cementitious stucco crack repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elastomeric stucco crack repair uses flexible, acrylic-based sealants that can stretch and contract with the stucco, making them ideal for cracks caused by thermal expansion and contraction or minor building movement. They offer excellent waterproofing and long-term durability. Cementitious repair, on the other hand, involves traditional stucco patching compounds made from cement, sand, and water. These are rigid and best suited for stable, non-moving cracks or when a thicker, more structural patch is required. The choice depends on the crack's cause and the stucco's movement potential.",
+        "description": "Elastomeric repair uses flexible sealants for moving cracks, while cementitious repair uses rigid stucco patches for stable cracks. The choice depends on the crack's cause and stucco movement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What prep work for new gutters?",
-  "description": "Remove old gutters, fascia repair, clean soffits, measure precisely for seamless machine.",
   "url": "https://modernbuilderscali.com/faq/what-prep-work-for-new-gutters",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What prep work for new gutters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Remove old gutters, fascia repair, clean soffits, measure precisely for seamless machine."
-      }
-    }
-  ],
+  "name": "What prep work for new gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What prep work for new gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remove old gutters, fascia repair, clean soffits, measure precisely for seamless machine.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Remove old gutters, fascia repair, clean soffits, measure precisely for seamless machine."
 }

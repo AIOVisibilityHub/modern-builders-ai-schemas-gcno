@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can existing siding be converted to stucco?",
+  "description": "Existing siding can often be converted to stucco, but it depends on the current material and its condition; a thorough inspection determines the best approach.",
+  "url": "https://modernbuilderscali.com/faq/can-existing-siding-be-converted-to-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can existing siding be converted to stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in many cases, existing siding can be converted to stucco, though the process depends on the type and condition of the current material. For example, wood siding often requires removal and then preparation of the substrate for stucco application. Masonry surfaces might need less extensive preparation. A thorough inspection is crucial to determine the structural integrity of the existing walls and to ensure proper adhesion for the new stucco system. Our team can assess your specific situation and recommend the most suitable approach for conversion.",
+        "description": "Existing siding can often be converted to stucco, but it depends on the current material and its condition; a thorough inspection determines the best approach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

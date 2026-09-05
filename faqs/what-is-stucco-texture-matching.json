@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is stucco texture matching?",
+  "description": "Stucco texture matching involves replicating an existing stucco finish during repair or new application to ensure a seamless blend.",
+  "url": "https://modernbuilderscali.com/faq/what-is-stucco-texture-matching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is stucco texture matching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco texture matching is the process of repairing or adding new stucco so that its surface finish seamlessly blends with existing stucco. This involves carefully selecting the right materials, application techniques, and finishing tools to replicate the original texture, whether it's smooth, sand, dash, lace, or skip trowel. The goal is to make the repair or new application unnoticeable, preserving the aesthetic uniformity of the building's exterior.",
+        "description": "Stucco texture matching involves replicating an existing stucco finish during repair or new application to ensure a seamless blend."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

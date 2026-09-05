@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is crack filling enough, or do I need to re-stucco the entire wall?",
+  "description": "Crack filling is good for isolated issues; re-stuccoing is needed for widespread damage, delamination, or structural failure.",
+  "url": "https://modernbuilderscali.com/faq/is-crack-filling-enough-or-do-i-need-to-re-stucco-the-entire-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is crack filling enough, or do I need to re-stucco the entire wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crack filling is typically sufficient for isolated, non-structural cracks. However, if the stucco has extensive cracking, widespread delamination, significant moisture damage, or shows signs of widespread structural failure, re-stuccoing the entire wall or section may be a more appropriate and durable solution. A professional evaluation can determine the extent of damage and recommend the most effective course of action for your specific situation.",
+        "description": "Crack filling is good for isolated issues; re-stuccoing is needed for widespread damage, delamination, or structural failure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

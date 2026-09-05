@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between fascia and soffit?",
+  "description": "Fascia is the board along the roof's edge that supports gutters, while soffit covers the underside of the roof's overhang, often with vents for attic ventilatio",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-fascia-and-soffit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between fascia and soffit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fascia and soffit are critical components of your home's roofing system, working together to protect the eaves. Fascia is the long, straight board that runs along the lower edge of the roof, directly supporting the bottom row of roof tiles or shingles and often carrying the gutters. Soffit is the material that covers the underside of your roof's overhang, bridging the gap between the siding and the fascia. Soffit often includes vents to allow air circulation into the attic, helping to prevent moisture buildup and regulate temperature.",
+        "description": "Fascia is the board along the roof's edge that supports gutters, while soffit covers the underside of the roof's overhang, often with vents for attic ventilation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

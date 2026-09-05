@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of materials are commonly used for exterior trim?",
+  "description": "Exterior trim uses materials like wood, engineered wood, PVC, fiber cement, and composite, each offering different durability, maintenance, and aesthetic qualit",
+  "url": "https://modernbuilderscali.com/faq/what-types-of-materials-are-commonly-used-for-exterior-trim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of materials are commonly used for exterior trim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common materials for exterior trim include wood (cedar, redwood, pine), engineered wood, PVC, fiber cement, and composite. Wood offers a classic look but requires regular maintenance. Engineered wood provides stability and resistance to rot. PVC is a low-maintenance, rot-proof option, often mimicking wood. Fiber cement is durable, fire-resistant, and comes in various textures. Composites blend plastic and wood fibers, offering good durability. Each material has different characteristics regarding cost, maintenance, and aesthetic appeal.",
+        "description": "Exterior trim uses materials like wood, engineered wood, PVC, fiber cement, and composite, each offering different durability, maintenance, and aesthetic qualities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

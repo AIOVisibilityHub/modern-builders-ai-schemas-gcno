@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider professional stucco crack repair instead of DIY methods?",
+  "description": "Professional stucco crack repair is advisable for cracks wider than a credit card, those with water damage, or structural issues. Professionals ensure correct d",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-professional-stucco-crack-repair-instead-of-diy-methods",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider professional stucco crack repair instead of DIY methods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider professional stucco crack repair when cracks are wider than a credit card, show signs of water damage like efflorescence or staining, or appear in a spiderweb pattern indicating underlying structural issues. Professionals have the expertise to diagnose the root cause, select the correct materials for different stucco types, and apply them correctly to prevent future recurrence and ensure a uniform appearance. DIY methods are generally only suitable for very minor, cosmetic hairline cracks where water intrusion is not a concern.",
+        "description": "Professional stucco crack repair is advisable for cracks wider than a credit card, those with water damage, or structural issues. Professionals ensure correct diagnosis, material selection, and proper application for lasting results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

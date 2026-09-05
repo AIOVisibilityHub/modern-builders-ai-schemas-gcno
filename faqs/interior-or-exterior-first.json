@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Interior or exterior first?",
-  "description": "Exterior first (messy ladders); interior anytime.",
   "url": "https://modernbuilderscali.com/faq/interior-or-exterior-first",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Interior or exterior first?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Exterior first (messy ladders); interior anytime."
-      }
-    }
-  ],
+  "name": "Interior or exterior first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Interior or exterior first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior first (messy ladders); interior anytime.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Exterior first (messy ladders); interior anytime."
 }

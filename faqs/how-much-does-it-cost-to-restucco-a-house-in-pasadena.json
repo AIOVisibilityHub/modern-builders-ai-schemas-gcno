@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to restucco a house in Pasadena?",
+  "description": "Restucco costs in Pasadena vary by home size, condition, stucco type, and architectural complexity. A personalized estimate is provided after an on-site evaluat",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-it-cost-to-restucco-a-house-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to restucco a house in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to restucco a house in Pasadena varies significantly based on several factors. These include the size and story count of the home, the current condition of the existing stucco, the type of stucco chosen (traditional vs. synthetic), the complexity of architectural details, and the accessibility of the work areas. Additional costs may arise from necessary repairs to the underlying structure or removal of old stucco. We provide detailed, personalized estimates after an on-site evaluation to ensure accuracy.",
+        "description": "Restucco costs in Pasadena vary by home size, condition, stucco type, and architectural complexity. A personalized estimate is provided after an on-site evaluation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

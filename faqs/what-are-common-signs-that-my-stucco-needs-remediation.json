@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my stucco needs remediation?",
+  "description": "Cracks, bulging stucco, water stains, and interior mold or dampness are common signs indicating the need for stucco remediation.",
+  "url": "https://modernbuilderscali.com/faq/what-are-common-signs-that-my-stucco-needs-remediation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my stucco needs remediation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key indicators that your stucco may require remediation include visible cracks, especially spiderweb or stair-step patterns, and bulging or soft areas. Staining or discoloration below windows, at the foundation, or near rooflines can point to water intrusion. Inside your home, signs like mold growth on interior walls, dampness, or peeling paint near stuccoed areas also suggest water damage, signaling a need for professional inspection and potential remediation.",
+        "description": "Cracks, bulging stucco, water stains, and interior mold or dampness are common signs indicating the need for stucco remediation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

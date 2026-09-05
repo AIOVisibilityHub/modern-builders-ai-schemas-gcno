@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required after stucco waterproofing?",
+  "description": "Maintain by annually inspecting for cracks or wear, ensuring good drainage, addressing irrigation issues, and gently cleaning the surface.",
+  "url": "https://modernbuilderscali.com/faq/what-maintenance-is-required-after-stucco-waterproofing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required after stucco waterproofing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After stucco waterproofing, regular inspection is key. Annually check for new cracks, peeling, or signs of wear, especially around windows, doors, and ground level. Keep gutters clean to ensure proper drainage away from the stucco. Promptly address any landscape irrigation issues that might spray directly onto the walls. Periodically cleaning the stucco surface gently can also help maintain its appearance and performance. Minor repairs or re-sealing might be needed every few years.",
+        "description": "Maintain by annually inspecting for cracks or wear, ensuring good drainage, addressing irrigation issues, and gently cleaning the surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

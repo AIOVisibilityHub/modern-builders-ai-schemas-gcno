@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What causes gutters to pull away from fascia?",
-  "description": "House settling, ice expansion, poor initial install; new hangers/spikes into rafter tails.",
   "url": "https://modernbuilderscali.com/faq/what-causes-gutters-to-pull-away-from-fascia",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What causes gutters to pull away from fascia?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "House settling, ice expansion, poor initial install; new hangers/spikes into rafter tails."
-      }
-    }
-  ],
+  "name": "What causes gutters to pull away from fascia?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What causes gutters to pull away from fascia?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "House settling, ice expansion, poor initial install; new hangers/spikes into rafter tails.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "House settling, ice expansion, poor initial install; new hangers/spikes into rafter tails."
 }

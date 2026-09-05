@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is cement stucco and how is it applied?",
+  "description": "Cement stucco is a durable wall covering made from cement, sand, and water, applied in layers over lath and a moisture barrier.",
+  "url": "https://modernbuilderscali.com/faq/what-is-cement-stucco-and-how-is-it-applied",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is cement stucco and how is it applied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cement stucco is a durable wall covering material made from cement, sand, water, and often lime. It is typically applied in multiple layers over a lath (metal mesh) and a moisture barrier to create a rigid, seamless, and weather-resistant surface. The application process involves preparing the substrate, installing lath and paper, applying a scratch coat, a brown coat, and finally a finish coat. Each layer must cure properly before the next is applied to ensure adhesion and durability.",
+        "description": "Cement stucco is a durable wall covering made from cement, sand, and water, applied in layers over lath and a moisture barrier."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to repair a hole in gutters?",
-  "description": "Patch with flex tape or metal flashing sealed; cut out bad section and splice new for larger holes.",
   "url": "https://modernbuilderscali.com/faq/how-to-repair-a-hole-in-gutters",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to repair a hole in gutters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Patch with flex tape or metal flashing sealed; cut out bad section and splice new for larger holes."
-      }
-    }
-  ],
+  "name": "How to repair a hole in gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to repair a hole in gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Patch with flex tape or metal flashing sealed; cut out bad section and splice new for larger holes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Patch with flex tape or metal flashing sealed; cut out bad section and splice new for larger holes."
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does stucco patching cost?",
+  "description": "Stucco patching costs depend on damage size, stucco type, and complexity of texture/color matching. Larger or water-damaged areas cost more. Estimates are provi",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-stucco-patching-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does stucco patching cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of stucco patching varies depending on the extent of the damage, the type of stucco, and the complexity of matching textures and colors. Small, superficial cracks might be relatively inexpensive to repair. However, larger areas of damage, especially those requiring multiple layers or intricate texture matching, will incur higher costs. Water damage often requires additional work to address underlying issues before patching. We provide detailed estimates after an on-site assessment to ensure accuracy for your specific project.",
+        "description": "Stucco patching costs depend on damage size, stucco type, and complexity of texture/color matching. Larger or water-damaged areas cost more. Estimates are provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

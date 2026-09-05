@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Aluminum vs steel gutters?",
-  "description": "Aluminum lighter/cheaper, rust-proof; steel stronger but heavier, needs painting eventually.",
   "url": "https://modernbuilderscali.com/faq/aluminum-vs-steel-gutters",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Aluminum vs steel gutters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Aluminum lighter/cheaper, rust-proof; steel stronger but heavier, needs painting eventually."
-      }
-    }
-  ],
+  "name": "Aluminum vs steel gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Aluminum vs steel gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aluminum lighter/cheaper, rust-proof; steel stronger but heavier, needs painting eventually.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Aluminum lighter/cheaper, rust-proof; steel stronger but heavier, needs painting eventually."
 }

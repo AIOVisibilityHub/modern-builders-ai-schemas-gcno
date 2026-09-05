@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for stucco re-flashing?",
+  "description": "Choose a stucco re-flashing contractor based on their experience, licensing, insurance, references, and a detailed estimate outlining their process and warranty",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-a-contractor-for-stucco-re-flashing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for stucco re-flashing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor for stucco re-flashing, look for professionals with extensive experience specifically in stucco remediation and flashing. Verify that they are licensed and insured, and ask for references from previous clients with similar projects. A reputable contractor will conduct a thorough on-site inspection, provide a detailed written estimate, and clearly explain the scope of work, materials, and warranty. Prioritize contractors who demonstrate a strong understanding of local building codes and best practices for water management in stucco systems.",
+        "description": "Choose a stucco re-flashing contractor based on their experience, licensing, insurance, references, and a detailed estimate outlining their process and warranty."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

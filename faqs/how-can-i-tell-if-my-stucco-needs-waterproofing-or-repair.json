@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell if my stucco needs waterproofing or repair?",
+  "description": "Look for cracks, discoloration, crumbling, efflorescence, or interior water stains. These indicate potential moisture issues requiring inspection and repair.",
+  "url": "https://modernbuilderscali.com/faq/how-can-i-tell-if-my-stucco-needs-waterproofing-or-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell if my stucco needs waterproofing or repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs that your stucco may need waterproofing or repair include cracks, crumbling or soft areas, discoloration, efflorescence (white mineral deposits), or interior water stains near stucco walls. Peeling paint on the stucco surface or visible mold/mildew are also strong indicators of moisture intrusion. A professional inspection can accurately assess the extent of the damage and recommend the appropriate solution, whether it's a simple sealant application or more extensive repair.",
+        "description": "Look for cracks, discoloration, crumbling, efflorescence, or interior water stains. These indicate potential moisture issues requiring inspection and repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

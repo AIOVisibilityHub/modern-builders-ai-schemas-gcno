@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I choose Modern Builders for stucco crack filling in Pasadena?",
+  "description": "Choose Modern Builders in Pasadena for specialized stucco crack filling, local expertise, quality materials, and durable, aesthetic repairs.",
+  "url": "https://modernbuilderscali.com/faq/why-should-i-choose-modern-builders-for-stucco-crack-filling-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I choose Modern Builders for stucco crack filling in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern Builders specializes in stucco repair and crack filling services across Pasadena and surrounding areas. Our team brings local expertise in understanding common stucco issues specific to the region's climate and building styles. We use proven techniques and quality materials to ensure durable, aesthetic repairs that seamlessly integrate with your existing stucco, protecting your home and preserving its curb appeal.",
+        "description": "Choose Modern Builders in Pasadena for specialized stucco crack filling, local expertise, quality materials, and durable, aesthetic repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

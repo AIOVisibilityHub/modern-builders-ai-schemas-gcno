@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete a stucco texture matching project?",
+  "description": "Project duration varies based on size and complexity, ranging from a few days for small repairs to over a week for larger or more intricate matches.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-it-take-to-complete-a-stucco-texture-matching-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete a stucco texture matching project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a stucco texture matching project varies significantly based on the size and complexity of the area needing repair or addition, as well as the specific texture being matched. Smaller repairs might take a day or two, including drying times between coats. Larger projects or those requiring multiple layers and specialized finishes could extend to several days or even a week. Weather conditions can also influence drying times and overall project length.",
+        "description": "Project duration varies based on size and complexity, ranging from a few days for small repairs to over a week for larger or more intricate matches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

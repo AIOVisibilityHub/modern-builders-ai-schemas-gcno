@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is stucco re-coating?",
+  "description": "Stucco re-coating applies a new protective layer over existing stucco to refresh its appearance and enhance its durability.",
+  "url": "https://modernbuilderscali.com/faq/what-is-stucco-re-coating",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is stucco re-coating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco re-coating involves applying a new protective and decorative layer over existing stucco. This process revitalizes the aesthetic appeal of your home while also adding a fresh layer of protection against the elements. It's an excellent way to maintain the integrity of your stucco finish, preventing minor cracks from worsening and improving the overall longevity of your exterior. Unlike a full stucco replacement, re-coating is typically less invasive and more cost-effective, focusing on surface renewal.",
+        "description": "Stucco re-coating applies a new protective layer over existing stucco to refresh its appearance and enhance its durability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

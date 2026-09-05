@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What paint finish: flat, eggshell, satin?",
-  "description": "Exterior: satin/semi-gloss (washable); interior walls: eggshell/satin; trim: semi-gloss.",
   "url": "https://modernbuilderscali.com/faq/what-paint-finish-flat-eggshell-satin",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What paint finish: flat, eggshell, satin?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Exterior: satin/semi-gloss (washable); interior walls: eggshell/satin; trim: semi-gloss."
-      }
-    }
-  ],
+  "name": "What paint finish: flat, eggshell, satin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What paint finish: flat, eggshell, satin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior: satin/semi-gloss (washable); interior walls: eggshell/satin; trim: semi-gloss.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Exterior: satin/semi-gloss (washable); interior walls: eggshell/satin; trim: semi-gloss."
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are decorative stucco accents susceptible to cracking?",
+  "description": "Stucco accents can crack due to improper application, rapid drying, or structural movement, but modern systems and skilled installation minimize this risk. Mino",
+  "url": "https://modernbuilderscali.com/faq/are-decorative-stucco-accents-susceptible-to-cracking",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are decorative stucco accents susceptible to cracking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Like any exterior material, stucco can develop cracks, but modern stucco systems are designed to minimize this. Factors contributing to cracking include improper mixing or application, rapid drying, significant structural movement of the building, or extreme temperature fluctuations. Using high-quality materials, proper expansion joints, and skilled installation techniques significantly reduces the likelihood of cracks. Minor hairline cracks are often superficial, while larger cracks may indicate underlying issues and should be inspected by a professional.",
+        "description": "Stucco accents can crack due to improper application, rapid drying, or structural movement, but modern systems and skilled installation minimize this risk. Minor cracks are often superficial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

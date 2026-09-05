@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is needed before stucco resurfacing?",
+  "description": "Preparation includes cleaning the existing stucco, repairing significant damage, removing loose material, and protecting surrounding areas.",
+  "url": "https://modernbuilderscali.com/faq/what-preparation-is-needed-before-stucco-resurfacing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is needed before stucco resurfacing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper preparation is crucial for a successful stucco resurfacing project. This typically includes thoroughly cleaning the existing stucco to remove dirt, grime, and loose debris. Any significant cracks, holes, or deteriorated areas must be repaired first. Loose or crumbling stucco should be removed. We also protect surrounding areas like windows, doors, and landscaping to prevent damage or staining during the application process. This ensures optimal adhesion and a smooth finish.",
+        "description": "Preparation includes cleaning the existing stucco, repairing significant damage, removing loose material, and protecting surrounding areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

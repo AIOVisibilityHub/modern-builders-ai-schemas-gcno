@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can cement stucco be applied over existing surfaces like brick or wood siding?",
+  "description": "Cement stucco can be applied over existing surfaces like brick or wood siding, but it requires careful preparation and often an intervening lath system.",
+  "url": "https://modernbuilderscali.com/faq/can-cement-stucco-be-applied-over-existing-surfaces-like-brick-or-wood-siding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can cement stucco be applied over existing surfaces like brick or wood siding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, cement stucco can be applied over various existing surfaces, but proper preparation is crucial. For brick, a bonding agent or metal lath may be needed to ensure adhesion. When applying over wood siding, the siding usually needs to be removed, and a new substrate with building paper and metal lath installed to create a stable base for the stucco. Applying stucco directly over unsuitable surfaces can lead to cracking and failure. A professional assessment is vital.",
+        "description": "Cement stucco can be applied over existing surfaces like brick or wood siding, but it requires careful preparation and often an intervening lath system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

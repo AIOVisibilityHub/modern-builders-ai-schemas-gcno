@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes stucco to crack and chip?",
+  "description": "Stucco cracks and chips from building settling, extreme weather, impacts, water intrusion, or improper application. Identifying the cause helps ensure a lasting",
+  "url": "https://modernbuilderscali.com/faq/what-causes-stucco-to-crack-and-chip",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes stucco to crack and chip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco can crack and chip due to several factors. Common causes include building settling, which puts stress on the walls, leading to hairline or structural cracks. Exposure to extreme weather conditions, such as rapid temperature changes or freeze-thaw cycles, can also cause the stucco to expand and contract, resulting in cracks. Impact from objects, water intrusion behind the stucco, improper application during installation, or insufficient curing time can also contribute to chipping and delamination. Addressing the root cause is vital for a lasting repair.",
+        "description": "Stucco cracks and chips from building settling, extreme weather, impacts, water intrusion, or improper application. Identifying the cause helps ensure a lasting repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the maintenance required for decorative stucco accents?",
+  "description": "Stucco accents require low maintenance, primarily occasional cleaning with mild detergent and periodic inspection for cracks. Timely repairs prevent larger issu",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-maintenance-required-for-decorative-stucco-accents",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the maintenance required for decorative stucco accents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Decorative stucco accents are known for their low maintenance. Generally, they require occasional cleaning to remove dirt, dust, and mildew, which can be done with a soft brush and mild detergent, or a low-pressure power wash. It's important to inspect them periodically for any cracks or damage, especially after extreme weather. Timely repairs of small cracks can prevent larger issues. With proper installation and routine checks, stucco accents can maintain their appearance and integrity for many years without extensive upkeep.",
+        "description": "Stucco accents require low maintenance, primarily occasional cleaning with mild detergent and periodic inspection for cracks. Timely repairs prevent larger issues and ensure longevity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

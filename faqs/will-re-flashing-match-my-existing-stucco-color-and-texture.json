@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will re-flashing match my existing stucco color and texture?",
+  "description": "Skilled contractors will match existing stucco color and texture as closely as possible, though slight variations may occur due to age and weathering.",
+  "url": "https://modernbuilderscali.com/faq/will-re-flashing-match-my-existing-stucco-color-and-texture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will re-flashing match my existing stucco color and texture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A skilled stucco contractor will strive to match the existing stucco color and texture as closely as possible during re-flashing. This often involves using the same stucco material and finish coat, and carefully blending the new application with the surrounding older stucco. However, perfect matches can be challenging due to weathering, age, and slight variations in materials. Reputable contractors use samples and techniques to minimize discrepancies, but slight differences may be visible initially, eventually fading to blend better over time. In some cases, a full exterior repaint may be recommended for a uniform look.",
+        "description": "Skilled contractors will match existing stucco color and texture as closely as possible, though slight variations may occur due to age and weathering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

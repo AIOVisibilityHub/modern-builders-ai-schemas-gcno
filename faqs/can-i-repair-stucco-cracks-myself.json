@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I repair stucco cracks myself?",
+  "description": "While minor cracks might seem DIY-friendly, professional repair is recommended to ensure correct assessment, proper material use, and a lasting, aesthetic fix.",
+  "url": "https://modernbuilderscali.com/faq/can-i-repair-stucco-cracks-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I repair stucco cracks myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While minor hairline cracks might seem suitable for DIY repair, professional assessment and repair are recommended for most stucco cracks. Improper preparation, material selection, or application can lead to short-lived repairs, mismatched textures, or even worsen the problem by trapping moisture. Professionals have the expertise and tools to identify underlying issues and ensure a durable, aesthetically pleasing repair.",
+        "description": "While minor cracks might seem DIY-friendly, professional repair is recommended to ensure correct assessment, proper material use, and a lasting, aesthetic fix."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

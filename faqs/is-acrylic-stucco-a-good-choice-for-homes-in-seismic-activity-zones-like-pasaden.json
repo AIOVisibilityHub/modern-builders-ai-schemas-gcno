@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is acrylic stucco a good choice for homes in seismic activity zones like Pasadena?",
+  "description": "Acrylic stucco is a good choice for seismic zones like Pasadena due to its flexibility, which helps prevent cracking during building movement.",
+  "url": "https://modernbuilderscali.com/faq/is-acrylic-stucco-a-good-choice-for-homes-in-seismic-activity-zones-like-pasaden",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is acrylic stucco a good choice for homes in seismic activity zones like Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, acrylic stucco is often considered an excellent choice for homes in seismic activity zones such as Pasadena. Its inherent flexibility allows it to better accommodate minor building movements and vibrations without cracking, unlike traditional rigid stucco. This flexibility reduces the likelihood of damage during seismic events, providing a more resilient exterior finish. The integrated system also adds a layer of protection and insulation to the structure.",
+        "description": "Acrylic stucco is a good choice for seismic zones like Pasadena due to its flexibility, which helps prevent cracking during building movement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

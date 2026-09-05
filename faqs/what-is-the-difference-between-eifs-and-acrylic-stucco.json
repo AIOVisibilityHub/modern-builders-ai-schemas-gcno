@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between EIFS and acrylic stucco?",
+  "description": "EIFS (Exterior Insulation and Finish System) is the complete multi-layered wall system, and acrylic stucco refers specifically to the flexible, durable finish c",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-eifs-and-acrylic-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between EIFS and acrylic stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "EIFS, or Exterior Insulation and Finish Systems, is a broader term that encompasses acrylic stucco. Acrylic stucco is essentially the finish coat used within an EIFS system. EIFS typically consists of several layers: an adhesive, an insulation board (often expanded polystyrene), a base coat with fiberglass mesh, and then the acrylic finish coat. Therefore, while all acrylic stucco is part of an EIFS system, not all EIFS systems strictly use 'acrylic stucco' as their final layer, though it is the most common type for its flexibility and durability.",
+        "description": "EIFS (Exterior Insulation and Finish System) is the complete multi-layered wall system, and acrylic stucco refers specifically to the flexible, durable finish coat used within that system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

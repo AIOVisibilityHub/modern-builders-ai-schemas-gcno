@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Prevent future gutter repairs?",
-  "description": "Annual inspections, gutter guards, tree trimming, heat cables in freeze areas.",
   "url": "https://modernbuilderscali.com/faq/prevent-future-gutter-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Prevent future gutter repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Annual inspections, gutter guards, tree trimming, heat cables in freeze areas."
-      }
-    }
-  ],
+  "name": "Prevent future gutter repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Prevent future gutter repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Annual inspections, gutter guards, tree trimming, heat cables in freeze areas.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Annual inspections, gutter guards, tree trimming, heat cables in freeze areas."
 }

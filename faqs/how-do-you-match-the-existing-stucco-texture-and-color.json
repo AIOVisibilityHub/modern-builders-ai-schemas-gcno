@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you match the existing stucco texture and color?",
+  "description": "We match stucco texture using specific tools and application techniques. For color, we custom-tint new material based on existing stucco samples, sometimes stai",
+  "url": "https://modernbuilderscali.com/faq/how-do-you-match-the-existing-stucco-texture-and-color",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you match the existing stucco texture and color?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matching existing stucco texture and color is a critical part of a successful patch. For texture, our skilled craftsmen use various tools and techniques, such as troweling, spraying, or hand-texturing, to replicate the original finish, whether it's smooth, sand, dash, or another style. For color, we often take samples of your existing stucco to custom-tint the new material. This might involve using a base color with pigment additives or staining the patch after it cures to ensure a near-perfect blend with the surrounding areas.",
+        "description": "We match stucco texture using specific tools and application techniques. For color, we custom-tint new material based on existing stucco samples, sometimes staining the patch after curing for a seamless blend."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

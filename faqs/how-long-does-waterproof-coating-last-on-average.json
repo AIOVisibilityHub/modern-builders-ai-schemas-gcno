@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does waterproof coating last on average?",
+  "description": "Waterproof coatings typically last 10 to 25 years, depending on the material, environmental exposure, application quality, and maintenance.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-waterproof-coating-last-on-average",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does waterproof coating last on average?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The lifespan of a waterproof coating varies significantly based on the type of material, environmental exposure, quality of application, and maintenance. High-quality elastomeric or urethane coatings can last anywhere from 10 to 25 years or more. Factors like direct sunlight, temperature fluctuations, foot traffic, and extreme weather conditions can affect its durability. Regular inspections and timely repairs can help maximize the coating's service life and maintain its protective qualities.",
+        "description": "Waterproof coatings typically last 10 to 25 years, depending on the material, environmental exposure, application quality, and maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs that my home's stucco needs to be redone?",
+  "description": "Look for cracking, crumbling, blistering, water stains, mold, or soft spots in your stucco. These signs indicate it's time for repair or a full restucco.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-signs-that-my-home-s-stucco-needs-to-be-redone",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs that my home's stucco needs to be redone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common indicators that your stucco needs restuccoing include extensive cracking, crumbling, or blistering. Discoloration, especially from water stains or mold growth, can also signal underlying moisture issues. If your stucco feels soft, is separating from the wall, or has significant impact damage, it's likely time for repair or a full restucco to protect your home's structure and maintain its aesthetic appeal. Addressing these issues promptly can prevent more costly damage.",
+        "description": "Look for cracking, crumbling, blistering, water stains, mold, or soft spots in your stucco. These signs indicate it's time for repair or a full restucco."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

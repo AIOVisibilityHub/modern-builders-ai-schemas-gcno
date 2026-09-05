@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for re-flashing stucco around a window?",
+  "description": "The process involves removing old stucco and damaged flashing around an opening, installing new flashing and weather-resistive barrier, and then re-applying stu",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-re-flashing-stucco-around-a-window",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for re-flashing stucco around a window?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The re-flashing process typically begins with a thorough inspection to identify compromised areas. For windows, this involves carefully cutting and removing the stucco around the perimeter of the opening. The old, damaged flashing and any rotten wood are then removed and replaced. New, appropriate flashing material (often metal or a specialized membrane) is installed to create a continuous water barrier, followed by applying a weather-resistive barrier. Finally, new stucco is applied, textured, and colored to match the existing exterior, ensuring a seamless repair and improved water protection.",
+        "description": "The process involves removing old stucco and damaged flashing around an opening, installing new flashing and weather-resistive barrier, and then re-applying stucco to match the existing finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

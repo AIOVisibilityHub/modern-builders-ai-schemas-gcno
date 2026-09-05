@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is stucco re-flashing?",
+  "description": "Stucco re-flashing is the process of repairing or replacing flashing around openings in a stucco exterior to prevent water intrusion and protect the underlying",
+  "url": "https://modernbuilderscali.com/faq/what-is-stucco-re-flashing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is stucco re-flashing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco re-flashing involves repairing or replacing the flashing components around windows, doors, and other penetrations in a stucco exterior. Flashing is a critical barrier designed to direct water away from the building's vulnerabilities. Over time, original flashing can deteriorate, become compromised, or be installed incorrectly, leading to water intrusion and damage to the underlying structure. Re-flashing ensures that these areas are properly sealed and protected, maintaining the integrity and weather resistance of the stucco system.",
+        "description": "Stucco re-flashing is the process of repairing or replacing flashing around openings in a stucco exterior to prevent water intrusion and protect the underlying structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

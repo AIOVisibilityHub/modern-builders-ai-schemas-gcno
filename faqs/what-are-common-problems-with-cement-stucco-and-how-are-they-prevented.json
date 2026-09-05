@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common problems with cement stucco and how are they prevented?",
+  "description": "Common stucco problems like cracking, efflorescence, and moisture intrusion are prevented through proper installation, curing, drainage, and detailing.",
+  "url": "https://modernbuilderscali.com/faq/what-are-common-problems-with-cement-stucco-and-how-are-they-prevented",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common problems with cement stucco and how are they prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common problems with cement stucco include cracking, efflorescence (white powdery deposits), and moisture intrusion. Cracking often results from improper substrate preparation, insufficient curing, or building movement; it's prevented by proper installation techniques and expansion joints. Efflorescence is caused by soluble salts migrating to the surface and can be minimized with good drainage and proper mix ratios. Moisture intrusion is usually due to flashing failures or unsealed penetrations, highlighting the need for meticulous detailing during installation.",
+        "description": "Common stucco problems like cracking, efflorescence, and moisture intrusion are prevented through proper installation, curing, drainage, and detailing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

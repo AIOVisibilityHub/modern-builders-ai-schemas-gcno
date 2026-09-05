@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for stucco waterproofing?",
+  "description": "The process involves inspection, repairing existing damage, surface preparation, and then applying a suitable waterproofing membrane or sealant to the stucco.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-stucco-waterproofing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for stucco waterproofing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with a thorough inspection to identify existing damage or potential entry points for water. Any necessary repairs to cracks or damaged stucco are then completed. Next, the surface is cleaned and prepared. A waterproofing membrane or sealant is then applied. This could be a liquid-applied coating or a specialized stucco system designed to repel water while allowing the wall to breathe. The specific method depends on the stucco condition and exposure.",
+        "description": "The process involves inspection, repairing existing damage, surface preparation, and then applying a suitable waterproofing membrane or sealant to the stucco."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I consider repainting my entire house instead of just matching stucco repairs?",
+  "description": "Consider repainting the entire house if stucco is severely faded or if you want a new look; otherwise, precise color matching for localized repairs is often suf",
+  "url": "https://modernbuilderscali.com/faq/should-i-consider-repainting-my-entire-house-instead-of-just-matching-stucco-rep",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I consider repainting my entire house instead of just matching stucco repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deciding between repainting your entire house or just matching stucco repairs depends on several factors. If the existing stucco is severely faded, discolored across large areas, or if you desire a completely new look, repainting the entire house might be a more cost-effective and aesthetically uniform solution. However, if the damage is localized and the existing color is still in good condition, precise color matching for repairs is often sufficient and more budget-friendly, especially for homes in good overall condition.",
+        "description": "Consider repainting the entire house if stucco is severely faded or if you want a new look; otherwise, precise color matching for localized repairs is often sufficient."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

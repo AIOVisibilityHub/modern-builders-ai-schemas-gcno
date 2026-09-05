@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for a stucco project?",
+  "description": "Choose a stucco contractor with experience, licensing, insurance, and good references. They should provide a detailed proposal, understand local codes, and resp",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-for-a-stucco-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for a stucco project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a stucco contractor, look for experience with stucco systems, proper licensing, and insurance. Request references and review their portfolio of completed stucco projects. A reputable contractor will provide a detailed proposal outlining the scope of work, materials, timeline, and warranty information. Ensure they understand local building codes and practices, especially for areas like Bungalow Heaven or Oak Knoll, where specific aesthetics or historical considerations might apply.",
+        "description": "Choose a stucco contractor with experience, licensing, insurance, and good references. They should provide a detailed proposal, understand local codes, and respect area-specific aesthetics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

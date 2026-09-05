@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Seamless vs sectional gutters?",
-  "description": "Seamless custom-formed on-site (leak-proof, cleaner look, $6-28/ft); sectional pre-made joints ($3-20/ft, more seams/leaks).",
   "url": "https://modernbuilderscali.com/faq/seamless-vs-sectional-gutters",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Seamless vs sectional gutters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Seamless custom-formed on-site (leak-proof, cleaner look, $6-28/ft); sectional pre-made joints ($3-20/ft, more seams/leaks)."
-      }
-    }
-  ],
+  "name": "Seamless vs sectional gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Seamless vs sectional gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seamless custom-formed on-site (leak-proof, cleaner look, $6-28/ft); sectional pre-made joints ($3-20/ft, more seams/leaks).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Seamless custom-formed on-site (leak-proof, cleaner look, $6-28/ft); sectional pre-made joints ($3-20/ft, more seams/leaks)."
 }

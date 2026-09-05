@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the stucco repair process?",
+  "description": "The process involves damage assessment, removal of compromised stucco, repair of underlying structures, application of new base and finish coats, and proper cur",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-stucco-repair-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the stucco repair process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The stucco repair process typically begins with an assessment of the damage to determine its cause and extent. Next, the damaged stucco is carefully removed, ensuring no further harm to the underlying structure. Any compromised substrate, such as wood sheathing or framing, is then repaired or replaced. A new base coat of stucco is applied, followed by a finish coat, meticulously matched to the existing texture and color. Finally, the repaired area is allowed to cure, often involving specific moisture conditions for optimal strength.",
+        "description": "The process involves damage assessment, removal of compromised stucco, repair of underlying structures, application of new base and finish coats, and proper curing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

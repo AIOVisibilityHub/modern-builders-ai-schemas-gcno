@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What building codes apply to stucco remediation in the Pasadena area?",
+  "description": "Stucco remediation in Pasadena must comply with California Building Code (CBC) standards for water management, materials, and installation, often requiring perm",
+  "url": "https://modernbuilderscali.com/faq/what-building-codes-apply-to-stucco-remediation-in-the-pasadena-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What building codes apply to stucco remediation in the Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco remediation projects in the Pasadena area must comply with local building codes, primarily based on the California Building Code (CBC), which incorporates various international codes with California-specific amendments. These codes dictate requirements for weather-resistive barriers, lath installation, stucco mix ratios, and flashing details to ensure proper water management and structural integrity. Permitting is typically required for significant remediation work, and inspections ensure compliance with these standards.",
+        "description": "Stucco remediation in Pasadena must comply with California Building Code (CBC) standards for water management, materials, and installation, often requiring permits and inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

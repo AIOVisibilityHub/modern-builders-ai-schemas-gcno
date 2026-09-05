@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of materials are used for stucco re-coating?",
+  "description": "Elastomeric coatings and acrylic finishes are common stucco re-coating materials, offering flexibility, waterproofing, and various aesthetic choices.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-materials-are-used-for-stucco-re-coating",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of materials are used for stucco re-coating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco re-coating commonly uses elastomeric coatings or acrylic finishes. Elastomeric coatings are highly flexible and excel at bridging hairline cracks, offering superior waterproofing and durability. Acrylic finishes provide excellent color retention, mildew resistance, and a wide range of aesthetic options. Both types are designed to bond effectively with existing stucco, creating a resilient and attractive new surface. The choice depends on specific needs for flexibility, breathability, and desired finish.",
+        "description": "Elastomeric coatings and acrylic finishes are common stucco re-coating materials, offering flexibility, waterproofing, and various aesthetic choices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

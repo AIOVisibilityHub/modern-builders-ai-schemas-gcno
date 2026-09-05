@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What slope for proper drainage?",
-  "description": "1/4-1/2\" drop per 10 ft toward downspouts; level checks during hang.",
   "url": "https://modernbuilderscali.com/faq/what-slope-for-proper-drainage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What slope for proper drainage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1/4-1/2\" drop per 10 ft toward downspouts; level checks during hang."
-      }
-    }
-  ],
+  "name": "What slope for proper drainage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What slope for proper drainage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1/4-1/2\" drop per 10 ft toward downspouts; level checks during hang.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1/4-1/2\" drop per 10 ft toward downspouts; level checks during hang."
 }

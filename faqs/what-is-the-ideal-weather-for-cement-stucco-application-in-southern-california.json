@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the ideal weather for cement stucco application in Southern California?",
+  "description": "Ideal stucco weather in Southern California is moderate temperatures (50-90°F), low humidity, and no direct sunlight to ensure proper drying and curing.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-ideal-weather-for-cement-stucco-application-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the ideal weather for cement stucco application in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal weather for cement stucco application in Southern California involves moderate temperatures, typically between 50°F and 90°F (10°C and 32°C), with low humidity and no direct sunlight during application. Extreme heat can cause the stucco to dry too quickly, leading to cracking, while cold temperatures can slow the curing process significantly. Wind can also accelerate drying, requiring measures like misting. Installers often schedule work during cooler parts of the day in summer or choose spring and fall for optimal conditions.",
+        "description": "Ideal stucco weather in Southern California is moderate temperatures (50-90°F), low humidity, and no direct sunlight to ensure proper drying and curing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

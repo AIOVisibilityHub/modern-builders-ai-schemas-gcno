@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between synthetic stucco (EIFS) and traditional stucco repair?",
+  "description": "Traditional stucco (cement-based) repairs involve similar patching, while synthetic stucco (EIFS) repairs require specialized materials and techniques due to it",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-synthetic-stucco-eifs-and-traditional-stucco-repa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between synthetic stucco (EIFS) and traditional stucco repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional stucco, made from cement, sand, lime, and water, is a hard, breathable material. Repairs typically involve patching with a similar mixture. Synthetic stucco, or Exterior Insulation and Finish Systems (EIFS), consists of multiple layers, including insulation board, a base coat with mesh, and a finish coat. EIFS is more flexible and offers better insulation, but requires specialized repair techniques, often involving specific synthetic materials to maintain its integrity and moisture barrier properties. Repair methods differ significantly due to material composition.",
+        "description": "Traditional stucco (cement-based) repairs involve similar patching, while synthetic stucco (EIFS) repairs require specialized materials and techniques due to its multi-layered, flexible nature."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

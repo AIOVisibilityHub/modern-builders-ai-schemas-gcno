@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take for newly matched stucco color to fully cure and show its true color?",
+  "description": "Newly matched stucco typically takes several days to weeks to fully cure, with the color settling gradually during this time. The type of stucco and weather con",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-it-take-for-newly-matched-stucco-color-to-fully-cure-and-show-its",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take for newly matched stucco color to fully cure and show its true color?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The curing time for newly matched stucco can vary based on the type of stucco, weather conditions, and thickness of application. Generally, traditional cement-based stucco can take several days to weeks to fully cure, with the color gradually settling during this period. Synthetic stuccos may cure faster. It's important to allow adequate curing time before making a final assessment of the color match, as it can appear lighter or darker when wet.",
+        "description": "Newly matched stucco typically takes several days to weeks to fully cure, with the color settling gradually during this time. The type of stucco and weather conditions affect curing time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

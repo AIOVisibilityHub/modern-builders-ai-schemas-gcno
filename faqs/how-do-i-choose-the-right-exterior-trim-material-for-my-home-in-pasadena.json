@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right exterior trim material for my home in Pasadena?",
+  "description": "Consider your home's style, budget, maintenance preferences, and Pasadena's climate when choosing trim materials; options vary from traditional wood to low-main",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-exterior-trim-material-for-my-home-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right exterior trim material for my home in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right trim material depends on your home's architectural style, budget, desired maintenance level, and the local climate in Pasadena. For historic homes in areas like Bungalow Heaven, traditional wood or engineered wood that matches the period might be preferred. For modern homes, PVC or fiber cement can offer sleek, low-maintenance options. Consider factors like sun exposure, moisture levels, and how well the material complements existing siding and roofing. We can help you assess your needs and recommend the best fit.",
+        "description": "Consider your home's style, budget, maintenance preferences, and Pasadena's climate when choosing trim materials; options vary from traditional wood to low-maintenance PVC."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

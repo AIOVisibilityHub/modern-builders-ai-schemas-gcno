@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of stucco resurfacing?",
+  "description": "Costs for stucco resurfacing vary by square footage, existing condition, and finish, but it is generally more affordable than full replacement.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-cost-of-stucco-resurfacing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of stucco resurfacing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of stucco resurfacing varies based on factors such as the square footage of the area being resurfaced, the condition of the existing stucco, the chosen finish and color, and the complexity of the project. While it's generally more affordable than a full stucco replacement, prices can range significantly. It is best to obtain a detailed estimate from a contractor like Modern Builders after an on-site evaluation to understand the specific costs for your property in Pasadena.",
+        "description": "Costs for stucco resurfacing vary by square footage, existing condition, and finish, but it is generally more affordable than full replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

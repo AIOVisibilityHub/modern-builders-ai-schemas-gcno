@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for applying a waterproof coating?",
+  "description": "The process involves surface preparation, priming, applying the coating in layers, allowing it to cure, and a final inspection.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-applying-a-waterproof-coating",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for applying a waterproof coating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The application process usually begins with thorough surface preparation, which involves cleaning, repairing cracks, and ensuring the surface is dry and free of debris. Next, a primer may be applied to enhance adhesion. The waterproof coating is then applied in one or more layers, often with reinforcement fabric embedded for added strength, especially on roofs or in areas with potential movement. Curing time is crucial and varies by product. A final inspection ensures complete coverage and proper adhesion.",
+        "description": "The process involves surface preparation, priming, applying the coating in layers, allowing it to cure, and a final inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

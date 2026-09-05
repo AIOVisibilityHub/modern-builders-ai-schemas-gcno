@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can decorative stucco accents be installed over existing siding materials?",
+  "description": "Installation over existing siding depends on the material type and condition. Proper preparation, including cleaning and sometimes bonding agents, is crucial. I",
+  "url": "https://modernbuilderscali.com/faq/can-decorative-stucco-accents-be-installed-over-existing-siding-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can decorative stucco accents be installed over existing siding materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installing decorative stucco accents over existing siding depends on the type and condition of the current material. While stucco can often be applied over various substrates, proper preparation is key. This usually involves cleaning the surface, ensuring structural integrity, and sometimes applying a bonding agent or lath. In some cases, removal of the old siding might be necessary for optimal adhesion and a long-lasting finish, especially if the existing material is not suitable for direct stucco application. A professional assessment is recommended to determine feasibility.",
+        "description": "Installation over existing siding depends on the material type and condition. Proper preparation, including cleaning and sometimes bonding agents, is crucial. In some cases, removal of old siding may be necessary for best results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

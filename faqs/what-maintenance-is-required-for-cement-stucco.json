@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for cement stucco?",
+  "description": "Stucco requires low maintenance, including regular cleaning and annual inspection for cracks, which should be repaired promptly.",
+  "url": "https://modernbuilderscali.com/faq/what-maintenance-is-required-for-cement-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for cement stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cement stucco is a low-maintenance material, but periodic care helps preserve its appearance and integrity. Regular cleaning, typically with a garden hose and a soft brush, can remove dirt and mildew. Inspecting the surface annually for cracks, especially around openings like windows and doors, is advisable. Minor cracks can be repaired with appropriate elastomeric caulk or patching compounds to prevent water penetration. Repainting or recoating may be needed after several years for aesthetic reasons.",
+        "description": "Stucco requires low maintenance, including regular cleaning and annual inspection for cracks, which should be repaired promptly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

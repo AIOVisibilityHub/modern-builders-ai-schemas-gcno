@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can acrylic stucco be installed over existing surfaces?",
+  "description": "Acrylic stucco can often be installed over existing surfaces like stucco, brick, or concrete, provided the substrate is sound and properly prepared.",
+  "url": "https://modernbuilderscali.com/faq/can-acrylic-stucco-be-installed-over-existing-surfaces",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can acrylic stucco be installed over existing surfaces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, acrylic stucco can often be installed over various existing surfaces, including traditional stucco, brick, concrete, or even wood siding, provided the substrate is sound, clean, and properly prepared. The existing surface must be free of major cracks, loose debris, or significant structural issues. A proper base coat and sometimes a lath system are applied first to ensure strong adhesion and a uniform finish. A professional assessment is crucial to determine suitability and necessary preparation steps.",
+        "description": "Acrylic stucco can often be installed over existing surfaces like stucco, brick, or concrete, provided the substrate is sound and properly prepared."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

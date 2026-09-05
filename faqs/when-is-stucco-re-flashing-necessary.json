@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is stucco re-flashing necessary?",
+  "description": "Stucco re-flashing is necessary when you observe water damage signs like stains, cracks, or leaks around windows and doors, or if the existing flashing is deter",
+  "url": "https://modernbuilderscali.com/faq/when-is-stucco-re-flashing-necessary",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is stucco re-flashing necessary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco re-flashing becomes necessary when signs of water damage appear around windows, doors, or other stucco penetrations. Common indicators include staining, cracking, efflorescence (white mineral deposits), or soft spots in the stucco below openings. You might also notice water leaks inside the building near these areas. Deteriorated caulk, visible gaps, or the age of the original flashing system can also signal a need for inspection and potential re-flashing, especially in older homes or after significant weather events.",
+        "description": "Stucco re-flashing is necessary when you observe water damage signs like stains, cracks, or leaks around windows and doors, or if the existing flashing is deteriorated."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Best sealant for gutters?",
-  "description": "Gutter-specific polyurethane or butyl caulk; flexible, waterproof, paintable.",
   "url": "https://modernbuilderscali.com/faq/best-sealant-for-gutters",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Best sealant for gutters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gutter-specific polyurethane or butyl caulk; flexible, waterproof, paintable."
-      }
-    }
-  ],
+  "name": "Best sealant for gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Best sealant for gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gutter-specific polyurethane or butyl caulk; flexible, waterproof, paintable.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Gutter-specific polyurethane or butyl caulk; flexible, waterproof, paintable."
 }

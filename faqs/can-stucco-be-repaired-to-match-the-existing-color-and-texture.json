@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can stucco be repaired to match the existing color and texture?",
+  "description": "Yes, experienced stucco repair technicians can match existing color and texture using careful blending and application techniques, though exact matches can be c",
+  "url": "https://modernbuilderscali.com/faq/can-stucco-be-repaired-to-match-the-existing-color-and-texture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can stucco be repaired to match the existing color and texture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, skilled stucco repair technicians can often match existing stucco color and texture. Achieving an exact match involves careful color blending using pigments and selecting the appropriate aggregates and application techniques to replicate the original texture. Factors like the age of the existing stucco, sun exposure, and weathering can make a perfect match challenging, but experienced professionals use various methods to blend the repair seamlessly. A small test patch is often done first to ensure satisfaction.",
+        "description": "Yes, experienced stucco repair technicians can match existing color and texture using careful blending and application techniques, though exact matches can be challenging due to weathering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

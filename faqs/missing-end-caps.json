@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Missing end caps?",
-  "description": "Snap/rivet new matching material, silicone seal edges.",
   "url": "https://modernbuilderscali.com/faq/missing-end-caps",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Missing end caps?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Snap/rivet new matching material, silicone seal edges."
-      }
-    }
-  ],
+  "name": "Missing end caps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Missing end caps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Snap/rivet new matching material, silicone seal edges.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Snap/rivet new matching material, silicone seal edges."
 }

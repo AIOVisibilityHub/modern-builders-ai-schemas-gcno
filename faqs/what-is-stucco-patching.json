@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is stucco patching?",
+  "description": "Stucco patching repairs damaged stucco finishes, restoring appearance and protection. It involves applying new stucco to cracks, holes, or other imperfections.",
+  "url": "https://modernbuilderscali.com/faq/what-is-stucco-patching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is stucco patching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco patching involves repairing damaged areas of stucco, a durable exterior finish made from cement, sand, and water. This process restores the aesthetic appeal and protective qualities of the stucco. Damage can result from cracks, holes, water intrusion, or impacts. The repair typically involves cleaning the area, applying new stucco material in layers to match the existing texture and color, and allowing it to cure properly. Proper patching prevents further damage and maintains the integrity of your home's exterior.",
+        "description": "Stucco patching repairs damaged stucco finishes, restoring appearance and protection. It involves applying new stucco to cracks, holes, or other imperfections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

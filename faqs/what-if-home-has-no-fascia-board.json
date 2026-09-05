@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if home has no fascia board?",
-  "description": "Install fascia brackets or wood blocking first for hanger support.",
   "url": "https://modernbuilderscali.com/faq/what-if-home-has-no-fascia-board",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if home has no fascia board?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Install fascia brackets or wood blocking first for hanger support."
-      }
-    }
-  ],
+  "name": "What if home has no fascia board?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if home has no fascia board?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Install fascia brackets or wood blocking first for hanger support.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Install fascia brackets or wood blocking first for hanger support."
 }

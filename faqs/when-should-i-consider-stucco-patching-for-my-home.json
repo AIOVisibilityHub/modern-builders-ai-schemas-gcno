@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider stucco patching for my home?",
+  "description": "Patching is needed for cracks, holes, crumbling, or discoloration in your stucco. Addressing these issues promptly prevents further water damage and costly repa",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-stucco-patching-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider stucco patching for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider stucco patching when you notice any cracks, holes, crumbling, or discoloration on your stucco exterior. Small hairline cracks might be cosmetic, but larger cracks, especially those wider than a credit card, can indicate structural movement or water penetration. Prompt patching prevents water from seeping behind the stucco, which can lead to more extensive and costly damage like mold, rot, or delamination of the stucco from the substrate. Regular inspection of your stucco can help identify issues early.",
+        "description": "Patching is needed for cracks, holes, crumbling, or discoloration in your stucco. Addressing these issues promptly prevents further water damage and costly repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

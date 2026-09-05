@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is stucco waterproofing and why is it important for my home?",
+  "description": "Stucco waterproofing protects your home's exterior from moisture, preventing damage like mold, rot, and stucco failure, especially important in regions with var",
+  "url": "https://modernbuilderscali.com/faq/what-is-stucco-waterproofing-and-why-is-it-important-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is stucco waterproofing and why is it important for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco waterproofing involves applying a protective barrier to stucco exteriors, preventing moisture intrusion. This is crucial for homes in areas like Pasadena to protect against rain, humidity, and sprinkler overspray. Water damage can lead to mold growth, rot in structural components, and delamination of the stucco itself, compromising the integrity and appearance of your home. Proper waterproofing extends the lifespan of your stucco and avoids costly future repairs.",
+        "description": "Stucco waterproofing protects your home's exterior from moisture, preventing damage like mold, rot, and stucco failure, especially important in regions with varying weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

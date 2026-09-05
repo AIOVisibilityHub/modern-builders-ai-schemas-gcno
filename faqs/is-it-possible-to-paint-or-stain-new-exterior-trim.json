@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it possible to paint or stain new exterior trim?",
+  "description": "Yes, most exterior trim materials, including wood, engineered wood, and fiber cement, can be painted or stained; PVC can also be painted with suitable products.",
+  "url": "https://modernbuilderscali.com/faq/is-it-possible-to-paint-or-stain-new-exterior-trim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it possible to paint or stain new exterior trim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most exterior trim materials are designed to be painted or stained. Wood and engineered wood trims typically require a primer and two coats of high-quality exterior paint or stain for protection and aesthetics. Fiber cement also accepts paint well. While PVC trim is often white and doesn't require painting, it can be painted if you desire a specific color, using appropriate acrylic latex paints designed for vinyl or PVC. Proper surface preparation is key for a durable finish.",
+        "description": "Yes, most exterior trim materials, including wood, engineered wood, and fiber cement, can be painted or stained; PVC can also be painted with suitable products."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

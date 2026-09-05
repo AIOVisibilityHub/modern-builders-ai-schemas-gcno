@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is historical stucco preservation and why is it important?",
+  "description": "Historical stucco preservation maintains the original stucco on older buildings using traditional methods to retain architectural integrity and historic value.",
+  "url": "https://modernbuilderscali.com/faq/what-is-historical-stucco-preservation-and-why-is-it-important",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is historical stucco preservation and why is it important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Historical stucco preservation involves maintaining, repairing, or restoring original stucco on older buildings, often using traditional materials and techniques. It's crucial for retaining the architectural integrity and historic value of a property. Unlike modern synthetic stuccos, historic stucco often uses lime-based mixes which allow buildings to breathe, managing moisture naturally. Proper preservation prevents further deterioration, protects the underlying structure, and respects the original craftsmanship, contributing to the longevity and authenticity of historic homes and buildings.",
+        "description": "Historical stucco preservation maintains the original stucco on older buildings using traditional methods to retain architectural integrity and historic value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

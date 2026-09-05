@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can stucco be repaired, or does it always need full replacement?",
+  "description": "Small cracks may be repaired, but widespread damage, significant water intrusion, or faulty installation often requires full or partial stucco replacement.",
+  "url": "https://modernbuilderscali.com/faq/can-stucco-be-repaired-or-does-it-always-need-full-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can stucco be repaired, or does it always need full replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether stucco requires full replacement or just repairs depends on the extent and nature of the damage. Minor cracks, small localized water stains, or superficial wear might be effectively addressed with targeted repairs. However, widespread cracking, significant water intrusion causing rot to the underlying structure, or stucco applied over a faulty moisture barrier often necessitates full or partial replacement of sections to ensure proper long-term performance and prevent recurring issues.",
+        "description": "Small cracks may be repaired, but widespread damage, significant water intrusion, or faulty installation often requires full or partial stucco replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does historical stucco differ from modern synthetic stucco systems?",
+  "description": "Historical stucco is typically lime-based, breathable, and applied in multiple layers; modern stucco is often acrylic-based, less breathable, and applied over i",
+  "url": "https://modernbuilderscali.com/faq/how-does-historical-stucco-differ-from-modern-synthetic-stucco-systems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does historical stucco differ from modern synthetic stucco systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Historical stucco is typically a lime-based or cement-lime mix applied in multiple layers over a lath system, offering flexibility, breathability, and natural moisture management. It cures slowly and develops a hard, durable surface over time. Modern synthetic stuccos, often called Exterior Insulation and Finish Systems (EIFS), are acrylic-based, applied in fewer layers over insulation boards, and are less breathable. While synthetic stuccos offer good insulation, they can trap moisture if improperly installed, leading to different types of failure compared to traditional stucco.",
+        "description": "Historical stucco is typically lime-based, breathable, and applied in multiple layers; modern stucco is often acrylic-based, less breathable, and applied over insulation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

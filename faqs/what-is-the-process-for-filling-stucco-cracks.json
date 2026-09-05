@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filling stucco cracks?",
+  "description": "Stucco crack filling involves cleaning, preparing, and V-cutting the crack, then applying a matching patching compound or sealant, and blending for a seamless f",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-filling-stucco-cracks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filling stucco cracks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The crack filling process involves several steps. First, the area around the crack is cleaned and prepared. Depending on the crack's size and type, it may be V-cut or widened to ensure proper adhesion. A suitable patching compound or elastomeric sealant, matched to the existing stucco texture and color, is then applied. Finally, the repair is blended to create a seamless finish, often requiring priming and painting for optimal results.",
+        "description": "Stucco crack filling involves cleaning, preparing, and V-cutting the crack, then applying a matching patching compound or sealant, and blending for a seamless finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

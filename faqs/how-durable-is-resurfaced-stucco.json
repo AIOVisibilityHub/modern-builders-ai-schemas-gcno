@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How durable is resurfaced stucco?",
+  "description": "Resurfaced stucco is durable when properly applied over a sound base, offering good protection against weather and impacts for many years.",
+  "url": "https://modernbuilderscali.com/faq/how-durable-is-resurfaced-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How durable is resurfaced stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resurfaced stucco, when properly applied over a structurally sound existing base, can be very durable. The new topcoat adds an additional layer of protection against weathering elements, minor impacts, and UV degradation. Its longevity largely depends on the quality of the materials used, the expertise of the application, and regular maintenance. With good care, resurfaced stucco can last for many years, enhancing both the look and protection of your home.",
+        "description": "Resurfaced stucco is durable when properly applied over a sound base, offering good protection against weather and impacts for many years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

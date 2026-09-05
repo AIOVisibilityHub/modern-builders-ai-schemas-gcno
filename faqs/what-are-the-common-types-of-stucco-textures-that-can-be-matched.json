@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common types of stucco textures that can be matched?",
+  "description": "Common types include smooth, sand, dash, lace, and skip trowel, each requiring specific techniques to match.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-common-types-of-stucco-textures-that-can-be-matched",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common types of stucco textures that can be matched?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common stucco textures that can be matched include smooth, which has a uniform and often polished appearance; sand finish, characterized by fine aggregates for a slightly gritty feel; dash, created by throwing stucco onto the wall for a rough, speckled look; lace, which involves applying a second coat over a base to create a patterned, raised texture; and skip trowel, known for its subtle, irregular peaks and valleys. Each type requires specific application techniques and tools to replicate.",
+        "description": "Common types include smooth, sand, dash, lace, and skip trowel, each requiring specific techniques to match."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

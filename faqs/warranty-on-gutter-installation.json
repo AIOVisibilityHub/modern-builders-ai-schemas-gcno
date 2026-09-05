@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Warranty on gutter installation?",
-  "description": "Materials 20-50 years; labor 1-5 years; manufacturer prorated for perforations.",
   "url": "https://modernbuilderscali.com/faq/warranty-on-gutter-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Warranty on gutter installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Materials 20-50 years; labor 1-5 years; manufacturer prorated for perforations."
-      }
-    }
-  ],
+  "name": "Warranty on gutter installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Warranty on gutter installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Materials 20-50 years; labor 1-5 years; manufacturer prorated for perforations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Materials 20-50 years; labor 1-5 years; manufacturer prorated for perforations."
 }

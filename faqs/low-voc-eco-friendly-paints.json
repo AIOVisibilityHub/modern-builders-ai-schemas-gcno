@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Low-VOC/eco-friendly paints?",
-  "description": "Yes—most premium paints qualify; check labels for certifications.",
   "url": "https://modernbuilderscali.com/faq/low-voc-eco-friendly-paints",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Low-VOC/eco-friendly paints?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—most premium paints qualify; check labels for certifications."
-      }
-    }
-  ],
+  "name": "Low-VOC/eco-friendly paints?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Low-VOC/eco-friendly paints?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—most premium paints qualify; check labels for certifications.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—most premium paints qualify; check labels for certifications."
 }

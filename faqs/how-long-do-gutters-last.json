@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do gutters last?",
-  "description": "Aluminum 20-30 years; copper 50-100+; regular cleaning extends life.",
   "url": "https://modernbuilderscali.com/faq/how-long-do-gutters-last",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do gutters last?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Aluminum 20-30 years; copper 50-100+; regular cleaning extends life."
-      }
-    }
-  ],
+  "name": "How long do gutters last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do gutters last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aluminum 20-30 years; copper 50-100+; regular cleaning extends life.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Aluminum 20-30 years; copper 50-100+; regular cleaning extends life."
 }

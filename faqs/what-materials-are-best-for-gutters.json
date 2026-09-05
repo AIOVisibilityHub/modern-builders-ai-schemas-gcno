@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are best for gutters?",
-  "description": "Aluminum (light, affordable); steel (durable); copper (premium, patinas); vinyl (cheap but brittle); seamless preferred over sectional.",
   "url": "https://modernbuilderscali.com/faq/what-materials-are-best-for-gutters",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are best for gutters?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Aluminum (light, affordable); steel (durable); copper (premium, patinas); vinyl (cheap but brittle); seamless preferred over sectional."
-      }
-    }
-  ],
+  "name": "What materials are best for gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aluminum (light, affordable); steel (durable); copper (premium, patinas); vinyl (cheap but brittle); seamless preferred over sectional.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Aluminum (light, affordable); steel (durable); copper (premium, patinas); vinyl (cheap but brittle); seamless preferred over sectional."
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is stucco repair important for homes in Pasadena?",
+  "description": "Stucco repair in Pasadena protects homes from the local climate and seismic activity, preventing water damage, preserving structural integrity, and maintaining",
+  "url": "https://modernbuilderscali.com/faq/why-is-stucco-repair-important-for-homes-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is stucco repair important for homes in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco is a prevalent exterior finish in Pasadena, known for its aesthetic appeal and durability in the local climate. Given Pasadena's varied topography and occasional seismic activity, properly maintained stucco is crucial for protecting homes from environmental elements and potential structural shifts. Timely repairs prevent water intrusion, which can lead to dry rot, mold, and costly damage to the underlying structure, especially important in older homes common in areas like Old Town Pasadena and Bungalow Heaven. Repair ensures longevity and maintains property value.",
+        "description": "Stucco repair in Pasadena protects homes from the local climate and seismic activity, preventing water damage, preserving structural integrity, and maintaining property value, especially in historic neighborhoods."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

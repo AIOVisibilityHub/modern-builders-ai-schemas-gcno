@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the consequences of not re-flashing damaged stucco?",
+  "description": "Not re-flashing damaged stucco causes water intrusion, leading to wood rot, mold growth, structural damage, and significantly more expensive repairs.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-consequences-of-not-re-flashing-damaged-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the consequences of not re-flashing damaged stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Failing to re-flash damaged stucco can lead to significant and costly problems. Compromised flashing allows water to penetrate the building envelope, leading to rot in wood framing, sheathing, and interior finishes. This can create an environment for mold growth, posing health risks and requiring extensive remediation. Over time, ignored water intrusion can compromise the structural integrity of your home, devalue the property, and result in far more expensive repairs than timely re-flashing would have been. Prompt attention prevents escalating damage.",
+        "description": "Not re-flashing damaged stucco causes water intrusion, leading to wood rot, mold growth, structural damage, and significantly more expensive repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

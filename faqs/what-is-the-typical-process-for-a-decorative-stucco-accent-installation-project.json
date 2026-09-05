@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a decorative stucco accent installation project with Modern Builders in Pasadena?",
+  "description": "Our process in Pasadena includes consultation, site assessment, detailed proposal, surface preparation, skilled application of accents, and a final inspection f",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-a-decorative-stucco-accent-installation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a decorative stucco accent installation project with Modern Builders in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for a decorative stucco accent installation with Modern Builders in Pasadena begins with an initial consultation and site assessment to understand your vision and evaluate the existing structure. We then provide a detailed proposal outlining design options, materials, and a transparent cost estimate. Upon approval, our team prepares the surface, which may involve cleaning or minor repairs. Next, the stucco accents are skillfully applied and finished according to your chosen style. The project concludes with a final inspection to ensure satisfaction and adherence to our quality standards.",
+        "description": "Our process in Pasadena includes consultation, site assessment, detailed proposal, surface preparation, skilled application of accents, and a final inspection for quality assurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

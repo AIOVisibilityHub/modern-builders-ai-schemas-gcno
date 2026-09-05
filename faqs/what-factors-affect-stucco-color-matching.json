@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors affect stucco color matching?",
+  "description": "Factors affecting stucco color matching include age, weathering, material type, pigmentation, application technique, and lighting conditions during comparison.",
+  "url": "https://modernbuilderscali.com/faq/what-factors-affect-stucco-color-matching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors affect stucco color matching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several factors influence stucco color matching. These include the original stucco's age and weathering, which can cause fading or discoloration. The type of stucco material (e.g., traditional, synthetic) and its original pigmentation play a role. Additionally, the application technique, including the number of coats and texture, can affect how color appears. Lighting conditions during comparison also impact the perceived match, making it a complex process.",
+        "description": "Factors affecting stucco color matching include age, weathering, material type, pigmentation, application technique, and lighting conditions during comparison."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

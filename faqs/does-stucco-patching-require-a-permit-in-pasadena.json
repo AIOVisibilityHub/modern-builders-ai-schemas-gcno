@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does stucco patching require a permit in Pasadena?",
+  "description": "Minor stucco patching in Pasadena usually doesn't require a permit. However, significant structural changes or large-scale replacements may necessitate one. Alw",
+  "url": "https://modernbuilderscali.com/faq/does-stucco-patching-require-a-permit-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does stucco patching require a permit in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minor stucco patching for cosmetic purposes or small repairs typically does not require a permit in Pasadena. However, if the repair involves structural changes, significant modifications to the exterior, or replacement of large sections of stucco that alter the wall assembly, a permit from the Pasadena Planning and Community Development Department may be necessary. It's always best to consult with your contractor or the local building department to determine if your specific stucco patching project falls under permit requirements to ensure compliance.",
+        "description": "Minor stucco patching in Pasadena usually doesn't require a permit. However, significant structural changes or large-scale replacements may necessitate one. Always confirm with your contractor or local building department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

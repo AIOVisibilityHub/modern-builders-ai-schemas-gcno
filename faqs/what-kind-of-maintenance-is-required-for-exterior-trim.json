@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance is required for exterior trim?",
+  "description": "Maintenance varies by material: wood needs regular painting/staining, while engineered wood, fiber cement, and PVC require less, mainly periodic cleaning and in",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-maintenance-is-required-for-exterior-trim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance is required for exterior trim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance depends largely on the material. Wood trim typically requires regular cleaning, scraping loose paint, re-caulking, and repainting or re-staining every few years to prevent rot and maintain its appearance. Engineered wood and fiber cement trims are more durable but still benefit from occasional cleaning and paint touch-ups. PVC and composite trims are generally low-maintenance, requiring only periodic cleaning with soap and water to remove dirt and mildew. Regular inspections for damage are important for all types.",
+        "description": "Maintenance varies by material: wood needs regular painting/staining, while engineered wood, fiber cement, and PVC require less, mainly periodic cleaning and inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why choose Modern Builders for stucco crack repair in Pasadena and surrounding areas?",
+  "description": "Choose Modern Builders for stucco crack repair in Pasadena due to our local expertise, advanced diagnostics for lasting repairs, high-quality materials, meticul",
+  "url": "https://modernbuilderscali.com/faq/why-choose-modern-builders-for-stucco-crack-repair-in-pasadena-and-surrounding-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why choose Modern Builders for stucco crack repair in Pasadena and surrounding areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern Builders specializes in stucco crack repair across Pasadena, Old Town Pasadena, East Pasadena, and surrounding communities. We bring extensive local experience with the region's specific climate conditions and building styles. Our team uses advanced diagnostic tools to identify the root cause of cracks, ensuring a durable and lasting repair rather than just a cosmetic fix. We prioritize high-quality materials, meticulous color and texture matching, and provide transparent pricing with exceptional customer service from initial assessment to project completion, guaranteeing a seamless process and beautiful results.",
+        "description": "Choose Modern Builders for stucco crack repair in Pasadena due to our local expertise, advanced diagnostics for lasting repairs, high-quality materials, meticulous matching, and transparent pricing with excellent customer service."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

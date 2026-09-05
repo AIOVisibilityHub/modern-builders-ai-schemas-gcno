@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does stucco crack repair cost in Pasadena?",
+  "description": "Stucco crack repair costs in Pasadena vary based on the crack's size and severity. Minor repairs can be $150-$500, while extensive repairs might range from $500",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-stucco-crack-repair-cost-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does stucco crack repair cost in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of stucco crack repair in Pasadena varies depending on the crack's size, depth, number, and location, as well as the type of stucco finish. Minor cosmetic repairs for hairline cracks might range from $150 to $500. More extensive repairs for wider or structural cracks, which may involve patching, re-meshing, or repainting, can cost between $500 and $2,500 or more per affected area. We provide detailed, no-obligation estimates after a thorough inspection to ensure accurate pricing tailored to your specific needs.",
+        "description": "Stucco crack repair costs in Pasadena vary based on the crack's size and severity. Minor repairs can be $150-$500, while extensive repairs might range from $500-$2,500+. We offer free estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

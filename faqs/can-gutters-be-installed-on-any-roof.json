@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can gutters be installed on any roof?",
-  "description": "Yes, but pitch matters (1/4\" per 10 ft fall); low-slope needs larger/heated systems.",
   "url": "https://modernbuilderscali.com/faq/can-gutters-be-installed-on-any-roof",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can gutters be installed on any roof?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but pitch matters (1/4\" per 10 ft fall); low-slope needs larger/heated systems."
-      }
-    }
-  ],
+  "name": "Can gutters be installed on any roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can gutters be installed on any roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but pitch matters (1/4\" per 10 ft fall); low-slope needs larger/heated systems.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, but pitch matters (1/4\" per 10 ft fall); low-slope needs larger/heated systems."
 }

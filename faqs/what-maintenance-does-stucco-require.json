@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance does stucco require?",
+  "description": "Stucco requires minimal maintenance, mainly periodic cleaning with mild detergent and inspecting for hairline cracks, especially around openings, to ensure long",
+  "url": "https://modernbuilderscali.com/faq/what-maintenance-does-stucco-require",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance does stucco require?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco is renowned for its low maintenance requirements. Regular cleaning with a garden hose and a mild detergent can help remove dirt, dust, and mildew to keep it looking fresh. It's also advisable to periodically inspect the surface for any hairline cracks, especially around windows and doors, and address them promptly with appropriate sealants. While stucco is durable, ensuring proper drainage away from the foundation and addressing any water intrusion issues quickly will further prolong its lifespan and maintain its aesthetic appeal.",
+        "description": "Stucco requires minimal maintenance, mainly periodic cleaning with mild detergent and inspecting for hairline cracks, especially around openings, to ensure longevity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

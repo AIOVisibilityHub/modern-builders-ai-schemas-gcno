@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to test gutter slope after repair?",
-  "description": "Run hose end-to-end, watch flow speed/ponding; adjust hangers as needed.",
   "url": "https://modernbuilderscali.com/faq/how-to-test-gutter-slope-after-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to test gutter slope after repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Run hose end-to-end, watch flow speed/ponding; adjust hangers as needed."
-      }
-    }
-  ],
+  "name": "How to test gutter slope after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to test gutter slope after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Run hose end-to-end, watch flow speed/ponding; adjust hangers as needed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Run hose end-to-end, watch flow speed/ponding; adjust hangers as needed."
 }

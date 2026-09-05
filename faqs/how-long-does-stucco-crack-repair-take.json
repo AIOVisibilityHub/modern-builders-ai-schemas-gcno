@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco crack repair take?",
+  "description": "Stucco crack repair time varies based on damage extent; minor repairs may take hours to a day, while extensive work can take several days, including material cu",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-stucco-crack-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco crack repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of stucco crack repair depends on the extent of the damage. Minor repairs involving a few hairline cracks can often be completed within a few hours to one day. More extensive projects, such as repairing multiple wider cracks, addressing underlying structural issues, or requiring full wall repainting for color matching, might take several days. The curing time for patch materials and paint also adds to the overall timeline, which can range from 24 hours to a few days before the surface is fully set. We provide a detailed project timeline during our initial consultation.",
+        "description": "Stucco crack repair time varies based on damage extent; minor repairs may take hours to a day, while extensive work can take several days, including material curing time."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

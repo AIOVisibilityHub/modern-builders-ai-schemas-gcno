@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can decorative stucco accents be color-matched to my existing home exterior?",
+  "description": "Yes, decorative stucco accents can be precisely color-matched to your existing home exterior using various colors and custom formulations for a cohesive look.",
+  "url": "https://modernbuilderscali.com/faq/can-decorative-stucco-accents-be-color-matched-to-my-existing-home-exterior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can decorative stucco accents be color-matched to my existing home exterior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, decorative stucco accents can be precisely color-matched to your existing home exterior. Stucco finishes come in a vast array of colors, and custom color formulations are also possible. Our team will work to match the new accents to your current stucco or other exterior finishes, ensuring a cohesive and integrated look. Achieving an exact match may involve sampling and testing different color blends on-site to account for lighting and aging of existing materials, resulting in a seamless transition.",
+        "description": "Yes, decorative stucco accents can be precisely color-matched to your existing home exterior using various colors and custom formulations for a cohesive look."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

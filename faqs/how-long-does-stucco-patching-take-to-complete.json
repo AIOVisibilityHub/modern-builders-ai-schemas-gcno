@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco patching take to complete?",
+  "description": "Stucco patching can take a few hours for small repairs or several days for larger, complex ones. This includes preparation, multiple coat applications, and nece",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-stucco-patching-take-to-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco patching take to complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of stucco patching depends on the size and complexity of the repair. Small, superficial patches might be completed in a few hours. Larger repairs, especially those involving multiple layers of stucco or requiring significant texture matching, can take several days. This includes preparation time, application of multiple coats, and crucial drying and curing times for each layer. Weather conditions can also influence drying times, potentially extending the overall project duration. We'll provide a timeline with your project estimate.",
+        "description": "Stucco patching can take a few hours for small repairs or several days for larger, complex ones. This includes preparation, multiple coat applications, and necessary drying/curing times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

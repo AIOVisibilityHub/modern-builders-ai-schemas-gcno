@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider stucco re-coating instead of full replacement?",
+  "description": "Consider re-coating when stucco shows minor aging signs like fading or hairline cracks, but the underlying structure is sound; full replacement is for extensive",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-stucco-re-coating-instead-of-full-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider stucco re-coating instead of full replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider stucco re-coating when your existing stucco shows signs of age such as minor cracks, fading, or chalking, but the underlying structure remains sound and free from extensive moisture damage or significant delamination. Re-coating is a more economical and less disruptive option than full replacement if the stucco's core integrity is still good. If there's widespread structural damage, major water intrusion, or large areas falling off, then replacement might be the more appropriate solution.",
+        "description": "Consider re-coating when stucco shows minor aging signs like fading or hairline cracks, but the underlying structure is sound; full replacement is for extensive damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

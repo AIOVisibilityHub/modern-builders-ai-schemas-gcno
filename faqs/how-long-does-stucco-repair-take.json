@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco repair take?",
+  "description": "Repair time varies from a single day for minor issues to several days or weeks for extensive damage, including drying and curing times.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-stucco-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of stucco repair depends primarily on the size and severity of the damaged area. Small, cosmetic repairs like hairline cracks might be completed in a single day. More extensive repairs involving water damage, substrate replacement, or large sections of crumbling stucco could take several days to a week or more. The curing time for new stucco also adds to the overall timeline, as it requires adequate drying before being subjected to weather elements. Your contractor can provide a more precise timeline after inspecting the damage.",
+        "description": "Repair time varies from a single day for minor issues to several days or weeks for extensive damage, including drying and curing times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

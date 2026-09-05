@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for stucco crack repair?",
+  "description": "Stucco crack repair involves cleaning the area, applying a patching compound or new stucco layers with mesh, and then texturing to match the existing finish. Ea",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-stucco-crack-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for stucco crack repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for stucco crack repair typically begins with cleaning the damaged area and removing any loose debris. For small cracks, a specialized elastomeric caulk or patching compound may be sufficient. For larger cracks, the area around the crack may be cut out, and a new stucco base coat applied in layers, often with a fiberglass mesh embedded for reinforcement. Each layer is allowed to dry before the next. Finally, a finish coat is applied and textured to seamlessly blend with the existing stucco, followed by curing.",
+        "description": "Stucco crack repair involves cleaning the area, applying a patching compound or new stucco layers with mesh, and then texturing to match the existing finish. Each layer cures before the next."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

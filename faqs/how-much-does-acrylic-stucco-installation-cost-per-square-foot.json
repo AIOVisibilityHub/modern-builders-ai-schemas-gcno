@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does acrylic stucco installation cost per square foot?",
+  "description": "Acrylic stucco installation generally costs $7-$15 per square foot, but varies by project complexity, finish, and location.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-acrylic-stucco-installation-cost-per-square-foot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does acrylic stucco installation cost per square foot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of acrylic stucco installation varies widely based on factors such as the complexity of the project, the chosen finish and color, the condition of the existing substrate, and the specific geographic location. On average, you can expect costs to range from $7 to $15 per square foot, which typically includes materials and labor for a standard application. For an accurate estimate tailored to your property in areas like Oak Knoll or Lamanda Park, a detailed on-site assessment is necessary.",
+        "description": "Acrylic stucco installation generally costs $7-$15 per square foot, but varies by project complexity, finish, and location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

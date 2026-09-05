@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs that my exterior trim needs to be replaced?",
+  "description": "Signs include cracking, peeling paint, rot, soft spots, insect damage, or gaps, all indicating potential moisture issues and aesthetic decline that require repl",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-signs-that-my-exterior-trim-needs-to-be-replaced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs that my exterior trim needs to be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for visible signs of damage such as cracking, peeling paint, rot, soft spots when pressed, or signs of insect infestation like small holes or tunnels. Gaps between trim pieces or between the trim and your siding can indicate structural issues or allow moisture to penetrate. Deteriorated trim not only detracts from your home's appearance but can also lead to more significant issues like water damage to your wall sheathing or framing. Early replacement can prevent more costly repairs.",
+        "description": "Signs include cracking, peeling paint, rot, soft spots, insect damage, or gaps, all indicating potential moisture issues and aesthetic decline that require replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

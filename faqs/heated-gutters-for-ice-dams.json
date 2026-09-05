@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Heated gutters for ice dams?",
-  "description": "Yes—self-regulating cables in cold climates ($10-20/ft installed); integrate during new install.",
   "url": "https://modernbuilderscali.com/faq/heated-gutters-for-ice-dams",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Heated gutters for ice dams?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—self-regulating cables in cold climates ($10-20/ft installed); integrate during new install."
-      }
-    }
-  ],
+  "name": "Heated gutters for ice dams?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Heated gutters for ice dams?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—self-regulating cables in cold climates ($10-20/ft installed); integrate during new install.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—self-regulating cables in cold climates ($10-20/ft installed); integrate during new install."
 }

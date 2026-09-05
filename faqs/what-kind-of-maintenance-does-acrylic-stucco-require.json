@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance does acrylic stucco require?",
+  "description": "Acrylic stucco requires minimal maintenance, mainly periodic cleaning with mild soap and water, and inspecting for any damage.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-maintenance-does-acrylic-stucco-require",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance does acrylic stucco require?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acrylic stucco is relatively low-maintenance. The primary maintenance task is regular cleaning to remove dirt, dust, and any mildew that may accumulate. This can usually be done with a soft brush, mild detergent, and a garden hose or low-pressure washer. It's also important to periodically inspect the stucco for any signs of damage, such as cracks, holes, or detachment, and address them promptly. Proper drainage away from the base of the stucco also helps preserve its integrity.",
+        "description": "Acrylic stucco requires minimal maintenance, mainly periodic cleaning with mild soap and water, and inspecting for any damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

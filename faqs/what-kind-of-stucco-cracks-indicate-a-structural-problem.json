@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of stucco cracks indicate a structural problem?",
+  "description": "Diagonal cracks from window/door corners, wide horizontal cracks, or persistent cracks over 1/8 inch can indicate structural problems. Stair-step cracks or crac",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-stucco-cracks-indicate-a-structural-problem",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of stucco cracks indicate a structural problem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain types of stucco cracks can signal underlying structural issues. These often include diagonal cracks extending from the corners of windows or doors, horizontal cracks spanning large wall sections, or cracks that are consistently wide (over 1/8 inch) and continue to grow. Stair-step cracks in masonry behind stucco, or cracks that appear on multiple stories of a building, are also strong indicators of foundation settlement or framing problems. If you observe these types of cracks, a professional structural assessment is recommended.",
+        "description": "Diagonal cracks from window/door corners, wide horizontal cracks, or persistent cracks over 1/8 inch can indicate structural problems. Stair-step cracks or cracks on multiple stories also suggest foundation issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

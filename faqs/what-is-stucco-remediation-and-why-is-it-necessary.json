@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is stucco remediation and why is it necessary?",
+  "description": "Stucco remediation repairs or replaces damaged stucco to prevent water intrusion and structural issues.",
+  "url": "https://modernbuilderscali.com/faq/what-is-stucco-remediation-and-why-is-it-necessary",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is stucco remediation and why is it necessary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco remediation is the process of repairing or replacing damaged stucco to address issues like cracking, water intrusion, or improper installation. It's often necessary when stucco systems fail, allowing moisture to penetrate the building envelope, which can lead to mold growth, wood rot, and structural damage. The remediation process typically involves removing compromised stucco, repairing underlying damage, and installing a new, properly detailed stucco system that effectively manages water.",
+        "description": "Stucco remediation repairs or replaces damaged stucco to prevent water intrusion and structural issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

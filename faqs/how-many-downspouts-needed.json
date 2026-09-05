@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How many downspouts needed?",
-  "description": "1 per 40-50 ft gutter; corners get extras; 2x3\" residential standard.",
   "url": "https://modernbuilderscali.com/faq/how-many-downspouts-needed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How many downspouts needed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "1 per 40-50 ft gutter; corners get extras; 2x3\" residential standard."
-      }
-    }
-  ],
+  "name": "How many downspouts needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How many downspouts needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "1 per 40-50 ft gutter; corners get extras; 2x3\" residential standard.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "1 per 40-50 ft gutter; corners get extras; 2x3\" residential standard."
 }

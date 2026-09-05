@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of decorative stucco accent installation?",
+  "description": "Cost factors for stucco accents include design intricacy, material quantity, stucco finish type, surface preparation, and project complexity. Custom designs gen",
+  "url": "https://modernbuilderscali.com/faq/what-factors-influence-the-cost-of-decorative-stucco-accent-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of decorative stucco accent installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of decorative stucco accent installation is influenced by several factors. These include the intricacy of the accent designs, the total square footage or linear feet of material required, the type of stucco finish chosen (e.g., smooth, textured), and any necessary surface preparation. Accessibility to the work area, the need for scaffolding, and the overall complexity of the project also play significant roles. Custom designs or historical replications typically incur higher costs due to specialized labor and materials.",
+        "description": "Cost factors for stucco accents include design intricacy, material quantity, stucco finish type, surface preparation, and project complexity. Custom designs generally cost more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

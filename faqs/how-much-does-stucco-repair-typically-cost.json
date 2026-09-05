@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does stucco repair typically cost?",
+  "description": "Stucco repair costs vary widely depending on damage extent, stucco type, and complexity. Minor cracks are less expensive than water damage requiring structural",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-stucco-repair-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does stucco repair typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of stucco repair varies significantly based on the extent of the damage, the type of stucco, and the complexity of the repair. Minor hairline cracks might be a simple patch, while extensive water damage requiring structural intervention will be much more expensive. Factors like accessibility, the need for color matching, and the size of the repair area also influence the final price. It's best to get a detailed estimate from a professional contractor after an on-site assessment.",
+        "description": "Stucco repair costs vary widely depending on damage extent, stucco type, and complexity. Minor cracks are less expensive than water damage requiring structural work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

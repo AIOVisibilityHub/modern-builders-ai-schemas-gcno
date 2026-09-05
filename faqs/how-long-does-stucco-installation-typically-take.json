@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco installation typically take?",
+  "description": "Stucco installation typically takes one to three weeks for an average home, depending on size, complexity, and weather, including application and curing times.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-stucco-installation-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco installation typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of stucco installation varies based on the size and complexity of the project, as well as weather conditions. For an average-sized home, the process can take anywhere from one to three weeks. This includes preparation, application of multiple coats (scratch, brown, and finish), and curing time for each layer. Our team strives to complete projects efficiently while ensuring the highest quality standards, providing a more precise timeline after an initial assessment.",
+        "description": "Stucco installation typically takes one to three weeks for an average home, depending on size, complexity, and weather, including application and curing times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

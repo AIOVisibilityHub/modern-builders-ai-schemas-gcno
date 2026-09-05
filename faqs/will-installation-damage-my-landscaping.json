@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will installation damage my landscaping?",
-  "description": "Minimal—ladders/scaffolding footprint; pros use drop cloths, hand-carry sections.",
   "url": "https://modernbuilderscali.com/faq/will-installation-damage-my-landscaping",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will installation damage my landscaping?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minimal—ladders/scaffolding footprint; pros use drop cloths, hand-carry sections."
-      }
-    }
-  ],
+  "name": "Will installation damage my landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will installation damage my landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimal—ladders/scaffolding footprint; pros use drop cloths, hand-carry sections.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minimal—ladders/scaffolding footprint; pros use drop cloths, hand-carry sections."
 }

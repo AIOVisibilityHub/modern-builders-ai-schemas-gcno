@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I repair gutters myself?",
-  "description": "Yes for simple sealants, loose hangers, downspout clogs; hire pros for sagging, large holes, or multi-story.",
   "url": "https://modernbuilderscali.com/faq/can-i-repair-gutters-myself",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I repair gutters myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes for simple sealants, loose hangers, downspout clogs; hire pros for sagging, large holes, or multi-story."
-      }
-    }
-  ],
+  "name": "Can I repair gutters myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair gutters myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes for simple sealants, loose hangers, downspout clogs; hire pros for sagging, large holes, or multi-story.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes for simple sealants, loose hangers, downspout clogs; hire pros for sagging, large holes, or multi-story."
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do professionals match existing stucco color?",
+  "description": "Professionals analyze stucco samples, create custom color formulas, and apply test patches to achieve the closest possible match to existing stucco.",
+  "url": "https://modernbuilderscali.com/faq/how-do-professionals-match-existing-stucco-color",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do professionals match existing stucco color?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Professionals use a combination of techniques to match existing stucco. They typically start by analyzing samples of your current stucco, considering its texture, color, and finish. Custom color formulas are often created, adjusting pigments incrementally to achieve the closest possible match. Test patches are then applied to an inconspicuous area and allowed to cure, as stucco color can change slightly during drying. This iterative process ensures precision.",
+        "description": "Professionals analyze stucco samples, create custom color formulas, and apply test patches to achieve the closest possible match to existing stucco."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

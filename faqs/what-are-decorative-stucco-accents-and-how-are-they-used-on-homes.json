@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are decorative stucco accents and how are they used on homes?",
+  "description": "Decorative stucco accents are custom-shaped stucco elements like bands, cornices, and quoins that add architectural detail and visual interest to a home's exter",
+  "url": "https://modernbuilderscali.com/faq/what-are-decorative-stucco-accents-and-how-are-they-used-on-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are decorative stucco accents and how are they used on homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Decorative stucco accents are custom-shaped architectural elements made from stucco that enhance a home's exterior. They can be applied around windows, doors, corners, or as banding and medallions. Common types include stucco bands, cornices, quoins, and archways. These accents add texture, depth, and visual interest, elevating a property's curb appeal and architectural style, from Mediterranean to modern. They are a durable and cost-effective way to customize a home's facade.",
+        "description": "Decorative stucco accents are custom-shaped stucco elements like bands, cornices, and quoins that add architectural detail and visual interest to a home's exterior."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the differences between stucco sealants, coatings, and membranes for waterproofing?",
+  "description": "Sealants repel water on sound stucco, coatings add a protective layer and color, while membranes create a robust, multi-layered moisture barrier for advanced pr",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-differences-between-stucco-sealants-coatings-and-membranes-for-wate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the differences between stucco sealants, coatings, and membranes for waterproofing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco sealants are typically clear or tinted liquids applied to a sound stucco surface to repel water, often used for maintenance. Coatings are thicker, paint-like products that can provide color and a protective layer, offering more robust water resistance than basic sealants. Waterproofing membranes are more advanced systems, often multi-layered, designed to create a continuous barrier against moisture, especially critical in new construction or areas with severe moisture concerns. Each offers varying levels of protection and breathability.",
+        "description": "Sealants repel water on sound stucco, coatings add a protective layer and color, while membranes create a robust, multi-layered moisture barrier for advanced protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

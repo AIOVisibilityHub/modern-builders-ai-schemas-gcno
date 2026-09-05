@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you paint over wallpaper?",
-  "description": "Remove or score/perforate, prime, test adhesion first.",
   "url": "https://modernbuilderscali.com/faq/can-you-paint-over-wallpaper",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you paint over wallpaper?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Remove or score/perforate, prime, test adhesion first."
-      }
-    }
-  ],
+  "name": "Can you paint over wallpaper?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you paint over wallpaper?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remove or score/perforate, prime, test adhesion first.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Remove or score/perforate, prime, test adhesion first."
 }

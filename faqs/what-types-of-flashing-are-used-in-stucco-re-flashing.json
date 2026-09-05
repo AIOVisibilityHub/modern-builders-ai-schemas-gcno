@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of flashing are used in stucco re-flashing?",
+  "description": "Stucco re-flashing uses various materials like galvanized steel, aluminum, copper, and self-adhering membranes, often in combination, to create a watertight sea",
+  "url": "https://modernbuilderscali.com/faq/what-types-of-flashing-are-used-in-stucco-re-flashing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of flashing are used in stucco re-flashing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Various types of flashing are used in stucco re-flashing, chosen based on the specific application, building code requirements, and desired durability. Common materials include galvanized steel, aluminum, copper, and self-adhering membranes (such as rubberized asphalt or butyl-based products). Metal flashings are durable for directing water, while self-adhering membranes provide excellent seals around penetrations. Often, a combination of materials is used, with a primary goal of creating a continuous, watertight system that integrates seamlessly with the weather-resistive barrier behind the stucco.",
+        "description": "Stucco re-flashing uses various materials like galvanized steel, aluminum, copper, and self-adhering membranes, often in combination, to create a watertight seal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

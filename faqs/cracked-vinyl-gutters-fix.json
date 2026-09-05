@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Cracked vinyl gutters—fix?",
-  "description": "Replace section (vinyl easier to cut/splice); brittle from UV—upgrade to metal.",
   "url": "https://modernbuilderscali.com/faq/cracked-vinyl-gutters-fix",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Cracked vinyl gutters—fix?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Replace section (vinyl easier to cut/splice); brittle from UV—upgrade to metal."
-      }
-    }
-  ],
+  "name": "Cracked vinyl gutters—fix?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Cracked vinyl gutters—fix?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replace section (vinyl easier to cut/splice); brittle from UV—upgrade to metal.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Replace section (vinyl easier to cut/splice); brittle from UV—upgrade to metal."
 }

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my stucco needs repair?",
+  "description": "Look for cracks, crumbling, discoloration, and water stains on your stucco. These signs often indicate a need for repair to prevent further damage.",
+  "url": "https://modernbuilderscali.com/faq/what-are-common-signs-that-my-stucco-needs-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my stucco needs repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs that stucco needs repair include cracks, crumbling, discoloration, and water stains. Cracks can range from hairline to larger, more visible fractures. Crumbling stucco indicates a breakdown in the material's integrity. Discoloration or streaking, especially around windows and doors, may point to water intrusion. Addressing these issues promptly can prevent further damage and more costly repairs in the future, maintaining the aesthetic and structural integrity of your property.",
+        "description": "Look for cracks, crumbling, discoloration, and water stains on your stucco. These signs often indicate a need for repair to prevent further damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

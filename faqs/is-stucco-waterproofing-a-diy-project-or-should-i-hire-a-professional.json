@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is stucco waterproofing a DIY project or should I hire a professional?",
+  "description": "Stucco waterproofing is complex; professionals ensure proper application and prevent issues like trapped moisture. DIY is risky for comprehensive projects.",
+  "url": "https://modernbuilderscali.com/faq/is-stucco-waterproofing-a-diy-project-or-should-i-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is stucco waterproofing a DIY project or should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While minor crack sealing or sealant application might seem like a DIY task, comprehensive stucco waterproofing is generally best left to professionals. Proper application requires specific knowledge of stucco systems, surface preparation, and understanding how different materials interact with the existing stucco and local climate conditions. Incorrect application can trap moisture, leading to more severe and costly problems down the line. Professionals also have the right equipment and experience to ensure a durable and effective solution.",
+        "description": "Stucco waterproofing is complex; professionals ensure proper application and prevent issues like trapped moisture. DIY is risky for comprehensive projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

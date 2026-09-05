@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I install gutters myself?",
-  "description": "DIY sectional possible (<100 ft); seamless requires truck/machine—hire pros.",
   "url": "https://modernbuilderscali.com/faq/can-i-install-gutters-myself",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I install gutters myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIY sectional possible (<100 ft); seamless requires truck/machine—hire pros."
-      }
-    }
-  ],
+  "name": "Can I install gutters myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install gutters myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY sectional possible (<100 ft); seamless requires truck/machine—hire pros.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIY sectional possible (<100 ft); seamless requires truck/machine—hire pros."
 }

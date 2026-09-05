@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between stucco repair and stucco resurfacing?",
+  "description": "Stucco repair fixes specific damaged spots, while resurfacing applies a new, uniform layer over the entire existing stucco surface.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-stucco-repair-and-stucco-resurfacing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between stucco repair and stucco resurfacing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco repair typically involves fixing specific damaged areas, such as patching holes or filling isolated cracks, to maintain the integrity of the existing finish. Stucco resurfacing, however, is a more comprehensive process where a new layer of stucco is applied over the entire existing surface. This creates a uniform, fresh appearance and can address widespread cosmetic issues. Repair targets localized damage, while resurfacing provides a complete aesthetic overhaul and adds a new protective layer.",
+        "description": "Stucco repair fixes specific damaged spots, while resurfacing applies a new, uniform layer over the entire existing stucco surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

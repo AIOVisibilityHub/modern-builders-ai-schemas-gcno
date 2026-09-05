@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is stucco texture matching recommended versus re-stuccoing the entire wall?",
+  "description": "Matching is for localized repairs on otherwise good stucco; re-stuccoing is for widespread damage, discoloration, or a full aesthetic change.",
+  "url": "https://modernbuilderscali.com/faq/when-is-stucco-texture-matching-recommended-versus-re-stuccoing-the-entire-wall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is stucco texture matching recommended versus re-stuccoing the entire wall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco texture matching is recommended when the damage or new addition is localized, and the majority of the existing stucco is in good condition. It's a cost-effective solution for minor repairs, patches, or small extensions. Re-stuccoing an entire wall or property is typically considered when there's widespread damage, significant discoloration, or if you desire a complete change in color or texture for aesthetic reasons. The decision balances cost, extent of damage, and desired outcome.",
+        "description": "Matching is for localized repairs on otherwise good stucco; re-stuccoing is for widespread damage, discoloration, or a full aesthetic change."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of historical stucco preservation?",
+  "description": "Cost factors include damage extent, architectural complexity, original stucco type, specialized techniques, material costs, and labor for skilled artisans.",
+  "url": "https://modernbuilderscali.com/faq/what-factors-influence-the-cost-of-historical-stucco-preservation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of historical stucco preservation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of historical stucco preservation is influenced by several factors, including the extent of the damage, the complexity of the architectural details, the type of original stucco material, and the need for specialized traditional techniques. Material costs for lime, sand, and pigments, as well as labor for skilled artisans familiar with historic methods, also contribute. Access challenges, such as scaffolding requirements for multi-story buildings or intricate designs, can further impact the overall project expense.",
+        "description": "Cost factors include damage extent, architectural complexity, original stucco type, specialized techniques, material costs, and labor for skilled artisans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when hiring a contractor for stucco texture matching services?",
+  "description": "Look for contractors with specific stucco matching experience, a portfolio of past work, licensing, insurance, and clear explanations of their process.",
+  "url": "https://modernbuilderscali.com/faq/what-should-i-look-for-when-hiring-a-contractor-for-stucco-texture-matching-serv",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when hiring a contractor for stucco texture matching services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When hiring a contractor for stucco texture matching, look for experience specifically in stucco repair and matching, as it's a specialized skill. Request to see a portfolio of their previous texture matching projects to assess the quality of their work. Ensure they are licensed and insured, and ask for references. A reputable contractor will also provide a detailed estimate and explain their process for achieving a seamless match, including color and texture considerations.",
+        "description": "Look for contractors with specific stucco matching experience, a portfolio of past work, licensing, insurance, and clear explanations of their process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

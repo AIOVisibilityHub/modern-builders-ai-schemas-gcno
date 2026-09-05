@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between traditional stucco and EIFS, and how does it affect remediation?",
+  "description": "Traditional stucco is cement-based and permeable, while EIFS is synthetic and insulated. Remediation approaches differ due to their distinct moisture management",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-traditional-stucco-and-eifs-and-how-does-it-affec",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between traditional stucco and EIFS, and how does it affect remediation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional stucco is a hard, cement-based material applied over a lath and a moisture barrier, allowing some moisture absorption and evaporation. EIFS (Exterior Insulation and Finish System) is a multi-layered synthetic finish system that includes insulation board, a base coat with fiberglass mesh, and a finish coat. Remediation differs significantly: traditional stucco remediation focuses on proper moisture barriers and drainage, while EIFS remediation often addresses issues with its non-breathable nature and sealing, which can trap moisture if not installed perfectly.",
+        "description": "Traditional stucco is cement-based and permeable, while EIFS is synthetic and insulated. Remediation approaches differ due to their distinct moisture management properties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

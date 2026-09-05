@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for stucco re-coating?",
+  "description": "The stucco re-coating process involves cleaning, repairing, priming (if needed), and then applying new re-coating material to the surface.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-stucco-re-coating",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for stucco re-coating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The stucco re-coating process typically begins with a thorough cleaning of the existing stucco surface to remove dirt, mildew, and loose debris. Any significant cracks or damaged areas are then repaired and allowed to cure. Next, a primer may be applied to ensure proper adhesion. Finally, one or more coats of the specialized stucco re-coating material are applied, creating a fresh, uniform, and protective finish. Drying times vary depending on the product and weather conditions.",
+        "description": "The stucco re-coating process involves cleaning, repairing, priming (if needed), and then applying new re-coating material to the surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

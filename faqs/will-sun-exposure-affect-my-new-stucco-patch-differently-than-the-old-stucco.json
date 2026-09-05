@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will sun exposure affect my new stucco patch differently than the old stucco?",
+  "description": "Sun exposure will cause new stucco to fade over time, similar to old stucco. The rate of fading depends on material, pigment quality, and sun intensity.",
+  "url": "https://modernbuilderscali.com/faq/will-sun-exposure-affect-my-new-stucco-patch-differently-than-the-old-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will sun exposure affect my new stucco patch differently than the old stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sun exposure will affect new stucco, just as it has affected your old stucco. Over time, UV rays cause pigments to fade, leading to a natural mellowing of the color. While a professional match aims for initial seamlessness, the new patch will begin to age and weather alongside the existing stucco. The rate of fading can depend on the stucco material, pigment quality, and local sun intensity. Regular maintenance can help mitigate significant differences.",
+        "description": "Sun exposure will cause new stucco to fade over time, similar to old stucco. The rate of fading depends on material, pigment quality, and sun intensity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

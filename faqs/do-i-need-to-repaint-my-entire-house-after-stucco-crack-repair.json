@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to repaint my entire house after stucco crack repair?",
+  "description": "Repainting the entire house after stucco crack repair depends on repair visibility and existing paint condition. Small, localized repairs on newer stucco might",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-to-repaint-my-entire-house-after-stucco-crack-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to repaint my entire house after stucco crack repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you need to repaint your entire house after stucco crack repair depends on several factors, primarily the visibility of the repair and the existing paint's age and condition. For small, localized repairs on newer or recently painted stucco, a skilled technician can often match the color and texture, making a full repaint unnecessary. However, if the stucco is older, faded, or has an uneven color, spot repairs might stand out. In such cases, repainting the entire wall or even the whole house provides the most uniform and aesthetically pleasing result.",
+        "description": "Repainting the entire house after stucco crack repair depends on repair visibility and existing paint condition. Small, localized repairs on newer stucco might not require a full repaint, but older or faded stucco often benefits from it for uniformity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

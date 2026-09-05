@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes stucco cracks?",
+  "description": "Stucco cracks are caused by house settling, temperature changes, and moisture, or more serious structural issues.",
+  "url": "https://modernbuilderscali.com/faq/what-causes-stucco-cracks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes stucco cracks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco cracks typically result from a combination of factors. Minor hairline cracks often occur due to normal house settling, temperature fluctuations, and moisture changes as the stucco cures. Larger, more significant cracks can indicate structural movement, foundation issues, or improper stucco application. Understanding the cause is crucial for selecting the correct repair method and preventing future damage.",
+        "description": "Stucco cracks are caused by house settling, temperature changes, and moisture, or more serious structural issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

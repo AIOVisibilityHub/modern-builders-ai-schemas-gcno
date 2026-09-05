@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Gutters making banging noise?",
-  "description": "Loose brackets or thermal expansion; add straps, slip joints for movement.",
   "url": "https://modernbuilderscali.com/faq/gutters-making-banging-noise",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Gutters making banging noise?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Loose brackets or thermal expansion; add straps, slip joints for movement."
-      }
-    }
-  ],
+  "name": "Gutters making banging noise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Gutters making banging noise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Loose brackets or thermal expansion; add straps, slip joints for movement.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Loose brackets or thermal expansion; add straps, slip joints for movement."
 }

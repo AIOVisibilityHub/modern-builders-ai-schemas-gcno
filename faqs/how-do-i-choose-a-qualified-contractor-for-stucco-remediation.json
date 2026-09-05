@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a qualified contractor for stucco remediation?",
+  "description": "Choose a qualified stucco remediation contractor by checking licenses, insurance, references, and reviewing detailed proposals and warranties.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-a-qualified-contractor-for-stucco-remediation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a qualified contractor for stucco remediation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a stucco remediation contractor, look for licensed and insured professionals with specific experience in stucco repair and water management systems. Check their references, review their portfolio of past projects, and ensure they provide a detailed proposal outlining the scope of work, materials to be used, and warranty information. A reputable contractor will also perform a thorough inspection and clearly explain the remediation process and expected outcomes.",
+        "description": "Choose a qualified stucco remediation contractor by checking licenses, insurance, references, and reviewing detailed proposals and warranties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

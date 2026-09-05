@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does stucco re-coating improve energy efficiency?",
+  "description": "Yes, some stucco re-coating products, especially lighter or reflective coatings, can improve energy efficiency by reducing heat absorption.",
+  "url": "https://modernbuilderscali.com/faq/does-stucco-re-coating-improve-energy-efficiency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does stucco re-coating improve energy efficiency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some stucco re-coating products can offer a degree of improved energy efficiency. Lighter-colored elastomeric or acrylic coatings, particularly those with reflective properties, can help reduce heat absorption on exterior walls, especially in sunny climates like Pasadena. This can lead to a cooler interior during warmer months and potentially lower cooling costs. While not its primary purpose, selecting a re-coating material with insulating or reflective qualities can contribute to better thermal performance.",
+        "description": "Yes, some stucco re-coating products, especially lighter or reflective coatings, can improve energy efficiency by reducing heat absorption."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

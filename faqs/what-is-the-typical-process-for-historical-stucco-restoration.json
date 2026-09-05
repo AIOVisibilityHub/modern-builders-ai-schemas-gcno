@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for historical stucco restoration?",
+  "description": "Restoration involves assessment, removal of damaged stucco, substrate preparation, application of matching lime-based stucco in layers, and a historically appro",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-historical-stucco-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for historical stucco restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process usually begins with an assessment to identify the stucco type, original materials, and extent of damage. This is followed by careful removal of deteriorated sections. Next, the substrate is prepared, which might involve minor repairs or cleaning. A new stucco mix, often lime-based and matched to the original in composition and texture, is then applied in multiple coats. Curing time is essential between coats. The final step involves finishing, potentially including a limewash or breathable paint, to match the existing historic finish.",
+        "description": "Restoration involves assessment, removal of damaged stucco, substrate preparation, application of matching lime-based stucco in layers, and a historically appropriate finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

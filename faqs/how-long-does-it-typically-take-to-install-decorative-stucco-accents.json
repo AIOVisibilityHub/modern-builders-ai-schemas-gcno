@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to install decorative stucco accents?",
+  "description": "Installation time for decorative stucco accents varies. Small projects may take a few days, while larger ones could take one to two weeks, depending on complexi",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-it-typically-take-to-install-decorative-stucco-accents",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to install decorative stucco accents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation timeline for decorative stucco accents varies depending on the project's scope, the complexity of the designs, and the size of the area being covered. For a small project, such as adding trim around a few windows, it might take a few days. Larger projects involving multiple architectural details or an entire facade could extend to one to two weeks. This duration includes preparation, application, and curing times, all of which are crucial for a durable and high-quality finish.",
+        "description": "Installation time for decorative stucco accents varies. Small projects may take a few days, while larger ones could take one to two weeks, depending on complexity and scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

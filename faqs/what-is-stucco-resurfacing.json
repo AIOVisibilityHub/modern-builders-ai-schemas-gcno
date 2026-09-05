@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is stucco resurfacing?",
+  "description": "Stucco resurfacing applies a new stucco layer over existing stucco to repair damage and update appearance.",
+  "url": "https://modernbuilderscali.com/faq/what-is-stucco-resurfacing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is stucco resurfacing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco resurfacing is the process of applying a new layer of stucco finish over existing stucco. This procedure can repair cosmetic damage, improve the aesthetic appeal, and enhance the durability of your home's exterior without requiring a complete removal of the old stucco. It's a cost-effective way to refresh the look of your property, addressing issues like minor cracks, discoloration, or outdated textures. The new layer bonds with the old, creating a fresh, uniform surface.",
+        "description": "Stucco resurfacing applies a new stucco layer over existing stucco to repair damage and update appearance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
