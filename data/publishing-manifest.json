@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:47:06.797Z",
+  "generatedAt": "2026-09-05T21:47:25.738Z",
   "client": {
     "name": "Modern Builders",
     "canonicalUrl": "https://modernbuilders.aiovisibility.net",
@@ -252,7 +252,7 @@
   },
   "package": {
     "totalFiles": 1459,
-    "totalBytes": 6213724,
+    "totalBytes": 4958168,
     "stats": {
       "qna": 0,
       "faqs": 872,
@@ -6450,1082 +6450,1082 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 30544,
+        "bytes": 24738,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 125881,
+        "bytes": 120195,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 73299,
+        "bytes": 67277,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 31261,
+        "bytes": 25773,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 21827,
+        "bytes": 16264,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 545914,
+        "bytes": 540330,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 130137,
+        "bytes": 124622,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 74372,
+        "bytes": 68698,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 47955,
+        "bytes": 42404,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ultimate-guide-to-roof-installation-in-pasadena.html",
-        "bytes": 12949,
+        "bytes": 6817,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-roof-repair-mistakes-to-avoid.html",
-        "bytes": 12533,
+        "bytes": 6568,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/metal-roofing-pros-cons-and-installation.html",
-        "bytes": 12605,
+        "bytes": 6609,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-application-3-coat-vs-one-coat-systems.html",
-        "bytes": 12689,
+        "bytes": 6649,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drywall-finishing-levels-explained.html",
-        "bytes": 12311,
+        "bytes": 6423,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-exterior-house-paint-for-longevity.html",
-        "bytes": 12521,
+        "bytes": 6537,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-installation-sizing-calculator.html",
-        "bytes": 12396,
+        "bytes": 6447,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/emergency-roof-tarping-after-storms.html",
-        "bytes": 12386,
+        "bytes": 6458,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-crack-repair-diy-vs-pro.html",
-        "bytes": 12176,
+        "bytes": 6325,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/interior-drywall-patch-for-water-damage.html",
-        "bytes": 12228,
+        "bytes": 6359,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pasadena-stucco-maintenance-checklist.html",
-        "bytes": 12534,
+        "bytes": 6559,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/level-5-drywall-finishing-tutorial.html",
-        "bytes": 12289,
+        "bytes": 6416,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sherwin-williams-paint-pairings-for-craftsman-homes.html",
-        "bytes": 12517,
+        "bytes": 6543,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/seamless-gutter-sizing-for-pasadena-rainfall.html",
-        "bytes": 12433,
+        "bytes": 6502,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/emergency-drywall-patch-after-water-leak.html",
-        "bytes": 12302,
+        "bytes": 6429,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tpo-flat-roof-installation-for-commercial.html",
-        "bytes": 12360,
+        "bytes": 6459,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-color-restoration-for-historic-homes.html",
-        "bytes": 12212,
+        "bytes": 6357,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/interior-painting-prep-wallpaper-removal.html",
-        "bytes": 12240,
+        "bytes": 6376,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-ventilation-upgrades-for-energy-savings.html",
-        "bytes": 12330,
+        "bytes": 6432,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-downspout-diversion-systems.html",
-        "bytes": 12100,
+        "bytes": 6290,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drywall-soundproofing-for-home-offices.html",
-        "bytes": 12164,
+        "bytes": 6315,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/elastomeric-coatings-for-stucco-crack-bridging.html",
-        "bytes": 12288,
+        "bytes": 6385,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/asphalt-shingle-algae-prevention.html",
-        "bytes": 12056,
+        "bytes": 6251,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/exterior-trim-painting-wood-vs-pvc.html",
-        "bytes": 11968,
+        "bytes": 6185,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ice-and-water-shield-placement-guide.html",
-        "bytes": 12024,
+        "bytes": 6215,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/textured-stucco-finish-options.html",
-        "bytes": 11924,
+        "bytes": 6157,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cabinet-door-painting-prep.html",
-        "bytes": 11815,
+        "bytes": 6094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/chimney-chimney-flashing-repair-techniques.html",
-        "bytes": 12057,
+        "bytes": 6227,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fire-rated-drywall-for-garages.html",
-        "bytes": 11887,
+        "bytes": 6127,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/leaf-guard-gutter-systems-comparison.html",
-        "bytes": 11937,
+        "bytes": 6164,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-underlayment-types-explained.html",
-        "bytes": 11875,
+        "bytes": 6117,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-eifs-insulation-benefits.html",
-        "bytes": 11885,
+        "bytes": 6126,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/spray-foam-insulation-vs-blown-in.html",
-        "bytes": 11949,
+        "bytes": 6185,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pasadena-hoa-painting-rules.html",
-        "bytes": 11928,
+        "bytes": 6212,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/skylight-leak-diagnosis-and-fix.html",
-        "bytes": 12100,
+        "bytes": 6326,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/factors-to-consider-when-selecting-an-exterior-insulation-system.html",
-        "bytes": 13254,
+        "bytes": 7018,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roofing-contractor-los-angeles-things-to-consider-before-installing-a-new-roof.html",
-        "bytes": 13572,
+        "bytes": 7214,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-work-best-practices-for-pasadena-homes.html",
-        "bytes": 12806,
+        "bytes": 6775,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drywall-texture-application-techniques.html",
-        "bytes": 12500,
+        "bytes": 6575,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/exterior-painting-prep-for-stucco-surfaces.html",
-        "bytes": 12425,
+        "bytes": 6490,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-cleaning-schedule-for-la-rainfall.html",
-        "bytes": 12277,
+        "bytes": 6389,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-leak-detection-without-interior-damage.html",
-        "bytes": 12401,
+        "bytes": 6459,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/matching-stucco-finish-on-repairs.html",
-        "bytes": 12069,
+        "bytes": 6254,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fireplace-drywall-framing-codes.html",
-        "bytes": 11997,
+        "bytes": 6205,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/low-voc-interior-paints-reviewed.html",
-        "bytes": 12095,
+        "bytes": 6257,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/downspout-placement-for-drainage.html",
-        "bytes": 11999,
+        "bytes": 6194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/asphalt-tile-roof-hybrid-systems.html",
-        "bytes": 12033,
+        "bytes": 6216,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bathroom-drywall-mold-prevention.html",
-        "bytes": 11843,
+        "bytes": 6095,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/trim-caulking-before-painting.html",
-        "bytes": 11921,
+        "bytes": 6143,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/satellite-dish-roof-hole-sealing.html",
-        "bytes": 11823,
+        "bytes": 6081,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/one-coat-stucco-pros-and-cons.html",
-        "bytes": 11875,
+        "bytes": 6115,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/garage-ceiling-drywall-drop.html",
-        "bytes": 11813,
+        "bytes": 6079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/matte-vs-satin-finish-for-interiors.html",
-        "bytes": 11919,
+        "bytes": 6135,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-hanger-types-comparison.html",
-        "bytes": 11879,
+        "bytes": 6112,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ridge-vent-vs-power-attic-fans.html",
-        "bytes": 11827,
+        "bytes": 6090,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-wire-lath-installation.html",
-        "bytes": 11807,
+        "bytes": 6077,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/popped-drywall-nail-fixes.html",
-        "bytes": 11717,
+        "bytes": 6030,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pasadena-winter-roof-inspection-checklist.html",
-        "bytes": 12493,
+        "bytes": 6505,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/moisture-barriers-in-stucco-walls.html",
-        "bytes": 12175,
+        "bytes": 6315,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drywall-joint-compound-types-compared.html",
-        "bytes": 12197,
+        "bytes": 6333,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/exterior-paint-fade-resistance-testing.html",
-        "bytes": 12179,
+        "bytes": 6317,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-slope-measurement-tools.html",
-        "bytes": 12095,
+        "bytes": 6275,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-ridge-cap-installation-mistakes.html",
-        "bytes": 12133,
+        "bytes": 6297,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-control-joint-placement-guide.html",
-        "bytes": 12173,
+        "bytes": 6325,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/soundproofing-drywall-with-resilient-channels.html",
-        "bytes": 12281,
+        "bytes": 6388,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cabinet-refinishing-vs-replacement.html",
-        "bytes": 12093,
+        "bytes": 6286,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/asphalt-shingle-wind-warranty-requirements.html",
-        "bytes": 12153,
+        "bytes": 6311,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bathroom-ceiling-drywall-replacement.html",
-        "bytes": 12153,
+        "bytes": 6311,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/elastomeric-paint-application-temperatures.html",
-        "bytes": 12255,
+        "bytes": 6366,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-end-cap-sealing-methods.html",
-        "bytes": 11903,
+        "bytes": 6157,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/attic-ventilation-baffle-installation.html",
-        "bytes": 12029,
+        "bytes": 6234,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/historic-pasadena-stucco-color-matching.html",
-        "bytes": 12125,
+        "bytes": 6283,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drywall-screw-placement-patterns.html",
-        "bytes": 12011,
+        "bytes": 6221,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/deck-staining-vs-painting-for-exterior-trim.html",
-        "bytes": 12143,
+        "bytes": 6288,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/skylight-step-flashing-details.html",
-        "bytes": 11917,
+        "bytes": 6159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-foam-insulation-board-prep.html",
-        "bytes": 11957,
+        "bytes": 6181,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/interior-door-painting-sequence.html",
-        "bytes": 12001,
+        "bytes": 6200,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-machine-on-site-forming-process.html",
-        "bytes": 12081,
+        "bytes": 6230,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-cement-vs-silicone-sealants.html",
-        "bytes": 11883,
+        "bytes": 6132,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/corner-bead-types-for-drywall.html",
-        "bytes": 11867,
+        "bytes": 6128,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/paint-sprayer-cleaning-routine.html",
-        "bytes": 11900,
+        "bytes": 6145,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/foundation-waterproofing-paint-application.html",
-        "bytes": 12182,
+        "bytes": 6310,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/best-paint-rollers-for-smooth-walls.html",
-        "bytes": 12513,
+        "bytes": 6515,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/primer-vs-paint-when-you-need-both.html",
-        "bytes": 12221,
+        "bytes": 6348,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-paint-high-ceilings-safely.html",
-        "bytes": 12077,
+        "bytes": 6247,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/color-drifting-fixing-uneven-paint.html",
-        "bytes": 12052,
+        "bytes": 6230,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/eco-friendly-paint-brands-ranked.html",
-        "bytes": 12101,
+        "bytes": 6263,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/painting-over-smoke-damage.html",
-        "bytes": 11939,
+        "bytes": 6167,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/brush-marks-prevention-and-removal.html",
-        "bytes": 12077,
+        "bytes": 6246,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/exterior-siding-paint-prep-sequence.html",
-        "bytes": 12133,
+        "bytes": 6280,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/paint-sheen-guide-for-every-room.html",
-        "bytes": 12145,
+        "bytes": 6295,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/holiday-prep-protecting-fresh-paint.html",
-        "bytes": 12078,
+        "bytes": 6249,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/graco-vs-wagner-airless-sprayers.html",
-        "bytes": 12050,
+        "bytes": 6227,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fixing-paint-peeling-from-stucco.html",
-        "bytes": 12060,
+        "bytes": 6231,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/color-sampling-how-many-swatches.html",
-        "bytes": 12011,
+        "bytes": 6197,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/painting-mason-jar-crafts.html",
-        "bytes": 11807,
+        "bytes": 6075,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mildew-test-on-exterior-paint.html",
-        "bytes": 12001,
+        "bytes": 6196,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/faux-finish-painting-techniques.html",
-        "bytes": 11957,
+        "bytes": 6165,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/paint-calculator-accuracy-tips.html",
-        "bytes": 11995,
+        "bytes": 6192,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cabinet-hardware-removal-for-painting.html",
-        "bytes": 12059,
+        "bytes": 6228,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/matte-paint-touch-up-challenges.html",
-        "bytes": 11981,
+        "bytes": 6183,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/painting-over-red-clay-brick.html",
-        "bytes": 11998,
+        "bytes": 6200,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/spray-painting-doors-off-the-wall.html",
-        "bytes": 11956,
+        "bytes": 6168,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/paint-odor-reduction-methods.html",
-        "bytes": 11948,
+        "bytes": 6171,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/trim-painting-cutting-in-vs-taping.html",
-        "bytes": 12036,
+        "bytes": 6223,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/weather-delays-for-exterior-painting.html",
-        "bytes": 12042,
+        "bytes": 6224,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/rejuvenating-front-door-curb-appeal.html",
-        "bytes": 12018,
+        "bytes": 6213,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-crack-patterns-and-causes.html",
-        "bytes": 12303,
+        "bytes": 6390,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/weep-screed-installation-details.html",
-        "bytes": 12083,
+        "bytes": 6245,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-lath-overlap-requirements.html",
-        "bytes": 12093,
+        "bytes": 6236,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/moisture-testing-stucco-walls.html",
-        "bytes": 11985,
+        "bytes": 6180,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/color-wash-stucco-finishes.html",
-        "bytes": 11973,
+        "bytes": 6174,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-patching-texture-matching.html",
-        "bytes": 11959,
+        "bytes": 6160,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/eifs-drainage-plane-design.html",
-        "bytes": 11913,
+        "bytes": 6138,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-control-joint-materials.html",
-        "bytes": 11947,
+        "bytes": 6156,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/efflorescence-removal-from-stucco.html",
-        "bytes": 12009,
+        "bytes": 6194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/seismic-movement-stucco-design.html",
-        "bytes": 11959,
+        "bytes": 6165,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-over-foam-insulation.html",
-        "bytes": 11873,
+        "bytes": 6115,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/historic-stucco-lime-plaster-repair.html",
-        "bytes": 11965,
+        "bytes": 6163,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-re-dashing-process.html",
-        "bytes": 11761,
+        "bytes": 6047,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/window-casing-bead-installation.html",
-        "bytes": 11945,
+        "bytes": 6156,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-curing-time-requirements.html",
-        "bytes": 11903,
+        "bytes": 6126,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/silicone-vs-acrylic-stucco-caulk.html",
-        "bytes": 11831,
+        "bytes": 6080,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-inspection-checklist.html",
-        "bytes": 11837,
+        "bytes": 6088,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/one-coat-stucco-color-blending.html",
-        "bytes": 11885,
+        "bytes": 6115,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-ground-preparation.html",
-        "bytes": 11757,
+        "bytes": 6037,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-finish-aggregates-guide.html",
-        "bytes": 11843,
+        "bytes": 6085,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-efflorescence-prevention.html",
-        "bytes": 11801,
+        "bytes": 6057,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/three-coat-stucco-mix-ratios.html",
-        "bytes": 11819,
+        "bytes": 6072,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-around-garage-doors.html",
-        "bytes": 11787,
+        "bytes": 6060,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-rebar-in-parapet-walls.html",
-        "bytes": 11815,
+        "bytes": 6079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/stucco-warranty-exclusions.html",
-        "bytes": 11851,
+        "bytes": 6109,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/asphalt-shingle-starter-strip-patterns.html",
-        "bytes": 12307,
+        "bytes": 6391,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/drip-edge-vs-gutter-apron-differences.html",
-        "bytes": 12173,
+        "bytes": 6315,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ice-and-water-shield-overlap-rules.html",
-        "bytes": 12125,
+        "bytes": 6283,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-deck-ventilation-baffle-placement.html",
-        "bytes": 12183,
+        "bytes": 6315,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/architectural-vs-3-tab-shingle-nailing.html",
-        "bytes": 12061,
+        "bytes": 6238,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ridge-vent-sizing-calculator.html",
-        "bytes": 11879,
+        "bytes": 6129,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/step-flashing-around-chimneys.html",
-        "bytes": 11915,
+        "bytes": 6149,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/synthetic-underlayment-vs-felt-paper.html",
-        "bytes": 11985,
+        "bytes": 6179,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/valley-flashing-metal-types.html",
-        "bytes": 11869,
+        "bytes": 6117,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-pitch-impact-on-material-choice.html",
-        "bytes": 12037,
+        "bytes": 6216,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/shingle-granule-loss-tracking.html",
-        "bytes": 11905,
+        "bytes": 6142,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/kick-out-flashing-installation.html",
-        "bytes": 11919,
+        "bytes": 6152,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/asphalt-shingle-exposure-settings.html",
-        "bytes": 11965,
+        "bytes": 6166,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-ventilation-calculation-worksheet.html",
-        "bytes": 11995,
+        "bytes": 6187,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/pipe-boot-flashing-replacement.html",
-        "bytes": 11891,
+        "bytes": 6130,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hip-and-ridge-shingle-cutting.html",
-        "bytes": 11817,
+        "bytes": 6087,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/under-driven-nails-in-shingles.html",
-        "bytes": 11897,
+        "bytes": 6133,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-layout-string-line-method.html",
-        "bytes": 11861,
+        "bytes": 6115,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/solar-panel-roof-penetration-sealing.html",
-        "bytes": 11905,
+        "bytes": 6135,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/shingle-alignment-chalk-line-tools.html",
-        "bytes": 11941,
+        "bytes": 6161,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/rake-edge-shingle-starter-techniques.html",
-        "bytes": 11865,
+        "bytes": 6110,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-debris-magnet-sweepers.html",
-        "bytes": 11815,
+        "bytes": 6084,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/high-wind-zone-nailing-schedules.html",
-        "bytes": 11789,
+        "bytes": 6062,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/torch-down-flat-roof-details.html",
-        "bytes": 11787,
+        "bytes": 6061,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-inspection-drone-checklist.html",
-        "bytes": 11975,
+        "bytes": 6177,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/missing-shingle-replacement-guide.html",
-        "bytes": 12427,
+        "bytes": 6451,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/flashing-leak-diagnosis-methods.html",
-        "bytes": 12291,
+        "bytes": 6370,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/vent-boot-sealant-replacement.html",
-        "bytes": 12151,
+        "bytes": 6283,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/clogged-valley-repair-techniques.html",
-        "bytes": 12177,
+        "bytes": 6294,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/nail-pop-shingle-fixes.html",
-        "bytes": 12031,
+        "bytes": 6207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ridge-cap-loosening-solutions.html",
-        "bytes": 12067,
+        "bytes": 6226,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hail-damage-shingle-assessment.html",
-        "bytes": 11995,
+        "bytes": 6180,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/skylight-flashing-failure-repair.html",
-        "bytes": 12037,
+        "bytes": 6208,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/tree-branch-impact-repair.html",
-        "bytes": 12019,
+        "bytes": 6203,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/poor-ventilation-leak-prevention.html",
-        "bytes": 12055,
+        "bytes": 6220,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/curling-shingle-edge-repair.html",
-        "bytes": 11969,
+        "bytes": 6172,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/satellite-dish-hole-patching.html",
-        "bytes": 11953,
+        "bytes": 6164,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/buckled-shingle-causes-and-fixes.html",
-        "bytes": 11975,
+        "bytes": 6167,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/algae-stain-removal-from-shingles.html",
-        "bytes": 12033,
+        "bytes": 6203,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/sagging-roof-deck-spot-repair.html",
-        "bytes": 11895,
+        "bytes": 6120,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/bird-peck-damage-repair.html",
-        "bytes": 11811,
+        "bytes": 6069,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ice-dam-temporary-protection.html",
-        "bytes": 11809,
+        "bytes": 6056,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/cracked-underlayment-repair.html",
-        "bytes": 11919,
+        "bytes": 6122,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/wind-lifted-shingle-repair.html",
-        "bytes": 11841,
+        "bytes": 6078,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/attic-stain-leak-tracing.html",
-        "bytes": 11831,
+        "bytes": 6073,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/ridge-vent-damage-repair.html",
-        "bytes": 11851,
+        "bytes": 6084,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fascia-rot-from-gutter-leaks.html",
-        "bytes": 11865,
+        "bytes": 6094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/multiple-layer-roof-removal.html",
-        "bytes": 11863,
+        "bytes": 6099,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/temporary-roof-patch-kits.html",
-        "bytes": 11977,
+        "bytes": 6182,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/post-storm-roof-safety-inspection.html",
-        "bytes": 12063,
+        "bytes": 6227,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-hanger-spacing-standards.html",
-        "bytes": 12347,
+        "bytes": 6395,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/seamless-gutter-forming-machine-guide.html",
-        "bytes": 12259,
+        "bytes": 6340,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/downspout-location-planning.html",
-        "bytes": 11899,
+        "bytes": 6135,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/k-style-vs-half-round-gutters.html",
-        "bytes": 11969,
+        "bytes": 6179,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-slope-verification-methods.html",
-        "bytes": 12021,
+        "bytes": 6195,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/fascia-board-prep-for-gutters.html",
-        "bytes": 12025,
+        "bytes": 6203,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/aluminum-gutter-coil-color-options.html",
-        "bytes": 11941,
+        "bytes": 6155,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/corner-miter-cutting-accuracy.html",
-        "bytes": 11885,
+        "bytes": 6125,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/downspout-outlet-installation.html",
-        "bytes": 11861,
+        "bytes": 6110,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-end-cap-attachment-methods.html",
-        "bytes": 11907,
+        "bytes": 6125,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/roof-to-gutter-transition-details.html",
-        "bytes": 11887,
+        "bytes": 6111,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-guard-retrofit-options.html",
-        "bytes": 11867,
+        "bytes": 6104,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/hidden-hanger-systems.html",
-        "bytes": 11721,
+        "bytes": 6020,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-capacity-calculation.html",
-        "bytes": 11815,
+        "bytes": 6069,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/multi-story-gutter-safety-setup.html",
-        "bytes": 11857,
+        "bytes": 6095,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/copper-gutter-patina-development.html",
-        "bytes": 11927,
+        "bytes": 6143,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-spike-vs-screw-debate.html",
-        "bytes": 11761,
+        "bytes": 6047,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/leaf-screen-surface-tension-design.html",
-        "bytes": 11901,
+        "bytes": 6127,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-expansion-joint-needs.html",
-        "bytes": 11965,
+        "bytes": 6170,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/underground-downspout-extensions.html",
-        "bytes": 11961,
+        "bytes": 6165,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-machine-brake-settings.html",
-        "bytes": 11959,
+        "bytes": 6150,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/rain-garden-gutter-diversion.html",
-        "bytes": 11825,
+        "bytes": 6081,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/galvanized-vs-aluminum-gutters.html",
-        "bytes": 11749,
+        "bytes": 5979,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/gutter-leveling-without-shims.html",
-        "bytes": 11591,
+        "bytes": 5831,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/commercial-box-gutter-systems.html",
-        "bytes": 11427,
+        "bytes": 5679,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -7537,7 +7537,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 6951,
+        "bytes": 6924,
         "purpose": "LLM hint"
       },
       {
@@ -7557,32 +7557,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1667,
+        "bytes": 1613,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 592333,
+        "bytes": 592279,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 171060,
+        "bytes": 171033,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 171060,
+        "bytes": 171033,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 7005,
+        "bytes": 6978,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 197235,
+        "bytes": 197208,
         "purpose": "Repository README"
       },
       {
@@ -7600,7 +7600,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
-      "pagesUrl": "https://aiovisibilityhub.github.io/modern-builders-ai-schemas-gcno/",
+      "pagesUrl": "http://modernbuilders.aiovisibility.net/",
       "repo": "AIOVisibilityHub/modern-builders-ai-schemas-gcno"
     }
   }
