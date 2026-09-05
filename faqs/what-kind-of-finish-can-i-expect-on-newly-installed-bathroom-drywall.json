@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of finish can I expect on newly installed bathroom drywall?",
+  "description": "You can expect a smooth, seamless surface, free of visible joints or imperfections, ready for primer and paint.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-finish-can-i-expect-on-newly-installed-bathroom-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of finish can I expect on newly installed bathroom drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Newly installed bathroom drywall, once properly taped, mudded, and sanded by a professional, will have a smooth and seamless surface. It should be free of visible joints, nail/screw pops, or uneven textures. This prepared surface is then ready for priming and painting, providing a clean and durable foundation for your bathroom's aesthetics.",
+        "description": "You can expect a smooth, seamless surface, free of visible joints or imperfections, ready for primer and paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

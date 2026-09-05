@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for roof repair in Pasadena?",
+  "description": "Minor roof repairs in Pasadena usually don't need a permit. Significant structural changes or large-scale replacements typically do. Consult your contractor for",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-a-permit-for-roof-repair-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for roof repair in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most minor roof repairs, such as replacing a few shingles or patching a small area, a permit is typically not required in Pasadena. However, if the repair involves significant structural changes, replacing a large portion of the roof, or changing the type of roofing material, a permit from the City of Pasadena Department of Planning and Community Development may be necessary. It's always best to consult with your contractor, who can advise on specific permit requirements for your project to ensure compliance.",
+        "description": "Minor roof repairs in Pasadena usually don't need a permit. Significant structural changes or large-scale replacements typically do. Consult your contractor for specifics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

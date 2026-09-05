@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for water damage repair?",
+  "description": "Water damage repair involves inspection, water extraction, drying, removal of damaged materials, and then restoration of the affected areas.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-water-damage-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for water damage repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The water damage repair process generally begins with a thorough inspection to assess the extent of damage and identify the source of the water. This is followed by water extraction using specialized equipment. Next, affected areas are dried and dehumidified to prevent mold growth. Any damaged materials like drywall, flooring, or insulation are removed. Finally, restoration work involves repairing, rebuilding, and replacing materials to return the property to its pre-damage condition. This may include structural repairs, painting, and installing new finishes.",
+        "description": "Water damage repair involves inspection, water extraction, drying, removal of damaged materials, and then restoration of the affected areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

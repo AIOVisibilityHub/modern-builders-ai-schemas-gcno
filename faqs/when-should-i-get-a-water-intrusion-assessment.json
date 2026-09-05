@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I get a water intrusion assessment?",
+  "description": "Get an assessment if you see water stains, mold, or suspect leaks after storms, or before buying an older property.",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-get-a-water-intrusion-assessment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I get a water intrusion assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider a water intrusion assessment if you notice signs of water damage, such as water stains on ceilings or walls, peeling paint, musty odors, visible mold growth, or warped flooring. It's also advisable after heavy rainstorms if you suspect a leak, or before purchasing an older property to identify potential hidden issues. Early detection can prevent extensive damage and costly repairs, protecting your investment and ensuring a healthy indoor environment.",
+        "description": "Get an assessment if you see water stains, mold, or suspect leaks after storms, or before buying an older property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

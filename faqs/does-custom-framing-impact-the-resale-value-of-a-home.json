@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does custom framing impact the resale value of a home?",
+  "description": "Custom framing can increase resale value by creating unique architectural designs and specialized layouts that appeal to buyers seeking high-quality, distinctiv",
+  "url": "https://modernbuilderscali.com/faq/does-custom-framing-impact-the-resale-value-of-a-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does custom framing impact the resale value of a home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, custom framing can positively impact the resale value of a home. It allows for unique architectural designs, higher ceilings, and specialized layouts that differentiate a property from standard builds. These distinct features often appeal to buyers looking for a unique and high-quality residence, potentially commanding a higher market price compared to homes with more conventional framing and design.",
+        "description": "Custom framing can increase resale value by creating unique architectural designs and specialized layouts that appeal to buyers seeking high-quality, distinctive homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

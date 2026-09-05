@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between drywall repair and drywall replacement?",
+  "description": "Drywall repair fixes localized damage like small holes or cracks by patching. Drywall replacement involves removing and installing new sheets for severe or wide",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-drywall-repair-and-drywall-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between drywall repair and drywall replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall repair typically involves fixing localized damage, such as small holes, cracks, dents, or minor water stains, by patching and blending the affected area. The existing drywall remains largely intact. Drywall replacement, on the other hand, is necessary for more severe or widespread damage, where large sections or entire sheets of drywall are unsalvageable. This includes extensive water damage, significant mold infestation, or structural issues affecting large areas. Replacement involves removing and installing new drywall, which is a more extensive and costly process than repair.",
+        "description": "Drywall repair fixes localized damage like small holes or cracks by patching. Drywall replacement involves removing and installing new sheets for severe or widespread damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

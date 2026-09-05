@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is wood rot and how does it occur?",
+  "description": "Wood rot is decay caused by fungi in consistently damp wood, typically in areas exposed to moisture. It weakens wood and can be brown (crumbly) or white (spongy",
+  "url": "https://modernbuilderscali.com/faq/what-is-wood-rot-and-how-does-it-occur",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is wood rot and how does it occur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wood rot is a type of decay caused by certain fungi that feed on wood fibers when moisture content is consistently high, typically above 20%. It usually manifests in areas exposed to water, like roofs, windows, and foundations. There are different types, including brown rot (dry rot), which makes wood crumbly, and white rot, which makes it spongy. Early detection is key, as sustained moisture and poor ventilation create an ideal environment for fungi to thrive and compromise structural integrity.",
+        "description": "Wood rot is decay caused by fungi in consistently damp wood, typically in areas exposed to moisture. It weakens wood and can be brown (crumbly) or white (spongy) rot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common types of drywall textures?",
+  "description": "Common drywall textures include orange peel, knockdown, and skip trowel, each with distinct appearances and application methods.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-common-types-of-drywall-textures",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common types of drywall textures?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common drywall textures include orange peel, which has a subtle bumpy appearance like citrus skin; knockdown, a flattened version of orange peel or splatter texture; and skip trowel, characterized by smooth areas interspersed with raised, irregular patterns. Other textures include popcorn (often found on ceilings), comb, and swirl. Each texture requires different application techniques and tools to achieve its distinct look.",
+        "description": "Common drywall textures include orange peel, knockdown, and skip trowel, each with distinct appearances and application methods."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

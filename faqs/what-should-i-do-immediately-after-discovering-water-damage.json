@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after discovering water damage?",
+  "description": "Immediately stop the water source, turn off electricity, remove valuables, and contact a professional water damage repair service to minimize damage.",
+  "url": "https://modernbuilderscali.com/faq/what-should-i-do-immediately-after-discovering-water-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after discovering water damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first step is to stop the water source if it's safe to do so, such as turning off the main water supply. Next, turn off electricity to the affected areas to prevent hazards. Isolate the damaged area and, if possible, remove valuable items and furniture to prevent further damage. Do not use a regular vacuum cleaner to remove water. Contact a professional water damage repair service like Modern Builders immediately. Prompt action is crucial to minimize damage and prevent mold.",
+        "description": "Immediately stop the water source, turn off electricity, remove valuables, and contact a professional water damage repair service to minimize damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

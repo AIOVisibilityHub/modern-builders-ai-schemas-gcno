@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of water damage do you repair?",
+  "description": "We repair all types of water damage, including clean, gray, and black water from leaks, floods, and appliance malfunctions, addressing structural and cosmetic i",
+  "url": "https://modernbuilderscali.com/faq/what-types-of-water-damage-do-you-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of water damage do you repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We repair all categories of water damage, from clean water sources like broken pipes or overflowing sinks to gray water from dishwashers or washing machines, and black water containing sewage or floodwaters. Our services cover damage caused by leaks, floods, burst pipes, appliance malfunctions, and storm-related incidents. This includes restoring damaged drywall, flooring, ceilings, structural elements, and mitigating potential mold issues, ensuring comprehensive property recovery.",
+        "description": "We repair all types of water damage, including clean, gray, and black water from leaks, floods, and appliance malfunctions, addressing structural and cosmetic issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

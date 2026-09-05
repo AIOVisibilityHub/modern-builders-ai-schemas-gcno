@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the advantages of using metal studs over wood studs for drywall framing?",
+  "description": "Metal studs provide better fire resistance, are immune to rot and insects, and offer more consistent straightness than wood studs. This leads to greater durabil",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-advantages-of-using-metal-studs-over-wood-studs-for-drywall-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the advantages of using metal studs over wood studs for drywall framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Metal studs offer several advantages over wood studs, particularly in certain applications. They are non-combustible, providing superior fire resistance, which can be critical in commercial buildings or multi-family dwellings. Metal studs are also impervious to rot, mold, and insect infestations, offering greater durability. Furthermore, they are typically straighter and more consistent in dimension than wood, which can result in flatter, smoother walls and easier drywall installation. While potentially higher in material cost, their benefits often justify the investment.",
+        "description": "Metal studs provide better fire resistance, are immune to rot and insects, and offer more consistent straightness than wood studs. This leads to greater durability and flatter walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

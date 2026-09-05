@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an exterior surface repair project usually take?",
+  "description": "Project duration depends on material, damage extent, and area size. Minor repairs might take a day or two, while extensive projects could take a week or more.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-an-exterior-surface-repair-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an exterior surface repair project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an exterior surface repair project varies depending on the type of material, the extent of the damage, and the overall size of the area requiring attention. Minor repairs, such as patching small cracks, might only take a day or two. More extensive projects, like repairing significant water damage or replacing large sections of siding, could span several days to a week or more. We provide a detailed timeline during the initial consultation, factoring in weather conditions and material availability, to set clear expectations.",
+        "description": "Project duration depends on material, damage extent, and area size. Minor repairs might take a day or two, while extensive projects could take a week or more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

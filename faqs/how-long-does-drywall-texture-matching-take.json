@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does drywall texture matching take?",
+  "description": "Duration varies by area size and texture complexity, from a few hours for small patches to several days for larger or intricate jobs, including drying times.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-drywall-texture-matching-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does drywall texture matching take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration for drywall texture matching varies based on the size of the area, the complexity of the texture, and the curing time required for the texturing compounds. Small patch repairs might take a few hours of active work over one to two days to allow for drying. Larger areas or more intricate textures can extend the process to several days, including preparation, multiple application coats, drying time, and final finishing.",
+        "description": "Duration varies by area size and texture complexity, from a few hours for small patches to several days for larger or intricate jobs, including drying times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

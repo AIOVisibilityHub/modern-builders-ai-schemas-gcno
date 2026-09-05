@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install drywall in a standard-sized room?",
+  "description": "Installing drywall in a standard 10x12 room can take five to seven days, including hanging, multiple coats of mudding, sanding, and drying times.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-it-take-to-install-drywall-in-a-standard-sized-room",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install drywall in a standard-sized room?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The time required for drywall installation depends on the room size, the number of walls, ceiling complexity, and the crew's efficiency. For a standard 10x12 foot room, hanging the drywall might take one to two days. The taping, mudding, and sanding process typically adds another three to five days, as each coat of joint compound needs sufficient drying time. Including final preparation, the entire process could span five to seven days.",
+        "description": "Installing drywall in a standard 10x12 room can take five to seven days, including hanging, multiple coats of mudding, sanding, and drying times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of damage can faulty gutters cause to my home?",
+  "description": "Faulty gutters can cause fascia rot, roof damage, foundation issues, landscape erosion, basement flooding, and mold growth inside your home.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-damage-can-faulty-gutters-cause-to-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of damage can faulty gutters cause to my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Faulty gutters can lead to significant damage to various parts of your home. They can cause water to overflow, leading to fascia board rot, roof damage, and compromised foundations due to soil erosion and water pooling. Additionally, overflowing gutters can damage landscaping, cause basement flooding, and lead to mildew or mold growth inside your walls. Prompt repair protects your property from these costly consequences.",
+        "description": "Faulty gutters can cause fascia rot, roof damage, foundation issues, landscape erosion, basement flooding, and mold growth inside your home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparations should I make before a roof replacement project begins?",
+  "description": "Prepare for roof replacement by clearing the perimeter around your home, moving valuables, notifying neighbors, and securing fragile indoor items.",
+  "url": "https://modernbuilderscali.com/faq/what-preparations-should-i-make-before-a-roof-replacement-project-begins",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparations should I make before a roof replacement project begins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your roof replacement project starts, clear the immediate perimeter around your home to provide easy access for the crew and protect landscaping. Move vehicles, patio furniture, and other valuables away from the house. If possible, cover outdoor items you cannot move. Alert your neighbors about potential noise and debris. Inside your home, consider removing fragile items from walls and shelves, especially those directly below the roof work area, as vibrations can cause them to fall. Disconnect satellite dishes or antennas that are attached to the roof.",
+        "description": "Prepare for roof replacement by clearing the perimeter around your home, moving valuables, notifying neighbors, and securing fragile indoor items."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

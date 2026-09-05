@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common issues that can occur during kitchen drywall installation?",
+  "description": "Common issues include uneven seams, nail pops, cracks, improper cuts, and rough finishes. In kitchens, using incorrect drywall can lead to moisture problems.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-common-issues-that-can-occur-during-kitchen-drywall-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common issues that can occur during kitchen drywall installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common issues during kitchen drywall installation include uneven seams, nail pops (where fasteners become visible), and cracks in the joint compound. Improper cutting around outlets or windows can lead to gaps, and insufficient sanding can result in a rough finish. In kitchens specifically, neglecting to use moisture-resistant drywall can lead to mold and mildew issues down the line. These problems are often due to improper techniques or rushing the drying process between mud coats.",
+        "description": "Common issues include uneven seams, nail pops, cracks, improper cuts, and rough finishes. In kitchens, using incorrect drywall can lead to moisture problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

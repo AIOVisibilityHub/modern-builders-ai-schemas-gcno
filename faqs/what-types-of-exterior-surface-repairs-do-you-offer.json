@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of exterior surface repairs do you offer?",
+  "description": "We offer repairs for stucco, wood siding, brick, concrete, and synthetic claddings, addressing issues like cracks, water damage, and deterioration.",
+  "url": "https://modernbuilderscali.com/faq/what-types-of-exterior-surface-repairs-do-you-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of exterior surface repairs do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern Builders provides a comprehensive range of exterior surface repair services, addressing issues on various materials such as stucco, wood siding, brick, concrete, and synthetic claddings. Our services include patching cracks, repairing water damage, replacing deteriorated sections, and restoring the structural integrity and aesthetic appeal of your home's exterior. We also handle issues like dry rot, termite damage, and general wear and tear, ensuring long-lasting and durable results that protect your property.",
+        "description": "We offer repairs for stucco, wood siding, brick, concrete, and synthetic claddings, addressing issues like cracks, water damage, and deterioration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

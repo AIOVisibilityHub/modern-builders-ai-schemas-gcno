@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does water damage repair cost in Pasadena?",
+  "description": "Costs vary significantly based on damage severity, water category, affected materials, and needed reconstruction. Estimates are provided after assessment.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-water-damage-repair-cost-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does water damage repair cost in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of water damage repair in Pasadena can vary widely, from a few hundred dollars for minor drying and cleanup to tens of thousands for extensive structural damage and mold remediation. Factors influencing the cost include the category of water (clean, gray, black), the class of damage (how much of the area is saturated), the type of affected materials, and the extent of reconstruction needed. We provide detailed estimates after a thorough assessment of your specific situation.",
+        "description": "Costs vary significantly based on damage severity, water category, affected materials, and needed reconstruction. Estimates are provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

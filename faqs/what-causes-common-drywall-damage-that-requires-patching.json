@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes common drywall damage that requires patching?",
+  "description": "Common causes include impacts, building settling leading to cracks, water leaks, and general wear and tear like nail pops.",
+  "url": "https://modernbuilderscali.com/faq/what-causes-common-drywall-damage-that-requires-patching",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes common drywall damage that requires patching?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common drywall damage can result from various factors. Accidental impacts from moving furniture or playful activities are frequent causes of holes and dents. Settling of a building can lead to stress cracks, especially around door and window frames. Water leaks, often from plumbing or roof issues, can cause significant damage like soft spots, bubbles, and discoloration. Lastly, general wear and tear, such as nail pops from framing movement or damage from hanging pictures, also necessitates patching.",
+        "description": "Common causes include impacts, building settling leading to cracks, water leaks, and general wear and tear like nail pops."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

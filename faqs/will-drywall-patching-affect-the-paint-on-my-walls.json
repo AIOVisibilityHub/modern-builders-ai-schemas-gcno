@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will drywall patching affect the paint on my walls?",
+  "description": "Yes, patching requires repainting the repaired area and often the entire wall to ensure a uniform appearance.",
+  "url": "https://modernbuilderscali.com/faq/will-drywall-patching-affect-the-paint-on-my-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will drywall patching affect the paint on my walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, drywall patching will require repainting the repaired area, and often the entire wall, to achieve a uniform appearance. After the patch is complete, it will be primed to seal the new material and ensure paint adheres consistently. Even if the repaired area is small, repainting the whole wall is usually necessary to avoid noticeable differences in sheen or color, as paint can fade or change slightly over time. We prepare the area for optimal paint adhesion.",
+        "description": "Yes, patching requires repainting the repaired area and often the entire wall to ensure a uniform appearance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

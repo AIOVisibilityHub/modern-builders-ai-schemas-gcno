@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a custom framing contractor?",
+  "description": "Choose a custom framing contractor based on their experience with complex plans, portfolio, licensing, insurance, and references, ensuring local code familiarit",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-a-custom-framing-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a custom framing contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a custom framing contractor, look for experience with complex architectural plans and a strong portfolio of completed custom homes. Verify their licensing and insurance, and check references for quality of work, adherence to timelines, and communication. A contractor familiar with local Pasadena building codes and inspection processes is also beneficial for a smooth project.",
+        "description": "Choose a custom framing contractor based on their experience with complex plans, portfolio, licensing, insurance, and references, ensuring local code familiarity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

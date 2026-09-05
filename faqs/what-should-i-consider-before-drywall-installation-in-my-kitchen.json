@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider before drywall installation in my kitchen?",
+  "description": "Before kitchen drywall, confirm cabinet and appliance layout, complete electrical/plumbing, ensure proper ventilation, choose moisture-resistant drywall, and ve",
+  "url": "https://modernbuilderscali.com/faq/what-should-i-consider-before-drywall-installation-in-my-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider before drywall installation in my kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before kitchen drywall installation, consider the layout of cabinets and appliances, as these will require precise cutouts. Ensure all electrical, plumbing, and HVAC rough-ins are complete and inspected. Plan for appropriate ventilation to manage kitchen humidity. Decide on the type of drywall; moisture-resistant is often preferred. Also, ensure the framing is sound and level, as this directly impacts the final finish quality. Clear communication with your contractor about these details is crucial.",
+        "description": "Before kitchen drywall, confirm cabinet and appliance layout, complete electrical/plumbing, ensure proper ventilation, choose moisture-resistant drywall, and verify sound framing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

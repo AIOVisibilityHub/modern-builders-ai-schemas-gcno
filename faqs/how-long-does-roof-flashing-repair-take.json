@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does roof flashing repair take?",
+  "description": "Repair time varies from a few hours for minor fixes to a full day or more for extensive damage, depending on complexity and accessibility.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-roof-flashing-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does roof flashing repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of roof flashing repair depends on the scope and complexity of the job. A minor repair, such as resealing a small section or replacing a single piece of flashing around a vent, might be completed within a few hours. More extensive repairs, involving multiple areas, custom-fabricated flashing, or significant damage around a chimney or valley, could take a full day or even longer. Factors like weather conditions and roof accessibility also play a role. Your contractor can provide a more precise timeline after assessing the specific repair needed.",
+        "description": "Repair time varies from a few hours for minor fixes to a full day or more for extensive damage, depending on complexity and accessibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

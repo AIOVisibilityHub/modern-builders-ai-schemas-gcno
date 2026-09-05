@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for building-envelope repair?",
+  "description": "Choose a contractor based on their experience, licensing, insurance, local reputation, detailed proposals, and positive client references.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-a-contractor-for-building-envelope-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for building-envelope repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a contractor for building-envelope repair, prioritize experience, licensing, and a strong local reputation. Look for contractors specializing in envelope systems, who can demonstrate a history of successful projects similar to yours. Verify their licenses and insurance to ensure proper coverage and compliance. Request detailed proposals, compare estimates, and check references or reviews from previous clients. Effective communication and a clear understanding of the proposed work and timeline are also critical factors for a successful partnership and outcome.",
+        "description": "Choose a contractor based on their experience, licensing, insurance, local reputation, detailed proposals, and positive client references."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

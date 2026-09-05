@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for exterior surface repairs?",
+  "description": "Choose a contractor with a strong local reputation, relevant experience, proper licensing, insurance, and positive customer reviews. Ensure they offer transpare",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-for-exterior-surface-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for exterior surface repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor for exterior surface repairs, look for a company with a strong local reputation, extensive experience in your specific type of repair, and proper licensing and insurance. Check their portfolio for similar projects and read customer reviews to gauge their quality of work and customer service. A reliable contractor will offer transparent estimates, clear communication, and provide guarantees for their work. Modern Builders, for example, has a proven track record serving the Pasadena area with quality craftsmanship.",
+        "description": "Choose a contractor with a strong local reputation, relevant experience, proper licensing, insurance, and positive customer reviews. Ensure they offer transparent estimates and guarantees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between orange peel and knockdown texture?",
+  "description": "Orange peel is a fine-grained bumpy texture, while knockdown starts similar but is flattened with a trowel, creating broader, irregular patterns.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-orange-peel-and-knockdown-texture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between orange peel and knockdown texture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Orange peel texture features a subtle, fine-grained bumpy finish, resembling the skin of an orange, and is typically applied with a sprayer. Knockdown texture, on the other hand, starts similarly but is then 'knocked down' or flattened with a trowel after partially drying. This creates a smoother, broader, and more irregular pattern with distinct flat areas. Knockdown offers a slightly more rustic or sophisticated look compared to the uniform appearance of orange peel.",
+        "description": "Orange peel is a fine-grained bumpy texture, while knockdown starts similar but is flattened with a trowel, creating broader, irregular patterns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

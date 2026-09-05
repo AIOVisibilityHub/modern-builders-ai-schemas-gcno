@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the standard stud spacing for drywall framing?",
+  "description": "Standard stud spacing is 16 inches on center or 24 inches on center, chosen based on building codes, drywall thickness, and wall function, with 16 inches offeri",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-standard-stud-spacing-for-drywall-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the standard stud spacing for drywall framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The standard stud spacing for drywall framing is typically 16 inches on center (OC) or 24 inches on center (OC). The choice depends on local building codes, the thickness of the drywall, and the intended use of the wall. 16 inches OC provides a stronger, more rigid wall, often preferred for load-bearing walls or where heavier items will be hung. 24 inches OC is common for non-load-bearing walls or ceilings with thicker drywall (e.g., 5/8-inch), as it can be more cost-effective while still providing adequate support.",
+        "description": "Standard stud spacing is 16 inches on center or 24 inches on center, chosen based on building codes, drywall thickness, and wall function, with 16 inches offering greater rigidity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of drywall is best for a kitchen?",
+  "description": "Moisture-resistant drywall, known as green board, is best for kitchens due to its ability to repel moisture and prevent mold. For areas with direct water exposu",
+  "url": "https://modernbuilderscali.com/faq/what-type-of-drywall-is-best-for-a-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of drywall is best for a kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For kitchens, moisture-resistant drywall, often called green board, is highly recommended. It's treated to repel moisture, which helps prevent mold and mildew growth in humid environments like kitchens. While not waterproof, it offers better protection than standard drywall. For areas directly exposed to water, such as behind a sink or near a dishwasher, cement board or fiberglass mat gypsum board can provide superior water resistance.",
+        "description": "Moisture-resistant drywall, known as green board, is best for kitchens due to its ability to repel moisture and prevent mold. For areas with direct water exposure, consider cement board."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

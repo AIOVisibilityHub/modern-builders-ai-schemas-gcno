@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of damage requires immediate roof repair?",
+  "description": "Large holes, active leaks, storm damage, or structural instability require immediate roof repair to prevent extensive water damage and further issues.",
+  "url": "https://modernbuilderscali.com/faq/what-type-of-damage-requires-immediate-roof-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of damage requires immediate roof repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Damage that compromises your home's immediate protection warrants urgent roof repair. This includes large holes or tears, significant leaks causing active water intrusion, damage from fallen trees or severe storms, and any structural instability visible in the roof deck. These issues can quickly lead to widespread water damage, mold growth, or further structural compromise if not addressed promptly. Contacting a professional immediately for these types of emergencies is crucial to prevent escalating problems.",
+        "description": "Large holes, active leaks, storm damage, or structural instability require immediate roof repair to prevent extensive water damage and further issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

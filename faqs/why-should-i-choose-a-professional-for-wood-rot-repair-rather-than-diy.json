@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I choose a professional for wood rot repair rather than DIY?",
+  "description": "Professionals correctly identify moisture sources, assess damage, and perform durable, code-compliant repairs with specialized tools. DIY mistakes can lead to r",
+  "url": "https://modernbuilderscali.com/faq/why-should-i-choose-a-professional-for-wood-rot-repair-rather-than-diy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I choose a professional for wood rot repair rather than DIY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing a professional for wood rot repair ensures that the underlying cause of the moisture is correctly identified and remedied, preventing recurrence. Professionals have the experience to accurately assess the extent of the damage, distinguish between different types of rot, and determine whether repair or replacement is the safest and most cost-effective solution. They use specialized tools and materials, ensuring repairs are structurally sound, durable, and meet local building codes. Improper DIY repair can lead to recurring rot, further damage, and higher costs in the long run.",
+        "description": "Professionals correctly identify moisture sources, assess damage, and perform durable, code-compliant repairs with specialized tools. DIY mistakes can lead to recurring rot and higher long-term costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

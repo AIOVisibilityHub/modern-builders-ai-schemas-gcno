@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my gutters need repair?",
+  "description": "Look for cracks, sagging, overflowing water, rust, or detached downspouts. These are signs your gutters need repair.",
+  "url": "https://modernbuilderscali.com/faq/what-are-common-signs-that-my-gutters-need-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my gutters need repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs your gutters need repair include visible cracks or holes, sagging sections, water overflowing during rain, water pooling around your home's foundation, or rust spots. Also, if you notice fasteners coming loose or downspouts detaching, it's a clear indicator that repairs are necessary to prevent further damage to your home's structure and landscaping. Addressing these issues promptly can prevent more extensive and costly problems down the line.",
+        "description": "Look for cracks, sagging, overflowing water, rust, or detached downspouts. These are signs your gutters need repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

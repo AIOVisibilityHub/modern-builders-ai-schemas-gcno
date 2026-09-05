@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the pre-construction phase for custom framing?",
+  "description": "Pre-construction for custom framing involves finalizing plans, securing permits, site assessment, and coordinating with other trades for material delivery.",
+  "url": "https://modernbuilderscali.com/faq/what-is-involved-in-the-pre-construction-phase-for-custom-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the pre-construction phase for custom framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The pre-construction phase for custom framing involves several critical steps. These include finalizing architectural and structural engineering plans, obtaining all necessary permits from the local building department, and conducting a thorough site assessment. We also coordinate with other trades, such as foundation contractors, to ensure a seamless transition and prepare for material delivery and staging.",
+        "description": "Pre-construction for custom framing involves finalizing plans, securing permits, site assessment, and coordinating with other trades for material delivery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

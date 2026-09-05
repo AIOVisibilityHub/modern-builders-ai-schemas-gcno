@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of damage can be repaired in drywall?",
+  "description": "Drywall repair addresses small holes, large impacts, cracks, water damage, and peeling paint. The repair method depends on the damage's severity.",
+  "url": "https://modernbuilderscali.com/faq/what-types-of-damage-can-be-repaired-in-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of damage can be repaired in drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall can be repaired for various types of damage, including small holes from nails or anchors, larger holes from impacts, cracks due to settling or structural shifts, water damage stains or softened areas, and bubbling or peeling paint caused by moisture. The repair method varies depending on the severity and nature of the damage. Minor imperfections might require simple patching and sanding, while extensive damage may necessitate cutting out and replacing sections of the drywall to ensure a seamless and durable finish.",
+        "description": "Drywall repair addresses small holes, large impacts, cracks, water damage, and peeling paint. The repair method depends on the damage's severity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

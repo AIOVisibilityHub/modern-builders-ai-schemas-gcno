@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you match the existing color and texture of my home's exterior?",
+  "description": "Yes, we prioritize matching your home's existing color and texture using samples and advanced techniques for a seamless repair that blends in.",
+  "url": "https://modernbuilderscali.com/faq/can-you-match-the-existing-color-and-texture-of-my-home-s-exterior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you match the existing color and texture of my home's exterior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, matching the existing color and texture of your home's exterior is a priority for us. Our experienced technicians are skilled in custom color matching and texture blending for various materials, including stucco, paint, and siding. We take samples and utilize advanced techniques to ensure the repaired area integrates seamlessly with the surrounding surfaces, minimizing visible lines or differences. Our goal is to make the repair virtually undetectable, restoring your home's original aesthetic.",
+        "description": "Yes, we prioritize matching your home's existing color and texture using samples and advanced techniques for a seamless repair that blends in."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

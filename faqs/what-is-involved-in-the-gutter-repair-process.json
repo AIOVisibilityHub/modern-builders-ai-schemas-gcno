@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the gutter repair process?",
+  "description": "The gutter repair process includes inspection, cleaning, resealing, re-attaching, or replacing damaged sections, followed by testing for proper drainage.",
+  "url": "https://modernbuilderscali.com/faq/what-is-involved-in-the-gutter-repair-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the gutter repair process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our gutter repair process typically begins with a thorough inspection to assess the damage and identify its cause. Depending on the issue, we might clean the gutters, re-seal leaky seams, re-attach loose hangers or sections, or replace damaged sections of the gutter or downspout. We ensure all components are properly aligned and secured to effectively channel water away from your home's foundation. We conclude by testing the system for proper drainage.",
+        "description": "The gutter repair process includes inspection, cleaning, resealing, re-attaching, or replacing damaged sections, followed by testing for proper drainage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

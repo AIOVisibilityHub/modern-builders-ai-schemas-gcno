@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you ensure soundproofing quality during drywall framing?",
+  "description": "Soundproofing quality during framing is improved by using staggered or double-stud walls, resilient channels, filling cavities with insulation, and using thicke",
+  "url": "https://modernbuilderscali.com/faq/how-do-you-ensure-soundproofing-quality-during-drywall-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you ensure soundproofing quality during drywall framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To enhance soundproofing during drywall framing, several techniques can be employed. These include using staggered stud walls or double-stud walls to create a gap for sound decoupling. Resilient channels can be installed horizontally across studs to isolate the drywall from the frame, reducing sound transmission. Filling stud cavities with batt insulation (like mineral wool or fiberglass) also significantly absorbs sound. Specifying thicker drywall (5/8-inch) or multiple layers of drywall further improves acoustic performance. These measures are most effective when planned during the framing stage.",
+        "description": "Soundproofing quality during framing is improved by using staggered or double-stud walls, resilient channels, filling cavities with insulation, and using thicker or multiple drywall layers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

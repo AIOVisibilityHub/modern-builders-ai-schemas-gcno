@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing bathroom drywall?",
+  "description": "The process involves cutting and hanging drywall sheets, applying tape to seams, and then multiple layers of joint compound with sanding.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-installing-bathroom-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing bathroom drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The bathroom drywall installation process typically begins with measuring and cutting drywall sheets to fit the walls and ceiling. These sheets are then fastened to the framing. Next, joint tape is applied to seams, followed by multiple layers of joint compound (mud). Each layer requires drying time and sanding for a smooth finish, creating a surface ready for primer and paint.",
+        "description": "The process involves cutting and hanging drywall sheets, applying tape to seams, and then multiple layers of joint compound with sanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

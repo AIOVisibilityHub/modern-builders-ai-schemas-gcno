@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a roof replacement warranty?",
+  "description": "A roof replacement warranty includes a material warranty from the manufacturer and a workmanship warranty from the installer, covering defects and installation",
+  "url": "https://modernbuilderscali.com/faq/what-is-included-in-a-roof-replacement-warranty",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a roof replacement warranty?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A comprehensive roof replacement warranty typically includes two main components: a material warranty from the manufacturer and a workmanship warranty from the installer. The material warranty covers defects in the roofing materials themselves, such as premature cracking or delamination, for a specified period, often 20-50 years depending on the product. The workmanship warranty covers issues related to the installation quality, like leaks caused by improper flashing or inadequate fastening, usually for 5-10 years. Always review warranty details carefully to understand coverage and exclusions.",
+        "description": "A roof replacement warranty includes a material warranty from the manufacturer and a workmanship warranty from the installer, covering defects and installation issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

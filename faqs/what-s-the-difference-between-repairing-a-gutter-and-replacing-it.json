@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between repairing a gutter and replacing it?",
+  "description": "Repair fixes isolated gutter issues, while replacement involves installing a new system due to extensive or widespread damage.",
+  "url": "https://modernbuilderscali.com/faq/what-s-the-difference-between-repairing-a-gutter-and-replacing-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between repairing a gutter and replacing it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gutter repair focuses on fixing specific issues like leaks, sags, or detached sections, often addressing isolated damage to restore functionality. Gutter replacement involves removing the entire existing system and installing a new one. Replacement is typically recommended when there is widespread damage, multiple sections are failing, or the gutters are beyond their serviceable lifespan. We assess the overall condition to recommend the most cost-effective and long-term solution for your home.",
+        "description": "Repair fixes isolated gutter issues, while replacement involves installing a new system due to extensive or widespread damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

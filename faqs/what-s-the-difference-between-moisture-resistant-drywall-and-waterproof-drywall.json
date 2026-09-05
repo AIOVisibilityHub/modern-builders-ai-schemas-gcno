@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between moisture-resistant drywall and waterproof drywall for kitchens?",
+  "description": "Moisture-resistant drywall (green board) repels humidity and inhibits mold, suitable for most kitchen areas. Waterproof drywall (cement board) resists direct wa",
+  "url": "https://modernbuilderscali.com/faq/what-s-the-difference-between-moisture-resistant-drywall-and-waterproof-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between moisture-resistant drywall and waterproof drywall for kitchens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moisture-resistant drywall, often called green board, contains additives that help it repel moisture and inhibit mold growth. It's suitable for areas with high humidity, like most kitchen walls and ceilings. However, it is not waterproof and should not be used in areas with direct water exposure. Waterproof options, such as cement board or fiberglass mat gypsum board, are designed to withstand direct water contact without deteriorating. These are typically used as a substrate for tile in wet areas like shower surrounds, but can be considered for specific high-splash zones in kitchens if tiling is planned.",
+        "description": "Moisture-resistant drywall (green board) repels humidity and inhibits mold, suitable for most kitchen areas. Waterproof drywall (cement board) resists direct water contact and is for very wet zones or tile backing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

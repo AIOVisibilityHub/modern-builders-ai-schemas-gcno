@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How important is attic ventilation for the health and longevity of my roof?",
+  "description": "Attic ventilation is crucial for roof longevity and energy efficiency. It regulates temperature and moisture, preventing premature aging, mold, and rot.",
+  "url": "https://modernbuilderscali.com/faq/how-important-is-attic-ventilation-for-the-health-and-longevity-of-my-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How important is attic ventilation for the health and longevity of my roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Attic ventilation is extremely important for the health and longevity of your residential roof. Proper ventilation helps regulate the temperature and moisture levels in your attic. In summer, it expels hot air, reducing your cooling costs and preventing heat buildup that can prematurely age roofing materials. In winter, it prevents condensation, which can lead to mold growth, wood rot, and compromised insulation. Effective ventilation ensures your roof deck stays dry and cool, significantly extending your roof's lifespan and improving energy efficiency.",
+        "description": "Attic ventilation is crucial for roof longevity and energy efficiency. It regulates temperature and moisture, preventing premature aging, mold, and rot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

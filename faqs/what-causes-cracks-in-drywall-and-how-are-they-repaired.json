@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What causes cracks in drywall and how are they repaired?",
+  "description": "Drywall cracks are caused by house settling, foundation movement, or humidity. Minor cracks are spackled; larger, recurring cracks may need professional assessm",
+  "url": "https://modernbuilderscali.com/faq/what-causes-cracks-in-drywall-and-how-are-they-repaired",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes cracks in drywall and how are they repaired?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cracks in drywall can stem from various causes, including typical house settling, foundation movement, humidity changes, poor drywall installation, or structural stress. Minor hairline cracks are often cosmetic and can be repaired with spackle or joint compound, then sanded and painted. Larger or recurring cracks, especially those accompanied by other signs of structural issues, may indicate a more significant problem. For these, a professional assessment is advisable, and the repair might involve taping the crack with mesh or paper tape before applying multiple layers of joint compound to reinforce the area.",
+        "description": "Drywall cracks are caused by house settling, foundation movement, or humidity. Minor cracks are spackled; larger, recurring cracks may need professional assessment and taping with joint compound."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

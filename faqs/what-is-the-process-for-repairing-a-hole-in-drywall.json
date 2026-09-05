@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for repairing a hole in drywall?",
+  "description": "Repairing drywall holes involves cleaning the area, patching or replacing the section, applying multiple layers of joint compound, sanding smooth, and then prim",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-repairing-a-hole-in-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for repairing a hole in drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repairing a hole in drywall typically involves several steps. For small holes, a simple patching compound or spackle is applied, allowed to dry, then sanded smooth, and painted. For larger holes, the process begins by cutting out a clean square or rectangular section around the damage. A new piece of drywall is cut to fit, and backing strips or a specialized patch are often used to secure it. Joint compound is then applied over the seams and screws, feathered out, and allowed to dry. This process is repeated with several thin coats, sanding between each, until the patch is flush with the surrounding wall. Finally, the area is primed and painted to match.",
+        "description": "Repairing drywall holes involves cleaning the area, patching or replacing the section, applying multiple layers of joint compound, sanding smooth, and then priming and painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

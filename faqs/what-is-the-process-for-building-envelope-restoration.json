@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for building-envelope restoration?",
+  "description": "The process involves assessment, proposal, preparation, execution of repairs/replacements, and final inspection.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-building-envelope-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for building-envelope restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The restoration process typically begins with a thorough inspection and assessment to identify existing damage and potential vulnerabilities. This leads to a detailed proposal outlining the scope of work, recommended materials, and a project timeline. Once approved, the contractor mobilizes, often implementing protective measures for occupants or surrounding areas. Work then commences, which can include repairs, replacement of components, sealing, and waterproofing. Regular progress updates and quality control checks are conducted, concluding with a final inspection and cleanup.",
+        "description": "The process involves assessment, proposal, preparation, execution of repairs/replacements, and final inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

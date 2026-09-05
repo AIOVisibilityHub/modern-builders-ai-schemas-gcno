@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I repair my gutters myself, or should I hire a professional?",
+  "description": "Minor gutter repairs may be DIY, but professionals are recommended for most issues due to their expertise, tools, and safety equipment.",
+  "url": "https://modernbuilderscali.com/faq/can-i-repair-my-gutters-myself-or-should-i-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I repair my gutters myself, or should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While minor gutter repairs, like clearing small clogs or reattaching a loose bracket, can sometimes be a DIY task, it's generally recommended to hire a professional for most repairs. Professionals have the right tools, expertise, and safety equipment to effectively diagnose and fix issues without causing further damage or risking personal injury. Incorrect repairs can lead to larger problems, compromising your home's protection.",
+        "description": "Minor gutter repairs may be DIY, but professionals are recommended for most issues due to their expertise, tools, and safety equipment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

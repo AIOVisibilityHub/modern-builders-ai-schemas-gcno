@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Where should moisture-resistant drywall be installed in a home?",
+  "description": "It should be installed in high-humidity areas like bathrooms, laundry rooms, utility rooms, and basements to resist moisture and help prevent mold.",
+  "url": "https://modernbuilderscali.com/faq/where-should-moisture-resistant-drywall-be-installed-in-a-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where should moisture-resistant drywall be installed in a home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moisture-resistant drywall is best installed in areas of a home that experience high humidity or occasional moisture exposure. Common applications include bathrooms (especially behind sinks and around showers/tubs, though cement board is often preferred directly in wet zones), laundry rooms, utility rooms, and basements. It can also be beneficial in kitchens, particularly around the sink or dishwasher area. While it helps prevent mold growth in these conditions, it should not be used in areas of constant water exposure or as a substitute for proper waterproofing systems.",
+        "description": "It should be installed in high-humidity areas like bathrooms, laundry rooms, utility rooms, and basements to resist moisture and help prevent mold."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

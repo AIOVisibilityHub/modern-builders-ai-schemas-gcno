@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I repair roof flashing myself, or should I hire a professional?",
+  "description": "Hiring a professional is recommended for roof flashing repair due to safety concerns and the specialized knowledge required to ensure a lasting, watertight seal",
+  "url": "https://modernbuilderscali.com/faq/can-i-repair-roof-flashing-myself-or-should-i-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I repair roof flashing myself, or should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While minor caulking or sealing might seem like a simple DIY task, roof flashing repair involves working at heights and requires specialized knowledge to ensure a lasting, watertight seal. Improperly installed or repaired flashing is a common cause of roof leaks, which can lead to significant and costly damage over time. Professionals have the necessary tools, experience, and safety equipment to properly identify issues, select the correct materials, and install flashing according to industry standards, ensuring the longevity of your roof system.",
+        "description": "Hiring a professional is recommended for roof flashing repair due to safety concerns and the specialized knowledge required to ensure a lasting, watertight seal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

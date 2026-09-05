@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does wood rot repair typically take?",
+  "description": "Repair time depends on the size and location of the rot; small jobs can be hours, while extensive repairs in structural areas may take several days or longer, i",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-wood-rot-repair-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does wood rot repair typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of wood rot repair varies significantly based on the size and location of the affected area, as well as the extent of the damage. Small, superficial repairs might take a few hours to a day. More extensive rot, especially in structural components or hard-to-reach areas, could require several days to a week or more. This timeframe includes identifying the moisture source, allowing drying time if necessary, removing damaged material, performing the repair, and applying finishes. A thorough assessment provides a more accurate estimate.",
+        "description": "Repair time depends on the size and location of the rot; small jobs can be hours, while extensive repairs in structural areas may take several days or longer, including drying and finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

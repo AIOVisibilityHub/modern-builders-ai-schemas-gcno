@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical gutter repair take?",
+  "description": "Minor gutter repairs can take a few hours, while more extensive work may require a full day, depending on the damage.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-typical-gutter-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical gutter repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a gutter repair depends on the extent of the damage. Minor repairs, like sealing a small leak or reattaching a loose section, might only take a few hours. More extensive issues, such as replacing multiple damaged sections or addressing multiple clogs and structural problems, could take a full day. Our team assesses the damage and provides an estimated timeline before beginning work, ensuring efficient service.",
+        "description": "Minor gutter repairs can take a few hours, while more extensive work may require a full day, depending on the damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

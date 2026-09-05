@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of custom framing versus standard framing?",
+  "description": "Custom framing provides unique design flexibility and tailored structural integrity, unlike standard framing which uses pre-set dimensions.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-benefits-of-custom-framing-versus-standard-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of custom framing versus standard framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom framing offers superior design flexibility, allowing for unique architectural elements, specific room dimensions, and optimized space utilization that standard framing cannot easily achieve. It ensures structural integrity precisely engineered for the chosen design and site, often resulting in higher quality finishes and better integration of specific features. Standard framing uses pre-set dimensions and designs, limiting customization.",
+        "description": "Custom framing provides unique design flexibility and tailored structural integrity, unlike standard framing which uses pre-set dimensions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

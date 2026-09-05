@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you install moisture-resistant drywall in Pasadena?",
+  "description": "Yes, Modern Builders installs moisture-resistant drywall in Pasadena and surrounding areas like Old Town Pasadena and Oak Knoll.",
+  "url": "https://modernbuilderscali.com/faq/do-you-install-moisture-resistant-drywall-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you install moisture-resistant drywall in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Modern Builders provides moisture-resistant drywall installation services throughout Pasadena, including Old Town Pasadena, East Pasadena, Bungalow Heaven, Oak Knoll, and other surrounding areas. Our team is experienced in selecting and installing the appropriate drywall solutions for moisture-prone areas in residential and commercial properties. We ensure proper installation techniques to enhance durability and prevent issues related to humidity and moisture. Contact us for a consultation regarding your specific project needs in the Pasadena area.",
+        "description": "Yes, Modern Builders installs moisture-resistant drywall in Pasadena and surrounding areas like Old Town Pasadena and Oak Knoll."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

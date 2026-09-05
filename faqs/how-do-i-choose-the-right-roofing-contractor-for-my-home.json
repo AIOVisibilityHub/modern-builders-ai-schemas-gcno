@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right roofing contractor for my home?",
+  "description": "Choose a contractor with experience, proper licensing, insurance, and local references. Request detailed written estimates and review their communication and on",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-roofing-contractor-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right roofing contractor for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a roofing contractor, prioritize those with proven experience, proper licensing, and comprehensive insurance coverage. Look for contractors with strong local references and a portfolio of completed projects similar to yours. Request detailed written estimates that outline the scope of work, materials, timeline, and warranty information. A reputable contractor will communicate clearly, answer all your questions, and ensure you understand the entire process before work begins. Don't hesitate to check online reviews and accreditations.",
+        "description": "Choose a contractor with experience, proper licensing, insurance, and local references. Request detailed written estimates and review their communication and online reputation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

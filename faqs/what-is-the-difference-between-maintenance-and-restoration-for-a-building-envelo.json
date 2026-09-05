@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between maintenance and restoration for a building envelope?",
+  "description": "Maintenance prevents deterioration through routine care, while restoration addresses existing damage and significantly repairs or replaces major components.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-maintenance-and-restoration-for-a-building-envelo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between maintenance and restoration for a building envelope?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintenance involves routine, preventative actions to preserve the existing condition of the building envelope, such as regular cleaning, inspection, minor sealant touch-ups, or gutter clearing. It aims to prevent deterioration and extend the lifespan of components. Restoration, on the other hand, addresses existing damage, significant wear, or material failure. It involves more extensive repairs, replacement of major components, or comprehensive upgrades to bring the envelope back to a functional, protected, and often improved state. Maintenance is proactive, while restoration is reactive to significant issues.",
+        "description": "Maintenance prevents deterioration through routine care, while restoration addresses existing damage and significantly repairs or replaces major components."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

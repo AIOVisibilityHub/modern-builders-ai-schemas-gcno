@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer exterior restoration services for historic homes in Bungalow Heaven?",
+  "description": "Yes, we specialize in exterior restoration for historic homes in Bungalow Heaven, focusing on preserving architectural integrity with appropriate techniques and",
+  "url": "https://modernbuilderscali.com/faq/do-you-offer-exterior-restoration-services-for-historic-homes-in-bungalow-heaven",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer exterior restoration services for historic homes in Bungalow Heaven?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we specialize in exterior restoration for historic homes, including those in designated areas like Bungalow Heaven in Pasadena. Our team understands the unique requirements for preserving the architectural integrity and historical significance of these properties. We focus on using appropriate techniques and materials that respect the original design while addressing modern durability needs. We also assist with navigating any specific historical district guidelines or review processes relevant to your project.",
+        "description": "Yes, we specialize in exterior restoration for historic homes in Bungalow Heaven, focusing on preserving architectural integrity with appropriate techniques and materials, and assisting with district guidelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

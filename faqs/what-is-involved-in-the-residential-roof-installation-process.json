@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the residential roof installation process?",
+  "description": "The process involves inspection, old roof removal, deck repair, underlayment and flashing installation, new roofing material application, and final cleanup.",
+  "url": "https://modernbuilderscali.com/faq/what-is-involved-in-the-residential-roof-installation-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the residential roof installation process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The residential roof installation process typically begins with a thorough inspection and detailed planning. Next, the old roofing material is removed down to the deck. Any damaged decking or underlying structures are repaired or replaced. Then, new underlayment, drip edge, and flashing are installed to ensure waterproofing. Finally, the new roofing material (shingles, tiles, metal panels) is carefully installed according to manufacturer specifications and local building codes. The process concludes with a complete cleanup and final inspection.",
+        "description": "The process involves inspection, old roof removal, deck repair, underlayment and flashing installation, new roofing material application, and final cleanup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

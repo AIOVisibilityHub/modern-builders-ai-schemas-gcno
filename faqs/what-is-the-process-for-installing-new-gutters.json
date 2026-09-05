@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing new gutters?",
+  "description": "The installation process involves consultation, material selection, precise measurement, removal of old gutters, fascia inspection, and the secure installation",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-installing-new-gutters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing new gutters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our gutter installation process begins with a consultation to assess your needs and property, followed by material selection. We then precisely measure your home's roofline to ensure custom-fit gutters. The old gutters are carefully removed, and the fascia boards are inspected and repaired if necessary. New gutters are then cut to size, assembled, and securely attached to the fascia, ensuring proper slope for drainage. Finally, downspouts are installed and tested to ensure optimal water flow away from your foundation.",
+        "description": "The installation process involves consultation, material selection, precise measurement, removal of old gutters, fascia inspection, and the secure installation of new gutters and downspouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

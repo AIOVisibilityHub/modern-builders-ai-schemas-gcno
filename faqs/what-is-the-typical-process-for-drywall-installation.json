@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for drywall installation?",
+  "description": "The drywall installation process includes cutting and hanging sheets, taping and applying multiple layers of joint compound, sanding, and then priming for a smo",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-drywall-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for drywall installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall installation involves several key steps. First, the drywall sheets are cut to size and securely attached to the wall studs or ceiling joists. Next, the joints between sheets are covered with joint tape and then multiple layers of joint compound (mud) are applied, feathered out, and sanded smooth. This process, known as 'taping and mudding,' creates a seamless surface. Finally, a primer is applied, preparing the surface for painting or other finishes.",
+        "description": "The drywall installation process includes cutting and hanging sheets, taping and applying multiple layers of joint compound, sanding, and then priming for a smooth finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is drywall texture matching done?",
+  "description": "Texture matching involves assessing existing texture, preparing the surface, applying a matching compound with specific tools, and then priming.",
+  "url": "https://modernbuilderscali.com/faq/how-is-drywall-texture-matching-done",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is drywall texture matching done?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with assessing the existing texture to determine its type and application method. The drywall surface is first prepared by cleaning and priming. Then, a suitable texturing compound is applied using specific tools like sprayers, trowels, or brushes, mimicking the original pattern. Multiple layers or adjustments may be needed to achieve an exact match. Finally, the area is allowed to dry and is often primed again before painting.",
+        "description": "Texture matching involves assessing existing texture, preparing the surface, applying a matching compound with specific tools, and then priming."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

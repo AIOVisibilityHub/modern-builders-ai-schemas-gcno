@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for drywall framing in a residential renovation?",
+  "description": "Drywall framing for a single room can take 1-3 days; larger residential renovations may require 1-2 weeks. Timeline varies by project scale, complexity, and mat",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-timeline-for-drywall-framing-in-a-residential-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for drywall framing in a residential renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for drywall framing in a residential renovation depends on the project's scale. For a single room addition or renovation, framing might take 1-3 days. A larger project, such as framing an entire floor or multiple rooms, could extend to 1-2 weeks. Factors influencing this include the complexity of the design, the number of walls, ceiling heights, and the type of material used (wood is often quicker to install than metal for small projects). Efficient planning and material delivery help to keep the project on schedule.",
+        "description": "Drywall framing for a single room can take 1-3 days; larger residential renovations may require 1-2 weeks. Timeline varies by project scale, complexity, and materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

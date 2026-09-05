@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for achieving a Level 5 drywall finish?",
+  "description": "It involves taping, multiple coats on joints and fasteners (Level 4), followed by a full, thin skim coat over the entire surface, then sanding.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-achieving-a-level-5-drywall-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for achieving a Level 5 drywall finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for a Level 5 drywall finish begins with standard drywall installation, followed by taping and applying a minimum of three coats of joint compound to all seams, corners, and fastener heads, effectively reaching a Level 4 finish. After these coats are dry and sanded smooth, a thin skim coat of diluted joint compound is applied over the *entire* wall or ceiling surface. This skim coat fills in microscopic pores and evens out any subtle differences in texture between the paper and the mudded areas. Finally, the surface is lightly sanded to achieve a perfectly smooth, blemish-free substrate, ready for primer and paint.",
+        "description": "It involves taping, multiple coats on joints and fasteners (Level 4), followed by a full, thin skim coat over the entire surface, then sanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is drywall and why is it used in construction?",
+  "description": "Drywall is a gypsum-based construction material used for interior walls and ceilings due to its fire resistance, sound insulation, and smooth finish.",
+  "url": "https://modernbuilderscali.com/faq/what-is-drywall-and-why-is-it-used-in-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is drywall and why is it used in construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drywall, also known as gypsum board or plasterboard, is a construction material made of gypsum plaster pressed between two sheets of thick paper. It's widely used for interior walls and ceilings due to its ease of installation, fire resistance, sound insulation properties, and smooth finish. It provides a durable and stable surface for paint, wallpaper, and other decorative finishes, making it a standard choice for modern building interiors.",
+        "description": "Drywall is a gypsum-based construction material used for interior walls and ceilings due to its fire resistance, sound insulation, and smooth finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

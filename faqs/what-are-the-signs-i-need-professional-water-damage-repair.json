@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs I need professional water damage repair?",
+  "description": "Signs include water stains, peeling paint, warped floors, musty odors, or structural damage. Professional help is needed after any significant water event.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-signs-i-need-professional-water-damage-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs I need professional water damage repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for visible water stains on walls or ceilings, peeling paint, warped flooring, or a persistent musty odor, which can indicate hidden moisture and potential mold growth. Structural issues like sagging ceilings or buckling walls are also serious indicators. If you've experienced a burst pipe, significant leak, or flooding, even if it appears dry, professional assessment is crucial to ensure all moisture is removed and prevent long-term problems. Prompt action can prevent further damage and costly repairs.",
+        "description": "Signs include water stains, peeling paint, warped floors, musty odors, or structural damage. Professional help is needed after any significant water event."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

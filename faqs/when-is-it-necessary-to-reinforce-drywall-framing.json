@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it necessary to reinforce drywall framing?",
+  "description": "Reinforcement is necessary for hanging heavy items like TVs, cabinets, or handrails. It involves adding extra blocking or bracing within the framing to provide",
+  "url": "https://modernbuilderscali.com/faq/when-is-it-necessary-to-reinforce-drywall-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it necessary to reinforce drywall framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reinforcing drywall framing is necessary when attaching heavy items, such as large flat-screen TVs, wall-mounted shelving units, heavy cabinetry, or handrails. Standard drywall alone cannot support significant weight. Reinforcement typically involves adding extra wood blocking or horizontal metal bracing between studs at the intended mounting height. This provides a solid and secure point for fasteners, preventing damage to the drywall and ensuring the mounted item remains safely in place. It should be planned during the framing stage.",
+        "description": "Reinforcement is necessary for hanging heavy items like TVs, cabinets, or handrails. It involves adding extra blocking or bracing within the framing to provide secure attachment points."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the drywall patching process usually take from start to finish?",
+  "description": "Patching time varies from a few hours for small repairs to one or two days for larger jobs, including drying times.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-the-drywall-patching-process-usually-take-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the drywall patching process usually take from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of drywall patching depends on the extent of the damage and the type of repair. Small patches, like those for nail pops or minor dings, might take a few hours, including drying times for joint compound layers. Larger repairs involving new drywall sections, multiple coats of mud, and texturing can extend over one to two days. This includes crucial drying periods between applications to ensure a durable and smooth finish. We aim to complete projects efficiently while maintaining quality.",
+        "description": "Patching time varies from a few hours for small repairs to one or two days for larger jobs, including drying times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

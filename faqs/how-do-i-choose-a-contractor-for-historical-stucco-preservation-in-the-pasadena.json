@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for historical stucco preservation in the Pasadena area?",
+  "description": "Choose a contractor with historic stucco experience, a portfolio of similar projects, and an understanding of traditional materials and techniques. Verify refer",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-a-contractor-for-historical-stucco-preservation-in-the-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for historical stucco preservation in the Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor for historical stucco preservation in Pasadena, look for specialists with proven experience in historic properties. Verify their portfolio includes similar projects and ask for references. Ensure they understand traditional stucco compositions (e.g., lime-based) and application techniques. A good contractor will conduct a thorough assessment, provide a detailed scope of work, and discuss material matching. Prioritize those who respect architectural authenticity over quick fixes, especially for homes in areas like Old Town Pasadena or Bungalow Heaven.",
+        "description": "Choose a contractor with historic stucco experience, a portfolio of similar projects, and an understanding of traditional materials and techniques. Verify references."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

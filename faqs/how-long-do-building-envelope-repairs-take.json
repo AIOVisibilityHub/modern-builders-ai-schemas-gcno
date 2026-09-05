@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do building-envelope repairs take?",
+  "description": "Repair times vary from a few days for minor fixes to several weeks or months for extensive projects, depending on complexity and scope.",
+  "url": "https://modernbuilderscali.com/faq/how-long-do-building-envelope-repairs-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do building-envelope repairs take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of building-envelope repairs depends largely on the project's complexity and size. Minor repairs, such as sealing a few leaks or replacing a small section of flashing, might be completed within a day or two. More extensive projects, like a full roof replacement, significant wall reconstruction, or comprehensive water mitigation, can take several weeks or even months. Factors like weather conditions, material availability, and necessary permits can also influence the timeline. We provide an estimated completion date after a full assessment.",
+        "description": "Repair times vary from a few days for minor fixes to several weeks or months for extensive projects, depending on complexity and scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

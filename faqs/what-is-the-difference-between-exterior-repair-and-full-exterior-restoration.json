@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between exterior repair and full exterior restoration?",
+  "description": "Exterior repair fixes localized damage, while full exterior restoration is a comprehensive approach addressing multiple components of a building's exterior to r",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-exterior-repair-and-full-exterior-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between exterior repair and full exterior restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior repair typically addresses localized damage, such as patching a specific crack, replacing a few broken tiles, or repainting a small section. It's focused on fixing isolated problems to prevent further deterioration. Full exterior restoration, on the other hand, involves a more comprehensive approach. It encompasses a thorough assessment of the entire building exterior, often requiring extensive work on multiple components like facades, roofing, and windows, aiming to return the structure to a superior condition, often preserving or enhancing historical elements.",
+        "description": "Exterior repair fixes localized damage, while full exterior restoration is a comprehensive approach addressing multiple components of a building's exterior to return it to a superior condition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

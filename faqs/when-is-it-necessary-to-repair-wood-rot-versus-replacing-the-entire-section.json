@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it necessary to repair wood rot versus replacing the entire section?",
+  "description": "Repair minor, localized rot, but replace extensive or deeply penetrated sections to ensure structural integrity. A professional can assess the severity and reco",
+  "url": "https://modernbuilderscali.com/faq/when-is-it-necessary-to-repair-wood-rot-versus-replacing-the-entire-section",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it necessary to repair wood rot versus replacing the entire section?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision to repair or replace depends on the extent and severity of the wood rot. Minor, localized rot where less than 20-30% of the wood's structural integrity is compromised can often be repaired by removing the damaged section and filling it with epoxy or wood filler. However, if the rot is extensive, deeply penetrates the wood, or has compromised a significant structural element, replacement is generally the safer and more durable option. A professional assessment can determine the best course of action to ensure long-term stability and prevent recurrence.",
+        "description": "Repair minor, localized rot, but replace extensive or deeply penetrated sections to ensure structural integrity. A professional can assess the severity and recommend the best solution."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I paint directly over new drywall without finishing it?",
+  "description": "No, painting directly over unfinished drywall is not recommended. It will highlight imperfections and lead to an uneven, unprofessional finish because the surfa",
+  "url": "https://modernbuilderscali.com/faq/can-i-paint-directly-over-new-drywall-without-finishing-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I paint directly over new drywall without finishing it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you should not paint directly over new drywall without proper finishing. Unfinished drywall has visible seams, screw or nail heads, and an inconsistent surface texture. Painting directly on it will highlight every imperfection, making the wall look unprofessional and unfinished. The joint compound and sanding process creates a uniform, smooth substrate that allows paint to adhere evenly and achieve the desired aesthetic. Without finishing, paint absorption will also be inconsistent, leading to a splotchy appearance and poor durability.",
+        "description": "No, painting directly over unfinished drywall is not recommended. It will highlight imperfections and lead to an uneven, unprofessional finish because the surface is not smooth and uniform."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

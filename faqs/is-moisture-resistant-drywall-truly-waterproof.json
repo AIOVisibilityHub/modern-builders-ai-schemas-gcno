@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is moisture-resistant drywall truly waterproof?",
+  "description": "No, moisture-resistant drywall is not waterproof; it only resists moisture absorption. For areas with constant water contact, other waterproof materials are nee",
+  "url": "https://modernbuilderscali.com/faq/is-moisture-resistant-drywall-truly-waterproof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is moisture-resistant drywall truly waterproof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, moisture-resistant drywall is not waterproof. It is designed to resist moisture and humidity, slowing down water absorption to help prevent mold and mildew growth in damp conditions. However, prolonged exposure to standing water or direct water saturation will eventually compromise its integrity. For areas with constant water contact, such as inside a shower enclosure, cement board or other specialized waterproof backing materials are necessary. Moisture-resistant drywall provides an added layer of protection but is not a substitute for a complete waterproofing system.",
+        "description": "No, moisture-resistant drywall is not waterproof; it only resists moisture absorption. For areas with constant water contact, other waterproof materials are needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

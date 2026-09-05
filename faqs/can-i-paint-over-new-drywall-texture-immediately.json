@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I paint over new drywall texture immediately?",
+  "description": "Do not paint new drywall texture immediately; it needs 24-72 hours to dry and cure. Priming is recommended before painting.",
+  "url": "https://modernbuilderscali.com/faq/can-i-paint-over-new-drywall-texture-immediately",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I paint over new drywall texture immediately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you should not paint over new drywall texture immediately. The newly applied texture compound needs sufficient time to fully dry and cure. This can take anywhere from 24 to 72 hours, depending on the product, texture thickness, and environmental humidity. Applying paint too soon can lead to issues such as bubbling, cracking, or uneven finishes. Once dry, a primer coat is typically recommended before painting to ensure optimal adhesion and a uniform look.",
+        "description": "Do not paint new drywall texture immediately; it needs 24-72 hours to dry and cure. Priming is recommended before painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

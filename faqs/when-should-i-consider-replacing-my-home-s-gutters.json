@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my home's gutters?",
+  "description": "Consider replacing gutters if they have cracks, rust, sag, overflow, or if water is pooling near your foundation. Older systems may also warrant an upgrade.",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-replacing-my-home-s-gutters",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my home's gutters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing your gutters if they show signs of significant wear or damage. Common indicators include cracks, rust, excessive sagging, or frequent overflowing. If you notice water pooling around your home's foundation or landscape erosion, it could be a sign that your existing gutters are no longer effectively directing water away. Older gutter systems, especially those over 20 years old, may also be less efficient than modern options and could benefit from an upgrade.",
+        "description": "Consider replacing gutters if they have cracks, rust, sag, overflow, or if water is pooling near your foundation. Older systems may also warrant an upgrade."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

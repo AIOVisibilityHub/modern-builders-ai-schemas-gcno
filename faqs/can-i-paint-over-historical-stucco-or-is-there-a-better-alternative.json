@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I paint over historical stucco, or is there a better alternative?",
+  "description": "Painting over historical stucco can trap moisture. Breathable finishes like limewash or mineral paints are better alternatives to preserve the stucco's function",
+  "url": "https://modernbuilderscali.com/faq/can-i-paint-over-historical-stucco-or-is-there-a-better-alternative",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I paint over historical stucco, or is there a better alternative?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While you can paint over historical stucco, it is often not the ideal solution. Traditional lime-based stucco needs to breathe to manage moisture effectively. Applying modern, non-breathable paints can trap moisture within the wall system, leading to stucco deterioration, cracking, and eventual failure. A better alternative is to use breathable finishes such as limewash, mineral paints, or silicate-based paints. These options allow the stucco to function as intended while providing color and protection, preserving the health of your historic walls.",
+        "description": "Painting over historical stucco can trap moisture. Breathable finishes like limewash or mineral paints are better alternatives to preserve the stucco's function."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

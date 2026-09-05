@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can wood rot spread to other areas of my home?",
+  "description": "Yes, wood rot can spread to other areas if the moisture source is not fixed, as fungal spores can initiate new decay on other damp wood surfaces.",
+  "url": "https://modernbuilderscali.com/faq/can-wood-rot-spread-to-other-areas-of-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can wood rot spread to other areas of my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, wood rot can spread if the underlying moisture problem is not addressed. The fungi that cause rot can produce spores that, if they land on another damp wood surface, can initiate new decay. Brown rot, often called 'dry rot,' is particularly aggressive and can spread through non-wood materials like plaster and masonry to reach new wood, as long as a moisture source persists. Promptly addressing the moisture issue and repairing all affected wood is crucial to prevent its progression throughout the structure.",
+        "description": "Yes, wood rot can spread to other areas if the moisture source is not fixed, as fungal spores can initiate new decay on other damp wood surfaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

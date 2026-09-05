@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are used in custom framing?",
+  "description": "Custom framing primarily uses dimensional lumber and engineered wood products like LVL and OSB, selected based on structural needs and local codes.",
+  "url": "https://modernbuilderscali.com/faq/what-materials-are-used-in-custom-framing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are used in custom framing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common materials for custom framing include dimensional lumber (such as Douglas fir or Southern yellow pine) for studs, joists, and rafters, and engineered wood products like Laminated Veneer Lumber (LVL) or Oriented Strand Board (OSB) for sheathing and larger spans. We select materials based on structural requirements, local codes, and the architectural design to ensure durability and stability.",
+        "description": "Custom framing primarily uses dimensional lumber and engineered wood products like LVL and OSB, selected based on structural needs and local codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical roof replacement project take?",
+  "description": "A typical roof replacement takes two to seven days, depending on roof size, complexity, materials, and weather.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-typical-roof-replacement-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical roof replacement project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a roof replacement project varies depending on factors like roof size, complexity, material type, and weather conditions. Generally, for an average-sized home, it can take anywhere from two to seven days. Larger or more complex roofs, such as those with multiple gables or unique designs, may require more time. Unforeseen issues like structural damage to the roof deck can also extend the timeline. Your contractor should provide a detailed project schedule.",
+        "description": "A typical roof replacement takes two to seven days, depending on roof size, complexity, materials, and weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

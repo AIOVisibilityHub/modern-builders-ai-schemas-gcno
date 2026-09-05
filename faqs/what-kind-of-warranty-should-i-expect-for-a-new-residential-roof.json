@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of warranty should I expect for a new residential roof?",
+  "description": "Expect a manufacturer's warranty on materials (20-50+ years) and a contractor's warranty on workmanship (5-10 years). Review all details carefully.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-warranty-should-i-expect-for-a-new-residential-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of warranty should I expect for a new residential roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A new residential roof typically comes with two types of warranties: a manufacturer's warranty on the materials and a contractor's warranty on the workmanship. Manufacturer warranties vary by material but often range from 20 years for basic asphalt shingles up to 50 years or a lifetime for premium products like architectural shingles, tile, or metal. Workmanship warranties, provided by the contractor, usually cover installation defects for 5 to 10 years. Always review warranty details carefully to understand coverage, limitations, and transferability.",
+        "description": "Expect a manufacturer's warranty on materials (20-50+ years) and a contractor's warranty on workmanship (5-10 years). Review all details carefully."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

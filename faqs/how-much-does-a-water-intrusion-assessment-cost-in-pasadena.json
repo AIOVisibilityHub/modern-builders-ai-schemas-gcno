@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a water intrusion assessment cost in Pasadena?",
+  "description": "Costs vary in Pasadena based on property size, issue complexity, and scope. Get a quote for specifics.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-a-water-intrusion-assessment-cost-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a water intrusion assessment cost in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a water intrusion assessment in Pasadena varies based on the property size, the complexity of the issue, and the assessment's scope. Factors like the type of property (e.g., residential home vs. commercial building) and the extent of suspected damage influence pricing. A basic visual inspection might be less expensive than one requiring specialized equipment like thermal imaging or moisture meters. It's best to get a detailed quote after an initial consultation to understand the specific costs for your situation.",
+        "description": "Costs vary in Pasadena based on property size, issue complexity, and scope. Get a quote for specifics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

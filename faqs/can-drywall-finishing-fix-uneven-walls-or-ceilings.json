@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can drywall finishing fix uneven walls or ceilings?",
+  "description": "Drywall finishing can correct minor wall or ceiling irregularities by strategically applying joint compound. However, significant structural unevenness or frami",
+  "url": "https://modernbuilderscali.com/faq/can-drywall-finishing-fix-uneven-walls-or-ceilings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can drywall finishing fix uneven walls or ceilings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While drywall finishing is designed to create a smooth surface, it has limitations in correcting significant structural unevenness. Skilled finishers can apply multiple layers of joint compound strategically to 'float' minor depressions or irregularities, effectively building up low spots to create a flatter plane. However, if the underlying framing is severely out of plumb or the drywall panels themselves are installed significantly unevenly, finishing alone cannot fully rectify these issues. Major unevenness might require addressing the framing or shimming the drywall before the finishing process can achieve a truly flat result.",
+        "description": "Drywall finishing can correct minor wall or ceiling irregularities by strategically applying joint compound. However, significant structural unevenness or framing issues require prior correction beyond just finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

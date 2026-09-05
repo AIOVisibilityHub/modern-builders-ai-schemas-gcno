@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does water damage repair usually take?",
+  "description": "Repair times vary based on damage severity; minor issues might take days, while extensive damage could take weeks or months.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-water-damage-repair-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does water damage repair usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of water damage repair varies significantly based on the severity of the damage, the size of the affected area, and the type of materials involved. Minor issues, such as a small leak quickly addressed, might take a few days for drying and minor repairs. Extensive damage from a flood, impacting multiple rooms or structural elements, could take several weeks or even months to fully restore. Our team provides an estimated timeline after the initial assessment.",
+        "description": "Repair times vary based on damage severity; minor issues might take days, while extensive damage could take weeks or months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

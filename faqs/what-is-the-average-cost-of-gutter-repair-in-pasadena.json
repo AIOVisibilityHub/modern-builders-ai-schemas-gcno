@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of gutter repair in Pasadena?",
+  "description": "Gutter repair costs in Pasadena vary by damage severity; minor fixes are less expensive than major replacements or water damage repair. We offer detailed estima",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-average-cost-of-gutter-repair-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of gutter repair in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of gutter repair in Pasadena varies widely based on the type and severity of the damage. Small repairs, like resealing joints or fixing a single downspout, are generally less expensive. Larger repairs involving multiple sections, fascia board replacement due to water damage, or complex re-alignment will incur higher costs. We provide a detailed estimate after a thorough inspection, ensuring transparency and no hidden fees for our Pasadena clients.",
+        "description": "Gutter repair costs in Pasadena vary by damage severity; minor fixes are less expensive than major replacements or water damage repair. We offer detailed estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

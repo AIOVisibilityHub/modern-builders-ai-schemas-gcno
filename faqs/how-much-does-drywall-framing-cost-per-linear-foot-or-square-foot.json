@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does drywall framing cost per linear foot or square foot?",
+  "description": "Drywall framing costs vary, typically from $2.00 to $5.00 per linear foot or $0.75 to $2.00 per square foot, depending on materials, labor, and project complexi",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-drywall-framing-cost-per-linear-foot-or-square-foot",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does drywall framing cost per linear foot or square foot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of drywall framing varies significantly based on material choice (wood vs. metal), labor rates, project complexity, and local market conditions. Generally, wood framing can range from $2.00 to $5.00 per linear foot, or $0.75 to $2.00 per square foot of wall surface. Metal framing might be slightly higher due to material cost. These figures typically cover materials and labor for basic framing. Complex designs, curves, or specific structural requirements will increase the overall cost.",
+        "description": "Drywall framing costs vary, typically from $2.00 to $5.00 per linear foot or $0.75 to $2.00 per square foot, depending on materials, labor, and project complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

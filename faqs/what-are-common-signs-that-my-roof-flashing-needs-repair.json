@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my roof flashing needs repair?",
+  "description": "Common signs include visible damage like rust, cracks, or buckling on the flashing, or water stains on interior ceilings and walls near roof penetrations.",
+  "url": "https://modernbuilderscali.com/faq/what-are-common-signs-that-my-roof-flashing-needs-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my roof flashing needs repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visible signs of damage often indicate flashing repair is needed. Look for rust, cracks, corrosion, or buckling around chimneys, skylights, or vent pipes. Displaced or loose flashing, where it pulls away from the roof surface, is another clear indicator. Inside your home, water stains on ceilings or walls, especially near roof penetrations, are a strong sign of a flashing leak. Promptly addressing these issues can prevent more extensive and expensive water damage to your home's structure and interior.",
+        "description": "Common signs include visible damage like rust, cracks, or buckling on the flashing, or water stains on interior ceilings and walls near roof penetrations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

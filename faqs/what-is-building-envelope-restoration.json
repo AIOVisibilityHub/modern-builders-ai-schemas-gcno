@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is building-envelope restoration?",
+  "description": "Building-envelope restoration repairs and renews a structure's exterior components to protect it from weather and improve its performance.",
+  "url": "https://modernbuilderscali.com/faq/what-is-building-envelope-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is building-envelope restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building-envelope restoration involves repairing or replacing elements that protect a structure from external elements like weather and moisture. This includes components such as roofs, walls, windows, and foundations. The goal is to maintain the building's integrity, improve energy efficiency, prevent water intrusion, and enhance its overall longevity and appearance. Restoration can address issues like cracks, leaks, material deterioration, and outdated systems, ensuring the building remains safe and functional.",
+        "description": "Building-envelope restoration repairs and renews a structure's exterior components to protect it from weather and improve its performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

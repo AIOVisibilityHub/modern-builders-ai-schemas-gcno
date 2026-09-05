@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I identify wood rot in my home?",
+  "description": "Identify wood rot by looking for discoloration, cracking, or fungal growth. Touch the wood to see if it's soft or crumbly, and check for a musty odor, especiall",
+  "url": "https://modernbuilderscali.com/faq/how-can-i-identify-wood-rot-in-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I identify wood rot in my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Identifying wood rot often involves a visual inspection and a simple touch test. Look for discoloration, such as dark spots or fungal growth on wood surfaces. The wood may appear cracked, shrunken, or crumbly, especially brown rot. For white rot, it might feel soft and spongy when probed with a screwdriver. A musty odor can also indicate hidden rot. Pay close attention to areas prone to moisture, such as around windows, doors, and plumbing fixtures, or in basements and attics.",
+        "description": "Identify wood rot by looking for discoloration, cracking, or fungal growth. Touch the wood to see if it's soft or crumbly, and check for a musty odor, especially in damp areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

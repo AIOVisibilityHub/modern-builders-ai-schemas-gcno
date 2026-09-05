@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing drywall in a kitchen?",
+  "description": "The process involves preparing studs, cutting and hanging drywall panels, then taping, mudding, and sanding the seams multiple times to create a smooth surface",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-installing-drywall-in-a-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing drywall in a kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kitchen drywall installation begins with preparing the studs and electrical boxes. Next, drywall panels are cut to size and securely fastened to the wall studs and ceiling joists. After all panels are hung, the seams are taped, and multiple layers of joint compound (mud) are applied and allowed to dry. Each layer is sanded smooth before the next is applied. This process creates a seamless surface, ready for primer and paint.",
+        "description": "The process involves preparing studs, cutting and hanging drywall panels, then taping, mudding, and sanding the seams multiple times to create a smooth surface ready for paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

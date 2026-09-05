@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does wood rot repair cost?",
+  "description": "Wood rot repair costs vary greatly based on the damage extent, location, and accessibility, ranging from hundreds for small areas to thousands for structural re",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-wood-rot-repair-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does wood rot repair cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of wood rot repair is highly variable, depending on factors such as the area affected, the type and extent of the rot, the accessibility of the damage, and whether the repair involves replacement of structural components or merely cosmetic filling. Small, localized repairs might range from a few hundred dollars. More extensive damage, especially involving structural members, can run into thousands. Obtaining a detailed estimate after an on-site inspection is the most accurate way to understand the potential cost for your specific situation.",
+        "description": "Wood rot repair costs vary greatly based on the damage extent, location, and accessibility, ranging from hundreds for small areas to thousands for structural repairs. An on-site estimate is recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

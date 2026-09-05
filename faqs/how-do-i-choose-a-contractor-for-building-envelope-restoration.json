@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for building-envelope restoration?",
+  "description": "Choose a contractor with experience, proper licensing, insurance, strong references, and a clear understanding of building codes.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-a-contractor-for-building-envelope-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for building-envelope restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a contractor for building-envelope restoration, look for experience with similar projects, especially those involving older or historic structures if applicable. Verify their licensing, insurance, and reputation through references or online reviews. Inquire about their understanding of building codes and relevant local regulations. A reputable contractor will provide a clear, detailed proposal outlining the scope of work, timeline, and cost. Prioritize communication and transparency throughout the selection process.",
+        "description": "Choose a contractor with experience, proper licensing, insurance, strong references, and a clear understanding of building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

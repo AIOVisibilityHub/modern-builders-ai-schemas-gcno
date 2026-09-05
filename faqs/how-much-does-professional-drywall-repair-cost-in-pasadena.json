@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does professional drywall repair cost in Pasadena?",
+  "description": "Professional drywall repair costs in Pasadena vary. Small patches might be $100-$300, while extensive damage could be $500 to several thousand. Obtain multiple",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-professional-drywall-repair-cost-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does professional drywall repair cost in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of professional drywall repair in Pasadena varies widely depending on the extent of the damage, the type of repair needed, and the specific contractor. Small patch jobs, like fixing a nail pop or a small hole, might range from $100 to $300. Larger repairs involving extensive water damage, multiple sheets of drywall, or matching complex textures could cost anywhere from $500 to several thousand dollars. Most contractors provide free estimates, which account for labor, materials, and any necessary preparation or finishing work, so it's best to obtain a few quotes.",
+        "description": "Professional drywall repair costs in Pasadena vary. Small patches might be $100-$300, while extensive damage could be $500 to several thousand. Obtain multiple quotes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

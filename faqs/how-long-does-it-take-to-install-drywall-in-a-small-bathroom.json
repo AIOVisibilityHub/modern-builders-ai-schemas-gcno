@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install drywall in a small bathroom?",
+  "description": "Installing drywall in a small bathroom usually takes 1 to 3 days, including hanging, taping, and mudding with drying times.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-it-take-to-install-drywall-in-a-small-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install drywall in a small bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The time required to install drywall in a small bathroom typically ranges from 1 to 3 days. This includes cutting and hanging the sheets, taping seams, applying multiple coats of joint compound, and sanding. Drying times between coats significantly impact the overall duration. Factors like bathroom size, complexity of the layout, and existing wall conditions can affect the timeline.",
+        "description": "Installing drywall in a small bathroom usually takes 1 to 3 days, including hanging, taping, and mudding with drying times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

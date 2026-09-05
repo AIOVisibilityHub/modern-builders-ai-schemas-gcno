@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I repair small drywall cracks myself?",
+  "description": "Yes, small drywall cracks can be repaired using joint compound or spackle, often with fiberglass mesh tape for reinforcement. Persistent or large cracks may ind",
+  "url": "https://modernbuilderscali.com/faq/can-i-repair-small-drywall-cracks-myself",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I repair small drywall cracks myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, small drywall cracks, typically hairline or less than 1/8 inch wide, can often be repaired by a homeowner. The process usually involves cleaning the crack, applying a thin layer of joint compound or spackle, allowing it to dry, and then sanding it smooth. For slightly larger cracks, using fiberglass mesh tape before applying joint compound can provide extra reinforcement. However, if cracks reappear, widen, or appear in multiple places, it could indicate underlying structural movement that requires professional assessment.",
+        "description": "Yes, small drywall cracks can be repaired using joint compound or spackle, often with fiberglass mesh tape for reinforcement. Persistent or large cracks may indicate structural issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

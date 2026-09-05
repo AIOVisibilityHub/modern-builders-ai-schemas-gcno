@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need building-envelope repair?",
+  "description": "You need building-envelope repair if you observe water leaks, drafts, deteriorating exterior materials, mold, or unexplained increases in energy bills.",
+  "url": "https://modernbuilderscali.com/faq/when-do-i-need-building-envelope-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need building-envelope repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You likely need building-envelope repair if you notice signs of water intrusion such as leaks, stains on walls or ceilings, or peeling paint. Other indicators include drafts around windows or doors, deteriorating exterior materials like cracked stucco or damaged siding, persistent mold or mildew growth, or higher than usual energy bills. Addressing these issues promptly is crucial to prevent further damage, maintain structural integrity, and avoid costly future repairs. Regular inspections can help identify potential problems early.",
+        "description": "You need building-envelope repair if you observe water leaks, drafts, deteriorating exterior materials, mold, or unexplained increases in energy bills."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

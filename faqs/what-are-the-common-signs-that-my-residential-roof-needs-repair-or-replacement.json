@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common signs that my residential roof needs repair or replacement?",
+  "description": "Signs include missing or damaged shingles, granules in gutters, interior water stains, or a sagging roof. A professional inspection can confirm the need for rep",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-common-signs-that-my-residential-roof-needs-repair-or-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common signs that my residential roof needs repair or replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs indicating your residential roof might need repair or replacement include missing, cracked, or curled shingles, especially after a storm. You might also notice granules from shingles accumulating in your gutters, which suggests wear. Inside your home, water stains on ceilings or walls, a sagging roof deck, or daylight visible through the attic are critical indicators of significant damage or leaks. A professional inspection can accurately assess the extent of the damage and recommend the best course of action.",
+        "description": "Signs include missing or damaged shingles, granules in gutters, interior water stains, or a sagging roof. A professional inspection can confirm the need for repair or replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

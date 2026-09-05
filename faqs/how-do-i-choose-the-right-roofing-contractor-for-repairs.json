@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right roofing contractor for repairs?",
+  "description": "Choose a licensed, insured, and reputable contractor with good reviews and references. Get multiple quotes and ensure they offer warranties for their work.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-roofing-contractor-for-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right roofing contractor for repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a roofing contractor for repairs, look for experienced and reputable professionals. Verify that they are licensed, insured, and have a strong track record of quality workmanship. Ask for references and check online reviews to gauge customer satisfaction. Obtain multiple detailed quotes to compare services and pricing. A reliable contractor will offer a thorough inspection, clear communication, and provide warranties for their work, ensuring peace of mind for your repair project.",
+        "description": "Choose a licensed, insured, and reputable contractor with good reviews and references. Get multiple quotes and ensure they offer warranties for their work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

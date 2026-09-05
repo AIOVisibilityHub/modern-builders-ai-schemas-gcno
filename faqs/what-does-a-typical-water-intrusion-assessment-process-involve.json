@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a typical water intrusion assessment process involve?",
+  "description": "The process includes visual inspection, using specialized tools to find leaks, documenting damage, and providing a repair report.",
+  "url": "https://modernbuilderscali.com/faq/what-does-a-typical-water-intrusion-assessment-process-involve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a typical water intrusion assessment process involve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical assessment begins with an initial consultation and visual inspection of your property. Our experts then use specialized tools, which may include moisture meters, thermal imaging cameras, or boroscopes, to pinpoint hidden water sources. They trace the path of water intrusion, document all findings with photos, and identify damaged areas. Finally, you receive a comprehensive report detailing the source of the leak, the extent of damage, and a clear recommendation for effective repair solutions.",
+        "description": "The process includes visual inspection, using specialized tools to find leaks, documenting damage, and providing a repair report."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

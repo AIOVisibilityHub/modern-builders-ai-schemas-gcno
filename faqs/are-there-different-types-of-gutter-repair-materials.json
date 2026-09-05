@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there different types of gutter repair materials?",
+  "description": "Gutter repair uses various materials like sealants, patches for holes, and replacement sections (aluminum, copper, vinyl) chosen to match existing gutters.",
+  "url": "https://modernbuilderscali.com/faq/are-there-different-types-of-gutter-repair-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there different types of gutter repair materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, gutter repair materials vary depending on the existing gutter type and the nature of the damage. Common materials include sealants for leaks in seams, specific patches for holes in aluminum or steel gutters, and replacement sections made from aluminum, copper, or vinyl to match the existing system. Fasteners, hangers, and downspout components are also selected to ensure compatibility and durability. The goal is to ensure a seamless and lasting repair.",
+        "description": "Gutter repair uses various materials like sealants, patches for holes, and replacement sections (aluminum, copper, vinyl) chosen to match existing gutters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

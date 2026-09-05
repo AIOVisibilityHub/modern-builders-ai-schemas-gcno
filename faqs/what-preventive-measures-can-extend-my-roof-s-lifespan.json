@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preventive measures can extend my roof's lifespan?",
+  "description": "Regularly clean gutters, trim overhanging branches, and perform visual inspections. Addressing small issues like loose shingles promptly helps extend roof life.",
+  "url": "https://modernbuilderscali.com/faq/what-preventive-measures-can-extend-my-roof-s-lifespan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preventive measures can extend my roof's lifespan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular maintenance and preventive measures can significantly extend your roof's lifespan and reduce the need for frequent repairs. This includes keeping gutters and downspouts clear of debris to ensure proper water drainage, trimming overhanging tree branches to prevent damage and leaf accumulation, and performing periodic visual inspections to catch minor issues early. Addressing small problems like loose or missing shingles promptly can prevent them from escalating into major repairs, ultimately saving you time and money.",
+        "description": "Regularly clean gutters, trim overhanging branches, and perform visual inspections. Addressing small issues like loose shingles promptly helps extend roof life."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

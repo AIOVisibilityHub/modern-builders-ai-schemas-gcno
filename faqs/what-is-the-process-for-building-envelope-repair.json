@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for building-envelope repair?",
+  "description": "The repair process includes inspection, detailed planning, removal of damaged materials, installation of new components, site cleanup, and a final quality inspe",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-building-envelope-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for building-envelope repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical process begins with a thorough inspection to identify all points of failure and assess the extent of damage. Following the inspection, a detailed repair plan and estimate are provided. Once approved, the work involves preparing the site, carefully removing damaged materials, and then installing new or repaired components using appropriate techniques and high-quality materials. Finally, the site is cleaned, and a final inspection ensures all repairs meet quality standards and address the original issues. Communication with the client is maintained throughout the project.",
+        "description": "The repair process includes inspection, detailed planning, removal of damaged materials, installation of new components, site cleanup, and a final quality inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

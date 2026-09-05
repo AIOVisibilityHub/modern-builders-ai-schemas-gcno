@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between plaster repair and drywall repair?",
+  "description": "Plaster repair uses specialized materials for layered walls in older homes, while drywall repair uses joint compound and new panels for gypsum-based walls. Mate",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-plaster-repair-and-drywall-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between plaster repair and drywall repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plaster repair and drywall repair address different wall materials. Plaster walls, common in older homes, are built up in layers over lath and can be more brittle but also more durable once cured. Repairing plaster often involves specialized materials like gauging plaster or setting-type compounds, and techniques for keying into the lath. Drywall, a more modern material, consists of gypsum plaster pressed between paper sheets. Drywall repairs typically use joint compound, tape, and new drywall panels. While both aim for a smooth finish, the materials and methods used differ significantly due to their distinct compositions and structural characteristics.",
+        "description": "Plaster repair uses specialized materials for layered walls in older homes, while drywall repair uses joint compound and new panels for gypsum-based walls. Materials and methods differ significantly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is moisture-resistant drywall and how does it differ from standard drywall?",
+  "description": "Moisture-resistant drywall has a water-repellent facing and treated core, making it more resistant to moisture than standard drywall, though it is not waterproo",
+  "url": "https://modernbuilderscali.com/faq/what-is-moisture-resistant-drywall-and-how-does-it-differ-from-standard-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is moisture-resistant drywall and how does it differ from standard drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moisture-resistant drywall, often called 'green board' due to its common color, has a water-repellent paper facing and a specially treated core that slows down water absorption. This makes it more resistant to moisture and humidity than standard drywall, which can quickly degrade and foster mold growth when wet. It is not waterproof, but it offers enhanced protection in damp environments. Standard drywall is suitable for dry interior spaces, while moisture-resistant drywall is designed for areas with intermittent moisture exposure.",
+        "description": "Moisture-resistant drywall has a water-repellent facing and treated core, making it more resistant to moisture than standard drywall, though it is not waterproof."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

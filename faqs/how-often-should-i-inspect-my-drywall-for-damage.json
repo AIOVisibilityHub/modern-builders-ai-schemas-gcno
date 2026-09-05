@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I inspect my drywall for damage?",
+  "description": "Inspect your drywall at least annually, and more frequently in high-humidity areas or after significant events like heavy rain or seismic activity, to catch iss",
+  "url": "https://modernbuilderscali.com/faq/how-often-should-i-inspect-my-drywall-for-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I inspect my drywall for damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to inspect your drywall at least once a year as part of general home maintenance. However, areas prone to higher humidity, such as bathrooms and kitchens, or walls near plumbing, should be checked more frequently, perhaps quarterly. After any significant events like heavy rain, seismic activity, or if you notice changes in your home's foundation, a thorough inspection is also recommended. Early detection of issues like small cracks, moisture spots, or loose tape can prevent more extensive and costly repairs down the line.",
+        "description": "Inspect your drywall at least annually, and more frequently in high-humidity areas or after significant events like heavy rain or seismic activity, to catch issues early."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

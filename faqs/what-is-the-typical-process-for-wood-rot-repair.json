@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for wood rot repair?",
+  "description": "The wood rot repair process involves finding and fixing the moisture source, removing damaged wood, treating with fungicide, and then either filling with epoxy",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-wood-rot-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for wood rot repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The wood rot repair process typically begins with identifying and addressing the source of moisture causing the rot. Next, all damaged and compromised wood is carefully removed, ensuring no affected material remains. The surrounding healthy wood is then treated with a fungicidal solution to prevent future growth. Finally, the removed section is either filled with a durable wood epoxy or a new piece of treated lumber is custom-fitted and secured, depending on the extent of the damage. The repaired area is then sealed and finished to match the existing structure.",
+        "description": "The wood rot repair process involves finding and fixing the moisture source, removing damaged wood, treating with fungicide, and then either filling with epoxy or replacing the wood section."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

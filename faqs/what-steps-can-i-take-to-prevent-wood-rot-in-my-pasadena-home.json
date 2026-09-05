@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps can I take to prevent wood rot in my Pasadena home?",
+  "description": "Prevent wood rot in your Pasadena home by managing moisture: clean gutters, ensure proper drainage, seal cracks, fix leaks, and use protective exterior sealants",
+  "url": "https://modernbuilderscali.com/faq/what-steps-can-i-take-to-prevent-wood-rot-in-my-pasadena-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps can I take to prevent wood rot in my Pasadena home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventing wood rot in a Pasadena home involves managing moisture and ensuring proper ventilation. Regularly inspect and clean gutters to prevent water overflow, which can saturate siding or foundations. Ensure proper drainage away from your home's foundation. Seal any cracks or gaps around windows, doors, and the foundation. Address plumbing leaks promptly. Use exterior paints and sealants that offer good moisture protection. In areas like Pasadena, consistent moisture from irrigation or rain can create conditions for rot, so vigilance is key.",
+        "description": "Prevent wood rot in your Pasadena home by managing moisture: clean gutters, ensure proper drainage, seal cracks, fix leaks, and use protective exterior sealants. Regular inspections are vital."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

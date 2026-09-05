@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between repairing and replacing exterior siding?",
+  "description": "Repairing fixes localized damage, while replacing involves installing new siding over a larger area due to widespread damage or for an aesthetic update.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-repairing-and-replacing-exterior-siding",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between repairing and replacing exterior siding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repairing siding involves fixing specific damaged sections, such as patching a hole, replacing a few cracked boards, or reattaching loose panels. This is suitable when damage is localized and the majority of the siding is in good condition. Replacing siding, on the other hand, means removing and installing new material over a larger area or the entire house. Replacement is typically recommended when there is widespread damage, significant deterioration, or if you're looking for a complete aesthetic update or improved energy efficiency.",
+        "description": "Repairing fixes localized damage, while replacing involves installing new siding over a larger area due to widespread damage or for an aesthetic update."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

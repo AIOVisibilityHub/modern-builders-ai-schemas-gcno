@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I prepare my home for drywall patching services?",
+  "description": "Clear the work area, cover nearby furniture to protect from dust, ensure good lighting, and keep pets and children away.",
+  "url": "https://modernbuilderscali.com/faq/how-can-i-prepare-my-home-for-drywall-patching-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I prepare my home for drywall patching services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare for drywall patching, clear the work area of furniture, decor, and anything that could obstruct access to the wall. Cover nearby items with drop cloths or plastic sheeting to protect them from dust, which can be significant even with dust-control measures. Ensure good lighting in the work zone. If pets or small children are present, arrange for them to be in a separate area to ensure their safety and allow the technicians to work efficiently without interruption.",
+        "description": "Clear the work area, cover nearby furniture to protect from dust, ensure good lighting, and keep pets and children away."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

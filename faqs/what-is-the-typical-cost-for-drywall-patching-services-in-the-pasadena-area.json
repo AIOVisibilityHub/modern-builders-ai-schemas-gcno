@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for drywall patching services in the Pasadena area?",
+  "description": "Costs vary by damage size, complexity, and texture matching. We provide estimates after an on-site evaluation.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-cost-for-drywall-patching-services-in-the-pasadena-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for drywall patching services in the Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of drywall patching varies based on the size and complexity of the repair, as well as the number of patches needed. Minor repairs, like small nail holes or stress cracks, generally cost less than larger repairs involving cutting and replacing sections. Factors such as texture matching, paint prep, and the need for scaffolding can also influence the price. We provide detailed estimates after an on-site evaluation to ensure transparency and accuracy for our Pasadena clients.",
+        "description": "Costs vary by damage size, complexity, and texture matching. We provide estimates after an on-site evaluation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

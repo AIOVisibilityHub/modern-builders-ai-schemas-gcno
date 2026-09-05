@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a water intrusion assessment detect hidden leaks?",
+  "description": "Yes, assessments use tools like thermal imaging and moisture meters to find hidden leaks behind walls and in building materials.",
+  "url": "https://modernbuilderscali.com/faq/can-a-water-intrusion-assessment-detect-hidden-leaks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a water intrusion assessment detect hidden leaks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a professional water intrusion assessment is specifically designed to detect hidden leaks that may not be visible to the untrained eye. Our experts utilize advanced tools such as thermal imaging cameras, which can identify temperature differences caused by moisture behind walls, and moisture meters that measure moisture content in building materials. These technologies allow for precise location of leaks without destructive investigative methods, helping to prevent extensive damage from going unnoticed.",
+        "description": "Yes, assessments use tools like thermal imaging and moisture meters to find hidden leaks behind walls and in building materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

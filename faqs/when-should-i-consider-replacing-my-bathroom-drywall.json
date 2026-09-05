@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my bathroom drywall?",
+  "description": "Replace bathroom drywall if you see water damage (swelling, discoloration), mold, or significant physical damage.",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-replacing-my-bathroom-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my bathroom drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing your bathroom drywall if you notice signs of water damage, such as swelling, discoloration, soft spots, or a musty odor. Visible mold growth, even after cleaning, also indicates a need for replacement. Additionally, if the drywall is significantly damaged due to impacts or structural issues, replacement is often more effective than repairs.",
+        "description": "Replace bathroom drywall if you see water damage (swelling, discoloration), mold, or significant physical damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

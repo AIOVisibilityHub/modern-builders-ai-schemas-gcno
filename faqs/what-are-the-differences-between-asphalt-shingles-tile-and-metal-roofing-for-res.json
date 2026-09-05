@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the differences between asphalt shingles, tile, and metal roofing for residential homes?",
+  "description": "Asphalt shingles are affordable and versatile. Tile offers durability and longevity. Metal provides longevity, energy efficiency, and weather resistance. Each v",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-differences-between-asphalt-shingles-tile-and-metal-roofing-for-res",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the differences between asphalt shingles, tile, and metal roofing for residential homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Asphalt shingles are popular for their affordability and versatility, offering a good balance of cost, durability, and aesthetic options. Tile roofing, including clay and concrete, is known for its exceptional durability, longevity, and distinct architectural style, often lasting 50+ years. Metal roofing, such as standing seam or corrugated panels, provides excellent longevity, energy efficiency, and resistance to fire and severe weather. Each material has different initial costs, lifespans, and maintenance requirements, impacting the overall value proposition.",
+        "description": "Asphalt shingles are affordable and versatile. Tile offers durability and longevity. Metal provides longevity, energy efficiency, and weather resistance. Each varies in cost and lifespan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

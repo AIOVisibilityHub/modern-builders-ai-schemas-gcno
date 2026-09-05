@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right roofing contractor for my replacement project?",
+  "description": "Choose a roofing contractor by checking their license, insurance, references, and local reputation. Request detailed estimates and confirm warranties.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-roofing-contractor-for-my-replacement-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right roofing contractor for my replacement project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right roofing contractor involves several key steps. Look for contractors who are licensed, insured, and have a strong local reputation, especially in areas like Pasadena. Request references from previous clients and check online reviews. Ensure they provide a detailed written estimate outlining all costs, materials, and a clear project timeline. Ask about warranties for both materials and labor, and confirm they will handle permit acquisition. A good contractor communicates clearly and transparently throughout the entire process.",
+        "description": "Choose a roofing contractor by checking their license, insurance, references, and local reputation. Request detailed estimates and confirm warranties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

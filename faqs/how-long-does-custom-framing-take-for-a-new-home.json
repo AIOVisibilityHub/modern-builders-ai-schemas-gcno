@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does custom framing take for a new home?",
+  "description": "Custom framing for a new home typically takes 4 to 12 weeks, depending on the size, complexity, and specific design elements.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-custom-framing-take-for-a-new-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does custom framing take for a new home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of custom framing depends on the size and complexity of the home's design. A typical single-family home in Pasadena might take anywhere from 4 to 12 weeks for the framing stage. Factors such as the number of stories, intricate roof lines, unique wall angles, and weather conditions can extend this timeline. We provide a detailed project schedule after initial design finalization.",
+        "description": "Custom framing for a new home typically takes 4 to 12 weeks, depending on the size, complexity, and specific design elements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for exterior restoration?",
+  "description": "The process involves inspection, planning, permitting, site preparation, repairs, cleaning, and finishing. Clear communication is maintained throughout the proj",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-exterior-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for exterior restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The exterior restoration process typically begins with a thorough inspection and assessment to identify damage and determine the scope of work. This is followed by detailed planning, material selection, and obtaining necessary permits. The physical work then involves preparing the site, carefully removing deteriorated elements, repairing or replacing structural and aesthetic components, cleaning, and applying protective finishes. Regular communication with the client ensures the project progresses smoothly and according to expectations. Final inspection completes the project.",
+        "description": "The process involves inspection, planning, permitting, site preparation, repairs, cleaning, and finishing. Clear communication is maintained throughout the project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

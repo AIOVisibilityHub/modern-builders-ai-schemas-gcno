@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my exterior surfaces need repair?",
+  "description": "Look for visible cracks, peeling paint, discoloration, soft spots, moisture intrusion, or gaps around openings. These are signs your exterior may need attention",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-know-if-my-exterior-surfaces-need-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my exterior surfaces need repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs that your exterior surfaces may need repair include visible cracks, peeling paint, discolored patches, soft or crumbling material, and areas with moisture intrusion. Gaps around windows or doors, shifting or loose siding panels, and evidence of pest damage can also indicate a need for professional assessment. Addressing these issues promptly prevents further damage, maintains your home's curb appeal, and protects its structural integrity from environmental elements.",
+        "description": "Look for visible cracks, peeling paint, discoloration, soft spots, moisture intrusion, or gaps around openings. These are signs your exterior may need attention."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

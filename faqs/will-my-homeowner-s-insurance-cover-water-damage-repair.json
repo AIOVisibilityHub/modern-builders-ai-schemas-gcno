@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my homeowner's insurance cover water damage repair?",
+  "description": "Coverage depends on your policy; most cover sudden accidental damage but not gradual leaks or flood damage without a separate policy.",
+  "url": "https://modernbuilderscali.com/faq/will-my-homeowner-s-insurance-cover-water-damage-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my homeowner's insurance cover water damage repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage, such as from a burst pipe or appliance malfunction. However, they typically do not cover damage resulting from neglected maintenance, gradual leaks, or flood damage, which usually requires a separate flood insurance policy. It's essential to review your specific policy details or contact your insurance provider to understand your coverage. We can help document the damage for your claim.",
+        "description": "Coverage depends on your policy; most cover sudden accidental damage but not gradual leaks or flood damage without a separate policy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

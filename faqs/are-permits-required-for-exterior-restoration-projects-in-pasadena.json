@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are permits required for exterior restoration projects in Pasadena?",
+  "description": "Permits are often required for exterior restoration projects in Pasadena, especially for structural changes or historical properties. We assist with permit iden",
+  "url": "https://modernbuilderscali.com/faq/are-permits-required-for-exterior-restoration-projects-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are permits required for exterior restoration projects in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permits are often required for exterior restoration projects, especially if the work involves structural changes, significant alterations to the building envelope, or changes to historical elements. The specific requirements depend on the scope of work and your property's location within Pasadena, particularly for homes in historic districts like Bungalow Heaven or those with specific zoning overlays. We assist our clients in identifying necessary permits and navigating the application process with the City of Pasadena to ensure compliance.",
+        "description": "Permits are often required for exterior restoration projects in Pasadena, especially for structural changes or historical properties. We assist with permit identification and the application process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

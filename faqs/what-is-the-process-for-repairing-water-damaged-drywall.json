@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for repairing water-damaged drywall?",
+  "description": "First, fix the leak. Then, remove damaged drywall, clean for mold, install new patches, tape and mud seams, and finally prime and paint.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-repairing-water-damaged-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for repairing water-damaged drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repairing water-damaged drywall typically begins with identifying and fixing the source of the water leak. Once the area is dry, any compromised or moldy drywall must be carefully cut out and removed. The exposed area is then thoroughly cleaned and treated for potential mold. New drywall patches are cut to fit, screwed into framing, and the seams are taped and mudded with multiple layers of joint compound. After drying and sanding, the repaired area is primed and painted to match the surrounding wall, restoring its appearance and structural integrity.",
+        "description": "First, fix the leak. Then, remove damaged drywall, clean for mold, install new patches, tape and mud seams, and finally prime and paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between building-envelope repair and general home maintenance?",
+  "description": "Building-envelope repair targets the exterior shell for weatherproofing and structural integrity, while general home maintenance covers broader internal and ext",
+  "url": "https://modernbuilderscali.com/faq/what-s-the-difference-between-building-envelope-repair-and-general-home-maintena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between building-envelope repair and general home maintenance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building-envelope repair focuses specifically on the external shell of a structure—its roof, walls, windows, doors, and foundation—to protect against external elements and maintain structural integrity. This often involves addressing specific failures like water intrusion or material degradation. General home maintenance, while important, encompasses a broader range of tasks, including interior repairs, appliance servicing, landscaping, and routine cleaning. While some overlap exists, building-envelope repair typically addresses more critical, structural, and weather-proofing aspects of a property's exterior.",
+        "description": "Building-envelope repair targets the exterior shell for weatherproofing and structural integrity, while general home maintenance covers broader internal and external upkeep."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

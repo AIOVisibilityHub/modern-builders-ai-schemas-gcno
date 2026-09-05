@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the drywall patching process for a seamless repair?",
+  "description": "The process involves preparing the area, applying patches or new drywall, layering joint compound, sanding, priming, and preparing for paint.",
+  "url": "https://modernbuilderscali.com/faq/what-is-involved-in-the-drywall-patching-process-for-a-seamless-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the drywall patching process for a seamless repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with preparing the area, which may include cleaning, trimming loose edges, or cutting out damaged sections. For small holes, a patch is applied, followed by multiple thin coats of joint compound. For larger areas, a new piece of drywall is installed, taped, and then layered with compound. Each layer requires drying time and sanding to achieve a smooth, level surface. Finally, the area is primed and prepared for painting to blend seamlessly with the existing wall.",
+        "description": "The process involves preparing the area, applying patches or new drywall, layering joint compound, sanding, priming, and preparing for paint."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

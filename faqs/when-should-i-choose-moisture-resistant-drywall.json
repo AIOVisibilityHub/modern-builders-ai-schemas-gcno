@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I choose moisture-resistant drywall?",
+  "description": "Choose moisture-resistant drywall for high-humidity areas like bathrooms, laundry rooms, and basements to prevent mold and mildew growth.",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-choose-moisture-resistant-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I choose moisture-resistant drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moisture-resistant drywall, often called 'green board' or 'purple board,' is specifically designed for areas with high humidity or potential for moisture exposure. You should choose it for bathrooms, laundry rooms, basements, and utility rooms. Its specialized core and paper facings help prevent mold and mildew growth, offering greater durability than standard drywall in damp environments. However, it is not a substitute for waterproof backing in shower enclosures.",
+        "description": "Choose moisture-resistant drywall for high-humidity areas like bathrooms, laundry rooms, and basements to prevent mold and mildew growth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

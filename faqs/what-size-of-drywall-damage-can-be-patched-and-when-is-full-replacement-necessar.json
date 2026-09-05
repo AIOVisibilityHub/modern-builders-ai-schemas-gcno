@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What size of drywall damage can be patched, and when is full replacement necessary?",
+  "description": "Small holes and cracks can be patched; larger damage often requires replacement. A professional can assess the best repair.",
+  "url": "https://modernbuilderscali.com/faq/what-size-of-drywall-damage-can-be-patched-and-when-is-full-replacement-necessar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size of drywall damage can be patched, and when is full replacement necessary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Small holes, cracks, and minor dents (typically under 6 inches in diameter) are ideal candidates for patching. This usually involves applying joint compound and sanding smooth. Larger damage, such as widespread cracks, significant water damage, or holes larger than a foot, often requires cutting out the damaged section and installing a new piece of drywall. This ensures structural integrity and a seamless finish, preventing future issues. A professional assessment can determine the most effective repair method.",
+        "description": "Small holes and cracks can be patched; larger damage often requires replacement. A professional can assess the best repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

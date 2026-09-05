@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it possible to repair textured drywall, like those found in older Pasadena homes?",
+  "description": "Yes, textured drywall can be repaired by patching the damage and then re-applying the texture to match, which often requires specialized skill, especially in ol",
+  "url": "https://modernbuilderscali.com/faq/is-it-possible-to-repair-textured-drywall-like-those-found-in-older-pasadena-hom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it possible to repair textured drywall, like those found in older Pasadena homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, repairing textured drywall is possible, though it often requires more specialized skill to match the existing finish seamlessly. Many older homes in areas like Pasadena feature common textures such as 'orange peel,' 'knockdown,' or 'popcorn.' The repair process involves patching the damaged area as usual, then re-applying the texture using specific tools and techniques to blend it with the surrounding wall. Achieving an invisible repair can be challenging for homeowners, as it demands precision in application and matching the texture pattern. Professionals are often recommended for textured drywall repairs.",
+        "description": "Yes, textured drywall can be repaired by patching the damage and then re-applying the texture to match, which often requires specialized skill, especially in older Pasadena homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

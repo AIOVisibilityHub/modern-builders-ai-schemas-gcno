@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of exterior surface repair?",
+  "description": "Cost factors include material type, damage extent, accessibility, labor, and any need for specialized materials or structural repairs. We provide detailed estim",
+  "url": "https://modernbuilderscali.com/faq/what-factors-influence-the-cost-of-exterior-surface-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of exterior surface repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of exterior surface repair is influenced by several key factors. These include the type of material being repaired (e.g., stucco, wood, brick), the extent and severity of the damage, the accessibility of the repair area, and the labor required. Additionally, the need for specialized materials, permits, or underlying structural repairs can impact the total cost. We provide a detailed, transparent estimate after a thorough on-site assessment, ensuring you understand all components of the pricing.",
+        "description": "Cost factors include material type, damage extent, accessibility, labor, and any need for specialized materials or structural repairs. We provide detailed estimates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between green board and purple board drywall?",
+  "description": "Green board is moisture-resistant, while purple board offers enhanced mold and moisture resistance, providing better protection.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-green-board-and-purple-board-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between green board and purple board drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Green board drywall is moisture-resistant, commonly used in areas with moderate humidity like bathrooms, but it is not waterproof. Purple board drywall, often called mold and moisture-resistant, offers enhanced protection against mold, mildew, and moisture compared to green board. It's suitable for all moisture-prone areas and can offer better durability.",
+        "description": "Green board is moisture-resistant, while purple board offers enhanced mold and moisture resistance, providing better protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

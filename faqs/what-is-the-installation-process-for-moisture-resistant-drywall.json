@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the installation process for moisture-resistant drywall?",
+  "description": "Installation is similar to standard drywall: cutting, fastening to studs, then taping and mudding seams, followed by priming and painting.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-installation-process-for-moisture-resistant-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the installation process for moisture-resistant drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation process for moisture-resistant drywall is very similar to that of standard drywall. It involves cutting sheets to size, fastening them to wall studs or ceiling joists with screws, and then taping and mudding the seams. Precision in cutting and securing is crucial for a smooth finish. After installation, the drywall is typically primed and painted. Special attention is paid to sealing gaps and ensuring proper ventilation in moisture-prone areas where it is used. For areas requiring waterproofing, such as shower enclosures, additional steps with a waterproofing membrane or cement board are integrated.",
+        "description": "Installation is similar to standard drywall: cutting, fastening to studs, then taping and mudding seams, followed by priming and painting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to use a moisture barrier behind bathroom drywall?",
+  "description": "A moisture barrier or vapor retarder is usually recommended behind bathroom drywall, especially near wet areas, to prevent moisture penetration.",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-to-use-a-moisture-barrier-behind-bathroom-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to use a moisture barrier behind bathroom drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most bathroom applications, especially in shower or tub surround areas, a moisture barrier or vapor retarder is recommended behind the drywall. This layer helps prevent moisture from penetrating the wall cavity, protecting the framing and insulation from water damage and mold growth. Local building codes should always be consulted for specific requirements.",
+        "description": "A moisture barrier or vapor retarder is usually recommended behind bathroom drywall, especially near wet areas, to prevent moisture penetration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

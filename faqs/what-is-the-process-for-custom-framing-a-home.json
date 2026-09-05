@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for custom framing a home?",
+  "description": "Custom framing involves laying out foundation plates, assembling and raising walls, and installing ceiling joists and roof structures, following strict blueprin",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-custom-framing-a-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for custom framing a home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins after the foundation is complete. We start by laying out sill plates and floor joists. Next, wall sections are assembled on the ground and then tilted into place and secured. Ceiling joists and roof trusses or rafters are then installed to complete the structural shell. Throughout, we adhere strictly to architectural blueprints, local building codes, and structural engineering specifications, ensuring precise execution and regular inspections.",
+        "description": "Custom framing involves laying out foundation plates, assembling and raising walls, and installing ceiling joists and roof structures, following strict blueprints and codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I repair drywall myself versus hiring a professional?",
+  "description": "DIY is suitable for minor cosmetic issues like nail holes. For larger holes, water damage, or extensive cracks, hire a professional for a durable, seamless repa",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-repair-drywall-myself-versus-hiring-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I repair drywall myself versus hiring a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For small, cosmetic issues like nail holes, minor scuffs, or hairline cracks, DIY repair with a patching kit can be sufficient. However, for larger holes, extensive cracks, water-damaged sections, or structural issues, hiring a professional is recommended. Professionals have the tools, expertise, and materials to ensure a smooth, durable, and structurally sound repair that blends seamlessly with the existing wall. Improper DIY repairs can lead to visible patches, uneven surfaces, or recurring issues, costing more in the long run.",
+        "description": "DIY is suitable for minor cosmetic issues like nail holes. For larger holes, water damage, or extensive cracks, hire a professional for a durable, seamless repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for exterior stucco repair?",
+  "description": "The process involves inspecting damage, removing compromised stucco, preparing the surface, applying new stucco to match texture, and ensuring proper curing and",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-exterior-stucco-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for exterior stucco repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our stucco repair process begins with a thorough inspection to identify the extent of the damage. We then carefully remove any loose or compromised stucco, clean the underlying surface, and apply a high-quality bonding agent. Next, we apply new stucco in layers, matching the existing texture and color as closely as possible for a seamless finish. Finally, the repaired area is allowed to cure properly, often followed by a sealant application for enhanced durability and weather resistance, restoring the beauty and protection of your home's exterior.",
+        "description": "The process involves inspecting damage, removing compromised stucco, preparing the surface, applying new stucco to match texture, and ensuring proper curing and sealing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

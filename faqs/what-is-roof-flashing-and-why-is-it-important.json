@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is roof flashing and why is it important?",
+  "description": "Roof flashing is a material installed at roof junctures to prevent water leaks. It protects your home's structure from water damage, rot, and mold.",
+  "url": "https://modernbuilderscali.com/faq/what-is-roof-flashing-and-why-is-it-important",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is roof flashing and why is it important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Roof flashing is a thin material, typically galvanized steel, aluminum, or copper, installed at vulnerable areas of a roof like chimneys, skylights, vents, and valleys. Its primary purpose is to create a watertight barrier, preventing water from seeping into the roof structure and causing damage. Proper flashing diverts water away from these critical junctures, protecting the integrity of your home's interior and preventing costly repairs related to leaks, rot, or mold. It's a crucial component for a durable and leak-free roof system.",
+        "description": "Roof flashing is a material installed at roof junctures to prevent water leaks. It protects your home's structure from water damage, rot, and mold."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

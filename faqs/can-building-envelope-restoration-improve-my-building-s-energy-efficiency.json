@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can building-envelope restoration improve my building's energy efficiency?",
+  "description": "Yes, restoration improves energy efficiency by sealing leaks, upgrading insulation, and replacing inefficient components, leading to lower utility bills.",
+  "url": "https://modernbuilderscali.com/faq/can-building-envelope-restoration-improve-my-building-s-energy-efficiency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can building-envelope restoration improve my building's energy efficiency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building-envelope restoration can significantly improve energy efficiency. By addressing leaks, deteriorated sealants, and outdated windows or insulation, the building's thermal performance is enhanced. Upgrades such as modern windows, improved wall insulation, and proper air sealing reduce heat loss in winter and heat gain in summer. This lessens the burden on HVAC systems, resulting in lower energy consumption and reduced utility costs. It also contributes to a more consistent and comfortable indoor temperature.",
+        "description": "Yes, restoration improves energy efficiency by sealing leaks, upgrading insulation, and replacing inefficient components, leading to lower utility bills."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

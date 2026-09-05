@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it possible to repair only a portion of historical stucco, or does the entire wall need replacement?",
+  "description": "Partial repairs are often possible and preferred, allowing skilled preservationists to patch damaged sections while retaining original historic stucco. Entire w",
+  "url": "https://modernbuilderscali.com/faq/is-it-possible-to-repair-only-a-portion-of-historical-stucco-or-does-the-entire",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it possible to repair only a portion of historical stucco, or does the entire wall need replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is often possible and generally preferred to repair only damaged sections of historical stucco rather than replacing an entire wall. Skilled preservationists can seamlessly patch deteriorated areas by carefully matching the original stucco's composition, texture, and color. This approach, known as 'dutchman' repairs or patching, retains as much of the original historic fabric as possible, which is a key principle of historical preservation. Complete wall replacement is typically reserved for instances of widespread, irreparable damage.",
+        "description": "Partial repairs are often possible and preferred, allowing skilled preservationists to patch damaged sections while retaining original historic stucco. Entire wall replacement is rare."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

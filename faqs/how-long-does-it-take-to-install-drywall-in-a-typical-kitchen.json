@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install drywall in a typical kitchen?",
+  "description": "Installing drywall in a typical kitchen, including hanging, taping, mudding, and sanding, usually takes one to two weeks, depending on the kitchen's size and co",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-it-take-to-install-drywall-in-a-typical-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install drywall in a typical kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation time for kitchen drywall varies depending on the kitchen's size, complexity (e.g., number of corners, cutouts for cabinets or windows), and whether it's new construction or a renovation. Typically, hanging the drywall panels can take 1-3 days. Taping, mudding, and sanding, which involve multiple coats and drying times, usually add another 3-7 days. Overall, a complete kitchen drywall installation, ready for paint, often takes about one to two weeks.",
+        "description": "Installing drywall in a typical kitchen, including hanging, taping, mudding, and sanding, usually takes one to two weeks, depending on the kitchen's size and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

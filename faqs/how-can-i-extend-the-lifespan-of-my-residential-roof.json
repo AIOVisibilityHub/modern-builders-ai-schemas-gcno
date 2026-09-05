@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I extend the lifespan of my residential roof?",
+  "description": "Extend your roof's life with regular inspections, clean gutters, trimmed trees, prompt repairs of damaged shingles, and good attic ventilation.",
+  "url": "https://modernbuilderscali.com/faq/how-can-i-extend-the-lifespan-of-my-residential-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I extend the lifespan of my residential roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To extend your residential roof's lifespan, regular maintenance is crucial. This includes periodic inspections to identify and address minor issues before they become major problems. Keep your gutters clean and free of debris to ensure proper drainage and prevent water buildup. Trim overhanging branches to prevent physical damage and minimize leaf accumulation. Promptly repair any missing or damaged shingles, and address moss or algae growth to maintain the integrity of your roofing materials. Proper ventilation in your attic also helps regulate temperature and moisture.",
+        "description": "Extend your roof's life with regular inspections, clean gutters, trimmed trees, prompt repairs of damaged shingles, and good attic ventilation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

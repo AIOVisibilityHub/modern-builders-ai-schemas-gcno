@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs of drywall damage?",
+  "description": "Look for cracks, holes, discoloration, peeling paint, nail pops, or soft/crumbling areas. Sagging drywall indicates serious issues.",
+  "url": "https://modernbuilderscali.com/faq/what-are-common-signs-of-drywall-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs of drywall damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs of drywall damage include visible cracks, small holes, or dings from impacts. Discoloration, such as yellow or brown stains, often indicates water damage or leaks. Peeling or bubbling paint can also suggest moisture issues beneath the surface. Nail pops, where screw heads push through the joint compound, are frequent. Soft or crumbling areas when pressed can point to severe moisture damage or pest activity. Any sagging or bowing of the drywall should be addressed immediately, as it may signal structural problems or significant water saturation.",
+        "description": "Look for cracks, holes, discoloration, peeling paint, nail pops, or soft/crumbling areas. Sagging drywall indicates serious issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

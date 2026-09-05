@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is building-envelope repair?",
+  "description": "Building-envelope repair focuses on maintaining or restoring a building's exterior components to ensure it remains watertight, energy-efficient, and structurall",
+  "url": "https://modernbuilderscali.com/faq/what-is-building-envelope-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is building-envelope repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building-envelope repair involves maintaining or restoring the physical components of a building that separate its interior from the exterior. This includes the roof, walls, windows, doors, and foundation. The goal is to ensure the building remains watertight, energy-efficient, and structurally sound. Common repairs address issues like water intrusion, air leaks, material deterioration, and structural damage, which can lead to larger problems if left unaddressed. Proper repair protects the building's interior, preserves its value, and enhances occupant comfort.",
+        "description": "Building-envelope repair focuses on maintaining or restoring a building's exterior components to ensure it remains watertight, energy-efficient, and structurally sound."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

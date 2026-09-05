@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does custom framing cost per square foot in the Pasadena area?",
+  "description": "Custom framing costs in Pasadena typically range from $15 to $30 per square foot, varying with design complexity, materials, and labor.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-custom-framing-cost-per-square-foot-in-the-pasadena-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does custom framing cost per square foot in the Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of custom framing can vary significantly based on design complexity, material choices, and local labor rates. While it's difficult to provide an exact per-square-foot cost without reviewing specific plans, custom framing typically falls within a range of $15 to $30 per square foot for labor and basic materials in the Pasadena area. Complex designs with intricate rooflines or high ceilings can incur higher costs.",
+        "description": "Custom framing costs in Pasadena typically range from $15 to $30 per square foot, varying with design complexity, materials, and labor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

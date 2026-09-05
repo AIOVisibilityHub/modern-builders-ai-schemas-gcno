@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can building-envelope repair improve energy efficiency?",
+  "description": "Yes, building-envelope repair enhances energy efficiency by sealing leaks and improving insulation, which lowers utility bills and improves indoor comfort.",
+  "url": "https://modernbuilderscali.com/faq/can-building-envelope-repair-improve-energy-efficiency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can building-envelope repair improve energy efficiency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building-envelope repair significantly improves energy efficiency. By sealing air leaks, improving insulation in walls and attics, and ensuring windows and doors are properly installed and sealed, the building's ability to maintain a consistent indoor temperature is enhanced. This reduces the workload on heating and cooling systems, leading to lower energy consumption and reduced utility bills. Addressing compromised elements of the envelope prevents conditioned air from escaping and unconditioned air from entering, creating a more comfortable and energy-efficient environment.",
+        "description": "Yes, building-envelope repair enhances energy efficiency by sealing leaks and improving insulation, which lowers utility bills and improves indoor comfort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

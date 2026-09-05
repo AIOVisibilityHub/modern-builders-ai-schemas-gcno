@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be home during the exterior surface repair work?",
+  "description": "You generally don't need to be home for the entire duration, but it's good to be present for initial consultations, critical decisions, or final walk-throughs.",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-to-be-home-during-the-exterior-surface-repair-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be home during the exterior surface repair work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While you don't necessarily need to be home for the entirety of the exterior surface repair work, it's beneficial to be present during the initial consultation and for any critical decisions or final walk-throughs. Our team can generally perform repairs on the exterior of your property without requiring indoor access, unless specifically needed for interior structural assessment related to the exterior damage. We prioritize clear communication and will inform you if your presence is required at any point.",
+        "description": "You generally don't need to be home for the entire duration, but it's good to be present for initial consultations, critical decisions, or final walk-throughs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

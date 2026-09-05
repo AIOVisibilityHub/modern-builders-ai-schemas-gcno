@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common causes of building-envelope damage in Pasadena?",
+  "description": "In Pasadena, building-envelope damage often stems from aging structures, seismic activity, varied weather, and UV radiation, especially in older homes.",
+  "url": "https://modernbuilderscali.com/faq/what-are-common-causes-of-building-envelope-damage-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common causes of building-envelope damage in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Pasadena, common causes of building-envelope damage include aging structures, seismic activity, and varying weather patterns. The region's hot, dry summers and occasional heavy winter rains can stress materials, leading to cracking, fading, and water intrusion if not properly maintained. Additionally, older homes prevalent in areas like Bungalow Heaven and Old Town Pasadena often have original building materials that degrade over time, making them more susceptible to leaks, dry rot, and structural weaknesses. Ultraviolet radiation from intense sun is also a significant factor.",
+        "description": "In Pasadena, building-envelope damage often stems from aging structures, seismic activity, varied weather, and UV radiation, especially in older homes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

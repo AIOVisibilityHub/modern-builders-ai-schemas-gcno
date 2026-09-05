@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common causes of damage to historical stucco?",
+  "description": "Damage to historical stucco often results from moisture intrusion, building movement, incompatible repairs, poor maintenance, and natural aging.",
+  "url": "https://modernbuilderscali.com/faq/what-are-common-causes-of-damage-to-historical-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common causes of damage to historical stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes of damage to historical stucco include moisture intrusion from faulty gutters, roof leaks, or ground contact, which can lead to efflorescence, spalling, and deterioration. Building movement due to foundation issues or seismic activity can cause cracking. Incompatible repairs using modern materials over historic stucco often lead to new failures because they don't allow the wall to breathe or expand/contract naturally. Additionally, poor maintenance, age, and exposure to harsh weather elements contribute to its natural breakdown over time.",
+        "description": "Damage to historical stucco often results from moisture intrusion, building movement, incompatible repairs, poor maintenance, and natural aging."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

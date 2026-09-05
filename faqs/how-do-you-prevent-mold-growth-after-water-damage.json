@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you prevent mold growth after water damage?",
+  "description": "Mold is prevented by immediate water extraction, thorough drying with professional equipment, sanitizing surfaces, and removing unsalvageable porous materials.",
+  "url": "https://modernbuilderscali.com/faq/how-do-you-prevent-mold-growth-after-water-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you prevent mold growth after water damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventing mold growth after water damage is critical and requires swift action. The key steps include immediate water extraction, thorough drying of all affected areas using industrial-grade dehumidifiers and air movers, and sanitizing surfaces. We monitor moisture levels closely to ensure everything is completely dry. Any porous materials that cannot be fully dried and cleaned, like insulation or drywall, must be promptly removed and replaced to eliminate potential mold habitats.",
+        "description": "Mold is prevented by immediate water extraction, thorough drying with professional equipment, sanitizing surfaces, and removing unsalvageable porous materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

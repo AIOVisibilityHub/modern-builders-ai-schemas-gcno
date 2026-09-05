@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the roof flashing repair process?",
+  "description": "The repair process involves inspecting the damage, removing old or damaged flashing, and installing new, properly sealed flashing to ensure a watertight seal.",
+  "url": "https://modernbuilderscali.com/faq/what-is-involved-in-the-roof-flashing-repair-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the roof flashing repair process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The roof flashing repair process typically begins with an inspection to identify the source and extent of the damage. For minor issues, old caulk might be removed and replaced, or small holes sealed. If the flashing is significantly damaged or corroded, it will need to be carefully removed. New flashing, often custom-bent to fit, is then installed and sealed properly with roofing cement or sealants to ensure a watertight bond. The surrounding roofing materials may also need minor adjustments or repairs to accommodate the new flashing.",
+        "description": "The repair process involves inspecting the damage, removing old or damaged flashing, and installing new, properly sealed flashing to ensure a watertight seal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

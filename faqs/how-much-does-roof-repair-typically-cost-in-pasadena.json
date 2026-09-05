@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does roof repair typically cost in Pasadena?",
+  "description": "Roof repair costs in Pasadena depend on damage extent, material, and area size. Minor repairs can be a few hundred dollars; extensive work can be thousands. Get",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-roof-repair-typically-cost-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does roof repair typically cost in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of roof repair in Pasadena varies significantly based on the extent of damage, the type of roofing material, and the size of the area needing repair. Minor repairs, such as replacing a few shingles, might cost a few hundred dollars. More extensive repairs involving structural elements or larger sections of the roof can range from several hundred to a few thousand dollars. Getting a detailed inspection and estimate from a local contractor is the best way to understand the specific costs for your situation.",
+        "description": "Roof repair costs in Pasadena depend on damage extent, material, and area size. Minor repairs can be a few hundred dollars; extensive work can be thousands. Get a detailed local estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

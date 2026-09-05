@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does kitchen drywall installation cost in the Pasadena area?",
+  "description": "Kitchen drywall installation costs in Pasadena vary by size and complexity, generally ranging from $2 to $4 per square foot for basic service, including materia",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-kitchen-drywall-installation-cost-in-the-pasadena-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does kitchen drywall installation cost in the Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of kitchen drywall installation in the Pasadena area can vary widely based on factors such as the kitchen's size, the type of drywall selected (e.g., moisture-resistant), and the complexity of the layout. Costs typically include materials, labor for hanging, taping, mudding, and sanding. For a rough estimate, homeowners might expect to pay anywhere from $2 to $4 per square foot for basic installation, but specialized finishes or extensive repairs could increase this. It's best to obtain a detailed quote after an on-site assessment.",
+        "description": "Kitchen drywall installation costs in Pasadena vary by size and complexity, generally ranging from $2 to $4 per square foot for basic service, including materials and labor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

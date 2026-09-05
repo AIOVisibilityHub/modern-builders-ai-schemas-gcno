@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there different types of wood rot, and do they require different repair methods?",
+  "description": "Yes, brown rot (crumbly) and white rot (spongy) are the main types. While core repair steps are similar, brown rot might need more extensive removal. Material c",
+  "url": "https://modernbuilderscali.com/faq/are-there-different-types-of-wood-rot-and-do-they-require-different-repair-metho",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there different types of wood rot, and do they require different repair methods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are primarily two main types of wood rot: brown rot and white rot. Brown rot (often called dry rot) consumes cellulose, leaving the wood brittle and crumbly. White rot consumes lignin, making the wood soft and spongy. While the basic repair principle—removing damaged wood and addressing moisture—remains consistent, brown rot, especially its aggressive form, often requires more extensive removal of surrounding wood due to its ability to spread. Repair materials, like epoxy or replacement wood, are selected based on the structural needs and type of wood being repaired.",
+        "description": "Yes, brown rot (crumbly) and white rot (spongy) are the main types. While core repair steps are similar, brown rot might need more extensive removal. Material choice depends on the specific repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does drywall texture matching cost in Pasadena?",
+  "description": "Cost in Pasadena varies by area size, texture complexity, and damage extent. Request a quote for an accurate estimate.",
+  "url": "https://modernbuilderscali.com/faq/how-much-does-drywall-texture-matching-cost-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does drywall texture matching cost in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of drywall texture matching in Pasadena depends on the area's size, the type and complexity of the texture, the extent of damage, and the accessibility of the repair site. Simple patches with common textures will be less expensive than large areas or custom textures. For an accurate estimate, it's recommended to have a contractor assess the specific job. Quotes typically cover labor, materials, and specialized tools.",
+        "description": "Cost in Pasadena varies by area size, texture complexity, and damage extent. Request a quote for an accurate estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

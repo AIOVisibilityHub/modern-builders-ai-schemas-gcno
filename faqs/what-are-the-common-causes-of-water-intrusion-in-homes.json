@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common causes of water intrusion in homes?",
+  "description": "Common causes are roof issues, exterior wall cracks, foundation problems, plumbing leaks, and faulty gutters.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-common-causes-of-water-intrusion-in-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common causes of water intrusion in homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes of water intrusion include issues with roofing (e.g., missing shingles, damaged flashing), exterior walls (e.g., cracks in stucco, deteriorated siding, failing sealants around windows and doors), foundation problems (e.g., cracks, poor drainage), and plumbing leaks (e.g., burst pipes, faulty fixtures). Gutter systems that are clogged or improperly installed can also direct water towards the foundation or walls. Understanding these common points helps in prevention and early detection.",
+        "description": "Common causes are roof issues, exterior wall cracks, foundation problems, plumbing leaks, and faulty gutters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

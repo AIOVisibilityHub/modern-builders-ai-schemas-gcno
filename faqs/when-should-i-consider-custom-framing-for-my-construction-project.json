@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider custom framing for my construction project?",
+  "description": "Consider custom framing for unique architectural designs, non-standard dimensions, or when a bespoke home that perfectly matches your vision is desired.",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-custom-framing-for-my-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider custom framing for my construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider custom framing when your architectural plans include unique designs, non-standard dimensions, specific open-concept layouts, or if you require precise integration of custom features like large custom windows or specialized roof designs. It's ideal for homeowners who prioritize a bespoke home that perfectly matches their vision and needs, rather than adapting to standard construction templates.",
+        "description": "Consider custom framing for unique architectural designs, non-standard dimensions, or when a bespoke home that perfectly matches your vision is desired."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

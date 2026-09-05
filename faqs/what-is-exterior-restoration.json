@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is exterior restoration?",
+  "description": "Exterior restoration involves repairing, cleaning, and preserving a building's exterior to maintain its structural integrity, aesthetic appeal, and historical v",
+  "url": "https://modernbuilderscali.com/faq/what-is-exterior-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is exterior restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior restoration involves repairing, cleaning, and preserving the exterior elements of a building to maintain its structural integrity, aesthetic appeal, and historical value. This can include work on facades, roofs, windows, doors, and other architectural details. The goal is to address deterioration caused by weather, age, or damage, bringing the building back to its original condition or improving its resilience for the future. It often extends the lifespan of the structure and enhances its curb appeal.",
+        "description": "Exterior restoration involves repairing, cleaning, and preserving a building's exterior to maintain its structural integrity, aesthetic appeal, and historical value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

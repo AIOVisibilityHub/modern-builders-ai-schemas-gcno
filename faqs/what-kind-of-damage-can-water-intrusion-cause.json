@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of damage can water intrusion cause?",
+  "description": "Water intrusion causes structural damage, mold growth, ruined finishes, electrical issues, and poor indoor air quality.",
+  "url": "https://modernbuilderscali.com/faq/what-kind-of-damage-can-water-intrusion-cause",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of damage can water intrusion cause?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Water intrusion can lead to significant damage, including structural deterioration of framing and foundations, growth of hazardous mold and mildew, and damage to interior finishes like drywall, paint, and flooring. It can also compromise electrical systems, reduce insulation effectiveness, and attract pests. Beyond visible damage, persistent moisture can create unhealthy indoor air quality, posing risks to occupants' health. Addressing water intrusion promptly is crucial to mitigate these issues.",
+        "description": "Water intrusion causes structural damage, mold growth, ruined finishes, electrical issues, and poor indoor air quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

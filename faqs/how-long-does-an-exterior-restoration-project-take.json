@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an exterior restoration project take?",
+  "description": "Project duration varies greatly based on scale and complexity, from a few days for minor repairs to several months for extensive restorations. Weather and mater",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-an-exterior-restoration-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an exterior restoration project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an exterior restoration project depends on the scale and complexity of the work. A smaller project, like repairing a few stucco cracks, might take a few days, while a full facade restoration of a large, historic building could extend over several weeks or even months. Factors such as weather conditions, material availability, and the need for specialized craftsmanship can also influence the timeline. We provide a projected schedule during the planning phase after evaluating the specific requirements of your project.",
+        "description": "Project duration varies greatly based on scale and complexity, from a few days for minor repairs to several months for extensive restorations. Weather and material availability can also impact the timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

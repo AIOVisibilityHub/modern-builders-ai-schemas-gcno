@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need building-envelope restoration?",
+  "description": "Consider restoration if you notice leaks, material deterioration, mold, drafts, or significant energy loss in your building.",
+  "url": "https://modernbuilderscali.com/faq/when-do-i-need-building-envelope-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need building-envelope restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may need building-envelope restoration if you observe signs of wear and tear, such as water leaks, crumbling masonry, deteriorated sealants, failing paint, or significant energy loss. Other indicators include persistent mold growth, drafts, or noticeable damage to the roof, siding, or foundation. Proactive restoration can prevent more extensive and costly damage, especially in older buildings or those exposed to harsh weather conditions. Regular inspections can help identify issues early.",
+        "description": "Consider restoration if you notice leaks, material deterioration, mold, drafts, or significant energy loss in your building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

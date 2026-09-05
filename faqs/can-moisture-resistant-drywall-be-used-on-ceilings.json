@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can moisture-resistant drywall be used on ceilings?",
+  "description": "Yes, it can be used on ceilings in high-humidity rooms like bathrooms and kitchens to prevent moisture accumulation and mold growth.",
+  "url": "https://modernbuilderscali.com/faq/can-moisture-resistant-drywall-be-used-on-ceilings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can moisture-resistant drywall be used on ceilings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, moisture-resistant drywall can be effectively used on ceilings, particularly in rooms prone to high humidity, such as bathrooms, kitchens, and laundry rooms. Using it on ceilings in these areas helps to prevent moisture accumulation, which can lead to mold and mildew growth, and can also help avoid sagging or deterioration that standard drywall might experience over time. The installation method for ceilings is similar to walls, requiring proper fastening to ceiling joists. It provides an added layer of protection against humidity in overhead spaces.",
+        "description": "Yes, it can be used on ceilings in high-humidity rooms like bathrooms and kitchens to prevent moisture accumulation and mold growth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

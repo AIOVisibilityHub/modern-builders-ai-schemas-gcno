@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does building-envelope restoration require permits in Pasadena?",
+  "description": "Permits are often required in Pasadena for significant building-envelope restoration, such as structural changes or extensive replacements. Consult your contrac",
+  "url": "https://modernbuilderscali.com/faq/does-building-envelope-restoration-require-permits-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does building-envelope restoration require permits in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building-envelope restoration projects in Pasadena often require permits, depending on the scope of work. Minor repairs like re-caulking or painting typically do not. However, projects involving structural changes, extensive roof replacement, window replacement, or significant modifications to exterior walls will likely necessitate permits from the City of Pasadena's Planning and Community Development Department. It's crucial to consult with your contractor and the city's building department early in the planning process to ensure compliance with all local codes and regulations.",
+        "description": "Permits are often required in Pasadena for significant building-envelope restoration, such as structural changes or extensive replacements. Consult your contractor and the city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

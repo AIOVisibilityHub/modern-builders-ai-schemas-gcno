@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of gutter installation?",
+  "description": "Gutter installation costs vary based on material, linear feet, roofline complexity, and additional features. A detailed quote is provided after an on-site asses",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-average-cost-of-gutter-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of gutter installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of gutter installation varies significantly based on factors such as the material chosen (e.g., aluminum, copper, steel), the total linear feet required, the complexity of the roofline, and any additional features like gutter guards or downspout extensions. Seamless gutters typically cost more upfront but can offer long-term benefits. We provide detailed, itemized quotes after a thorough on-site assessment to ensure accuracy, helping you understand all components of the investment.",
+        "description": "Gutter installation costs vary based on material, linear feet, roofline complexity, and additional features. A detailed quote is provided after an on-site assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for getting my roof repaired by Modern Builders?",
+  "description": "The process involves an inspection, detailed proposal and estimate, scheduled repair work, meticulous execution, and a final cleanup and walkthrough.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-getting-my-roof-repaired-by-modern-builders",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for getting my roof repaired by Modern Builders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our roof repair process begins with a comprehensive inspection to assess the damage and determine the best course of action. Following the inspection, we provide a detailed proposal outlining the recommended repairs, materials, and a transparent cost estimate. Once approved, our team schedules the work at your convenience. We then meticulously execute the repairs, ensuring quality workmanship and adherence to local building codes. Finally, we conduct a thorough clean-up and a final walkthrough to ensure your satisfaction with the completed repair.",
+        "description": "The process involves an inspection, detailed proposal and estimate, scheduled repair work, meticulous execution, and a final cleanup and walkthrough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a water intrusion assessment take?",
+  "description": "Assessment time varies by property size and issue complexity, ranging from a few hours to a full day or more.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-water-intrusion-assessment-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a water intrusion assessment take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a water intrusion assessment depends on several factors, including the size of your property, the complexity of the suspected issues, and the need for specialized investigative techniques. A basic assessment for a small, straightforward issue might take a few hours, while a comprehensive investigation of a larger property with multiple suspected leaks could take a full day or more. Our team will provide an estimated timeframe after an initial discussion about your specific concerns.",
+        "description": "Assessment time varies by property size and issue complexity, ranging from a few hours to a full day or more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a water intrusion assessment and a general home inspection?",
+  "description": "A home inspection is general, while a water intrusion assessment is specialized, focusing only on finding and diagnosing water leaks with specific tools.",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-a-water-intrusion-assessment-and-a-general-home-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a water intrusion assessment and a general home inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general home inspection offers a broad overview of a property's condition, identifying major deficiencies but often not delving deeply into specific issues. In contrast, a water intrusion assessment is a highly specialized investigation focused exclusively on identifying and diagnosing water-related problems. It uses specific tools and expertise to pinpoint the exact source of leaks, determine the extent of moisture damage, and provide detailed recommendations for repair, which goes beyond the scope of a standard inspection.",
+        "description": "A home inspection is general, while a water intrusion assessment is specialized, focusing only on finding and diagnosing water leaks with specific tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

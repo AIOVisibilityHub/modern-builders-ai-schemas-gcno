@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider exterior restoration for my property?",
+  "description": "Consider exterior restoration when you notice signs of deterioration like cracked stucco, failing mortar, water penetration, or significant paint peeling to pre",
+  "url": "https://modernbuilderscali.com/faq/when-should-i-consider-exterior-restoration-for-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider exterior restoration for my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider exterior restoration when you notice signs of deterioration such as cracked stucco, crumbling brick, failing mortar, water penetration, significant paint peeling, or damaged architectural features. Early intervention can prevent minor issues from becoming major, more costly problems. For historic properties, restoration is also vital to preserve original materials and design elements. Regular inspections can help identify these signs before they escalate, ensuring timely and effective repairs.",
+        "description": "Consider exterior restoration when you notice signs of deterioration like cracked stucco, failing mortar, water penetration, or significant paint peeling to prevent further damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

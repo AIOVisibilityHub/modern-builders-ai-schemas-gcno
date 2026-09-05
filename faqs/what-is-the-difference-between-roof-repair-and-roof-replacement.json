@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between roof repair and roof replacement?",
+  "description": "Roof repair fixes localized damage, while roof replacement involves installing an entirely new roofing system when the existing one is extensively damaged or ag",
+  "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-roof-repair-and-roof-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between roof repair and roof replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Roof repair addresses specific, localized damage to a portion of the roof, such as a few missing shingles, a small leak, or minor storm damage. It's typically a more cost-effective solution when the rest of the roof is in good condition and has significant remaining lifespan. Roof replacement involves removing the entire existing roofing system down to the deck and installing a completely new one. This is necessary when the roof is extensively damaged, nearing the end of its functional life, or experiencing widespread issues that repairs cannot effectively resolve.",
+        "description": "Roof repair fixes localized damage, while roof replacement involves installing an entirely new roofing system when the existing one is extensively damaged or aged."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

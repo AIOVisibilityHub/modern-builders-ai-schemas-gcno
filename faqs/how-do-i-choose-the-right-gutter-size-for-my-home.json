@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right gutter size for my home?",
+  "description": "Gutter size depends on your roof's surface area and local rainfall. Larger roofs or heavy rain areas often require 6-inch gutters for effective water management",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-gutter-size-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right gutter size for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right gutter size depends primarily on your roof's surface area and the average rainfall in your region. Standard residential gutters are typically 5-inch or 6-inch K-style or half-round. Homes with larger roofs, steeper pitches, or located in areas with heavy rainfall often benefit from larger 6-inch gutters and larger downspouts to handle increased water volume. Our experts can assess your specific roof dimensions and local climate conditions to recommend the optimal gutter and downspout size for effective water management.",
+        "description": "Gutter size depends on your roof's surface area and local rainfall. Larger roofs or heavy rain areas often require 6-inch gutters for effective water management."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

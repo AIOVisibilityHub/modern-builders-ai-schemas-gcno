@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for residential roof replacement in Pasadena?",
+  "description": "Yes, a permit is usually required for residential roof replacement in Pasadena to ensure compliance with local building codes. Your contractor should handle thi",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-a-permit-for-residential-roof-replacement-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for residential roof replacement in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a building permit is typically required for residential roof replacement projects in Pasadena and most surrounding cities. This ensures that the work complies with local building codes, safety standards, and structural requirements. Your roofing contractor should be knowledgeable about the permitting process and be able to obtain the necessary permits on your behalf. Starting work without a permit can lead to fines, project delays, or requirements to redo the work to meet code.",
+        "description": "Yes, a permit is usually required for residential roof replacement in Pasadena to ensure compliance with local building codes. Your contractor should handle this."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

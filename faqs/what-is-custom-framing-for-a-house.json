@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is custom framing for a house?",
+  "description": "Custom framing builds a home's unique structural skeleton based on specific architectural designs, allowing for tailored dimensions and features.",
+  "url": "https://modernbuilderscali.com/faq/what-is-custom-framing-for-a-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is custom framing for a house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom framing involves building the structural skeleton of a house according to a unique architectural design, rather than using pre-designed or standardized plans. This allows for specific dimensions, unique layouts, custom ceiling heights, and specialized features tailored precisely to the homeowner's vision and the site's characteristics. It provides the flexibility to create truly bespoke living spaces that standard framing might not accommodate.",
+        "description": "Custom framing builds a home's unique structural skeleton based on specific architectural designs, allowing for tailored dimensions and features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

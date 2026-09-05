@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical drywall repair take?",
+  "description": "Small drywall repairs can take a few hours, while larger repairs involving patching, taping, and multiple compound layers may take one to three days due to dryi",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-typical-drywall-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical drywall repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of drywall repair depends significantly on the extent and type of damage. Small patch jobs, like filling nail holes, might take a few hours, including drying time for spackle and paint. Larger repairs, such as replacing a section due to water damage or impact, typically require multiple steps: cutting out the damaged area, installing new drywall, taping seams, applying multiple layers of joint compound, sanding, and priming. This multi-step process often spans one to three days, allowing for proper drying time between coats of compound to achieve a smooth finish.",
+        "description": "Small drywall repairs can take a few hours, while larger repairs involving patching, taping, and multiple compound layers may take one to three days due to drying times."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

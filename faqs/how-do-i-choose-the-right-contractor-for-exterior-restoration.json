@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for exterior restoration?",
+  "description": "Choose a contractor with relevant experience, verify licenses and insurance, check references, and ensure they provide a detailed proposal with clear communicat",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-for-exterior-restoration",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for exterior restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting an exterior restoration contractor, look for experience with similar projects, especially if your property is historic or has unique architectural features. Verify their licensing, insurance, and client references. A reputable contractor will provide a detailed proposal, clearly outlining the scope of work, materials, timeline, and cost. Effective communication and a clear understanding of your vision are also crucial. Prioritize contractors who demonstrate expertise in quality craftsmanship and adherence to safety standards.",
+        "description": "Choose a contractor with relevant experience, verify licenses and insurance, check references, and ensure they provide a detailed proposal with clear communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

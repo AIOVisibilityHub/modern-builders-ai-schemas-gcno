@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a building-envelope restoration project take?",
+  "description": "Project duration varies from a few days for minor repairs to several months for comprehensive restoration, depending on scope and complexity.",
+  "url": "https://modernbuilderscali.com/faq/how-long-does-a-building-envelope-restoration-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a building-envelope restoration project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a building-envelope restoration project depends on its complexity, scale, and the specific components being addressed. A small-scale project, such as targeted sealant replacement, might take a few days to a week. Comprehensive restoration involving multiple elements like roofing, façade repairs, and window replacements can extend from several weeks to several months. Weather conditions, material availability, and necessary structural assessments can also impact the project timeline. A detailed project schedule will be provided after an initial assessment.",
+        "description": "Project duration varies from a few days for minor repairs to several months for comprehensive restoration, depending on scope and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

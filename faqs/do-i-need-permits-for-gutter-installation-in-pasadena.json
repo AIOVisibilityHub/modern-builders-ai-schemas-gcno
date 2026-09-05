@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for gutter installation in Pasadena?",
+  "description": "Minor gutter installations in Pasadena usually don't require permits if no structural changes occur. Always verify with the City of Pasadena's Building Division",
+  "url": "https://modernbuilderscali.com/faq/do-i-need-permits-for-gutter-installation-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for gutter installation in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typically, minor exterior alterations like gutter installation do not require a separate building permit in Pasadena, provided they are a like-for-like replacement or do not involve structural changes to the building or roofline. However, it's always advisable to verify with the City of Pasadena's Building Division for the most current regulations, especially if your home is in a historic district or if the installation involves significant changes in design or materials. We can assist in navigating these requirements.",
+        "description": "Minor gutter installations in Pasadena usually don't require permits if no structural changes occur. Always verify with the City of Pasadena's Building Division."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

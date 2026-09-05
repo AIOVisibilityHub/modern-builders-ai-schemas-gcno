@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is needed before drywall can be installed?",
+  "description": "Before drywall, ensure framing is complete and inspected, all electrical, plumbing, and HVAC rough-ins are finalized, and the work area is clear.",
+  "url": "https://modernbuilderscali.com/faq/what-preparation-is-needed-before-drywall-can-be-installed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is needed before drywall can be installed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before drywall installation can begin, the framing must be complete and inspected, ensuring it's plumb, level, and square. All electrical, plumbing, and HVAC rough-ins need to be finalized and inspected within the walls and ceilings. The work area should be cleared of debris, and appropriate ventilation considered, especially during the mudding and sanding phases. Proper preparation ensures a smooth, efficient installation and a quality finished product.",
+        "description": "Before drywall, ensure framing is complete and inspected, all electrical, plumbing, and HVAC rough-ins are finalized, and the work area is clear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

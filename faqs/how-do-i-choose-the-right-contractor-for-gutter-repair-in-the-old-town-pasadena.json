@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for gutter repair in the Old Town Pasadena area?",
+  "description": "Choose a gutter repair contractor in Old Town Pasadena based on local reputation, reviews, licensing, insurance, detailed estimates, and warranties.",
+  "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-contractor-for-gutter-repair-in-the-old-town-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for gutter repair in the Old Town Pasadena area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a gutter repair contractor in Old Town Pasadena, look for a company with a strong local reputation, positive customer reviews, and relevant experience. Verify they are licensed and insured to protect yourself from liability. Request detailed estimates and compare their proposed solutions and pricing. A reliable contractor will conduct a thorough inspection, explain the necessary repairs clearly, and offer warranties on their work.",
+        "description": "Choose a gutter repair contractor in Old Town Pasadena based on local reputation, reviews, licensing, insurance, detailed estimates, and warranties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

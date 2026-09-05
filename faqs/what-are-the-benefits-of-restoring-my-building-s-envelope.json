@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of restoring my building's envelope?",
+  "description": "Benefits include improved structural integrity, weather protection, energy efficiency, increased property value, and a healthier indoor environment.",
+  "url": "https://modernbuilderscali.com/faq/what-are-the-benefits-of-restoring-my-building-s-envelope",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of restoring my building's envelope?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restoring your building's envelope offers multiple benefits, including enhanced structural integrity and longevity. It significantly improves protection against water intrusion and weather damage, reducing the risk of costly interior repairs and mold growth. Energy efficiency often increases due to improved insulation and sealing, leading to lower utility bills. Additionally, restoration can boost the building's curb appeal and market value. It also contributes to a healthier indoor environment by preventing moisture-related issues.",
+        "description": "Benefits include improved structural integrity, weather protection, energy efficiency, increased property value, and a healthier indoor environment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
