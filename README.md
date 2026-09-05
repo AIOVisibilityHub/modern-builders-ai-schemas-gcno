@@ -9,17 +9,17 @@ Canonical AI Data Package for Modern Builders.
 - LLM hint: [llms.txt](./llms.txt)
 
 ## Stats
-- 211 faqs
-- 207 helpArticles
-- 1 services
-- 6 personnel
-- 1 locations
-- 25 awards
-- 75 caseStudies
-- 1 organization
+- 872 faqs
 - 25 press
+- 25 awards
 - 16 reviews
-- **568** total
+- 1 services
+- 1 locations
+- 6 personnel
+- 75 caseStudies
+- 207 helpArticles
+- 1 organization
+- **1229** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Modern Builders — canonical website — https://modernbuilders.aiovisibility.net
@@ -59,61 +59,155 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`team/bryan-peralta-profile.json`](./team/bryan-peralta-profile.json) — schema
 - [`team/bryan-peralta-south-pasadena.json`](./team/bryan-peralta-south-pasadena.json) — schema
 
-### FAQs (211)
+### FAQs (872)
 - [`faqs/aluminum-vs-steel-gutters.json`](./faqs/aluminum-vs-steel-gutters.json) — schema
+- [`faqs/are-decorative-stucco-accents-susceptible-to-cracking.json`](./faqs/are-decorative-stucco-accents-susceptible-to-cracking.json) — schema
 - [`faqs/are-drone-inspections-used-for-repairs.json`](./faqs/are-drone-inspections-used-for-repairs.json) — schema
+- [`faqs/are-exterior-coatings-suitable-for-all-types-of-home-exteriors.json`](./faqs/are-exterior-coatings-suitable-for-all-types-of-home-exteriors.json) — schema
 - [`faqs/are-gutter-guards-worth-it.json`](./faqs/are-gutter-guards-worth-it.json) — schema
 - [`faqs/are-metal-roofs-energy-efficient.json`](./faqs/are-metal-roofs-energy-efficient.json) — schema
 - [`faqs/are-metal-roofs-noisy-during-rain.json`](./faqs/are-metal-roofs-noisy-during-rain.json) — schema
 - [`faqs/are-metal-roofs-noisy-in-the-rain.json`](./faqs/are-metal-roofs-noisy-in-the-rain.json) — schema
 - [`faqs/are-permits-needed.json`](./faqs/are-permits-needed.json) — schema
+- [`faqs/are-permits-required-for-exterior-restoration-projects-in-pasadena.json`](./faqs/are-permits-required-for-exterior-restoration-projects-in-pasadena.json) — schema
+- [`faqs/are-there-any-specific-considerations-for-drywall-installation-in-a-small-bathro.json`](./faqs/are-there-any-specific-considerations-for-drywall-installation-in-a-small-bathro.json) — schema
+- [`faqs/are-there-different-drywall-finishes-available-for-kitchens.json`](./faqs/are-there-different-drywall-finishes-available-for-kitchens.json) — schema
+- [`faqs/are-there-different-types-of-gutter-repair-materials.json`](./faqs/are-there-different-types-of-gutter-repair-materials.json) — schema
+- [`faqs/are-there-different-types-of-wood-rot-and-do-they-require-different-repair-metho.json`](./faqs/are-there-different-types-of-wood-rot-and-do-they-require-different-repair-metho.json) — schema
 - [`faqs/are-you-licensed-and-insured.json`](./faqs/are-you-licensed-and-insured.json) — schema
 - [`faqs/are-you-licensed-insured-bonded.json`](./faqs/are-you-licensed-insured-bonded.json) — schema
 - [`faqs/best-sealant-for-gutters.json`](./faqs/best-sealant-for-gutters.json) — schema
 - [`faqs/best-time-of-year-for-exterior-painting.json`](./faqs/best-time-of-year-for-exterior-painting.json) — schema
 - [`faqs/best-time-of-year-to-install.json`](./faqs/best-time-of-year-to-install.json) — schema
+- [`faqs/can-a-construction-project-manager-help-with-obtaining-permits-in-pasadena.json`](./faqs/can-a-construction-project-manager-help-with-obtaining-permits-in-pasadena.json) — schema
+- [`faqs/can-a-design-consultation-help-me-decide-on-a-budget.json`](./faqs/can-a-design-consultation-help-me-decide-on-a-budget.json) — schema
+- [`faqs/can-a-paint-color-consultation-help-with-exterior-colors.json`](./faqs/can-a-paint-color-consultation-help-with-exterior-colors.json) — schema
+- [`faqs/can-a-water-intrusion-assessment-detect-hidden-leaks.json`](./faqs/can-a-water-intrusion-assessment-detect-hidden-leaks.json) — schema
+- [`faqs/can-acrylic-stucco-be-installed-over-existing-surfaces.json`](./faqs/can-acrylic-stucco-be-installed-over-existing-surfaces.json) — schema
+- [`faqs/can-building-envelope-repair-improve-energy-efficiency.json`](./faqs/can-building-envelope-repair-improve-energy-efficiency.json) — schema
+- [`faqs/can-building-envelope-restoration-improve-my-building-s-energy-efficiency.json`](./faqs/can-building-envelope-restoration-improve-my-building-s-energy-efficiency.json) — schema
+- [`faqs/can-ceiling-cracks-affect-the-air-quality-in-my-home.json`](./faqs/can-ceiling-cracks-affect-the-air-quality-in-my-home.json) — schema
+- [`faqs/can-cement-stucco-be-applied-over-existing-surfaces-like-brick-or-wood-siding.json`](./faqs/can-cement-stucco-be-applied-over-existing-surfaces-like-brick-or-wood-siding.json) — schema
+- [`faqs/can-cracks-in-interior-walls-indicate-a-structural-issue.json`](./faqs/can-cracks-in-interior-walls-indicate-a-structural-issue.json) — schema
+- [`faqs/can-decorative-stucco-accents-be-color-matched-to-my-existing-home-exterior.json`](./faqs/can-decorative-stucco-accents-be-color-matched-to-my-existing-home-exterior.json) — schema
+- [`faqs/can-decorative-stucco-accents-be-installed-over-existing-siding-materials.json`](./faqs/can-decorative-stucco-accents-be-installed-over-existing-siding-materials.json) — schema
+- [`faqs/can-drywall-finishing-fix-uneven-walls-or-ceilings.json`](./faqs/can-drywall-finishing-fix-uneven-walls-or-ceilings.json) — schema
+- [`faqs/can-existing-siding-be-converted-to-stucco.json`](./faqs/can-existing-siding-be-converted-to-stucco.json) — schema
+- [`faqs/can-existing-wall-textures-be-matched-during-a-repair.json`](./faqs/can-existing-wall-textures-be-matched-during-a-repair.json) — schema
+- [`faqs/can-exterior-coatings-improve-my-home-s-energy-efficiency.json`](./faqs/can-exterior-coatings-improve-my-home-s-energy-efficiency.json) — schema
 - [`faqs/can-gutters-be-installed-on-any-roof.json`](./faqs/can-gutters-be-installed-on-any-roof.json) — schema
+- [`faqs/can-i-caulk-over-old-caulk-or-does-it-need-to-be-removed-first.json`](./faqs/can-i-caulk-over-old-caulk-or-does-it-need-to-be-removed-first.json) — schema
+- [`faqs/can-i-choose-a-new-color-or-texture-during-stucco-resurfacing.json`](./faqs/can-i-choose-a-new-color-or-texture-during-stucco-resurfacing.json) — schema
 - [`faqs/can-i-diy-roof-installation.json`](./faqs/can-i-diy-roof-installation.json) — schema
+- [`faqs/can-i-dry-out-water-damage-myself-or-do-i-need-a-professional.json`](./faqs/can-i-dry-out-water-damage-myself-or-do-i-need-a-professional.json) — schema
 - [`faqs/can-i-install-a-roof-over-my-existing-one.json`](./faqs/can-i-install-a-roof-over-my-existing-one.json) — schema
+- [`faqs/can-i-install-bathroom-drywall-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-install-bathroom-drywall-myself-or-should-i-hire-a-professional.json) — schema
 - [`faqs/can-i-install-gutters-myself.json`](./faqs/can-i-install-gutters-myself.json) — schema
+- [`faqs/can-i-install-kitchen-drywall-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-install-kitchen-drywall-myself-or-should-i-hire-a-professional.json) — schema
+- [`faqs/can-i-live-in-my-home-during-a-major-renovation.json`](./faqs/can-i-live-in-my-home-during-a-major-renovation.json) — schema
+- [`faqs/can-i-match-stucco-colors-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-match-stucco-colors-myself-or-should-i-hire-a-professional.json) — schema
+- [`faqs/can-i-paint-directly-over-level-5-drywall-without-priming.json`](./faqs/can-i-paint-directly-over-level-5-drywall-without-priming.json) — schema
+- [`faqs/can-i-paint-directly-over-new-drywall-without-finishing-it.json`](./faqs/can-i-paint-directly-over-new-drywall-without-finishing-it.json) — schema
+- [`faqs/can-i-paint-over-a-patched-wall-immediately.json`](./faqs/can-i-paint-over-a-patched-wall-immediately.json) — schema
+- [`faqs/can-i-paint-over-existing-stucco-instead-of-restuccoing.json`](./faqs/can-i-paint-over-existing-stucco-instead-of-restuccoing.json) — schema
+- [`faqs/can-i-paint-over-historical-stucco-or-is-there-a-better-alternative.json`](./faqs/can-i-paint-over-historical-stucco-or-is-there-a-better-alternative.json) — schema
+- [`faqs/can-i-paint-over-new-drywall-texture-immediately.json`](./faqs/can-i-paint-over-new-drywall-texture-immediately.json) — schema
+- [`faqs/can-i-patch-stucco-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-patch-stucco-myself-or-should-i-hire-a-professional.json) — schema
+- [`faqs/can-i-perform-stucco-re-flashing-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-perform-stucco-re-flashing-myself-or-should-i-hire-a-professional.json) — schema
+- [`faqs/can-i-perform-stucco-texture-matching-as-a-diy-project.json`](./faqs/can-i-perform-stucco-texture-matching-as-a-diy-project.json) — schema
 - [`faqs/can-i-repair-gutters-myself.json`](./faqs/can-i-repair-gutters-myself.json) — schema
+- [`faqs/can-i-repair-my-gutters-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-repair-my-gutters-myself-or-should-i-hire-a-professional.json) — schema
 - [`faqs/can-i-repair-my-roof-myself.json`](./faqs/can-i-repair-my-roof-myself.json) — schema
+- [`faqs/can-i-repair-roof-flashing-myself-or-should-i-hire-a-professional.json`](./faqs/can-i-repair-roof-flashing-myself-or-should-i-hire-a-professional.json) — schema
+- [`faqs/can-i-repair-small-drywall-cracks-myself.json`](./faqs/can-i-repair-small-drywall-cracks-myself.json) — schema
+- [`faqs/can-i-repair-stucco-cracks-myself.json`](./faqs/can-i-repair-stucco-cracks-myself.json) — schema
 - [`faqs/can-i-walk-on-a-metal-roof.json`](./faqs/can-i-walk-on-a-metal-roof.json) — schema
 - [`faqs/can-i-walk-on-my-new-roof-right-away.json`](./faqs/can-i-walk-on-my-new-roof-right-away.json) — schema
+- [`faqs/can-light-commercial-repairs-improve-property-value.json`](./faqs/can-light-commercial-repairs-improve-property-value.json) — schema
 - [`faqs/can-metal-roofs-be-installed-over-shingles.json`](./faqs/can-metal-roofs-be-installed-over-shingles.json) — schema
 - [`faqs/can-metal-roofs-dent-from-hail.json`](./faqs/can-metal-roofs-dent-from-hail.json) — schema
 - [`faqs/can-metal-roofs-handle-heavy-snow.json`](./faqs/can-metal-roofs-handle-heavy-snow.json) — schema
+- [`faqs/can-modern-builders-help-with-emergency-home-repairs.json`](./faqs/can-modern-builders-help-with-emergency-home-repairs.json) — schema
+- [`faqs/can-moisture-resistant-drywall-be-used-on-ceilings.json`](./faqs/can-moisture-resistant-drywall-be-used-on-ceilings.json) — schema
+- [`faqs/can-moisture-resistant-drywall-prevent-mold-and-mildew.json`](./faqs/can-moisture-resistant-drywall-prevent-mold-and-mildew.json) — schema
 - [`faqs/can-repairs-be-done-in-rain.json`](./faqs/can-repairs-be-done-in-rain.json) — schema
 - [`faqs/can-stucco-be-applied-in-cold-weather.json`](./faqs/can-stucco-be-applied-in-cold-weather.json) — schema
 - [`faqs/can-stucco-be-applied-over-brick-or-block.json`](./faqs/can-stucco-be-applied-over-brick-or-block.json) — schema
 - [`faqs/can-stucco-be-applied-over-painted-surfaces.json`](./faqs/can-stucco-be-applied-over-painted-surfaces.json) — schema
+- [`faqs/can-stucco-be-repaired-or-does-it-always-need-full-replacement.json`](./faqs/can-stucco-be-repaired-or-does-it-always-need-full-replacement.json) — schema
+- [`faqs/can-stucco-be-repaired-to-match-the-existing-color-and-texture.json`](./faqs/can-stucco-be-repaired-to-match-the-existing-color-and-texture.json) — schema
+- [`faqs/can-stucco-waterproofing-prevent-mold-and-mildew-on-my-exterior-walls.json`](./faqs/can-stucco-waterproofing-prevent-mold-and-mildew-on-my-exterior-walls.json) — schema
+- [`faqs/can-surface-smoothing-fix-large-cracks-or-structural-damage.json`](./faqs/can-surface-smoothing-fix-large-cracks-or-structural-damage.json) — schema
+- [`faqs/can-wall-patching-help-with-minor-cracks-due-to-settling.json`](./faqs/can-wall-patching-help-with-minor-cracks-due-to-settling.json) — schema
+- [`faqs/can-water-damaged-drywall-be-repaired-or-does-it-need-to-be-replaced.json`](./faqs/can-water-damaged-drywall-be-repaired-or-does-it-need-to-be-replaced.json) — schema
+- [`faqs/can-wood-rot-spread-to-other-areas-of-my-home.json`](./faqs/can-wood-rot-spread-to-other-areas-of-my-home.json) — schema
+- [`faqs/can-you-assist-with-architectural-design-and-planning-for-my-new-home.json`](./faqs/can-you-assist-with-architectural-design-and-planning-for-my-new-home.json) — schema
+- [`faqs/can-you-handle-light-commercial-projects-that-require-specialized-build-outs.json`](./faqs/can-you-handle-light-commercial-projects-that-require-specialized-build-outs.json) — schema
+- [`faqs/can-you-handle-mold-remediation-in-commercial-buildings.json`](./faqs/can-you-handle-mold-remediation-in-commercial-buildings.json) — schema
 - [`faqs/can-you-hang-drywall-horizontally-or-vertically.json`](./faqs/can-you-hang-drywall-horizontally-or-vertically.json) — schema
+- [`faqs/can-you-match-a-color-from-an-object-other-than-paint-like-fabric-or-tile.json`](./faqs/can-you-match-a-color-from-an-object-other-than-paint-like-fabric-or-tile.json) — schema
 - [`faqs/can-you-match-existing-paint-color.json`](./faqs/can-you-match-existing-paint-color.json) — schema
+- [`faqs/can-you-match-paint-colors-from-different-manufacturers.json`](./faqs/can-you-match-paint-colors-from-different-manufacturers.json) — schema
+- [`faqs/can-you-match-the-existing-color-and-texture-of-my-home-s-exterior.json`](./faqs/can-you-match-the-existing-color-and-texture-of-my-home-s-exterior.json) — schema
 - [`faqs/can-you-paint-over-wallpaper.json`](./faqs/can-you-paint-over-wallpaper.json) — schema
+- [`faqs/can-you-repair-a-popcorn-ceiling-or-does-it-need-to-be-removed.json`](./faqs/can-you-repair-a-popcorn-ceiling-or-does-it-need-to-be-removed.json) — schema
+- [`faqs/can-you-work-with-existing-architectural-plans-or-do-you-provide-design-services.json`](./faqs/can-you-work-with-existing-architectural-plans-or-do-you-provide-design-services.json) — schema
 - [`faqs/ceiling-drywall-without-lift.json`](./faqs/ceiling-drywall-without-lift.json) — schema
 - [`faqs/cleanup-after-painting.json`](./faqs/cleanup-after-painting.json) — schema
 - [`faqs/cost-of-drywall-installation.json`](./faqs/cost-of-drywall-installation.json) — schema
 - [`faqs/cracked-vinyl-gutters-fix.json`](./faqs/cracked-vinyl-gutters-fix.json) — schema
+- [`faqs/do-commercial-painters-work-around-business-operating-hours.json`](./faqs/do-commercial-painters-work-around-business-operating-hours.json) — schema
+- [`faqs/do-exterior-coatings-require-special-maintenance.json`](./faqs/do-exterior-coatings-require-special-maintenance.json) — schema
 - [`faqs/do-gutters-increase-home-value.json`](./faqs/do-gutters-increase-home-value.json) — schema
 - [`faqs/do-gutters-need-to-match-my-roofline.json`](./faqs/do-gutters-need-to-match-my-roofline.json) — schema
+- [`faqs/do-i-need-a-permit-for-residential-repairs-in-pasadena.json`](./faqs/do-i-need-a-permit-for-residential-repairs-in-pasadena.json) — schema
+- [`faqs/do-i-need-a-permit-for-residential-roof-replacement-in-pasadena.json`](./faqs/do-i-need-a-permit-for-residential-roof-replacement-in-pasadena.json) — schema
+- [`faqs/do-i-need-a-permit-for-roof-repair-in-pasadena.json`](./faqs/do-i-need-a-permit-for-roof-repair-in-pasadena.json) — schema
+- [`faqs/do-i-need-a-permit-for-roof-replacement-in-pasadena.json`](./faqs/do-i-need-a-permit-for-roof-replacement-in-pasadena.json) — schema
+- [`faqs/do-i-need-permits-for-gutter-installation-in-pasadena.json`](./faqs/do-i-need-permits-for-gutter-installation-in-pasadena.json) — schema
 - [`faqs/do-i-need-permits-for-gutters.json`](./faqs/do-i-need-permits-for-gutters.json) — schema
 - [`faqs/do-i-need-permits-for-roof-installation.json`](./faqs/do-i-need-permits-for-roof-installation.json) — schema
 - [`faqs/do-i-need-to-be-home-during-painting.json`](./faqs/do-i-need-to-be-home-during-painting.json) — schema
+- [`faqs/do-i-need-to-be-home-during-the-exterior-painting-process.json`](./faqs/do-i-need-to-be-home-during-the-exterior-painting-process.json) — schema
+- [`faqs/do-i-need-to-be-home-during-the-exterior-surface-repair-work.json`](./faqs/do-i-need-to-be-home-during-the-exterior-surface-repair-work.json) — schema
+- [`faqs/do-i-need-to-be-home-during-the-house-painting-process.json`](./faqs/do-i-need-to-be-home-during-the-house-painting-process.json) — schema
+- [`faqs/do-i-need-to-buy-paint-samples-after-a-consultation.json`](./faqs/do-i-need-to-buy-paint-samples-after-a-consultation.json) — schema
+- [`faqs/do-i-need-to-prime-after-surface-preparation-or-can-i-skip-it.json`](./faqs/do-i-need-to-prime-after-surface-preparation-or-can-i-skip-it.json) — schema
+- [`faqs/do-i-need-to-prime-drywall-before-painting.json`](./faqs/do-i-need-to-prime-drywall-before-painting.json) — schema
+- [`faqs/do-i-need-to-prime-my-walls-before-painting.json`](./faqs/do-i-need-to-prime-my-walls-before-painting.json) — schema
+- [`faqs/do-i-need-to-remove-old-drywall-before-installing-new-in-a-kitchen-renovation.json`](./faqs/do-i-need-to-remove-old-drywall-before-installing-new-in-a-kitchen-renovation.json) — schema
+- [`faqs/do-i-need-to-repaint-my-entire-house-after-stucco-crack-repair.json`](./faqs/do-i-need-to-repaint-my-entire-house-after-stucco-crack-repair.json) — schema
+- [`faqs/do-i-need-to-use-a-moisture-barrier-behind-bathroom-drywall.json`](./faqs/do-i-need-to-use-a-moisture-barrier-behind-bathroom-drywall.json) — schema
 - [`faqs/do-metal-roofs-rust-or-corrode.json`](./faqs/do-metal-roofs-rust-or-corrode.json) — schema
 - [`faqs/do-prices-increase-mid-project.json`](./faqs/do-prices-increase-mid-project.json) — schema
+- [`faqs/do-seamless-gutters-offer-advantages-over-traditional-sectioned-gutters.json`](./faqs/do-seamless-gutters-offer-advantages-over-traditional-sectioned-gutters.json) — schema
+- [`faqs/do-you-handle-the-permitting-process-for-building-projects.json`](./faqs/do-you-handle-the-permitting-process-for-building-projects.json) — schema
+- [`faqs/do-you-install-moisture-resistant-drywall-in-pasadena.json`](./faqs/do-you-install-moisture-resistant-drywall-in-pasadena.json) — schema
 - [`faqs/do-you-offer-color-consultation.json`](./faqs/do-you-offer-color-consultation.json) — schema
+- [`faqs/do-you-offer-design-build-services-for-light-commercial-projects.json`](./faqs/do-you-offer-design-build-services-for-light-commercial-projects.json) — schema
+- [`faqs/do-you-offer-emergency-light-commercial-repair-services.json`](./faqs/do-you-offer-emergency-light-commercial-repair-services.json) — schema
+- [`faqs/do-you-offer-emergency-restoration-services-for-businesses-in-pasadena.json`](./faqs/do-you-offer-emergency-restoration-services-for-businesses-in-pasadena.json) — schema
 - [`faqs/do-you-offer-emergency-services.json`](./faqs/do-you-offer-emergency-services.json) — schema
+- [`faqs/do-you-offer-exterior-restoration-services-for-historic-homes-in-bungalow-heaven.json`](./faqs/do-you-offer-exterior-restoration-services-for-historic-homes-in-bungalow-heaven.json) — schema
+- [`faqs/do-you-offer-free-estimates-for-ceiling-repair-services.json`](./faqs/do-you-offer-free-estimates-for-ceiling-repair-services.json) — schema
+- [`faqs/do-you-offer-interior-painting-services-in-pasadena-california.json`](./faqs/do-you-offer-interior-painting-services-in-pasadena-california.json) — schema
+- [`faqs/do-you-offer-warranties-or-guarantees-on-your-new-home-construction.json`](./faqs/do-you-offer-warranties-or-guarantees-on-your-new-home-construction.json) — schema
 - [`faqs/do-you-paint-by-brush-roller-or-spray.json`](./faqs/do-you-paint-by-brush-roller-or-spray.json) — schema
 - [`faqs/do-you-use-subcontractors.json`](./faqs/do-you-use-subcontractors.json) — schema
+- [`faqs/does-building-envelope-restoration-require-permits-in-pasadena.json`](./faqs/does-building-envelope-restoration-require-permits-in-pasadena.json) — schema
+- [`faqs/does-custom-framing-impact-the-resale-value-of-a-home.json`](./faqs/does-custom-framing-impact-the-resale-value-of-a-home.json) — schema
 - [`faqs/does-drywall-need-to-be-primed-before-painting.json`](./faqs/does-drywall-need-to-be-primed-before-painting.json) — schema
 - [`faqs/does-homeowners-insurance-cover-roof-repairs.json`](./faqs/does-homeowners-insurance-cover-roof-repairs.json) — schema
 - [`faqs/does-insurance-cover-new-roofs.json`](./faqs/does-insurance-cover-new-roofs.json) — schema
 - [`faqs/does-metal-expand-contract.json`](./faqs/does-metal-expand-contract.json) — schema
 - [`faqs/does-metal-roofing-void-asphalt-warranties.json`](./faqs/does-metal-roofing-void-asphalt-warranties.json) — schema
+- [`faqs/does-modern-builders-offer-commercial-painting-services-in-pasadena.json`](./faqs/does-modern-builders-offer-commercial-painting-services-in-pasadena.json) — schema
 - [`faqs/does-moss-algae-damage-require-repair.json`](./faqs/does-moss-algae-damage-require-repair.json) — schema
 - [`faqs/does-roof-color-affect-energy-efficiency.json`](./faqs/does-roof-color-affect-energy-efficiency.json) — schema
 - [`faqs/does-stucco-add-insulation-value.json`](./faqs/does-stucco-add-insulation-value.json) — schema
 - [`faqs/does-stucco-need-painting.json`](./faqs/does-stucco-need-painting.json) — schema
+- [`faqs/does-stucco-patching-require-a-permit-in-pasadena.json`](./faqs/does-stucco-patching-require-a-permit-in-pasadena.json) — schema
+- [`faqs/does-stucco-re-coating-improve-energy-efficiency.json`](./faqs/does-stucco-re-coating-improve-energy-efficiency.json) — schema
 - [`faqs/downspout-leaks-or-separation.json`](./faqs/downspout-leaks-or-separation.json) — schema
 - [`faqs/eco-friendly-aspects.json`](./faqs/eco-friendly-aspects.json) — schema
 - [`faqs/fire-rated-drywall.json`](./faqs/fire-rated-drywall.json) — schema
@@ -122,43 +216,219 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/gutters-making-banging-noise.json`](./faqs/gutters-making-banging-noise.json) — schema
 - [`faqs/gutters-separating-at-corners.json`](./faqs/gutters-separating-at-corners.json) — schema
 - [`faqs/heated-gutters-for-ice-dams.json`](./faqs/heated-gutters-for-ice-dams.json) — schema
+- [`faqs/how-can-i-ensure-my-project-plan-aligns-with-local-building-codes-in-pasadena.json`](./faqs/how-can-i-ensure-my-project-plan-aligns-with-local-building-codes-in-pasadena.json) — schema
+- [`faqs/how-can-i-extend-the-lifespan-of-my-residential-roof.json`](./faqs/how-can-i-extend-the-lifespan-of-my-residential-roof.json) — schema
+- [`faqs/how-can-i-identify-wood-rot-in-my-home.json`](./faqs/how-can-i-identify-wood-rot-in-my-home.json) — schema
+- [`faqs/how-can-i-prepare-my-home-for-drywall-patching-services.json`](./faqs/how-can-i-prepare-my-home-for-drywall-patching-services.json) — schema
+- [`faqs/how-can-i-prevent-drywall-damage.json`](./faqs/how-can-i-prevent-drywall-damage.json) — schema
+- [`faqs/how-can-i-prevent-future-stucco-color-fading-after-repairs.json`](./faqs/how-can-i-prevent-future-stucco-color-fading-after-repairs.json) — schema
+- [`faqs/how-can-i-prevent-future-stucco-damage-after-repairs.json`](./faqs/how-can-i-prevent-future-stucco-damage-after-repairs.json) — schema
+- [`faqs/how-can-i-prevent-stucco-cracks-in-my-home.json`](./faqs/how-can-i-prevent-stucco-cracks-in-my-home.json) — schema
+- [`faqs/how-can-i-tell-if-my-stucco-needs-waterproofing-or-repair.json`](./faqs/how-can-i-tell-if-my-stucco-needs-waterproofing-or-repair.json) — schema
+- [`faqs/how-do-i-choose-a-contractor-for-building-envelope-repair.json`](./faqs/how-do-i-choose-a-contractor-for-building-envelope-repair.json) — schema
+- [`faqs/how-do-i-choose-a-contractor-for-building-envelope-restoration.json`](./faqs/how-do-i-choose-a-contractor-for-building-envelope-restoration.json) — schema
+- [`faqs/how-do-i-choose-a-contractor-for-historical-stucco-preservation-in-the-pasadena.json`](./faqs/how-do-i-choose-a-contractor-for-historical-stucco-preservation-in-the-pasadena.json) — schema
+- [`faqs/how-do-i-choose-a-contractor-for-stucco-re-flashing.json`](./faqs/how-do-i-choose-a-contractor-for-stucco-re-flashing.json) — schema
+- [`faqs/how-do-i-choose-a-custom-framing-contractor.json`](./faqs/how-do-i-choose-a-custom-framing-contractor.json) — schema
+- [`faqs/how-do-i-choose-a-qualified-company-for-water-intrusion-assessment.json`](./faqs/how-do-i-choose-a-qualified-company-for-water-intrusion-assessment.json) — schema
+- [`faqs/how-do-i-choose-a-qualified-contractor-for-stucco-remediation.json`](./faqs/how-do-i-choose-a-qualified-contractor-for-stucco-remediation.json) — schema
+- [`faqs/how-do-i-choose-between-moisture-resistant-drywall-and-cement-board-for-bathroom.json`](./faqs/how-do-i-choose-between-moisture-resistant-drywall-and-cement-board-for-bathroom.json) — schema
+- [`faqs/how-do-i-choose-the-right-color-and-finish-for-my-stucco-coating.json`](./faqs/how-do-i-choose-the-right-color-and-finish-for-my-stucco-coating.json) — schema
+- [`faqs/how-do-i-choose-the-right-color-for-my-home-s-exterior.json`](./faqs/how-do-i-choose-the-right-color-for-my-home-s-exterior.json) — schema
+- [`faqs/how-do-i-choose-the-right-commercial-painting-contractor.json`](./faqs/how-do-i-choose-the-right-commercial-painting-contractor.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-after-a-design-consultation.json`](./faqs/how-do-i-choose-the-right-contractor-after-a-design-consultation.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-a-stucco-project.json`](./faqs/how-do-i-choose-the-right-contractor-for-a-stucco-project.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-exterior-restoration.json`](./faqs/how-do-i-choose-the-right-contractor-for-exterior-restoration.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-exterior-surface-repairs.json`](./faqs/how-do-i-choose-the-right-contractor-for-exterior-surface-repairs.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-gutter-repair-in-the-old-town-pasadena.json`](./faqs/how-do-i-choose-the-right-contractor-for-gutter-repair-in-the-old-town-pasadena.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-interior-wall-repair.json`](./faqs/how-do-i-choose-the-right-contractor-for-interior-wall-repair.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-my-home-renovation.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-home-renovation.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-my-light-commercial-project.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-light-commercial-project.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-my-light-commercial-repair-project.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-light-commercial-repair-project.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-my-residential-construction-project.json`](./faqs/how-do-i-choose-the-right-contractor-for-my-residential-construction-project.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-stucco-re-coating.json`](./faqs/how-do-i-choose-the-right-contractor-for-stucco-re-coating.json) — schema
+- [`faqs/how-do-i-choose-the-right-contractor-for-surface-smoothing-in-the-pasadena-area.json`](./faqs/how-do-i-choose-the-right-contractor-for-surface-smoothing-in-the-pasadena-area.json) — schema
+- [`faqs/how-do-i-choose-the-right-decorative-stucco-accents-for-my-home-s-architectural.json`](./faqs/how-do-i-choose-the-right-decorative-stucco-accents-for-my-home-s-architectural.json) — schema
+- [`faqs/how-do-i-choose-the-right-exterior-coating-for-my-home.json`](./faqs/how-do-i-choose-the-right-exterior-coating-for-my-home.json) — schema
+- [`faqs/how-do-i-choose-the-right-exterior-trim-material-for-my-home-in-pasadena.json`](./faqs/how-do-i-choose-the-right-exterior-trim-material-for-my-home-in-pasadena.json) — schema
+- [`faqs/how-do-i-choose-the-right-gutter-size-for-my-home.json`](./faqs/how-do-i-choose-the-right-gutter-size-for-my-home.json) — schema
+- [`faqs/how-do-i-choose-the-right-paint-color-for-my-interior-space.json`](./faqs/how-do-i-choose-the-right-paint-color-for-my-interior-space.json) — schema
+- [`faqs/how-do-i-choose-the-right-paint-colors-for-my-home-s-exterior.json`](./faqs/how-do-i-choose-the-right-paint-colors-for-my-home-s-exterior.json) — schema
+- [`faqs/how-do-i-choose-the-right-roofing-contractor-for-my-home.json`](./faqs/how-do-i-choose-the-right-roofing-contractor-for-my-home.json) — schema
+- [`faqs/how-do-i-choose-the-right-roofing-contractor-for-my-replacement-project.json`](./faqs/how-do-i-choose-the-right-roofing-contractor-for-my-replacement-project.json) — schema
+- [`faqs/how-do-i-choose-the-right-roofing-contractor-for-repairs.json`](./faqs/how-do-i-choose-the-right-roofing-contractor-for-repairs.json) — schema
+- [`faqs/how-do-i-choose-the-right-stucco-contractor-in-pasadena.json`](./faqs/how-do-i-choose-the-right-stucco-contractor-in-pasadena.json) — schema
+- [`faqs/how-do-i-know-if-my-ceiling-damage-indicates-a-structural-problem.json`](./faqs/how-do-i-know-if-my-ceiling-damage-indicates-a-structural-problem.json) — schema
+- [`faqs/how-do-i-know-if-my-exterior-surfaces-need-repair.json`](./faqs/how-do-i-know-if-my-exterior-surfaces-need-repair.json) — schema
+- [`faqs/how-do-i-know-if-my-home-needs-foundation-repair.json`](./faqs/how-do-i-know-if-my-home-needs-foundation-repair.json) — schema
+- [`faqs/how-do-i-prepare-for-a-paint-color-consultation.json`](./faqs/how-do-i-prepare-for-a-paint-color-consultation.json) — schema
+- [`faqs/how-do-i-start-a-new-construction-or-renovation-project-with-modern-builders.json`](./faqs/how-do-i-start-a-new-construction-or-renovation-project-with-modern-builders.json) — schema
+- [`faqs/how-do-professional-patching-techniques-differ-from-basic-diy-methods.json`](./faqs/how-do-professional-patching-techniques-differ-from-basic-diy-methods.json) — schema
+- [`faqs/how-do-professionals-match-existing-stucco-color.json`](./faqs/how-do-professionals-match-existing-stucco-color.json) — schema
+- [`faqs/how-do-professionals-match-the-texture-and-color-of-existing-stucco.json`](./faqs/how-do-professionals-match-the-texture-and-color-of-existing-stucco.json) — schema
+- [`faqs/how-do-you-ensure-quality-and-safety-on-your-construction-sites.json`](./faqs/how-do-you-ensure-quality-and-safety-on-your-construction-sites.json) — schema
+- [`faqs/how-do-you-ensure-quality-control-during-residential-construction.json`](./faqs/how-do-you-ensure-quality-control-during-residential-construction.json) — schema
+- [`faqs/how-do-you-ensure-soundproofing-quality-during-drywall-framing.json`](./faqs/how-do-you-ensure-soundproofing-quality-during-drywall-framing.json) — schema
+- [`faqs/how-do-you-ensure-the-color-of-the-new-stucco-matches-the-existing-stucco.json`](./faqs/how-do-you-ensure-the-color-of-the-new-stucco-matches-the-existing-stucco.json) — schema
 - [`faqs/how-do-you-fix-a-leaky-roof-temporarily.json`](./faqs/how-do-you-fix-a-leaky-roof-temporarily.json) — schema
 - [`faqs/how-do-you-install-control-joints.json`](./faqs/how-do-you-install-control-joints.json) — schema
+- [`faqs/how-do-you-match-existing-drywall-texture-during-a-repair.json`](./faqs/how-do-you-match-existing-drywall-texture-during-a-repair.json) — schema
+- [`faqs/how-do-you-match-the-existing-stucco-texture-and-color.json`](./faqs/how-do-you-match-the-existing-stucco-texture-and-color.json) — schema
+- [`faqs/how-do-you-prevent-mold-growth-after-water-damage.json`](./faqs/how-do-you-prevent-mold-growth-after-water-damage.json) — schema
 - [`faqs/how-do-you-protect-floors-furniture.json`](./faqs/how-do-you-protect-floors-furniture.json) — schema
 - [`faqs/how-do-you-protect-my-home-during-installation.json`](./faqs/how-do-you-protect-my-home-during-installation.json) — schema
 - [`faqs/how-do-you-repair-stucco-cracks.json`](./faqs/how-do-you-repair-stucco-cracks.json) — schema
+- [`faqs/how-does-a-construction-project-manager-ensure-my-project-stays-on-budget.json`](./faqs/how-does-a-construction-project-manager-ensure-my-project-stays-on-budget.json) — schema
+- [`faqs/how-does-cement-stucco-compare-to-synthetic-eifs-stucco.json`](./faqs/how-does-cement-stucco-compare-to-synthetic-eifs-stucco.json) — schema
+- [`faqs/how-does-construction-project-management-mitigate-risks-on-a-project.json`](./faqs/how-does-construction-project-management-mitigate-risks-on-a-project.json) — schema
+- [`faqs/how-does-historical-stucco-differ-from-modern-synthetic-stucco-systems.json`](./faqs/how-does-historical-stucco-differ-from-modern-synthetic-stucco-systems.json) — schema
+- [`faqs/how-does-level-5-drywall-finishing-differ-from-level-4.json`](./faqs/how-does-level-5-drywall-finishing-differ-from-level-4.json) — schema
 - [`faqs/how-does-metal-affect-home-resale.json`](./faqs/how-does-metal-affect-home-resale.json) — schema
+- [`faqs/how-does-modern-builders-ensure-an-accurate-paint-color-match.json`](./faqs/how-does-modern-builders-ensure-an-accurate-paint-color-match.json) — schema
+- [`faqs/how-does-project-planning-differ-for-residential-versus-commercial-construction.json`](./faqs/how-does-project-planning-differ-for-residential-versus-commercial-construction.json) — schema
+- [`faqs/how-does-stucco-compare-to-other-siding-options-like-vinyl-or-wood.json`](./faqs/how-does-stucco-compare-to-other-siding-options-like-vinyl-or-wood.json) — schema
+- [`faqs/how-does-weather-in-areas-like-pasadena-affect-exterior-surface-preparation.json`](./faqs/how-does-weather-in-areas-like-pasadena-affect-exterior-surface-preparation.json) — schema
+- [`faqs/how-durable-is-resurfaced-stucco.json`](./faqs/how-durable-is-resurfaced-stucco.json) — schema
 - [`faqs/how-far-apart-should-drywall-screws-be.json`](./faqs/how-far-apart-should-drywall-screws-be.json) — schema
+- [`faqs/how-important-is-attic-ventilation-for-the-health-and-longevity-of-my-roof.json`](./faqs/how-important-is-attic-ventilation-for-the-health-and-longevity-of-my-roof.json) — schema
 - [`faqs/how-is-drywall-installed-step-by-step.json`](./faqs/how-is-drywall-installed-step-by-step.json) — schema
+- [`faqs/how-is-drywall-texture-matching-done.json`](./faqs/how-is-drywall-texture-matching-done.json) — schema
 - [`faqs/how-is-metal-roofing-installed.json`](./faqs/how-is-metal-roofing-installed.json) — schema
 - [`faqs/how-is-old-roofing-disposed.json`](./faqs/how-is-old-roofing-disposed.json) — schema
 - [`faqs/how-is-stucco-textured.json`](./faqs/how-is-stucco-textured.json) — schema
+- [`faqs/how-long-do-building-envelope-repairs-take.json`](./faqs/how-long-do-building-envelope-repairs-take.json) — schema
 - [`faqs/how-long-do-gutters-last.json`](./faqs/how-long-do-gutters-last.json) — schema
+- [`faqs/how-long-do-light-commercial-repair-projects-typically-take.json`](./faqs/how-long-do-light-commercial-repair-projects-typically-take.json) — schema
+- [`faqs/how-long-do-residential-repair-projects-usually-take.json`](./faqs/how-long-do-residential-repair-projects-usually-take.json) — schema
+- [`faqs/how-long-does-a-building-envelope-restoration-project-take.json`](./faqs/how-long-does-a-building-envelope-restoration-project-take.json) — schema
+- [`faqs/how-long-does-a-cement-stucco-installation-typically-take.json`](./faqs/how-long-does-a-cement-stucco-installation-typically-take.json) — schema
 - [`faqs/how-long-does-a-house-painting-job-take.json`](./faqs/how-long-does-a-house-painting-job-take.json) — schema
+- [`faqs/how-long-does-a-light-commercial-restoration-project-take.json`](./faqs/how-long-does-a-light-commercial-restoration-project-take.json) — schema
+- [`faqs/how-long-does-a-restucco-project-typically-take.json`](./faqs/how-long-does-a-restucco-project-typically-take.json) — schema
 - [`faqs/how-long-does-a-roof-repair-take.json`](./faqs/how-long-does-a-roof-repair-take.json) — schema
+- [`faqs/how-long-does-a-typical-ceiling-repair-take-to-complete.json`](./faqs/how-long-does-a-typical-ceiling-repair-take-to-complete.json) — schema
+- [`faqs/how-long-does-a-typical-commercial-painting-project-take.json`](./faqs/how-long-does-a-typical-commercial-painting-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-design-consultation-last.json`](./faqs/how-long-does-a-typical-design-consultation-last.json) — schema
+- [`faqs/how-long-does-a-typical-drywall-repair-take.json`](./faqs/how-long-does-a-typical-drywall-repair-take.json) — schema
+- [`faqs/how-long-does-a-typical-exterior-house-painting-project-take.json`](./faqs/how-long-does-a-typical-exterior-house-painting-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-exterior-painting-project-take.json`](./faqs/how-long-does-a-typical-exterior-painting-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-gutter-repair-take.json`](./faqs/how-long-does-a-typical-gutter-repair-take.json) — schema
+- [`faqs/how-long-does-a-typical-light-commercial-construction-project-take.json`](./faqs/how-long-does-a-typical-light-commercial-construction-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-paint-color-consultation-take.json`](./faqs/how-long-does-a-typical-paint-color-consultation-take.json) — schema
+- [`faqs/how-long-does-a-typical-residential-roof-replacement-project-take.json`](./faqs/how-long-does-a-typical-residential-roof-replacement-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-roof-repair-take.json`](./faqs/how-long-does-a-typical-roof-repair-take.json) — schema
+- [`faqs/how-long-does-a-typical-roof-replacement-project-take.json`](./faqs/how-long-does-a-typical-roof-replacement-project-take.json) — schema
+- [`faqs/how-long-does-a-typical-stucco-remediation-project-take.json`](./faqs/how-long-does-a-typical-stucco-remediation-project-take.json) — schema
+- [`faqs/how-long-does-a-water-intrusion-assessment-take.json`](./faqs/how-long-does-a-water-intrusion-assessment-take.json) — schema
+- [`faqs/how-long-does-acrylic-stucco-installation-typically-take.json`](./faqs/how-long-does-acrylic-stucco-installation-typically-take.json) — schema
+- [`faqs/how-long-does-an-exterior-coating-application-typically-last.json`](./faqs/how-long-does-an-exterior-coating-application-typically-last.json) — schema
+- [`faqs/how-long-does-an-exterior-restoration-project-take.json`](./faqs/how-long-does-an-exterior-restoration-project-take.json) — schema
+- [`faqs/how-long-does-an-exterior-surface-repair-project-usually-take.json`](./faqs/how-long-does-an-exterior-surface-repair-project-usually-take.json) — schema
+- [`faqs/how-long-does-custom-framing-take-for-a-new-home.json`](./faqs/how-long-does-custom-framing-take-for-a-new-home.json) — schema
+- [`faqs/how-long-does-drywall-finishing-typically-take-for-an-average-room.json`](./faqs/how-long-does-drywall-finishing-typically-take-for-an-average-room.json) — schema
 - [`faqs/how-long-does-drywall-mud-take-to-dry.json`](./faqs/how-long-does-drywall-mud-take-to-dry.json) — schema
+- [`faqs/how-long-does-drywall-texture-matching-take.json`](./faqs/how-long-does-drywall-texture-matching-take.json) — schema
+- [`faqs/how-long-does-exterior-trim-installation-usually-take.json`](./faqs/how-long-does-exterior-trim-installation-usually-take.json) — schema
 - [`faqs/how-long-does-gutter-installation-take.json`](./faqs/how-long-does-gutter-installation-take.json) — schema
+- [`faqs/how-long-does-gutter-installation-typically-take.json`](./faqs/how-long-does-gutter-installation-typically-take.json) — schema
 - [`faqs/how-long-does-gutter-repair-take.json`](./faqs/how-long-does-gutter-repair-take.json) — schema
+- [`faqs/how-long-does-interior-house-painting-typically-take.json`](./faqs/how-long-does-interior-house-painting-typically-take.json) — schema
+- [`faqs/how-long-does-interior-wall-repair-typically-take.json`](./faqs/how-long-does-interior-wall-repair-typically-take.json) — schema
+- [`faqs/how-long-does-it-take-for-newly-matched-stucco-color-to-fully-cure-and-show-its.json`](./faqs/how-long-does-it-take-for-newly-matched-stucco-color-to-fully-cure-and-show-its.json) — schema
+- [`faqs/how-long-does-it-take-to-complete-a-stucco-texture-matching-project.json`](./faqs/how-long-does-it-take-to-complete-a-stucco-texture-matching-project.json) — schema
+- [`faqs/how-long-does-it-take-to-install-drywall-in-a-small-bathroom.json`](./faqs/how-long-does-it-take-to-install-drywall-in-a-small-bathroom.json) — schema
+- [`faqs/how-long-does-it-take-to-install-drywall-in-a-standard-sized-room.json`](./faqs/how-long-does-it-take-to-install-drywall-in-a-standard-sized-room.json) — schema
+- [`faqs/how-long-does-it-take-to-install-drywall-in-a-typical-kitchen.json`](./faqs/how-long-does-it-take-to-install-drywall-in-a-typical-kitchen.json) — schema
+- [`faqs/how-long-does-it-typically-take-to-install-decorative-stucco-accents.json`](./faqs/how-long-does-it-typically-take-to-install-decorative-stucco-accents.json) — schema
+- [`faqs/how-long-does-level-5-drywall-finishing-add-to-a-project-timeline.json`](./faqs/how-long-does-level-5-drywall-finishing-add-to-a-project-timeline.json) — schema
 - [`faqs/how-long-does-metal-roof-installation-take.json`](./faqs/how-long-does-metal-roof-installation-take.json) — schema
+- [`faqs/how-long-does-new-caulk-typically-last-once-applied.json`](./faqs/how-long-does-new-caulk-typically-last-once-applied.json) — schema
 - [`faqs/how-long-does-paint-last.json`](./faqs/how-long-does-paint-last.json) — schema
+- [`faqs/how-long-does-roof-flashing-repair-take.json`](./faqs/how-long-does-roof-flashing-repair-take.json) — schema
 - [`faqs/how-long-does-roof-installation-take.json`](./faqs/how-long-does-roof-installation-take.json) — schema
+- [`faqs/how-long-does-stucco-crack-repair-take.json`](./faqs/how-long-does-stucco-crack-repair-take.json) — schema
+- [`faqs/how-long-does-stucco-crack-repair-typically-last.json`](./faqs/how-long-does-stucco-crack-repair-typically-last.json) — schema
 - [`faqs/how-long-does-stucco-installation-take.json`](./faqs/how-long-does-stucco-installation-take.json) — schema
+- [`faqs/how-long-does-stucco-installation-typically-take.json`](./faqs/how-long-does-stucco-installation-typically-take.json) — schema
 - [`faqs/how-long-does-stucco-last-with-proper-care.json`](./faqs/how-long-does-stucco-last-with-proper-care.json) — schema
 - [`faqs/how-long-does-stucco-last.json`](./faqs/how-long-does-stucco-last.json) — schema
+- [`faqs/how-long-does-stucco-patching-take-to-complete.json`](./faqs/how-long-does-stucco-patching-take-to-complete.json) — schema
+- [`faqs/how-long-does-stucco-re-coating-take.json`](./faqs/how-long-does-stucco-re-coating-take.json) — schema
+- [`faqs/how-long-does-stucco-re-flashing-typically-take.json`](./faqs/how-long-does-stucco-re-flashing-typically-take.json) — schema
+- [`faqs/how-long-does-stucco-repair-take.json`](./faqs/how-long-does-stucco-repair-take.json) — schema
+- [`faqs/how-long-does-stucco-resurfacing-take.json`](./faqs/how-long-does-stucco-resurfacing-take.json) — schema
+- [`faqs/how-long-does-stucco-waterproofing-last.json`](./faqs/how-long-does-stucco-waterproofing-last.json) — schema
+- [`faqs/how-long-does-surface-preparation-usually-take-for-an-exterior-painting-project.json`](./faqs/how-long-does-surface-preparation-usually-take-for-an-exterior-painting-project.json) — schema
+- [`faqs/how-long-does-the-drywall-patching-process-usually-take-from-start-to-finish.json`](./faqs/how-long-does-the-drywall-patching-process-usually-take-from-start-to-finish.json) — schema
+- [`faqs/how-long-does-the-paint-color-matching-process-take.json`](./faqs/how-long-does-the-paint-color-matching-process-take.json) — schema
+- [`faqs/how-long-does-the-project-planning-phase-typically-take-for-a-custom-home-build.json`](./faqs/how-long-does-the-project-planning-phase-typically-take-for-a-custom-home-build.json) — schema
+- [`faqs/how-long-does-the-stucco-coating-application-process-usually-take.json`](./faqs/how-long-does-the-stucco-coating-application-process-usually-take.json) — schema
+- [`faqs/how-long-does-the-surface-smoothing-process-typically-take.json`](./faqs/how-long-does-the-surface-smoothing-process-typically-take.json) — schema
+- [`faqs/how-long-does-wall-patching-typically-take.json`](./faqs/how-long-does-wall-patching-typically-take.json) — schema
+- [`faqs/how-long-does-water-damage-repair-usually-take.json`](./faqs/how-long-does-water-damage-repair-usually-take.json) — schema
+- [`faqs/how-long-does-waterproof-coating-last-on-average.json`](./faqs/how-long-does-waterproof-coating-last-on-average.json) — schema
+- [`faqs/how-long-does-wood-rot-repair-typically-take.json`](./faqs/how-long-does-wood-rot-repair-typically-take.json) — schema
 - [`faqs/how-many-coats-of-mud-needed.json`](./faqs/how-many-coats-of-mud-needed.json) — schema
 - [`faqs/how-many-coats-of-paint-do-you-apply.json`](./faqs/how-many-coats-of-paint-do-you-apply.json) — schema
 - [`faqs/how-many-downspouts-needed.json`](./faqs/how-many-downspouts-needed.json) — schema
 - [`faqs/how-many-painters-on-crew.json`](./faqs/how-many-painters-on-crew.json) — schema
+- [`faqs/how-much-does-a-design-consultation-cost.json`](./faqs/how-much-does-a-design-consultation-cost.json) — schema
+- [`faqs/how-much-does-a-home-renovation-cost-in-pasadena.json`](./faqs/how-much-does-a-home-renovation-cost-in-pasadena.json) — schema
 - [`faqs/how-much-does-a-new-roof-cost.json`](./faqs/how-much-does-a-new-roof-cost.json) — schema
+- [`faqs/how-much-does-a-paint-color-consultation-cost.json`](./faqs/how-much-does-a-paint-color-consultation-cost.json) — schema
+- [`faqs/how-much-does-a-water-intrusion-assessment-cost-in-pasadena.json`](./faqs/how-much-does-a-water-intrusion-assessment-cost-in-pasadena.json) — schema
+- [`faqs/how-much-does-acrylic-stucco-installation-cost-per-square-foot.json`](./faqs/how-much-does-acrylic-stucco-installation-cost-per-square-foot.json) — schema
+- [`faqs/how-much-does-building-envelope-repair-cost.json`](./faqs/how-much-does-building-envelope-repair-cost.json) — schema
+- [`faqs/how-much-does-ceiling-repair-typically-cost-in-the-pasadena-area.json`](./faqs/how-much-does-ceiling-repair-typically-cost-in-the-pasadena-area.json) — schema
+- [`faqs/how-much-does-construction-project-management-typically-cost.json`](./faqs/how-much-does-construction-project-management-typically-cost.json) — schema
+- [`faqs/how-much-does-custom-framing-cost-per-square-foot-in-the-pasadena-area.json`](./faqs/how-much-does-custom-framing-cost-per-square-foot-in-the-pasadena-area.json) — schema
+- [`faqs/how-much-does-drywall-framing-cost-per-linear-foot-or-square-foot.json`](./faqs/how-much-does-drywall-framing-cost-per-linear-foot-or-square-foot.json) — schema
+- [`faqs/how-much-does-drywall-installation-typically-cost-per-square-foot.json`](./faqs/how-much-does-drywall-installation-typically-cost-per-square-foot.json) — schema
+- [`faqs/how-much-does-drywall-repair-cost-in-the-pasadena-area.json`](./faqs/how-much-does-drywall-repair-cost-in-the-pasadena-area.json) — schema
+- [`faqs/how-much-does-drywall-texture-matching-cost-in-pasadena.json`](./faqs/how-much-does-drywall-texture-matching-cost-in-pasadena.json) — schema
+- [`faqs/how-much-does-exterior-coating-application-cost-compared-to-traditional-painting.json`](./faqs/how-much-does-exterior-coating-application-cost-compared-to-traditional-painting.json) — schema
+- [`faqs/how-much-does-exterior-house-painting-cost-in-the-pasadena-area.json`](./faqs/how-much-does-exterior-house-painting-cost-in-the-pasadena-area.json) — schema
+- [`faqs/how-much-does-exterior-restoration-typically-cost.json`](./faqs/how-much-does-exterior-restoration-typically-cost.json) — schema
+- [`faqs/how-much-does-exterior-trim-installation-cost-in-areas-like-old-town-pasadena.json`](./faqs/how-much-does-exterior-trim-installation-cost-in-areas-like-old-town-pasadena.json) — schema
 - [`faqs/how-much-does-gutter-installation-cost.json`](./faqs/how-much-does-gutter-installation-cost.json) — schema
 - [`faqs/how-much-does-gutter-repair-cost.json`](./faqs/how-much-does-gutter-repair-cost.json) — schema
 - [`faqs/how-much-does-house-painting-cost.json`](./faqs/how-much-does-house-painting-cost.json) — schema
+- [`faqs/how-much-does-interior-wall-repair-cost-in-pasadena.json`](./faqs/how-much-does-interior-wall-repair-cost-in-pasadena.json) — schema
+- [`faqs/how-much-does-it-cost-to-build-a-custom-home-in-the-pasadena-area.json`](./faqs/how-much-does-it-cost-to-build-a-custom-home-in-the-pasadena-area.json) — schema
+- [`faqs/how-much-does-it-cost-to-build-an-addition-or-remodel-a-kitchen-in-pasadena.json`](./faqs/how-much-does-it-cost-to-build-an-addition-or-remodel-a-kitchen-in-pasadena.json) — schema
+- [`faqs/how-much-does-it-cost-to-repair-a-leaky-roof-in-pasadena.json`](./faqs/how-much-does-it-cost-to-repair-a-leaky-roof-in-pasadena.json) — schema
+- [`faqs/how-much-does-it-cost-to-restucco-a-house-in-pasadena.json`](./faqs/how-much-does-it-cost-to-restucco-a-house-in-pasadena.json) — schema
+- [`faqs/how-much-does-kitchen-drywall-installation-cost-in-the-pasadena-area.json`](./faqs/how-much-does-kitchen-drywall-installation-cost-in-the-pasadena-area.json) — schema
+- [`faqs/how-much-does-light-commercial-restoration-cost.json`](./faqs/how-much-does-light-commercial-restoration-cost.json) — schema
+- [`faqs/how-much-does-moisture-resistant-drywall-installation-cost-compared-to-regular-d.json`](./faqs/how-much-does-moisture-resistant-drywall-installation-cost-compared-to-regular-d.json) — schema
+- [`faqs/how-much-does-professional-caulking-service-cost-for-a-typical-pasadena-home.json`](./faqs/how-much-does-professional-caulking-service-cost-for-a-typical-pasadena-home.json) — schema
+- [`faqs/how-much-does-professional-drywall-repair-cost-in-pasadena.json`](./faqs/how-much-does-professional-drywall-repair-cost-in-pasadena.json) — schema
+- [`faqs/how-much-does-professional-surface-preparation-add-to-the-cost-of-a-painting-pro.json`](./faqs/how-much-does-professional-surface-preparation-add-to-the-cost-of-a-painting-pro.json) — schema
+- [`faqs/how-much-does-roof-flashing-repair-typically-cost.json`](./faqs/how-much-does-roof-flashing-repair-typically-cost.json) — schema
 - [`faqs/how-much-does-roof-repair-cost.json`](./faqs/how-much-does-roof-repair-cost.json) — schema
+- [`faqs/how-much-does-roof-repair-typically-cost-in-pasadena.json`](./faqs/how-much-does-roof-repair-typically-cost-in-pasadena.json) — schema
+- [`faqs/how-much-does-roof-replacement-cost.json`](./faqs/how-much-does-roof-replacement-cost.json) — schema
 - [`faqs/how-much-does-stucco-cost-per-square-foot.json`](./faqs/how-much-does-stucco-cost-per-square-foot.json) — schema
+- [`faqs/how-much-does-stucco-crack-repair-cost-in-pasadena.json`](./faqs/how-much-does-stucco-crack-repair-cost-in-pasadena.json) — schema
+- [`faqs/how-much-does-stucco-patching-cost.json`](./faqs/how-much-does-stucco-patching-cost.json) — schema
+- [`faqs/how-much-does-stucco-re-coating-cost-in-the-pasadena-area.json`](./faqs/how-much-does-stucco-re-coating-cost-in-the-pasadena-area.json) — schema
+- [`faqs/how-much-does-stucco-re-flashing-cost-in-pasadena.json`](./faqs/how-much-does-stucco-re-flashing-cost-in-pasadena.json) — schema
+- [`faqs/how-much-does-stucco-remediation-cost-in-pasadena.json`](./faqs/how-much-does-stucco-remediation-cost-in-pasadena.json) — schema
+- [`faqs/how-much-does-stucco-repair-typically-cost.json`](./faqs/how-much-does-stucco-repair-typically-cost.json) — schema
+- [`faqs/how-much-does-stucco-waterproofing-cost-for-a-typical-home-in-pasadena.json`](./faqs/how-much-does-stucco-waterproofing-cost-for-a-typical-home-in-pasadena.json) — schema
+- [`faqs/how-much-does-wall-patching-cost-in-the-pasadena-area.json`](./faqs/how-much-does-wall-patching-cost-in-the-pasadena-area.json) — schema
+- [`faqs/how-much-does-water-damage-repair-cost-in-pasadena.json`](./faqs/how-much-does-water-damage-repair-cost-in-pasadena.json) — schema
+- [`faqs/how-much-does-wood-rot-repair-cost.json`](./faqs/how-much-does-wood-rot-repair-cost.json) — schema
 - [`faqs/how-much-drywall-for-a-room.json`](./faqs/how-much-drywall-for-a-room.json) — schema
 - [`faqs/how-often-clean-new-gutters.json`](./faqs/how-often-clean-new-gutters.json) — schema
+- [`faqs/how-often-should-a-commercial-building-be-repainted.json`](./faqs/how-often-should-a-commercial-building-be-repainted.json) — schema
 - [`faqs/how-often-should-i-inspect-for-repairs.json`](./faqs/how-often-should-i-inspect-for-repairs.json) — schema
+- [`faqs/how-often-should-i-inspect-my-drywall-for-damage.json`](./faqs/how-often-should-i-inspect-my-drywall-for-damage.json) — schema
+- [`faqs/how-often-should-i-inspect-my-gutters-for-potential-repair-needs.json`](./faqs/how-often-should-i-inspect-my-gutters-for-potential-repair-needs.json) — schema
 - [`faqs/how-often-should-i-inspect-my-roof.json`](./faqs/how-often-should-i-inspect-my-roof.json) — schema
+- [`faqs/how-often-should-i-repaint-my-house-exterior.json`](./faqs/how-often-should-i-repaint-my-house-exterior.json) — schema
+- [`faqs/how-often-should-stucco-be-re-coated.json`](./faqs/how-often-should-stucco-be-re-coated.json) — schema
+- [`faqs/how-should-i-prepare-my-home-before-interior-painters-arrive.json`](./faqs/how-should-i-prepare-my-home-before-interior-painters-arrive.json) — schema
 - [`faqs/how-soon-can-you-start.json`](./faqs/how-soon-can-you-start.json) — schema
 - [`faqs/how-to-calculate-linear-feet-needed.json`](./faqs/how-to-calculate-linear-feet-needed.json) — schema
 - [`faqs/how-to-choose-shingle-types.json`](./faqs/how-to-choose-shingle-types.json) — schema
@@ -185,10 +455,21 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/ice-dam-damage-repair.json`](./faqs/ice-dam-damage-repair.json) — schema
 - [`faqs/insurance-cover-gutter-damage.json`](./faqs/insurance-cover-gutter-damage.json) — schema
 - [`faqs/interior-or-exterior-first.json`](./faqs/interior-or-exterior-first.json) — schema
+- [`faqs/is-acrylic-stucco-a-good-choice-for-homes-in-seismic-activity-zones-like-pasaden.json`](./faqs/is-acrylic-stucco-a-good-choice-for-homes-in-seismic-activity-zones-like-pasaden.json) — schema
+- [`faqs/is-crack-filling-enough-or-do-i-need-to-re-stucco-the-entire-wall.json`](./faqs/is-crack-filling-enough-or-do-i-need-to-re-stucco-the-entire-wall.json) — schema
 - [`faqs/is-financing-available-for-roof-replacement.json`](./faqs/is-financing-available-for-roof-replacement.json) — schema
+- [`faqs/is-it-always-better-to-match-an-existing-paint-color-or-should-i-repaint-the-who.json`](./faqs/is-it-always-better-to-match-an-existing-paint-color-or-should-i-repaint-the-who.json) — schema
+- [`faqs/is-it-better-to-hire-a-professional-or-do-caulking-myself.json`](./faqs/is-it-better-to-hire-a-professional-or-do-caulking-myself.json) — schema
+- [`faqs/is-it-possible-to-paint-or-stain-new-exterior-trim.json`](./faqs/is-it-possible-to-paint-or-stain-new-exterior-trim.json) — schema
+- [`faqs/is-it-possible-to-perfectly-match-any-drywall-texture.json`](./faqs/is-it-possible-to-perfectly-match-any-drywall-texture.json) — schema
+- [`faqs/is-it-possible-to-repair-only-a-portion-of-historical-stucco-or-does-the-entire.json`](./faqs/is-it-possible-to-repair-only-a-portion-of-historical-stucco-or-does-the-entire.json) — schema
+- [`faqs/is-it-possible-to-repair-textured-drywall-like-those-found-in-older-pasadena-hom.json`](./faqs/is-it-possible-to-repair-textured-drywall-like-those-found-in-older-pasadena-hom.json) — schema
+- [`faqs/is-level-5-drywall-finishing-significantly-more-expensive.json`](./faqs/is-level-5-drywall-finishing-significantly-more-expensive.json) — schema
 - [`faqs/is-metal-roofing-fire-resistant.json`](./faqs/is-metal-roofing-fire-resistant.json) — schema
+- [`faqs/is-moisture-resistant-drywall-truly-waterproof.json`](./faqs/is-moisture-resistant-drywall-truly-waterproof.json) — schema
 - [`faqs/is-permit-needed-for-stucco.json`](./faqs/is-permit-needed-for-stucco.json) — schema
 - [`faqs/is-stucco-fire-rated.json`](./faqs/is-stucco-fire-rated.json) — schema
+- [`faqs/is-stucco-waterproofing-a-diy-project-or-should-i-hire-a-professional.json`](./faqs/is-stucco-waterproofing-a-diy-project-or-should-i-hire-a-professional.json) — schema
 - [`faqs/ladder-safety-for-repairs.json`](./faqs/ladder-safety-for-repairs.json) — schema
 - [`faqs/low-voc-eco-friendly-paints.json`](./faqs/low-voc-eco-friendly-paints.json) — schema
 - [`faqs/metal-roof-on-low-slope.json`](./faqs/metal-roof-on-low-slope.json) — schema
@@ -200,76 +481,456 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/prevent-future-gutter-repairs.json`](./faqs/prevent-future-gutter-repairs.json) — schema
 - [`faqs/rusty-steel-gutters-fix.json`](./faqs/rusty-steel-gutters-fix.json) — schema
 - [`faqs/seamless-vs-sectional-gutters.json`](./faqs/seamless-vs-sectional-gutters.json) — schema
+- [`faqs/should-i-consider-repainting-my-entire-house-instead-of-just-matching-stucco-rep.json`](./faqs/should-i-consider-repainting-my-entire-house-instead-of-just-matching-stucco-rep.json) — schema
 - [`faqs/should-i-repair-or-replace-my-roof.json`](./faqs/should-i-repair-or-replace-my-roof.json) — schema
 - [`faqs/should-i-replace-my-roof-in-winter.json`](./faqs/should-i-replace-my-roof-in-winter.json) — schema
+- [`faqs/should-i-use-latex-or-oil-based-paint-for-my-home-s-exterior.json`](./faqs/should-i-use-latex-or-oil-based-paint-for-my-home-s-exterior.json) — schema
 - [`faqs/soundproofing-drywall-tips.json`](./faqs/soundproofing-drywall-tips.json) — schema
 - [`faqs/standing-seam-vs-exposed-fastener.json`](./faqs/standing-seam-vs-exposed-fastener.json) — schema
 - [`faqs/warranty-on-gutter-installation.json`](./faqs/warranty-on-gutter-installation.json) — schema
 - [`faqs/warranty-on-painting-work.json`](./faqs/warranty-on-painting-work.json) — schema
 - [`faqs/what-about-repairs-around-chimneys-skylights.json`](./faqs/what-about-repairs-around-chimneys-skylights.json) — schema
 - [`faqs/what-about-skylights-chimneys-during-install.json`](./faqs/what-about-skylights-chimneys-during-install.json) — schema
+- [`faqs/what-are-common-causes-of-building-envelope-damage-in-pasadena.json`](./faqs/what-are-common-causes-of-building-envelope-damage-in-pasadena.json) — schema
+- [`faqs/what-are-common-causes-of-damage-to-historical-stucco.json`](./faqs/what-are-common-causes-of-damage-to-historical-stucco.json) — schema
+- [`faqs/what-are-common-challenges-in-construction-project-planning-and-how-are-they-add.json`](./faqs/what-are-common-challenges-in-construction-project-planning-and-how-are-they-add.json) — schema
+- [`faqs/what-are-common-challenges-in-residential-renovation-projects.json`](./faqs/what-are-common-challenges-in-residential-renovation-projects.json) — schema
+- [`faqs/what-are-common-issues-that-can-occur-during-drywall-installation.json`](./faqs/what-are-common-issues-that-can-occur-during-drywall-installation.json) — schema
+- [`faqs/what-are-common-mistakes-to-avoid-during-diy-surface-preparation.json`](./faqs/what-are-common-mistakes-to-avoid-during-diy-surface-preparation.json) — schema
+- [`faqs/what-are-common-problems-with-cement-stucco-and-how-are-they-prevented.json`](./faqs/what-are-common-problems-with-cement-stucco-and-how-are-they-prevented.json) — schema
 - [`faqs/what-are-common-signs-gutters-need-repair.json`](./faqs/what-are-common-signs-gutters-need-repair.json) — schema
 - [`faqs/what-are-common-signs-my-roof-needs-repair.json`](./faqs/what-are-common-signs-my-roof-needs-repair.json) — schema
+- [`faqs/what-are-common-signs-of-drywall-damage.json`](./faqs/what-are-common-signs-of-drywall-damage.json) — schema
+- [`faqs/what-are-common-signs-that-my-gutters-need-repair.json`](./faqs/what-are-common-signs-that-my-gutters-need-repair.json) — schema
+- [`faqs/what-are-common-signs-that-my-roof-flashing-needs-repair.json`](./faqs/what-are-common-signs-that-my-roof-flashing-needs-repair.json) — schema
+- [`faqs/what-are-common-signs-that-my-roof-needs-repair.json`](./faqs/what-are-common-signs-that-my-roof-needs-repair.json) — schema
+- [`faqs/what-are-common-signs-that-my-stucco-needs-remediation.json`](./faqs/what-are-common-signs-that-my-stucco-needs-remediation.json) — schema
+- [`faqs/what-are-common-signs-that-my-stucco-needs-repair.json`](./faqs/what-are-common-signs-that-my-stucco-needs-repair.json) — schema
+- [`faqs/what-are-decorative-stucco-accents-and-how-are-they-used-on-homes.json`](./faqs/what-are-decorative-stucco-accents-and-how-are-they-used-on-homes.json) — schema
+- [`faqs/what-are-gutter-guards-and-are-they-necessary.json`](./faqs/what-are-gutter-guards-and-are-they-necessary.json) — schema
+- [`faqs/what-are-the-advantages-of-using-metal-studs-over-wood-studs-for-drywall-framing.json`](./faqs/what-are-the-advantages-of-using-metal-studs-over-wood-studs-for-drywall-framing.json) — schema
+- [`faqs/what-are-the-benefits-of-building-a-new-home-versus-buying-an-existing-one.json`](./faqs/what-are-the-benefits-of-building-a-new-home-versus-buying-an-existing-one.json) — schema
+- [`faqs/what-are-the-benefits-of-choosing-cement-stucco-for-exterior-walls.json`](./faqs/what-are-the-benefits-of-choosing-cement-stucco-for-exterior-walls.json) — schema
+- [`faqs/what-are-the-benefits-of-choosing-level-5-drywall-finishing.json`](./faqs/what-are-the-benefits-of-choosing-level-5-drywall-finishing.json) — schema
+- [`faqs/what-are-the-benefits-of-choosing-stucco-for-my-home-s-exterior.json`](./faqs/what-are-the-benefits-of-choosing-stucco-for-my-home-s-exterior.json) — schema
+- [`faqs/what-are-the-benefits-of-custom-framing-versus-standard-framing.json`](./faqs/what-are-the-benefits-of-custom-framing-versus-standard-framing.json) — schema
+- [`faqs/what-are-the-benefits-of-exterior-coating-over-regular-paint.json`](./faqs/what-are-the-benefits-of-exterior-coating-over-regular-paint.json) — schema
+- [`faqs/what-are-the-benefits-of-professional-gutter-installation-versus-diy.json`](./faqs/what-are-the-benefits-of-professional-gutter-installation-versus-diy.json) — schema
+- [`faqs/what-are-the-benefits-of-professional-stucco-remediation.json`](./faqs/what-are-the-benefits-of-professional-stucco-remediation.json) — schema
+- [`faqs/what-are-the-benefits-of-prompt-roof-repair-versus-delaying-it.json`](./faqs/what-are-the-benefits-of-prompt-roof-repair-versus-delaying-it.json) — schema
+- [`faqs/what-are-the-benefits-of-proper-caulking-for-energy-efficiency-in-a-pasadena-hom.json`](./faqs/what-are-the-benefits-of-proper-caulking-for-energy-efficiency-in-a-pasadena-hom.json) — schema
+- [`faqs/what-are-the-benefits-of-re-coating-stucco-versus-patching-or-repainting.json`](./faqs/what-are-the-benefits-of-re-coating-stucco-versus-patching-or-repainting.json) — schema
+- [`faqs/what-are-the-benefits-of-restoring-my-building-s-envelope.json`](./faqs/what-are-the-benefits-of-restoring-my-building-s-envelope.json) — schema
+- [`faqs/what-are-the-benefits-of-timely-building-envelope-repair.json`](./faqs/what-are-the-benefits-of-timely-building-envelope-repair.json) — schema
+- [`faqs/what-are-the-benefits-of-using-stucco-for-exterior-accents-compared-to-other-mat.json`](./faqs/what-are-the-benefits-of-using-stucco-for-exterior-accents-compared-to-other-mat.json) — schema
+- [`faqs/what-are-the-common-causes-of-water-intrusion-in-homes.json`](./faqs/what-are-the-common-causes-of-water-intrusion-in-homes.json) — schema
+- [`faqs/what-are-the-common-challenges-in-matching-stucco-color.json`](./faqs/what-are-the-common-challenges-in-matching-stucco-color.json) — schema
+- [`faqs/what-are-the-common-issues-that-can-occur-during-kitchen-drywall-installation.json`](./faqs/what-are-the-common-issues-that-can-occur-during-kitchen-drywall-installation.json) — schema
+- [`faqs/what-are-the-common-signs-that-i-need-moisture-resistant-drywall-in-a-specific-a.json`](./faqs/what-are-the-common-signs-that-i-need-moisture-resistant-drywall-in-a-specific-a.json) — schema
+- [`faqs/what-are-the-common-signs-that-my-home-s-exterior-caulk-is-failing.json`](./faqs/what-are-the-common-signs-that-my-home-s-exterior-caulk-is-failing.json) — schema
+- [`faqs/what-are-the-common-signs-that-my-residential-roof-needs-repair-or-replacement.json`](./faqs/what-are-the-common-signs-that-my-residential-roof-needs-repair-or-replacement.json) — schema
+- [`faqs/what-are-the-common-types-of-drywall-textures.json`](./faqs/what-are-the-common-types-of-drywall-textures.json) — schema
+- [`faqs/what-are-the-common-types-of-stucco-textures-that-can-be-matched.json`](./faqs/what-are-the-common-types-of-stucco-textures-that-can-be-matched.json) — schema
+- [`faqs/what-are-the-consequences-of-not-re-flashing-damaged-stucco.json`](./faqs/what-are-the-consequences-of-not-re-flashing-damaged-stucco.json) — schema
+- [`faqs/what-are-the-differences-between-asphalt-shingles-tile-and-metal-roofing-for-res.json`](./faqs/what-are-the-differences-between-asphalt-shingles-tile-and-metal-roofing-for-res.json) — schema
+- [`faqs/what-are-the-differences-between-stucco-sealants-coatings-and-membranes-for-wate.json`](./faqs/what-are-the-differences-between-stucco-sealants-coatings-and-membranes-for-wate.json) — schema
+- [`faqs/what-are-the-different-levels-of-drywall-finish.json`](./faqs/what-are-the-different-levels-of-drywall-finish.json) — schema
+- [`faqs/what-are-the-different-methods-for-surface-smoothing.json`](./faqs/what-are-the-different-methods-for-surface-smoothing.json) — schema
+- [`faqs/what-are-the-key-steps-involved-in-a-professional-drywall-framing-installation.json`](./faqs/what-are-the-key-steps-involved-in-a-professional-drywall-framing-installation.json) — schema
+- [`faqs/what-are-the-key-steps-involved-in-a-typical-construction-project-planning-proce.json`](./faqs/what-are-the-key-steps-involved-in-a-typical-construction-project-planning-proce.json) — schema
+- [`faqs/what-are-the-primary-benefits-of-choosing-acrylic-stucco-for-my-building.json`](./faqs/what-are-the-primary-benefits-of-choosing-acrylic-stucco-for-my-building.json) — schema
 - [`faqs/what-are-the-signs-i-need-a-new-roof.json`](./faqs/what-are-the-signs-i-need-a-new-roof.json) — schema
+- [`faqs/what-are-the-signs-i-need-professional-water-damage-repair.json`](./faqs/what-are-the-signs-i-need-professional-water-damage-repair.json) — schema
+- [`faqs/what-are-the-signs-that-my-exterior-trim-needs-to-be-replaced.json`](./faqs/what-are-the-signs-that-my-exterior-trim-needs-to-be-replaced.json) — schema
+- [`faqs/what-are-the-signs-that-my-home-s-stucco-needs-to-be-redone.json`](./faqs/what-are-the-signs-that-my-home-s-stucco-needs-to-be-redone.json) — schema
+- [`faqs/what-areas-do-modern-builders-serve-for-general-building-services.json`](./faqs/what-areas-do-modern-builders-serve-for-general-building-services.json) — schema
 - [`faqs/what-areas-do-you-serve.json`](./faqs/what-areas-do-you-serve.json) — schema
+- [`faqs/what-building-codes-apply-to-stucco-remediation-in-the-pasadena-area.json`](./faqs/what-building-codes-apply-to-stucco-remediation-in-the-pasadena-area.json) — schema
+- [`faqs/what-causes-common-ceiling-damage.json`](./faqs/what-causes-common-ceiling-damage.json) — schema
+- [`faqs/what-causes-common-drywall-damage-that-requires-patching.json`](./faqs/what-causes-common-drywall-damage-that-requires-patching.json) — schema
+- [`faqs/what-causes-cracks-in-drywall-and-how-are-they-repaired.json`](./faqs/what-causes-cracks-in-drywall-and-how-are-they-repaired.json) — schema
 - [`faqs/what-causes-drywall-cracks.json`](./faqs/what-causes-drywall-cracks.json) — schema
 - [`faqs/what-causes-drywall-tape-bubbles.json`](./faqs/what-causes-drywall-tape-bubbles.json) — schema
 - [`faqs/what-causes-gutters-to-pull-away-from-fascia.json`](./faqs/what-causes-gutters-to-pull-away-from-fascia.json) — schema
 - [`faqs/what-causes-most-roof-leaks.json`](./faqs/what-causes-most-roof-leaks.json) — schema
+- [`faqs/what-causes-stucco-cracks-and-are-they-always-serious.json`](./faqs/what-causes-stucco-cracks-and-are-they-always-serious.json) — schema
+- [`faqs/what-causes-stucco-cracks.json`](./faqs/what-causes-stucco-cracks.json) — schema
+- [`faqs/what-causes-stucco-to-crack-and-chip.json`](./faqs/what-causes-stucco-to-crack-and-chip.json) — schema
 - [`faqs/what-causes-stucco-to-crack.json`](./faqs/what-causes-stucco-to-crack.json) — schema
+- [`faqs/what-color-and-texture-options-are-available-for-acrylic-stucco.json`](./faqs/what-color-and-texture-options-are-available-for-acrylic-stucco.json) — schema
+- [`faqs/what-color-and-texture-options-are-available-for-stucco.json`](./faqs/what-color-and-texture-options-are-available-for-stucco.json) — schema
 - [`faqs/what-colors-are-available.json`](./faqs/what-colors-are-available.json) — schema
+- [`faqs/what-common-types-of-residential-property-repairs-does-modern-builders-handle.json`](./faqs/what-common-types-of-residential-property-repairs-does-modern-builders-handle.json) — schema
+- [`faqs/what-does-a-typical-water-intrusion-assessment-process-involve.json`](./faqs/what-does-a-typical-water-intrusion-assessment-process-involve.json) — schema
+- [`faqs/what-does-roof-replacement-coordination-involve.json`](./faqs/what-does-roof-replacement-coordination-involve.json) — schema
 - [`faqs/what-drywall-thickness-for-walls-vs-ceilings.json`](./faqs/what-drywall-thickness-for-walls-vs-ceilings.json) — schema
+- [`faqs/what-factors-affect-stucco-color-matching.json`](./faqs/what-factors-affect-stucco-color-matching.json) — schema
+- [`faqs/what-factors-can-affect-the-accuracy-of-a-paint-color-match.json`](./faqs/what-factors-can-affect-the-accuracy-of-a-paint-color-match.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-commercial-painting-services.json`](./faqs/what-factors-influence-the-cost-of-commercial-painting-services.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-decorative-stucco-accent-installation.json`](./faqs/what-factors-influence-the-cost-of-decorative-stucco-accent-installation.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-exterior-surface-repair.json`](./faqs/what-factors-influence-the-cost-of-exterior-surface-repair.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-historical-stucco-preservation.json`](./faqs/what-factors-influence-the-cost-of-historical-stucco-preservation.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-light-commercial-repair-projects.json`](./faqs/what-factors-influence-the-cost-of-light-commercial-repair-projects.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-professional-drywall-finishing.json`](./faqs/what-factors-influence-the-cost-of-professional-drywall-finishing.json) — schema
+- [`faqs/what-factors-influence-the-cost-of-surface-smoothing-services.json`](./faqs/what-factors-influence-the-cost-of-surface-smoothing-services.json) — schema
+- [`faqs/what-factors-make-stucco-texture-matching-challenging.json`](./faqs/what-factors-make-stucco-texture-matching-challenging.json) — schema
 - [`faqs/what-fasteners-are-best.json`](./faqs/what-fasteners-are-best.json) — schema
+- [`faqs/what-happens-during-a-design-consultation-with-modern-builders.json`](./faqs/what-happens-during-a-design-consultation-with-modern-builders.json) — schema
+- [`faqs/what-happens-during-a-paint-color-consultation.json`](./faqs/what-happens-during-a-paint-color-consultation.json) — schema
 - [`faqs/what-if-home-has-no-fascia-board.json`](./faqs/what-if-home-has-no-fascia-board.json) — schema
 - [`faqs/what-if-i-see-sagging-roof-deck.json`](./faqs/what-if-i-see-sagging-roof-deck.json) — schema
 - [`faqs/what-if-it-rains-during-exterior-job.json`](./faqs/what-if-it-rains-during-exterior-job.json) — schema
 - [`faqs/what-if-it-rains-during-installation.json`](./faqs/what-if-it-rains-during-installation.json) — schema
 - [`faqs/what-if-nails-are-popping-out.json`](./faqs/what-if-nails-are-popping-out.json) — schema
 - [`faqs/what-if-stucco-gets-wet-during-curing.json`](./faqs/what-if-stucco-gets-wet-during-curing.json) — schema
+- [`faqs/what-information-do-i-need-to-provide-to-a-construction-firm-for-effective-proje.json`](./faqs/what-information-do-i-need-to-provide-to-a-construction-firm-for-effective-proje.json) — schema
+- [`faqs/what-is-a-design-consultation-for-a-construction-project.json`](./faqs/what-is-a-design-consultation-for-a-construction-project.json) — schema
 - [`faqs/what-is-a-metal-roofing-system.json`](./faqs/what-is-a-metal-roofing-system.json) — schema
+- [`faqs/what-is-a-paint-color-consultation-service.json`](./faqs/what-is-a-paint-color-consultation-service.json) — schema
+- [`faqs/what-is-a-water-intrusion-assessment.json`](./faqs/what-is-a-water-intrusion-assessment.json) — schema
 - [`faqs/what-is-a-weep-screed-and-why-needed.json`](./faqs/what-is-a-weep-screed-and-why-needed.json) — schema
+- [`faqs/what-is-acrylic-stucco-and-how-does-it-differ-from-traditional-stucco.json`](./faqs/what-is-acrylic-stucco-and-how-does-it-differ-from-traditional-stucco.json) — schema
+- [`faqs/what-is-an-exterior-stucco-coating-and-how-does-it-differ-from-traditional-stucc.json`](./faqs/what-is-an-exterior-stucco-coating-and-how-does-it-differ-from-traditional-stucc.json) — schema
 - [`faqs/what-is-an-ice-and-water-shield.json`](./faqs/what-is-an-ice-and-water-shield.json) — schema
+- [`faqs/what-is-building-envelope-repair.json`](./faqs/what-is-building-envelope-repair.json) — schema
+- [`faqs/what-is-building-envelope-restoration.json`](./faqs/what-is-building-envelope-restoration.json) — schema
+- [`faqs/what-is-caulking-and-why-is-it-important-for-my-home.json`](./faqs/what-is-caulking-and-why-is-it-important-for-my-home.json) — schema
+- [`faqs/what-is-cement-stucco-and-how-is-it-applied.json`](./faqs/what-is-cement-stucco-and-how-is-it-applied.json) — schema
+- [`faqs/what-is-considered-light-commercial-repair.json`](./faqs/what-is-considered-light-commercial-repair.json) — schema
+- [`faqs/what-is-construction-project-management.json`](./faqs/what-is-construction-project-management.json) — schema
+- [`faqs/what-is-custom-framing-for-a-house.json`](./faqs/what-is-custom-framing-for-a-house.json) — schema
 - [`faqs/what-is-drywall-and-its-purpose.json`](./faqs/what-is-drywall-and-its-purpose.json) — schema
+- [`faqs/what-is-drywall-and-why-is-it-used-in-construction.json`](./faqs/what-is-drywall-and-why-is-it-used-in-construction.json) — schema
+- [`faqs/what-is-drywall-finishing-and-why-is-it-important.json`](./faqs/what-is-drywall-finishing-and-why-is-it-important.json) — schema
+- [`faqs/what-is-drywall-framing-and-why-is-it-important-for-a-construction-project.json`](./faqs/what-is-drywall-framing-and-why-is-it-important-for-a-construction-project.json) — schema
+- [`faqs/what-is-drywall-texture-matching.json`](./faqs/what-is-drywall-texture-matching.json) — schema
+- [`faqs/what-is-exterior-coating-and-how-does-it-protect-my-home.json`](./faqs/what-is-exterior-coating-and-how-does-it-protect-my-home.json) — schema
+- [`faqs/what-is-exterior-restoration.json`](./faqs/what-is-exterior-restoration.json) — schema
+- [`faqs/what-is-exterior-trim-and-why-is-it-important-for-my-home.json`](./faqs/what-is-exterior-trim-and-why-is-it-important-for-my-home.json) — schema
 - [`faqs/what-is-flashing-and-why-important.json`](./faqs/what-is-flashing-and-why-important.json) — schema
+- [`faqs/what-is-historical-stucco-preservation-and-why-is-it-important.json`](./faqs/what-is-historical-stucco-preservation-and-why-is-it-important.json) — schema
+- [`faqs/what-is-included-in-a-roof-replacement-warranty.json`](./faqs/what-is-included-in-a-roof-replacement-warranty.json) — schema
+- [`faqs/what-is-involved-in-the-drywall-patching-process-for-a-seamless-repair.json`](./faqs/what-is-involved-in-the-drywall-patching-process-for-a-seamless-repair.json) — schema
+- [`faqs/what-is-involved-in-the-exterior-painting-preparation-process.json`](./faqs/what-is-involved-in-the-exterior-painting-preparation-process.json) — schema
+- [`faqs/what-is-involved-in-the-gutter-repair-process.json`](./faqs/what-is-involved-in-the-gutter-repair-process.json) — schema
+- [`faqs/what-is-involved-in-the-pre-construction-phase-for-custom-framing.json`](./faqs/what-is-involved-in-the-pre-construction-phase-for-custom-framing.json) — schema
+- [`faqs/what-is-involved-in-the-residential-roof-installation-process.json`](./faqs/what-is-involved-in-the-residential-roof-installation-process.json) — schema
+- [`faqs/what-is-involved-in-the-roof-flashing-repair-process.json`](./faqs/what-is-involved-in-the-roof-flashing-repair-process.json) — schema
 - [`faqs/what-is-level-5-drywall-finish.json`](./faqs/what-is-level-5-drywall-finish.json) — schema
+- [`faqs/what-is-level-5-drywall-finishing.json`](./faqs/what-is-level-5-drywall-finishing.json) — schema
+- [`faqs/what-is-light-commercial-construction.json`](./faqs/what-is-light-commercial-construction.json) — schema
+- [`faqs/what-is-light-commercial-restoration.json`](./faqs/what-is-light-commercial-restoration.json) — schema
+- [`faqs/what-is-moisture-resistant-drywall-and-how-does-it-differ-from-standard-drywall.json`](./faqs/what-is-moisture-resistant-drywall-and-how-does-it-differ-from-standard-drywall.json) — schema
+- [`faqs/what-is-paint-color-matching.json`](./faqs/what-is-paint-color-matching.json) — schema
+- [`faqs/what-is-project-planning-in-construction.json`](./faqs/what-is-project-planning-in-construction.json) — schema
 - [`faqs/what-is-roof-flashing-and-how-to-repair-it.json`](./faqs/what-is-roof-flashing-and-how-to-repair-it.json) — schema
+- [`faqs/what-is-roof-flashing-and-why-is-it-important.json`](./faqs/what-is-roof-flashing-and-why-is-it-important.json) — schema
 - [`faqs/what-is-stucco-and-how-is-it-applied.json`](./faqs/what-is-stucco-and-how-is-it-applied.json) — schema
+- [`faqs/what-is-stucco-patching.json`](./faqs/what-is-stucco-patching.json) — schema
+- [`faqs/what-is-stucco-re-coating.json`](./faqs/what-is-stucco-re-coating.json) — schema
+- [`faqs/what-is-stucco-re-flashing.json`](./faqs/what-is-stucco-re-flashing.json) — schema
+- [`faqs/what-is-stucco-remediation-and-why-is-it-necessary.json`](./faqs/what-is-stucco-remediation-and-why-is-it-necessary.json) — schema
+- [`faqs/what-is-stucco-resurfacing.json`](./faqs/what-is-stucco-resurfacing.json) — schema
+- [`faqs/what-is-stucco-texture-matching.json`](./faqs/what-is-stucco-texture-matching.json) — schema
+- [`faqs/what-is-stucco-waterproofing-and-why-is-it-important-for-my-home.json`](./faqs/what-is-stucco-waterproofing-and-why-is-it-important-for-my-home.json) — schema
+- [`faqs/what-is-surface-preparation-for-painting.json`](./faqs/what-is-surface-preparation-for-painting.json) — schema
+- [`faqs/what-is-surface-smoothing-in-construction.json`](./faqs/what-is-surface-smoothing-in-construction.json) — schema
+- [`faqs/what-is-the-average-cost-of-a-new-residential-roof-installation-in-the-pasadena.json`](./faqs/what-is-the-average-cost-of-a-new-residential-roof-installation-in-the-pasadena.json) — schema
+- [`faqs/what-is-the-average-cost-of-gutter-installation.json`](./faqs/what-is-the-average-cost-of-gutter-installation.json) — schema
+- [`faqs/what-is-the-average-cost-of-gutter-repair-in-pasadena.json`](./faqs/what-is-the-average-cost-of-gutter-repair-in-pasadena.json) — schema
+- [`faqs/what-is-the-average-cost-to-install-cement-stucco-per-square-foot-in-pasadena.json`](./faqs/what-is-the-average-cost-to-install-cement-stucco-per-square-foot-in-pasadena.json) — schema
+- [`faqs/what-is-the-average-cost-to-paint-the-exterior-of-a-house.json`](./faqs/what-is-the-average-cost-to-paint-the-exterior-of-a-house.json) — schema
 - [`faqs/what-is-the-best-roofing-material-for-my-home.json`](./faqs/what-is-the-best-roofing-material-for-my-home.json) — schema
+- [`faqs/what-is-the-best-type-of-paint-for-exterior-house-painting-in-pasadena.json`](./faqs/what-is-the-best-type-of-paint-for-exterior-house-painting-in-pasadena.json) — schema
+- [`faqs/what-is-the-cost-associated-with-paint-color-matching-services-in-pasadena.json`](./faqs/what-is-the-cost-associated-with-paint-color-matching-services-in-pasadena.json) — schema
 - [`faqs/what-is-the-cost-of-metal-roofing.json`](./faqs/what-is-the-cost-of-metal-roofing.json) — schema
+- [`faqs/what-is-the-cost-of-stucco-color-matching-services.json`](./faqs/what-is-the-cost-of-stucco-color-matching-services.json) — schema
+- [`faqs/what-is-the-cost-of-stucco-texture-matching-in-pasadena.json`](./faqs/what-is-the-cost-of-stucco-texture-matching-in-pasadena.json) — schema
+- [`faqs/what-is-the-difference-between-a-design-consultation-and-architectural-services.json`](./faqs/what-is-the-difference-between-a-design-consultation-and-architectural-services.json) — schema
+- [`faqs/what-is-the-difference-between-a-general-contractor-and-a-construction-project-m.json`](./faqs/what-is-the-difference-between-a-general-contractor-and-a-construction-project-m.json) — schema
+- [`faqs/what-is-the-difference-between-a-paint-color-consultation-and-a-full-interior-de.json`](./faqs/what-is-the-difference-between-a-paint-color-consultation-and-a-full-interior-de.json) — schema
+- [`faqs/what-is-the-difference-between-a-remodel-and-a-renovation.json`](./faqs/what-is-the-difference-between-a-remodel-and-a-renovation.json) — schema
+- [`faqs/what-is-the-difference-between-a-water-intrusion-assessment-and-a-general-home-i.json`](./faqs/what-is-the-difference-between-a-water-intrusion-assessment-and-a-general-home-i.json) — schema
+- [`faqs/what-is-the-difference-between-commercial-and-light-commercial-repair.json`](./faqs/what-is-the-difference-between-commercial-and-light-commercial-repair.json) — schema
+- [`faqs/what-is-the-difference-between-commercial-and-residential-painting.json`](./faqs/what-is-the-difference-between-commercial-and-residential-painting.json) — schema
+- [`faqs/what-is-the-difference-between-drywall-repair-and-drywall-replacement.json`](./faqs/what-is-the-difference-between-drywall-repair-and-drywall-replacement.json) — schema
+- [`faqs/what-is-the-difference-between-drywall-taping-and-mudding.json`](./faqs/what-is-the-difference-between-drywall-taping-and-mudding.json) — schema
+- [`faqs/what-is-the-difference-between-eifs-and-acrylic-stucco.json`](./faqs/what-is-the-difference-between-eifs-and-acrylic-stucco.json) — schema
+- [`faqs/what-is-the-difference-between-elastomeric-and-cementitious-stucco-crack-repair.json`](./faqs/what-is-the-difference-between-elastomeric-and-cementitious-stucco-crack-repair.json) — schema
+- [`faqs/what-is-the-difference-between-exterior-repair-and-full-exterior-restoration.json`](./faqs/what-is-the-difference-between-exterior-repair-and-full-exterior-restoration.json) — schema
+- [`faqs/what-is-the-difference-between-fascia-and-soffit.json`](./faqs/what-is-the-difference-between-fascia-and-soffit.json) — schema
+- [`faqs/what-is-the-difference-between-general-home-repair-and-remodeling.json`](./faqs/what-is-the-difference-between-general-home-repair-and-remodeling.json) — schema
+- [`faqs/what-is-the-difference-between-green-board-and-purple-board-drywall.json`](./faqs/what-is-the-difference-between-green-board-and-purple-board-drywall.json) — schema
+- [`faqs/what-is-the-difference-between-interior-and-exterior-paint.json`](./faqs/what-is-the-difference-between-interior-and-exterior-paint.json) — schema
+- [`faqs/what-is-the-difference-between-light-commercial-and-heavy-commercial-constructio.json`](./faqs/what-is-the-difference-between-light-commercial-and-heavy-commercial-constructio.json) — schema
+- [`faqs/what-is-the-difference-between-maintenance-and-restoration-for-a-building-envelo.json`](./faqs/what-is-the-difference-between-maintenance-and-restoration-for-a-building-envelo.json) — schema
+- [`faqs/what-is-the-difference-between-orange-peel-and-knockdown-texture.json`](./faqs/what-is-the-difference-between-orange-peel-and-knockdown-texture.json) — schema
+- [`faqs/what-is-the-difference-between-plaster-repair-and-drywall-repair.json`](./faqs/what-is-the-difference-between-plaster-repair-and-drywall-repair.json) — schema
+- [`faqs/what-is-the-difference-between-repairing-and-replacing-exterior-siding.json`](./faqs/what-is-the-difference-between-repairing-and-replacing-exterior-siding.json) — schema
+- [`faqs/what-is-the-difference-between-roof-repair-and-roof-replacement.json`](./faqs/what-is-the-difference-between-roof-repair-and-roof-replacement.json) — schema
+- [`faqs/what-is-the-difference-between-smooth-finish-and-textured-drywall.json`](./faqs/what-is-the-difference-between-smooth-finish-and-textured-drywall.json) — schema
+- [`faqs/what-is-the-difference-between-stucco-patching-and-stucco-re-dashing.json`](./faqs/what-is-the-difference-between-stucco-patching-and-stucco-re-dashing.json) — schema
+- [`faqs/what-is-the-difference-between-stucco-repair-and-stucco-resurfacing.json`](./faqs/what-is-the-difference-between-stucco-repair-and-stucco-resurfacing.json) — schema
+- [`faqs/what-is-the-difference-between-surface-smoothing-and-resurfacing.json`](./faqs/what-is-the-difference-between-surface-smoothing-and-resurfacing.json) — schema
+- [`faqs/what-is-the-difference-between-synthetic-stucco-eifs-and-traditional-stucco-repa.json`](./faqs/what-is-the-difference-between-synthetic-stucco-eifs-and-traditional-stucco-repa.json) — schema
 - [`faqs/what-is-the-difference-between-traditional-and-synthetic-stucco.json`](./faqs/what-is-the-difference-between-traditional-and-synthetic-stucco.json) — schema
+- [`faqs/what-is-the-difference-between-traditional-stucco-and-eifs-and-how-does-it-affec.json`](./faqs/what-is-the-difference-between-traditional-stucco-and-eifs-and-how-does-it-affec.json) — schema
+- [`faqs/what-is-the-difference-between-traditional-stucco-and-synthetic-stucco-eifs.json`](./faqs/what-is-the-difference-between-traditional-stucco-and-synthetic-stucco-eifs.json) — schema
+- [`faqs/what-is-the-expected-lifespan-of-an-acrylic-stucco-system.json`](./faqs/what-is-the-expected-lifespan-of-an-acrylic-stucco-system.json) — schema
+- [`faqs/what-is-the-ideal-weather-for-cement-stucco-application-in-southern-california.json`](./faqs/what-is-the-ideal-weather-for-cement-stucco-application-in-southern-california.json) — schema
+- [`faqs/what-is-the-installation-process-for-moisture-resistant-drywall.json`](./faqs/what-is-the-installation-process-for-moisture-resistant-drywall.json) — schema
+- [`faqs/what-is-the-installation-process-for-new-stucco.json`](./faqs/what-is-the-installation-process-for-new-stucco.json) — schema
+- [`faqs/what-is-the-lifespan-of-a-properly-installed-stucco-exterior.json`](./faqs/what-is-the-lifespan-of-a-properly-installed-stucco-exterior.json) — schema
+- [`faqs/what-is-the-maintenance-required-for-decorative-stucco-accents.json`](./faqs/what-is-the-maintenance-required-for-decorative-stucco-accents.json) — schema
+- [`faqs/what-is-the-process-for-a-light-commercial-tenant-improvement-project.json`](./faqs/what-is-the-process-for-a-light-commercial-tenant-improvement-project.json) — schema
+- [`faqs/what-is-the-process-for-achieving-a-level-5-drywall-finish.json`](./faqs/what-is-the-process-for-achieving-a-level-5-drywall-finish.json) — schema
+- [`faqs/what-is-the-process-for-building-envelope-repair.json`](./faqs/what-is-the-process-for-building-envelope-repair.json) — schema
+- [`faqs/what-is-the-process-for-building-envelope-restoration.json`](./faqs/what-is-the-process-for-building-envelope-restoration.json) — schema
+- [`faqs/what-is-the-process-for-custom-framing-a-home.json`](./faqs/what-is-the-process-for-custom-framing-a-home.json) — schema
+- [`faqs/what-is-the-process-for-engaging-modern-builders-for-light-commercial-repair-in.json`](./faqs/what-is-the-process-for-engaging-modern-builders-for-light-commercial-repair-in.json) — schema
+- [`faqs/what-is-the-process-for-exterior-restoration.json`](./faqs/what-is-the-process-for-exterior-restoration.json) — schema
+- [`faqs/what-is-the-process-for-filling-stucco-cracks.json`](./faqs/what-is-the-process-for-filling-stucco-cracks.json) — schema
+- [`faqs/what-is-the-process-for-getting-a-renovation-quote-from-modern-builders.json`](./faqs/what-is-the-process-for-getting-a-renovation-quote-from-modern-builders.json) — schema
+- [`faqs/what-is-the-process-for-getting-my-roof-repaired-by-modern-builders.json`](./faqs/what-is-the-process-for-getting-my-roof-repaired-by-modern-builders.json) — schema
+- [`faqs/what-is-the-process-for-installing-bathroom-drywall.json`](./faqs/what-is-the-process-for-installing-bathroom-drywall.json) — schema
+- [`faqs/what-is-the-process-for-installing-drywall-in-a-kitchen.json`](./faqs/what-is-the-process-for-installing-drywall-in-a-kitchen.json) — schema
+- [`faqs/what-is-the-process-for-installing-new-gutters.json`](./faqs/what-is-the-process-for-installing-new-gutters.json) — schema
+- [`faqs/what-is-the-process-for-obtaining-permits-for-residential-construction-in-pasade.json`](./faqs/what-is-the-process-for-obtaining-permits-for-residential-construction-in-pasade.json) — schema
+- [`faqs/what-is-the-process-for-professional-caulking-around-windows-and-doors.json`](./faqs/what-is-the-process-for-professional-caulking-around-windows-and-doors.json) — schema
+- [`faqs/what-is-the-process-for-professional-wall-patching.json`](./faqs/what-is-the-process-for-professional-wall-patching.json) — schema
+- [`faqs/what-is-the-process-for-re-flashing-stucco-around-a-window.json`](./faqs/what-is-the-process-for-re-flashing-stucco-around-a-window.json) — schema
+- [`faqs/what-is-the-process-for-repairing-a-hole-in-drywall.json`](./faqs/what-is-the-process-for-repairing-a-hole-in-drywall.json) — schema
+- [`faqs/what-is-the-process-for-repairing-a-large-hole-in-a-drywall.json`](./faqs/what-is-the-process-for-repairing-a-large-hole-in-a-drywall.json) — schema
+- [`faqs/what-is-the-process-for-repairing-a-water-damaged-ceiling.json`](./faqs/what-is-the-process-for-repairing-a-water-damaged-ceiling.json) — schema
+- [`faqs/what-is-the-process-for-repairing-stucco-cracks.json`](./faqs/what-is-the-process-for-repairing-stucco-cracks.json) — schema
+- [`faqs/what-is-the-process-for-repairing-water-damaged-drywall.json`](./faqs/what-is-the-process-for-repairing-water-damaged-drywall.json) — schema
+- [`faqs/what-is-the-process-for-stucco-crack-repair.json`](./faqs/what-is-the-process-for-stucco-crack-repair.json) — schema
+- [`faqs/what-is-the-process-for-stucco-remediation.json`](./faqs/what-is-the-process-for-stucco-remediation.json) — schema
+- [`faqs/what-is-the-process-for-stucco-resurfacing.json`](./faqs/what-is-the-process-for-stucco-resurfacing.json) — schema
+- [`faqs/what-is-the-process-of-working-with-a-construction-project-manager.json`](./faqs/what-is-the-process-of-working-with-a-construction-project-manager.json) — schema
+- [`faqs/what-is-the-restucco-process.json`](./faqs/what-is-the-restucco-process.json) — schema
+- [`faqs/what-is-the-standard-stud-spacing-for-drywall-framing.json`](./faqs/what-is-the-standard-stud-spacing-for-drywall-framing.json) — schema
+- [`faqs/what-is-the-stucco-repair-process.json`](./faqs/what-is-the-stucco-repair-process.json) — schema
+- [`faqs/what-is-the-typical-cost-associated-with-professional-construction-project-plann.json`](./faqs/what-is-the-typical-cost-associated-with-professional-construction-project-plann.json) — schema
+- [`faqs/what-is-the-typical-cost-for-drywall-patching-services-in-the-pasadena-area.json`](./faqs/what-is-the-typical-cost-for-drywall-patching-services-in-the-pasadena-area.json) — schema
+- [`faqs/what-is-the-typical-cost-for-interior-painting-services.json`](./faqs/what-is-the-typical-cost-for-interior-painting-services.json) — schema
+- [`faqs/what-is-the-typical-cost-of-building-envelope-restoration.json`](./faqs/what-is-the-typical-cost-of-building-envelope-restoration.json) — schema
+- [`faqs/what-is-the-typical-cost-of-stucco-resurfacing.json`](./faqs/what-is-the-typical-cost-of-stucco-resurfacing.json) — schema
+- [`faqs/what-is-the-typical-cost-per-square-foot-for-light-commercial-construction.json`](./faqs/what-is-the-typical-cost-per-square-foot-for-light-commercial-construction.json) — schema
+- [`faqs/what-is-the-typical-cost-range-for-exterior-stucco-coating-application.json`](./faqs/what-is-the-typical-cost-range-for-exterior-stucco-coating-application.json) — schema
+- [`faqs/what-is-the-typical-cost-range-for-stucco-installation-in-pasadena.json`](./faqs/what-is-the-typical-cost-range-for-stucco-installation-in-pasadena.json) — schema
+- [`faqs/what-is-the-typical-cost-to-install-drywall-in-a-bathroom-in-pasadena.json`](./faqs/what-is-the-typical-cost-to-install-drywall-in-a-bathroom-in-pasadena.json) — schema
+- [`faqs/what-is-the-typical-lifespan-of-an-exterior-paint-job.json`](./faqs/what-is-the-typical-lifespan-of-an-exterior-paint-job.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-decorative-stucco-accent-installation-project.json`](./faqs/what-is-the-typical-process-for-a-decorative-stucco-accent-installation-project.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-home-repair-project-with-modern-builders.json`](./faqs/what-is-the-typical-process-for-a-home-repair-project-with-modern-builders.json) — schema
+- [`faqs/what-is-the-typical-process-for-a-light-commercial-restoration-project.json`](./faqs/what-is-the-typical-process-for-a-light-commercial-restoration-project.json) — schema
+- [`faqs/what-is-the-typical-process-for-applying-a-waterproof-coating.json`](./faqs/what-is-the-typical-process-for-applying-a-waterproof-coating.json) — schema
+- [`faqs/what-is-the-typical-process-for-applying-an-exterior-coating.json`](./faqs/what-is-the-typical-process-for-applying-an-exterior-coating.json) — schema
+- [`faqs/what-is-the-typical-process-for-drywall-installation.json`](./faqs/what-is-the-typical-process-for-drywall-installation.json) — schema
+- [`faqs/what-is-the-typical-process-for-exterior-stucco-repair.json`](./faqs/what-is-the-typical-process-for-exterior-stucco-repair.json) — schema
+- [`faqs/what-is-the-typical-process-for-exterior-trim-installation.json`](./faqs/what-is-the-typical-process-for-exterior-trim-installation.json) — schema
+- [`faqs/what-is-the-typical-process-for-historical-stucco-restoration.json`](./faqs/what-is-the-typical-process-for-historical-stucco-restoration.json) — schema
+- [`faqs/what-is-the-typical-process-for-stucco-re-coating.json`](./faqs/what-is-the-typical-process-for-stucco-re-coating.json) — schema
+- [`faqs/what-is-the-typical-process-for-stucco-waterproofing.json`](./faqs/what-is-the-typical-process-for-stucco-waterproofing.json) — schema
+- [`faqs/what-is-the-typical-process-for-water-damage-repair.json`](./faqs/what-is-the-typical-process-for-water-damage-repair.json) — schema
+- [`faqs/what-is-the-typical-process-for-wood-rot-repair.json`](./faqs/what-is-the-typical-process-for-wood-rot-repair.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-custom-home-build-or-major-renovation.json`](./faqs/what-is-the-typical-timeline-for-a-custom-home-build-or-major-renovation.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-new-home-construction-project-in-pasadena.json`](./faqs/what-is-the-typical-timeline-for-a-new-home-construction-project-in-pasadena.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-residential-construction-project-managed-by-p.json`](./faqs/what-is-the-typical-timeline-for-a-residential-construction-project-managed-by-p.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-a-residential-renovation-project.json`](./faqs/what-is-the-typical-timeline-for-a-residential-renovation-project.json) — schema
+- [`faqs/what-is-the-typical-timeline-for-drywall-framing-in-a-residential-renovation.json`](./faqs/what-is-the-typical-timeline-for-drywall-framing-in-a-residential-renovation.json) — schema
+- [`faqs/what-is-typical-drywall-maintenance.json`](./faqs/what-is-typical-drywall-maintenance.json) — schema
+- [`faqs/what-is-wall-patching-and-why-is-it-necessary.json`](./faqs/what-is-wall-patching-and-why-is-it-necessary.json) — schema
+- [`faqs/what-is-waterproof-coating-and-why-is-it-important-for-buildings.json`](./faqs/what-is-waterproof-coating-and-why-is-it-important-for-buildings.json) — schema
+- [`faqs/what-is-wood-rot-and-how-does-it-occur.json`](./faqs/what-is-wood-rot-and-how-does-it-occur.json) — schema
 - [`faqs/what-is-your-process-for-a-project.json`](./faqs/what-is-your-process-for-a-project.json) — schema
+- [`faqs/what-kind-of-damage-can-faulty-gutters-cause-to-my-home.json`](./faqs/what-kind-of-damage-can-faulty-gutters-cause-to-my-home.json) — schema
+- [`faqs/what-kind-of-damage-can-water-intrusion-cause.json`](./faqs/what-kind-of-damage-can-water-intrusion-cause.json) — schema
+- [`faqs/what-kind-of-finish-can-i-expect-on-newly-installed-bathroom-drywall.json`](./faqs/what-kind-of-finish-can-i-expect-on-newly-installed-bathroom-drywall.json) — schema
+- [`faqs/what-kind-of-maintenance-does-acrylic-stucco-require.json`](./faqs/what-kind-of-maintenance-does-acrylic-stucco-require.json) — schema
+- [`faqs/what-kind-of-maintenance-is-required-for-exterior-trim.json`](./faqs/what-kind-of-maintenance-is-required-for-exterior-trim.json) — schema
+- [`faqs/what-kind-of-materials-are-used-for-stucco-re-coating.json`](./faqs/what-kind-of-materials-are-used-for-stucco-re-coating.json) — schema
+- [`faqs/what-kind-of-paint-finishes-are-available-for-interior-walls.json`](./faqs/what-kind-of-paint-finishes-are-available-for-interior-walls.json) — schema
+- [`faqs/what-kind-of-preparation-do-i-need-to-do-before-drywall-finishing-begins.json`](./faqs/what-kind-of-preparation-do-i-need-to-do-before-drywall-finishing-begins.json) — schema
+- [`faqs/what-kind-of-projects-do-you-typically-undertake-in-the-old-town-pasadena-area.json`](./faqs/what-kind-of-projects-do-you-typically-undertake-in-the-old-town-pasadena-area.json) — schema
+- [`faqs/what-kind-of-sample-do-i-need-to-provide-for-paint-color-matching.json`](./faqs/what-kind-of-sample-do-i-need-to-provide-for-paint-color-matching.json) — schema
+- [`faqs/what-kind-of-stucco-cracks-indicate-a-structural-problem.json`](./faqs/what-kind-of-stucco-cracks-indicate-a-structural-problem.json) — schema
+- [`faqs/what-kind-of-warranty-or-guarantee-do-you-offer-on-your-painting-services.json`](./faqs/what-kind-of-warranty-or-guarantee-do-you-offer-on-your-painting-services.json) — schema
+- [`faqs/what-kind-of-warranty-or-guarantee-should-i-expect-from-an-exterior-painting-con.json`](./faqs/what-kind-of-warranty-or-guarantee-should-i-expect-from-an-exterior-painting-con.json) — schema
+- [`faqs/what-kind-of-warranty-should-i-expect-for-a-new-residential-roof.json`](./faqs/what-kind-of-warranty-should-i-expect-for-a-new-residential-roof.json) — schema
 - [`faqs/what-lath-is-required-for-stucco.json`](./faqs/what-lath-is-required-for-stucco.json) — schema
 - [`faqs/what-maintenance-do-metal-roofs-need.json`](./faqs/what-maintenance-do-metal-roofs-need.json) — schema
 - [`faqs/what-maintenance-does-stucco-need.json`](./faqs/what-maintenance-does-stucco-need.json) — schema
+- [`faqs/what-maintenance-does-stucco-require.json`](./faqs/what-maintenance-does-stucco-require.json) — schema
+- [`faqs/what-maintenance-is-required-after-stucco-waterproofing.json`](./faqs/what-maintenance-is-required-after-stucco-waterproofing.json) — schema
+- [`faqs/what-maintenance-is-required-for-cement-stucco.json`](./faqs/what-maintenance-is-required-for-cement-stucco.json) — schema
+- [`faqs/what-maintenance-is-required-for-stucco-exteriors.json`](./faqs/what-maintenance-is-required-for-stucco-exteriors.json) — schema
 - [`faqs/what-materials-are-best-for-gutters.json`](./faqs/what-materials-are-best-for-gutters.json) — schema
+- [`faqs/what-materials-are-commonly-used-for-drywall-framing.json`](./faqs/what-materials-are-commonly-used-for-drywall-framing.json) — schema
+- [`faqs/what-materials-are-used-for-wall-patching.json`](./faqs/what-materials-are-used-for-wall-patching.json) — schema
+- [`faqs/what-materials-are-used-in-custom-framing.json`](./faqs/what-materials-are-used-in-custom-framing.json) — schema
 - [`faqs/what-paint-finish-flat-eggshell-satin.json`](./faqs/what-paint-finish-flat-eggshell-satin.json) — schema
+- [`faqs/what-permits-are-needed-for-light-commercial-repairs.json`](./faqs/what-permits-are-needed-for-light-commercial-repairs.json) — schema
+- [`faqs/what-permits-are-required-for-light-commercial-construction-in-pasadena.json`](./faqs/what-permits-are-required-for-light-commercial-construction-in-pasadena.json) — schema
+- [`faqs/what-permits-do-i-need-for-a-residential-renovation-in-pasadena.json`](./faqs/what-permits-do-i-need-for-a-residential-renovation-in-pasadena.json) — schema
 - [`faqs/what-prep-work-do-you-do.json`](./faqs/what-prep-work-do-you-do.json) — schema
 - [`faqs/what-prep-work-for-new-gutters.json`](./faqs/what-prep-work-for-new-gutters.json) — schema
+- [`faqs/what-preparation-is-needed-before-commercial-painting-begins.json`](./faqs/what-preparation-is-needed-before-commercial-painting-begins.json) — schema
+- [`faqs/what-preparation-is-needed-before-drywall-can-be-installed.json`](./faqs/what-preparation-is-needed-before-drywall-can-be-installed.json) — schema
+- [`faqs/what-preparation-is-needed-before-interior-wall-repair-begins.json`](./faqs/what-preparation-is-needed-before-interior-wall-repair-begins.json) — schema
+- [`faqs/what-preparation-is-needed-before-stucco-resurfacing.json`](./faqs/what-preparation-is-needed-before-stucco-resurfacing.json) — schema
 - [`faqs/what-preparation-is-needed-before-stucco.json`](./faqs/what-preparation-is-needed-before-stucco.json) — schema
+- [`faqs/what-preparation-is-needed-before-surface-smoothing-can-begin.json`](./faqs/what-preparation-is-needed-before-surface-smoothing-can-begin.json) — schema
+- [`faqs/what-preparations-should-i-make-before-a-roof-replacement-project-begins.json`](./faqs/what-preparations-should-i-make-before-a-roof-replacement-project-begins.json) — schema
+- [`faqs/what-preventive-measures-can-extend-my-roof-s-lifespan.json`](./faqs/what-preventive-measures-can-extend-my-roof-s-lifespan.json) — schema
+- [`faqs/what-qualifications-should-i-look-for-in-a-construction-project-manager.json`](./faqs/what-qualifications-should-i-look-for-in-a-construction-project-manager.json) — schema
 - [`faqs/what-questions-to-ask-a-roofing-contractor.json`](./faqs/what-questions-to-ask-a-roofing-contractor.json) — schema
 - [`faqs/what-s-the-best-roofing-material-for-pasadena.json`](./faqs/what-s-the-best-roofing-material-for-pasadena.json) — schema
+- [`faqs/what-s-the-difference-between-building-envelope-repair-and-general-home-maintena.json`](./faqs/what-s-the-difference-between-building-envelope-repair-and-general-home-maintena.json) — schema
+- [`faqs/what-s-the-difference-between-cleaning-and-washing-before-painting.json`](./faqs/what-s-the-difference-between-cleaning-and-washing-before-painting.json) — schema
+- [`faqs/what-s-the-difference-between-light-commercial-and-heavy-commercial-restoration.json`](./faqs/what-s-the-difference-between-light-commercial-and-heavy-commercial-restoration.json) — schema
+- [`faqs/what-s-the-difference-between-moisture-resistant-drywall-and-waterproof-drywall.json`](./faqs/what-s-the-difference-between-moisture-resistant-drywall-and-waterproof-drywall.json) — schema
+- [`faqs/what-s-the-difference-between-patching-and-re-plastering-walls.json`](./faqs/what-s-the-difference-between-patching-and-re-plastering-walls.json) — schema
+- [`faqs/what-s-the-difference-between-repairing-a-gutter-and-replacing-it.json`](./faqs/what-s-the-difference-between-repairing-a-gutter-and-replacing-it.json) — schema
+- [`faqs/what-s-the-difference-between-water-mitigation-and-water-restoration.json`](./faqs/what-s-the-difference-between-water-mitigation-and-water-restoration.json) — schema
+- [`faqs/what-safety-measures-are-implemented-during-commercial-painting-projects.json`](./faqs/what-safety-measures-are-implemented-during-commercial-painting-projects.json) — schema
 - [`faqs/what-screws-coarse-vs-fine-thread.json`](./faqs/what-screws-coarse-vs-fine-thread.json) — schema
 - [`faqs/what-services-do-you-include-beyond-roofing.json`](./faqs/what-services-do-you-include-beyond-roofing.json) — schema
+- [`faqs/what-should-i-consider-before-drywall-installation-in-my-kitchen.json`](./faqs/what-should-i-consider-before-drywall-installation-in-my-kitchen.json) — schema
+- [`faqs/what-should-i-do-immediately-after-discovering-water-damage.json`](./faqs/what-should-i-do-immediately-after-discovering-water-damage.json) — schema
+- [`faqs/what-should-i-do-to-prepare-my-property-before-the-painters-arrive.json`](./faqs/what-should-i-do-to-prepare-my-property-before-the-painters-arrive.json) — schema
+- [`faqs/what-should-i-expect-during-a-historical-stucco-assessment.json`](./faqs/what-should-i-expect-during-a-historical-stucco-assessment.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-ceiling-repair-contractor.json`](./faqs/what-should-i-look-for-when-choosing-a-ceiling-repair-contractor.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-contractor-for-home-repairs.json`](./faqs/what-should-i-look-for-when-choosing-a-contractor-for-home-repairs.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-contractor-for-stucco-installation.json`](./faqs/what-should-i-look-for-when-choosing-a-contractor-for-stucco-installation.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-general-contractor.json`](./faqs/what-should-i-look-for-when-choosing-a-general-contractor.json) — schema
+- [`faqs/what-should-i-look-for-when-choosing-a-light-commercial-restoration-company-in-p.json`](./faqs/what-should-i-look-for-when-choosing-a-light-commercial-restoration-company-in-p.json) — schema
+- [`faqs/what-should-i-look-for-when-hiring-a-contractor-for-stucco-texture-matching-serv.json`](./faqs/what-should-i-look-for-when-hiring-a-contractor-for-stucco-texture-matching-serv.json) — schema
+- [`faqs/what-should-i-prepare-for-a-design-consultation.json`](./faqs/what-should-i-prepare-for-a-design-consultation.json) — schema
+- [`faqs/what-signs-indicate-that-my-house-needs-exterior-painting.json`](./faqs/what-signs-indicate-that-my-house-needs-exterior-painting.json) — schema
 - [`faqs/what-size-gutters-for-my-home.json`](./faqs/what-size-gutters-for-my-home.json) — schema
+- [`faqs/what-size-of-drywall-damage-can-be-patched-and-when-is-full-replacement-necessar.json`](./faqs/what-size-of-drywall-damage-can-be-patched-and-when-is-full-replacement-necessar.json) — schema
 - [`faqs/what-slope-for-proper-drainage.json`](./faqs/what-slope-for-proper-drainage.json) — schema
+- [`faqs/what-steps-are-involved-in-a-typical-residential-renovation-process.json`](./faqs/what-steps-are-involved-in-a-typical-residential-renovation-process.json) — schema
+- [`faqs/what-steps-are-involved-in-preparing-a-house-for-exterior-painting.json`](./faqs/what-steps-are-involved-in-preparing-a-house-for-exterior-painting.json) — schema
+- [`faqs/what-steps-are-involved-in-renovating-an-older-home-in-an-area-like-bungalow-hea.json`](./faqs/what-steps-are-involved-in-renovating-an-older-home-in-an-area-like-bungalow-hea.json) — schema
+- [`faqs/what-steps-are-involved-in-your-interior-painting-process.json`](./faqs/what-steps-are-involved-in-your-interior-painting-process.json) — schema
+- [`faqs/what-steps-can-i-take-to-prevent-wood-rot-in-my-pasadena-home.json`](./faqs/what-steps-can-i-take-to-prevent-wood-rot-in-my-pasadena-home.json) — schema
 - [`faqs/what-tape-to-use-paper-or-mesh.json`](./faqs/what-tape-to-use-paper-or-mesh.json) — schema
 - [`faqs/what-thickness-for-each-stucco-coat.json`](./faqs/what-thickness-for-each-stucco-coat.json) — schema
+- [`faqs/what-tools-and-materials-are-typically-needed-for-basic-surface-preparation.json`](./faqs/what-tools-and-materials-are-typically-needed-for-basic-surface-preparation.json) — schema
 - [`faqs/what-tools-are-needed-for-drywall-installation.json`](./faqs/what-tools-are-needed-for-drywall-installation.json) — schema
 - [`faqs/what-tools-needed-for-basic-repairs.json`](./faqs/what-tools-needed-for-basic-repairs.json) — schema
+- [`faqs/what-type-of-damage-requires-immediate-roof-repair.json`](./faqs/what-type-of-damage-requires-immediate-roof-repair.json) — schema
+- [`faqs/what-type-of-drywall-is-best-for-a-bathroom.json`](./faqs/what-type-of-drywall-is-best-for-a-bathroom.json) — schema
+- [`faqs/what-type-of-drywall-is-best-for-a-kitchen.json`](./faqs/what-type-of-drywall-is-best-for-a-kitchen.json) — schema
+- [`faqs/what-type-of-paint-is-best-for-commercial-buildings.json`](./faqs/what-type-of-paint-is-best-for-commercial-buildings.json) — schema
 - [`faqs/what-type-of-paint-is-best-for-houses.json`](./faqs/what-type-of-paint-is-best-for-houses.json) — schema
+- [`faqs/what-type-of-paint-is-best-suited-for-a-level-5-drywall-finish.json`](./faqs/what-type-of-paint-is-best-suited-for-a-level-5-drywall-finish.json) — schema
+- [`faqs/what-types-of-caulk-are-available-and-which-is-best-for-my-project.json`](./faqs/what-types-of-caulk-are-available-and-which-is-best-for-my-project.json) — schema
+- [`faqs/what-types-of-damage-can-be-repaired-in-drywall.json`](./faqs/what-types-of-damage-can-be-repaired-in-drywall.json) — schema
+- [`faqs/what-types-of-drywall-textures-can-be-matched-during-a-patching-service.json`](./faqs/what-types-of-drywall-textures-can-be-matched-during-a-patching-service.json) — schema
+- [`faqs/what-types-of-exterior-surface-repairs-do-you-offer.json`](./faqs/what-types-of-exterior-surface-repairs-do-you-offer.json) — schema
+- [`faqs/what-types-of-flashing-are-used-in-stucco-re-flashing.json`](./faqs/what-types-of-flashing-are-used-in-stucco-re-flashing.json) — schema
+- [`faqs/what-types-of-general-building-services-do-you-offer.json`](./faqs/what-types-of-general-building-services-do-you-offer.json) — schema
+- [`faqs/what-types-of-gutters-are-available-for-installation.json`](./faqs/what-types-of-gutters-are-available-for-installation.json) — schema
+- [`faqs/what-types-of-interior-wall-damage-can-be-repaired.json`](./faqs/what-types-of-interior-wall-damage-can-be-repaired.json) — schema
+- [`faqs/what-types-of-materials-are-commonly-used-for-exterior-trim.json`](./faqs/what-types-of-materials-are-commonly-used-for-exterior-trim.json) — schema
+- [`faqs/what-types-of-materials-are-used-in-exterior-restoration.json`](./faqs/what-types-of-materials-are-used-in-exterior-restoration.json) — schema
+- [`faqs/what-types-of-residential-construction-services-do-you-offer.json`](./faqs/what-types-of-residential-construction-services-do-you-offer.json) — schema
+- [`faqs/what-types-of-roofing-materials-are-available-for-replacement.json`](./faqs/what-types-of-roofing-materials-are-available-for-replacement.json) — schema
+- [`faqs/what-types-of-stucco-cracks-are-considered-serious.json`](./faqs/what-types-of-stucco-cracks-are-considered-serious.json) — schema
+- [`faqs/what-types-of-surfaces-can-waterproof-coatings-be-applied-to.json`](./faqs/what-types-of-surfaces-can-waterproof-coatings-be-applied-to.json) — schema
+- [`faqs/what-types-of-wall-damage-can-be-repaired-with-patching.json`](./faqs/what-types-of-wall-damage-can-be-repaired-with-patching.json) — schema
+- [`faqs/what-types-of-water-damage-do-you-repair.json`](./faqs/what-types-of-water-damage-do-you-repair.json) — schema
 - [`faqs/what-underlayment-is-used.json`](./faqs/what-underlayment-is-used.json) — schema
 - [`faqs/what-ventilation-is-needed-under-a-new-roof.json`](./faqs/what-ventilation-is-needed-under-a-new-roof.json) — schema
 - [`faqs/what-warranties-are-available.json`](./faqs/what-warranties-are-available.json) — schema
 - [`faqs/what-warranties-come-with-new-roofs.json`](./faqs/what-warranties-come-with-new-roofs.json) — schema
 - [`faqs/what-warranties-do-you-provide.json`](./faqs/what-warranties-do-you-provide.json) — schema
 - [`faqs/what-warranties-on-repairs.json`](./faqs/what-warranties-on-repairs.json) — schema
+- [`faqs/when-do-i-need-a-construction-project-manager-for-my-residential-project.json`](./faqs/when-do-i-need-a-construction-project-manager-for-my-residential-project.json) — schema
+- [`faqs/when-do-i-need-building-envelope-repair.json`](./faqs/when-do-i-need-building-envelope-repair.json) — schema
+- [`faqs/when-do-i-need-building-envelope-restoration.json`](./faqs/when-do-i-need-building-envelope-restoration.json) — schema
+- [`faqs/when-do-i-need-drywall-texture-matching.json`](./faqs/when-do-i-need-drywall-texture-matching.json) — schema
+- [`faqs/when-is-it-necessary-to-reinforce-drywall-framing.json`](./faqs/when-is-it-necessary-to-reinforce-drywall-framing.json) — schema
+- [`faqs/when-is-it-necessary-to-repair-wood-rot-versus-replacing-the-entire-section.json`](./faqs/when-is-it-necessary-to-repair-wood-rot-versus-replacing-the-entire-section.json) — schema
+- [`faqs/when-is-level-5-drywall-finishing-recommended.json`](./faqs/when-is-level-5-drywall-finishing-recommended.json) — schema
+- [`faqs/when-is-stucco-re-flashing-necessary.json`](./faqs/when-is-stucco-re-flashing-necessary.json) — schema
+- [`faqs/when-is-stucco-texture-matching-recommended-versus-re-stuccoing-the-entire-wall.json`](./faqs/when-is-stucco-texture-matching-recommended-versus-re-stuccoing-the-entire-wall.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-apply-an-exterior-coating-in-pasadena.json`](./faqs/when-is-the-best-time-of-year-to-apply-an-exterior-coating-in-pasadena.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-apply-an-exterior-stucco-coating-in-pasadena.json`](./faqs/when-is-the-best-time-of-year-to-apply-an-exterior-stucco-coating-in-pasadena.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-have-stucco-waterproofing-done-in-southern-cali.json`](./faqs/when-is-the-best-time-of-year-to-have-stucco-waterproofing-done-in-southern-cali.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-install-stucco-in-southern-california.json`](./faqs/when-is-the-best-time-of-year-to-install-stucco-in-southern-california.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-paint-a-house-exterior-in-pasadena.json`](./faqs/when-is-the-best-time-of-year-to-paint-a-house-exterior-in-pasadena.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-paint-the-exterior-of-my-house-in-southern-cali.json`](./faqs/when-is-the-best-time-of-year-to-paint-the-exterior-of-my-house-in-southern-cali.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-paint-the-interior-of-my-home.json`](./faqs/when-is-the-best-time-of-year-to-paint-the-interior-of-my-home.json) — schema
+- [`faqs/when-is-the-best-time-of-year-to-replace-a-roof-in-pasadena.json`](./faqs/when-is-the-best-time-of-year-to-replace-a-roof-in-pasadena.json) — schema
+- [`faqs/when-should-i-call-a-professional-for-drywall-repair.json`](./faqs/when-should-i-call-a-professional-for-drywall-repair.json) — schema
 - [`faqs/when-should-i-call-for-emergency-roof-repair.json`](./faqs/when-should-i-call-for-emergency-roof-repair.json) — schema
+- [`faqs/when-should-i-choose-a-level-5-drywall-finish.json`](./faqs/when-should-i-choose-a-level-5-drywall-finish.json) — schema
+- [`faqs/when-should-i-choose-moisture-resistant-drywall.json`](./faqs/when-should-i-choose-moisture-resistant-drywall.json) — schema
+- [`faqs/when-should-i-consider-a-paint-color-consultation.json`](./faqs/when-should-i-consider-a-paint-color-consultation.json) — schema
+- [`faqs/when-should-i-consider-an-addition-versus-renovating-my-existing-space.json`](./faqs/when-should-i-consider-an-addition-versus-renovating-my-existing-space.json) — schema
+- [`faqs/when-should-i-consider-custom-framing-for-my-construction-project.json`](./faqs/when-should-i-consider-custom-framing-for-my-construction-project.json) — schema
+- [`faqs/when-should-i-consider-exterior-restoration-for-my-property.json`](./faqs/when-should-i-consider-exterior-restoration-for-my-property.json) — schema
+- [`faqs/when-should-i-consider-hiring-a-professional-for-light-commercial-repairs.json`](./faqs/when-should-i-consider-hiring-a-professional-for-light-commercial-repairs.json) — schema
+- [`faqs/when-should-i-consider-paint-color-matching-for-my-home-renovation.json`](./faqs/when-should-i-consider-paint-color-matching-for-my-home-renovation.json) — schema
+- [`faqs/when-should-i-consider-professional-drywall-patching-instead-of-a-diy-repair.json`](./faqs/when-should-i-consider-professional-drywall-patching-instead-of-a-diy-repair.json) — schema
+- [`faqs/when-should-i-consider-professional-historical-stucco-repair-for-my-pasadena-hom.json`](./faqs/when-should-i-consider-professional-historical-stucco-repair-for-my-pasadena-hom.json) — schema
+- [`faqs/when-should-i-consider-professional-interior-wall-repair-instead-of-diy.json`](./faqs/when-should-i-consider-professional-interior-wall-repair-instead-of-diy.json) — schema
+- [`faqs/when-should-i-consider-professional-stucco-crack-repair-instead-of-diy-methods.json`](./faqs/when-should-i-consider-professional-stucco-crack-repair-instead-of-diy-methods.json) — schema
+- [`faqs/when-should-i-consider-professional-stucco-repair-instead-of-diy.json`](./faqs/when-should-i-consider-professional-stucco-repair-instead-of-diy.json) — schema
+- [`faqs/when-should-i-consider-professional-surface-smoothing-for-my-property-in-pasaden.json`](./faqs/when-should-i-consider-professional-surface-smoothing-for-my-property-in-pasaden.json) — schema
+- [`faqs/when-should-i-consider-professional-wall-patching-instead-of-diy.json`](./faqs/when-should-i-consider-professional-wall-patching-instead-of-diy.json) — schema
+- [`faqs/when-should-i-consider-repairing-versus-replacing-a-damaged-part-of-my-home.json`](./faqs/when-should-i-consider-repairing-versus-replacing-a-damaged-part-of-my-home.json) — schema
+- [`faqs/when-should-i-consider-replacing-my-bathroom-drywall.json`](./faqs/when-should-i-consider-replacing-my-bathroom-drywall.json) — schema
+- [`faqs/when-should-i-consider-replacing-my-home-s-gutters.json`](./faqs/when-should-i-consider-replacing-my-home-s-gutters.json) — schema
+- [`faqs/when-should-i-consider-replacing-or-reapplying-caulk-in-my-home.json`](./faqs/when-should-i-consider-replacing-or-reapplying-caulk-in-my-home.json) — schema
+- [`faqs/when-should-i-consider-resurfacing-my-stucco.json`](./faqs/when-should-i-consider-resurfacing-my-stucco.json) — schema
+- [`faqs/when-should-i-consider-stucco-patching-for-my-home.json`](./faqs/when-should-i-consider-stucco-patching-for-my-home.json) — schema
+- [`faqs/when-should-i-consider-stucco-re-coating-instead-of-full-replacement.json`](./faqs/when-should-i-consider-stucco-re-coating-instead-of-full-replacement.json) — schema
+- [`faqs/when-should-i-get-a-water-intrusion-assessment.json`](./faqs/when-should-i-get-a-water-intrusion-assessment.json) — schema
+- [`faqs/when-should-i-hire-a-light-commercial-restoration-company.json`](./faqs/when-should-i-hire-a-light-commercial-restoration-company.json) — schema
+- [`faqs/when-should-i-hire-professionals-for-painting-surface-preparation-in-pasadena.json`](./faqs/when-should-i-hire-professionals-for-painting-surface-preparation-in-pasadena.json) — schema
+- [`faqs/when-should-i-repair-a-small-ceiling-crack-versus-calling-a-professional.json`](./faqs/when-should-i-repair-a-small-ceiling-crack-versus-calling-a-professional.json) — schema
+- [`faqs/when-should-i-repair-drywall-myself-versus-hiring-a-professional.json`](./faqs/when-should-i-repair-drywall-myself-versus-hiring-a-professional.json) — schema
+- [`faqs/when-should-i-repair-stucco-cracks.json`](./faqs/when-should-i-repair-stucco-cracks.json) — schema
+- [`faqs/when-should-i-schedule-a-design-consultation.json`](./faqs/when-should-i-schedule-a-design-consultation.json) — schema
+- [`faqs/when-should-project-planning-begin-for-a-new-construction-project.json`](./faqs/when-should-project-planning-begin-for-a-new-construction-project.json) — schema
+- [`faqs/where-should-moisture-resistant-drywall-be-installed-in-a-home.json`](./faqs/where-should-moisture-resistant-drywall-be-installed-in-a-home.json) — schema
 - [`faqs/why-are-my-gutters-sagging.json`](./faqs/why-are-my-gutters-sagging.json) — schema
 - [`faqs/why-are-shingles-curling-or-buckling.json`](./faqs/why-are-shingles-curling-or-buckling.json) — schema
+- [`faqs/why-choose-modern-builders-for-stucco-crack-repair-in-pasadena-and-surrounding-a.json`](./faqs/why-choose-modern-builders-for-stucco-crack-repair-in-pasadena-and-surrounding-a.json) — schema
 - [`faqs/why-granule-loss-from-shingles.json`](./faqs/why-granule-loss-from-shingles.json) — schema
+- [`faqs/why-is-a-design-consultation-important-for-my-project-in-pasadena.json`](./faqs/why-is-a-design-consultation-important-for-my-project-in-pasadena.json) — schema
+- [`faqs/why-is-it-important-to-address-exterior-surface-damage-quickly-in-pasadena.json`](./faqs/why-is-it-important-to-address-exterior-surface-damage-quickly-in-pasadena.json) — schema
+- [`faqs/why-is-professional-drywall-framing-crucial-for-projects-in-pasadena.json`](./faqs/why-is-professional-drywall-framing-crucial-for-projects-in-pasadena.json) — schema
+- [`faqs/why-is-professional-drywall-texture-matching-important.json`](./faqs/why-is-professional-drywall-texture-matching-important.json) — schema
+- [`faqs/why-is-project-planning-crucial-for-a-successful-construction-project.json`](./faqs/why-is-project-planning-crucial-for-a-successful-construction-project.json) — schema
+- [`faqs/why-is-stucco-color-matching-important-for-home-repairs.json`](./faqs/why-is-stucco-color-matching-important-for-home-repairs.json) — schema
+- [`faqs/why-is-stucco-repair-important-for-homes-in-pasadena.json`](./faqs/why-is-stucco-repair-important-for-homes-in-pasadena.json) — schema
+- [`faqs/why-is-stucco-texture-matching-important-for-repairs.json`](./faqs/why-is-stucco-texture-matching-important-for-repairs.json) — schema
+- [`faqs/why-is-surface-preparation-so-important-for-painting-projects.json`](./faqs/why-is-surface-preparation-so-important-for-painting-projects.json) — schema
+- [`faqs/why-is-surface-smoothing-important-for-a-new-concrete-floor.json`](./faqs/why-is-surface-smoothing-important-for-a-new-concrete-floor.json) — schema
 - [`faqs/why-mist-cure-stucco-coats.json`](./faqs/why-mist-cure-stucco-coats.json) — schema
+- [`faqs/why-should-i-choose-a-professional-for-wood-rot-repair-rather-than-diy.json`](./faqs/why-should-i-choose-a-professional-for-wood-rot-repair-rather-than-diy.json) — schema
+- [`faqs/why-should-i-choose-modern-builders-for-stucco-crack-filling-in-pasadena.json`](./faqs/why-should-i-choose-modern-builders-for-stucco-crack-filling-in-pasadena.json) — schema
+- [`faqs/why-should-i-choose-modern-builders-for-stucco-resurfacing-in-pasadena.json`](./faqs/why-should-i-choose-modern-builders-for-stucco-resurfacing-in-pasadena.json) — schema
+- [`faqs/why-should-i-consider-level-5-drywall-finishing-for-my-home-in-pasadena.json`](./faqs/why-should-i-consider-level-5-drywall-finishing-for-my-home-in-pasadena.json) — schema
+- [`faqs/why-should-i-hire-a-professional-for-drywall-finishing-in-pasadena.json`](./faqs/why-should-i-hire-a-professional-for-drywall-finishing-in-pasadena.json) — schema
+- [`faqs/why-should-i-hire-a-professional-for-drywall-installation-in-pasadena.json`](./faqs/why-should-i-hire-a-professional-for-drywall-installation-in-pasadena.json) — schema
+- [`faqs/why-use-modern-builders-for-a-paint-color-consultation-in-pasadena.json`](./faqs/why-use-modern-builders-for-a-paint-color-consultation-in-pasadena.json) — schema
+- [`faqs/will-drywall-patching-affect-the-paint-on-my-walls.json`](./faqs/will-drywall-patching-affect-the-paint-on-my-walls.json) — schema
 - [`faqs/will-installation-damage-my-landscaping.json`](./faqs/will-installation-damage-my-landscaping.json) — schema
 - [`faqs/will-insurance-cover-gutter-repairs.json`](./faqs/will-insurance-cover-gutter-repairs.json) — schema
+- [`faqs/will-my-commercial-insurance-cover-light-commercial-restoration-services.json`](./faqs/will-my-commercial-insurance-cover-light-commercial-restoration-services.json) — schema
+- [`faqs/will-my-homeowner-s-insurance-cover-water-damage-repair.json`](./faqs/will-my-homeowner-s-insurance-cover-water-damage-repair.json) — schema
+- [`faqs/will-re-flashing-match-my-existing-stucco-color-and-texture.json`](./faqs/will-re-flashing-match-my-existing-stucco-color-and-texture.json) — schema
+- [`faqs/will-restuccoing-improve-my-home-s-insulation-or-energy-efficiency.json`](./faqs/will-restuccoing-improve-my-home-s-insulation-or-energy-efficiency.json) — schema
+- [`faqs/will-sun-exposure-affect-my-new-stucco-patch-differently-than-the-old-stucco.json`](./faqs/will-sun-exposure-affect-my-new-stucco-patch-differently-than-the-old-stucco.json) — schema
+- [`faqs/will-the-patched-area-be-noticeable-after-painting.json`](./faqs/will-the-patched-area-be-noticeable-after-painting.json) — schema
+- [`faqs/will-the-repaired-drywall-match-the-existing-wall-perfectly.json`](./faqs/will-the-repaired-drywall-match-the-existing-wall-perfectly.json) — schema
 - [`faqs/will-you-caulk-cracks-and-gaps.json`](./faqs/will-you-caulk-cracks-and-gaps.json) — schema
 
 ### Help Articles (207)
@@ -481,12 +1142,219 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/wind-lifted-shingle-repair.json`](./help/wind-lifted-shingle-repair.json) — schema
 - [`help/window-casing-bead-installation.json`](./help/window-casing-bead-installation.json) — schema
 
-### Public Pages (9)
+### Public Pages (216)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`help/algae-stain-removal-from-shingles.html`](./help/algae-stain-removal-from-shingles.html) — LLM-optimized public page
+- [`help/aluminum-gutter-coil-color-options.html`](./help/aluminum-gutter-coil-color-options.html) — LLM-optimized public page
+- [`help/architectural-vs-3-tab-shingle-nailing.html`](./help/architectural-vs-3-tab-shingle-nailing.html) — LLM-optimized public page
+- [`help/asphalt-shingle-algae-prevention.html`](./help/asphalt-shingle-algae-prevention.html) — LLM-optimized public page
+- [`help/asphalt-shingle-exposure-settings.html`](./help/asphalt-shingle-exposure-settings.html) — LLM-optimized public page
+- [`help/asphalt-shingle-starter-strip-patterns.html`](./help/asphalt-shingle-starter-strip-patterns.html) — LLM-optimized public page
+- [`help/asphalt-shingle-wind-warranty-requirements.html`](./help/asphalt-shingle-wind-warranty-requirements.html) — LLM-optimized public page
+- [`help/asphalt-tile-roof-hybrid-systems.html`](./help/asphalt-tile-roof-hybrid-systems.html) — LLM-optimized public page
+- [`help/attic-stain-leak-tracing.html`](./help/attic-stain-leak-tracing.html) — LLM-optimized public page
+- [`help/attic-ventilation-baffle-installation.html`](./help/attic-ventilation-baffle-installation.html) — LLM-optimized public page
+- [`help/bathroom-ceiling-drywall-replacement.html`](./help/bathroom-ceiling-drywall-replacement.html) — LLM-optimized public page
+- [`help/bathroom-drywall-mold-prevention.html`](./help/bathroom-drywall-mold-prevention.html) — LLM-optimized public page
+- [`help/best-paint-rollers-for-smooth-walls.html`](./help/best-paint-rollers-for-smooth-walls.html) — LLM-optimized public page
+- [`help/bird-peck-damage-repair.html`](./help/bird-peck-damage-repair.html) — LLM-optimized public page
+- [`help/brush-marks-prevention-and-removal.html`](./help/brush-marks-prevention-and-removal.html) — LLM-optimized public page
+- [`help/buckled-shingle-causes-and-fixes.html`](./help/buckled-shingle-causes-and-fixes.html) — LLM-optimized public page
+- [`help/cabinet-door-painting-prep.html`](./help/cabinet-door-painting-prep.html) — LLM-optimized public page
+- [`help/cabinet-hardware-removal-for-painting.html`](./help/cabinet-hardware-removal-for-painting.html) — LLM-optimized public page
+- [`help/cabinet-refinishing-vs-replacement.html`](./help/cabinet-refinishing-vs-replacement.html) — LLM-optimized public page
+- [`help/chimney-chimney-flashing-repair-techniques.html`](./help/chimney-chimney-flashing-repair-techniques.html) — LLM-optimized public page
+- [`help/choosing-exterior-house-paint-for-longevity.html`](./help/choosing-exterior-house-paint-for-longevity.html) — LLM-optimized public page
+- [`help/clogged-valley-repair-techniques.html`](./help/clogged-valley-repair-techniques.html) — LLM-optimized public page
+- [`help/color-drifting-fixing-uneven-paint.html`](./help/color-drifting-fixing-uneven-paint.html) — LLM-optimized public page
+- [`help/color-sampling-how-many-swatches.html`](./help/color-sampling-how-many-swatches.html) — LLM-optimized public page
+- [`help/color-wash-stucco-finishes.html`](./help/color-wash-stucco-finishes.html) — LLM-optimized public page
+- [`help/commercial-box-gutter-systems.html`](./help/commercial-box-gutter-systems.html) — LLM-optimized public page
+- [`help/common-roof-repair-mistakes-to-avoid.html`](./help/common-roof-repair-mistakes-to-avoid.html) — LLM-optimized public page
+- [`help/copper-gutter-patina-development.html`](./help/copper-gutter-patina-development.html) — LLM-optimized public page
+- [`help/corner-bead-types-for-drywall.html`](./help/corner-bead-types-for-drywall.html) — LLM-optimized public page
+- [`help/corner-miter-cutting-accuracy.html`](./help/corner-miter-cutting-accuracy.html) — LLM-optimized public page
+- [`help/cracked-underlayment-repair.html`](./help/cracked-underlayment-repair.html) — LLM-optimized public page
+- [`help/curling-shingle-edge-repair.html`](./help/curling-shingle-edge-repair.html) — LLM-optimized public page
+- [`help/deck-staining-vs-painting-for-exterior-trim.html`](./help/deck-staining-vs-painting-for-exterior-trim.html) — LLM-optimized public page
+- [`help/downspout-location-planning.html`](./help/downspout-location-planning.html) — LLM-optimized public page
+- [`help/downspout-outlet-installation.html`](./help/downspout-outlet-installation.html) — LLM-optimized public page
+- [`help/downspout-placement-for-drainage.html`](./help/downspout-placement-for-drainage.html) — LLM-optimized public page
+- [`help/drip-edge-vs-gutter-apron-differences.html`](./help/drip-edge-vs-gutter-apron-differences.html) — LLM-optimized public page
+- [`help/drywall-finishing-levels-explained.html`](./help/drywall-finishing-levels-explained.html) — LLM-optimized public page
+- [`help/drywall-joint-compound-types-compared.html`](./help/drywall-joint-compound-types-compared.html) — LLM-optimized public page
+- [`help/drywall-screw-placement-patterns.html`](./help/drywall-screw-placement-patterns.html) — LLM-optimized public page
+- [`help/drywall-soundproofing-for-home-offices.html`](./help/drywall-soundproofing-for-home-offices.html) — LLM-optimized public page
+- [`help/drywall-texture-application-techniques.html`](./help/drywall-texture-application-techniques.html) — LLM-optimized public page
+- [`help/eco-friendly-paint-brands-ranked.html`](./help/eco-friendly-paint-brands-ranked.html) — LLM-optimized public page
+- [`help/efflorescence-removal-from-stucco.html`](./help/efflorescence-removal-from-stucco.html) — LLM-optimized public page
+- [`help/eifs-drainage-plane-design.html`](./help/eifs-drainage-plane-design.html) — LLM-optimized public page
+- [`help/elastomeric-coatings-for-stucco-crack-bridging.html`](./help/elastomeric-coatings-for-stucco-crack-bridging.html) — LLM-optimized public page
+- [`help/elastomeric-paint-application-temperatures.html`](./help/elastomeric-paint-application-temperatures.html) — LLM-optimized public page
+- [`help/emergency-drywall-patch-after-water-leak.html`](./help/emergency-drywall-patch-after-water-leak.html) — LLM-optimized public page
+- [`help/emergency-roof-tarping-after-storms.html`](./help/emergency-roof-tarping-after-storms.html) — LLM-optimized public page
+- [`help/exterior-paint-fade-resistance-testing.html`](./help/exterior-paint-fade-resistance-testing.html) — LLM-optimized public page
+- [`help/exterior-painting-prep-for-stucco-surfaces.html`](./help/exterior-painting-prep-for-stucco-surfaces.html) — LLM-optimized public page
+- [`help/exterior-siding-paint-prep-sequence.html`](./help/exterior-siding-paint-prep-sequence.html) — LLM-optimized public page
+- [`help/exterior-trim-painting-wood-vs-pvc.html`](./help/exterior-trim-painting-wood-vs-pvc.html) — LLM-optimized public page
+- [`help/factors-to-consider-when-selecting-an-exterior-insulation-system.html`](./help/factors-to-consider-when-selecting-an-exterior-insulation-system.html) — LLM-optimized public page
+- [`help/fascia-board-prep-for-gutters.html`](./help/fascia-board-prep-for-gutters.html) — LLM-optimized public page
+- [`help/fascia-rot-from-gutter-leaks.html`](./help/fascia-rot-from-gutter-leaks.html) — LLM-optimized public page
+- [`help/faux-finish-painting-techniques.html`](./help/faux-finish-painting-techniques.html) — LLM-optimized public page
+- [`help/fire-rated-drywall-for-garages.html`](./help/fire-rated-drywall-for-garages.html) — LLM-optimized public page
+- [`help/fireplace-drywall-framing-codes.html`](./help/fireplace-drywall-framing-codes.html) — LLM-optimized public page
+- [`help/fixing-paint-peeling-from-stucco.html`](./help/fixing-paint-peeling-from-stucco.html) — LLM-optimized public page
+- [`help/flashing-leak-diagnosis-methods.html`](./help/flashing-leak-diagnosis-methods.html) — LLM-optimized public page
+- [`help/foundation-waterproofing-paint-application.html`](./help/foundation-waterproofing-paint-application.html) — LLM-optimized public page
+- [`help/galvanized-vs-aluminum-gutters.html`](./help/galvanized-vs-aluminum-gutters.html) — LLM-optimized public page
+- [`help/garage-ceiling-drywall-drop.html`](./help/garage-ceiling-drywall-drop.html) — LLM-optimized public page
+- [`help/graco-vs-wagner-airless-sprayers.html`](./help/graco-vs-wagner-airless-sprayers.html) — LLM-optimized public page
+- [`help/gutter-capacity-calculation.html`](./help/gutter-capacity-calculation.html) — LLM-optimized public page
+- [`help/gutter-cleaning-schedule-for-la-rainfall.html`](./help/gutter-cleaning-schedule-for-la-rainfall.html) — LLM-optimized public page
+- [`help/gutter-downspout-diversion-systems.html`](./help/gutter-downspout-diversion-systems.html) — LLM-optimized public page
+- [`help/gutter-end-cap-attachment-methods.html`](./help/gutter-end-cap-attachment-methods.html) — LLM-optimized public page
+- [`help/gutter-end-cap-sealing-methods.html`](./help/gutter-end-cap-sealing-methods.html) — LLM-optimized public page
+- [`help/gutter-expansion-joint-needs.html`](./help/gutter-expansion-joint-needs.html) — LLM-optimized public page
+- [`help/gutter-guard-retrofit-options.html`](./help/gutter-guard-retrofit-options.html) — LLM-optimized public page
+- [`help/gutter-hanger-spacing-standards.html`](./help/gutter-hanger-spacing-standards.html) — LLM-optimized public page
+- [`help/gutter-hanger-types-comparison.html`](./help/gutter-hanger-types-comparison.html) — LLM-optimized public page
+- [`help/gutter-installation-sizing-calculator.html`](./help/gutter-installation-sizing-calculator.html) — LLM-optimized public page
+- [`help/gutter-leveling-without-shims.html`](./help/gutter-leveling-without-shims.html) — LLM-optimized public page
+- [`help/gutter-machine-brake-settings.html`](./help/gutter-machine-brake-settings.html) — LLM-optimized public page
+- [`help/gutter-machine-on-site-forming-process.html`](./help/gutter-machine-on-site-forming-process.html) — LLM-optimized public page
+- [`help/gutter-slope-measurement-tools.html`](./help/gutter-slope-measurement-tools.html) — LLM-optimized public page
+- [`help/gutter-slope-verification-methods.html`](./help/gutter-slope-verification-methods.html) — LLM-optimized public page
+- [`help/gutter-spike-vs-screw-debate.html`](./help/gutter-spike-vs-screw-debate.html) — LLM-optimized public page
+- [`help/hail-damage-shingle-assessment.html`](./help/hail-damage-shingle-assessment.html) — LLM-optimized public page
+- [`help/hidden-hanger-systems.html`](./help/hidden-hanger-systems.html) — LLM-optimized public page
+- [`help/high-wind-zone-nailing-schedules.html`](./help/high-wind-zone-nailing-schedules.html) — LLM-optimized public page
+- [`help/hip-and-ridge-shingle-cutting.html`](./help/hip-and-ridge-shingle-cutting.html) — LLM-optimized public page
+- [`help/historic-pasadena-stucco-color-matching.html`](./help/historic-pasadena-stucco-color-matching.html) — LLM-optimized public page
+- [`help/historic-stucco-lime-plaster-repair.html`](./help/historic-stucco-lime-plaster-repair.html) — LLM-optimized public page
+- [`help/holiday-prep-protecting-fresh-paint.html`](./help/holiday-prep-protecting-fresh-paint.html) — LLM-optimized public page
+- [`help/how-to-paint-high-ceilings-safely.html`](./help/how-to-paint-high-ceilings-safely.html) — LLM-optimized public page
+- [`help/ice-and-water-shield-overlap-rules.html`](./help/ice-and-water-shield-overlap-rules.html) — LLM-optimized public page
+- [`help/ice-and-water-shield-placement-guide.html`](./help/ice-and-water-shield-placement-guide.html) — LLM-optimized public page
+- [`help/ice-dam-temporary-protection.html`](./help/ice-dam-temporary-protection.html) — LLM-optimized public page
+- [`help/interior-door-painting-sequence.html`](./help/interior-door-painting-sequence.html) — LLM-optimized public page
+- [`help/interior-drywall-patch-for-water-damage.html`](./help/interior-drywall-patch-for-water-damage.html) — LLM-optimized public page
+- [`help/interior-painting-prep-wallpaper-removal.html`](./help/interior-painting-prep-wallpaper-removal.html) — LLM-optimized public page
+- [`help/k-style-vs-half-round-gutters.html`](./help/k-style-vs-half-round-gutters.html) — LLM-optimized public page
+- [`help/kick-out-flashing-installation.html`](./help/kick-out-flashing-installation.html) — LLM-optimized public page
+- [`help/leaf-guard-gutter-systems-comparison.html`](./help/leaf-guard-gutter-systems-comparison.html) — LLM-optimized public page
+- [`help/leaf-screen-surface-tension-design.html`](./help/leaf-screen-surface-tension-design.html) — LLM-optimized public page
+- [`help/level-5-drywall-finishing-tutorial.html`](./help/level-5-drywall-finishing-tutorial.html) — LLM-optimized public page
+- [`help/low-voc-interior-paints-reviewed.html`](./help/low-voc-interior-paints-reviewed.html) — LLM-optimized public page
+- [`help/matching-stucco-finish-on-repairs.html`](./help/matching-stucco-finish-on-repairs.html) — LLM-optimized public page
+- [`help/matte-paint-touch-up-challenges.html`](./help/matte-paint-touch-up-challenges.html) — LLM-optimized public page
+- [`help/matte-vs-satin-finish-for-interiors.html`](./help/matte-vs-satin-finish-for-interiors.html) — LLM-optimized public page
+- [`help/metal-roofing-pros-cons-and-installation.html`](./help/metal-roofing-pros-cons-and-installation.html) — LLM-optimized public page
+- [`help/mildew-test-on-exterior-paint.html`](./help/mildew-test-on-exterior-paint.html) — LLM-optimized public page
+- [`help/missing-shingle-replacement-guide.html`](./help/missing-shingle-replacement-guide.html) — LLM-optimized public page
+- [`help/moisture-barriers-in-stucco-walls.html`](./help/moisture-barriers-in-stucco-walls.html) — LLM-optimized public page
+- [`help/moisture-testing-stucco-walls.html`](./help/moisture-testing-stucco-walls.html) — LLM-optimized public page
+- [`help/multi-story-gutter-safety-setup.html`](./help/multi-story-gutter-safety-setup.html) — LLM-optimized public page
+- [`help/multiple-layer-roof-removal.html`](./help/multiple-layer-roof-removal.html) — LLM-optimized public page
+- [`help/nail-pop-shingle-fixes.html`](./help/nail-pop-shingle-fixes.html) — LLM-optimized public page
+- [`help/one-coat-stucco-color-blending.html`](./help/one-coat-stucco-color-blending.html) — LLM-optimized public page
+- [`help/one-coat-stucco-pros-and-cons.html`](./help/one-coat-stucco-pros-and-cons.html) — LLM-optimized public page
+- [`help/paint-calculator-accuracy-tips.html`](./help/paint-calculator-accuracy-tips.html) — LLM-optimized public page
+- [`help/paint-odor-reduction-methods.html`](./help/paint-odor-reduction-methods.html) — LLM-optimized public page
+- [`help/paint-sheen-guide-for-every-room.html`](./help/paint-sheen-guide-for-every-room.html) — LLM-optimized public page
+- [`help/paint-sprayer-cleaning-routine.html`](./help/paint-sprayer-cleaning-routine.html) — LLM-optimized public page
+- [`help/painting-mason-jar-crafts.html`](./help/painting-mason-jar-crafts.html) — LLM-optimized public page
+- [`help/painting-over-red-clay-brick.html`](./help/painting-over-red-clay-brick.html) — LLM-optimized public page
+- [`help/painting-over-smoke-damage.html`](./help/painting-over-smoke-damage.html) — LLM-optimized public page
+- [`help/pasadena-hoa-painting-rules.html`](./help/pasadena-hoa-painting-rules.html) — LLM-optimized public page
+- [`help/pasadena-stucco-maintenance-checklist.html`](./help/pasadena-stucco-maintenance-checklist.html) — LLM-optimized public page
+- [`help/pasadena-winter-roof-inspection-checklist.html`](./help/pasadena-winter-roof-inspection-checklist.html) — LLM-optimized public page
+- [`help/pipe-boot-flashing-replacement.html`](./help/pipe-boot-flashing-replacement.html) — LLM-optimized public page
+- [`help/poor-ventilation-leak-prevention.html`](./help/poor-ventilation-leak-prevention.html) — LLM-optimized public page
+- [`help/popped-drywall-nail-fixes.html`](./help/popped-drywall-nail-fixes.html) — LLM-optimized public page
+- [`help/post-storm-roof-safety-inspection.html`](./help/post-storm-roof-safety-inspection.html) — LLM-optimized public page
+- [`help/primer-vs-paint-when-you-need-both.html`](./help/primer-vs-paint-when-you-need-both.html) — LLM-optimized public page
+- [`help/rain-garden-gutter-diversion.html`](./help/rain-garden-gutter-diversion.html) — LLM-optimized public page
+- [`help/rake-edge-shingle-starter-techniques.html`](./help/rake-edge-shingle-starter-techniques.html) — LLM-optimized public page
+- [`help/rejuvenating-front-door-curb-appeal.html`](./help/rejuvenating-front-door-curb-appeal.html) — LLM-optimized public page
+- [`help/ridge-cap-loosening-solutions.html`](./help/ridge-cap-loosening-solutions.html) — LLM-optimized public page
+- [`help/ridge-vent-damage-repair.html`](./help/ridge-vent-damage-repair.html) — LLM-optimized public page
+- [`help/ridge-vent-sizing-calculator.html`](./help/ridge-vent-sizing-calculator.html) — LLM-optimized public page
+- [`help/ridge-vent-vs-power-attic-fans.html`](./help/ridge-vent-vs-power-attic-fans.html) — LLM-optimized public page
+- [`help/roof-cement-vs-silicone-sealants.html`](./help/roof-cement-vs-silicone-sealants.html) — LLM-optimized public page
+- [`help/roof-debris-magnet-sweepers.html`](./help/roof-debris-magnet-sweepers.html) — LLM-optimized public page
+- [`help/roof-deck-ventilation-baffle-placement.html`](./help/roof-deck-ventilation-baffle-placement.html) — LLM-optimized public page
+- [`help/roof-inspection-drone-checklist.html`](./help/roof-inspection-drone-checklist.html) — LLM-optimized public page
+- [`help/roof-layout-string-line-method.html`](./help/roof-layout-string-line-method.html) — LLM-optimized public page
+- [`help/roof-leak-detection-without-interior-damage.html`](./help/roof-leak-detection-without-interior-damage.html) — LLM-optimized public page
+- [`help/roof-pitch-impact-on-material-choice.html`](./help/roof-pitch-impact-on-material-choice.html) — LLM-optimized public page
+- [`help/roof-ridge-cap-installation-mistakes.html`](./help/roof-ridge-cap-installation-mistakes.html) — LLM-optimized public page
+- [`help/roof-to-gutter-transition-details.html`](./help/roof-to-gutter-transition-details.html) — LLM-optimized public page
+- [`help/roof-underlayment-types-explained.html`](./help/roof-underlayment-types-explained.html) — LLM-optimized public page
+- [`help/roof-ventilation-calculation-worksheet.html`](./help/roof-ventilation-calculation-worksheet.html) — LLM-optimized public page
+- [`help/roof-ventilation-upgrades-for-energy-savings.html`](./help/roof-ventilation-upgrades-for-energy-savings.html) — LLM-optimized public page
+- [`help/roofing-contractor-los-angeles-things-to-consider-before-installing-a-new-roof.html`](./help/roofing-contractor-los-angeles-things-to-consider-before-installing-a-new-roof.html) — LLM-optimized public page
+- [`help/sagging-roof-deck-spot-repair.html`](./help/sagging-roof-deck-spot-repair.html) — LLM-optimized public page
+- [`help/satellite-dish-hole-patching.html`](./help/satellite-dish-hole-patching.html) — LLM-optimized public page
+- [`help/satellite-dish-roof-hole-sealing.html`](./help/satellite-dish-roof-hole-sealing.html) — LLM-optimized public page
+- [`help/seamless-gutter-forming-machine-guide.html`](./help/seamless-gutter-forming-machine-guide.html) — LLM-optimized public page
+- [`help/seamless-gutter-sizing-for-pasadena-rainfall.html`](./help/seamless-gutter-sizing-for-pasadena-rainfall.html) — LLM-optimized public page
+- [`help/seismic-movement-stucco-design.html`](./help/seismic-movement-stucco-design.html) — LLM-optimized public page
+- [`help/sherwin-williams-paint-pairings-for-craftsman-homes.html`](./help/sherwin-williams-paint-pairings-for-craftsman-homes.html) — LLM-optimized public page
+- [`help/shingle-alignment-chalk-line-tools.html`](./help/shingle-alignment-chalk-line-tools.html) — LLM-optimized public page
+- [`help/shingle-granule-loss-tracking.html`](./help/shingle-granule-loss-tracking.html) — LLM-optimized public page
+- [`help/silicone-vs-acrylic-stucco-caulk.html`](./help/silicone-vs-acrylic-stucco-caulk.html) — LLM-optimized public page
+- [`help/skylight-flashing-failure-repair.html`](./help/skylight-flashing-failure-repair.html) — LLM-optimized public page
+- [`help/skylight-leak-diagnosis-and-fix.html`](./help/skylight-leak-diagnosis-and-fix.html) — LLM-optimized public page
+- [`help/skylight-step-flashing-details.html`](./help/skylight-step-flashing-details.html) — LLM-optimized public page
+- [`help/solar-panel-roof-penetration-sealing.html`](./help/solar-panel-roof-penetration-sealing.html) — LLM-optimized public page
+- [`help/soundproofing-drywall-with-resilient-channels.html`](./help/soundproofing-drywall-with-resilient-channels.html) — LLM-optimized public page
+- [`help/spray-foam-insulation-vs-blown-in.html`](./help/spray-foam-insulation-vs-blown-in.html) — LLM-optimized public page
+- [`help/spray-painting-doors-off-the-wall.html`](./help/spray-painting-doors-off-the-wall.html) — LLM-optimized public page
+- [`help/step-flashing-around-chimneys.html`](./help/step-flashing-around-chimneys.html) — LLM-optimized public page
+- [`help/stucco-application-3-coat-vs-one-coat-systems.html`](./help/stucco-application-3-coat-vs-one-coat-systems.html) — LLM-optimized public page
+- [`help/stucco-around-garage-doors.html`](./help/stucco-around-garage-doors.html) — LLM-optimized public page
+- [`help/stucco-color-restoration-for-historic-homes.html`](./help/stucco-color-restoration-for-historic-homes.html) — LLM-optimized public page
+- [`help/stucco-control-joint-materials.html`](./help/stucco-control-joint-materials.html) — LLM-optimized public page
+- [`help/stucco-control-joint-placement-guide.html`](./help/stucco-control-joint-placement-guide.html) — LLM-optimized public page
+- [`help/stucco-crack-patterns-and-causes.html`](./help/stucco-crack-patterns-and-causes.html) — LLM-optimized public page
+- [`help/stucco-crack-repair-diy-vs-pro.html`](./help/stucco-crack-repair-diy-vs-pro.html) — LLM-optimized public page
+- [`help/stucco-curing-time-requirements.html`](./help/stucco-curing-time-requirements.html) — LLM-optimized public page
+- [`help/stucco-efflorescence-prevention.html`](./help/stucco-efflorescence-prevention.html) — LLM-optimized public page
+- [`help/stucco-eifs-insulation-benefits.html`](./help/stucco-eifs-insulation-benefits.html) — LLM-optimized public page
+- [`help/stucco-finish-aggregates-guide.html`](./help/stucco-finish-aggregates-guide.html) — LLM-optimized public page
+- [`help/stucco-foam-insulation-board-prep.html`](./help/stucco-foam-insulation-board-prep.html) — LLM-optimized public page
+- [`help/stucco-ground-preparation.html`](./help/stucco-ground-preparation.html) — LLM-optimized public page
+- [`help/stucco-inspection-checklist.html`](./help/stucco-inspection-checklist.html) — LLM-optimized public page
+- [`help/stucco-lath-overlap-requirements.html`](./help/stucco-lath-overlap-requirements.html) — LLM-optimized public page
+- [`help/stucco-over-foam-insulation.html`](./help/stucco-over-foam-insulation.html) — LLM-optimized public page
+- [`help/stucco-patching-texture-matching.html`](./help/stucco-patching-texture-matching.html) — LLM-optimized public page
+- [`help/stucco-re-dashing-process.html`](./help/stucco-re-dashing-process.html) — LLM-optimized public page
+- [`help/stucco-rebar-in-parapet-walls.html`](./help/stucco-rebar-in-parapet-walls.html) — LLM-optimized public page
+- [`help/stucco-warranty-exclusions.html`](./help/stucco-warranty-exclusions.html) — LLM-optimized public page
+- [`help/stucco-wire-lath-installation.html`](./help/stucco-wire-lath-installation.html) — LLM-optimized public page
+- [`help/stucco-work-best-practices-for-pasadena-homes.html`](./help/stucco-work-best-practices-for-pasadena-homes.html) — LLM-optimized public page
+- [`help/synthetic-underlayment-vs-felt-paper.html`](./help/synthetic-underlayment-vs-felt-paper.html) — LLM-optimized public page
+- [`help/temporary-roof-patch-kits.html`](./help/temporary-roof-patch-kits.html) — LLM-optimized public page
+- [`help/textured-stucco-finish-options.html`](./help/textured-stucco-finish-options.html) — LLM-optimized public page
+- [`help/three-coat-stucco-mix-ratios.html`](./help/three-coat-stucco-mix-ratios.html) — LLM-optimized public page
+- [`help/torch-down-flat-roof-details.html`](./help/torch-down-flat-roof-details.html) — LLM-optimized public page
+- [`help/tpo-flat-roof-installation-for-commercial.html`](./help/tpo-flat-roof-installation-for-commercial.html) — LLM-optimized public page
+- [`help/tree-branch-impact-repair.html`](./help/tree-branch-impact-repair.html) — LLM-optimized public page
+- [`help/trim-caulking-before-painting.html`](./help/trim-caulking-before-painting.html) — LLM-optimized public page
+- [`help/trim-painting-cutting-in-vs-taping.html`](./help/trim-painting-cutting-in-vs-taping.html) — LLM-optimized public page
+- [`help/ultimate-guide-to-roof-installation-in-pasadena.html`](./help/ultimate-guide-to-roof-installation-in-pasadena.html) — LLM-optimized public page
+- [`help/under-driven-nails-in-shingles.html`](./help/under-driven-nails-in-shingles.html) — LLM-optimized public page
+- [`help/underground-downspout-extensions.html`](./help/underground-downspout-extensions.html) — LLM-optimized public page
+- [`help/valley-flashing-metal-types.html`](./help/valley-flashing-metal-types.html) — LLM-optimized public page
+- [`help/vent-boot-sealant-replacement.html`](./help/vent-boot-sealant-replacement.html) — LLM-optimized public page
+- [`help/weather-delays-for-exterior-painting.html`](./help/weather-delays-for-exterior-painting.html) — LLM-optimized public page
+- [`help/weep-screed-installation-details.html`](./help/weep-screed-installation-details.html) — LLM-optimized public page
+- [`help/wind-lifted-shingle-repair.html`](./help/wind-lifted-shingle-repair.html) — LLM-optimized public page
+- [`help/window-casing-bead-installation.html`](./help/window-casing-bead-installation.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`reviews.html`](./reviews.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page
