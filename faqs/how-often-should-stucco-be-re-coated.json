@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How often should stucco be re-coated?",
-  "description": "Stucco typically needs re-coating every 15-20 years, but signs like fading or minor cracks may indicate an earlier need.",
   "url": "https://modernbuilderscali.com/faq/how-often-should-stucco-be-re-coated",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often should stucco be re-coated?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The frequency for stucco re-coating depends on several factors, including climate, original stucco quality, and exposure to environmental stressors like sun and rain. Generally, a stucco finish can last 15-20 years before needing a re-coat. However, if you notice fading, minor hairline cracks, or chalking when touched, it might be time to consider re-coating sooner. Regular inspections can help determine the optimal timing to ensure your stucco remains in good condition and protected.",
-        "description": "Stucco typically needs re-coating every 15-20 years, but signs like fading or minor cracks may indicate an earlier need."
-      }
-    }
-  ],
+  "name": "How often should stucco be re-coated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How often should stucco be re-coated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency for stucco re-coating depends on several factors, including climate, original stucco quality, and exposure to environmental stressors like sun and rain. Generally, a stucco finish can last 15-20 years before needing a re-coat. However, if you notice fading, minor hairline cracks, or chalking when touched, it might be time to consider re-coating sooner. Regular inspections can help determine the optimal timing to ensure your stucco remains in good condition and protected.",
+        "@type": "Answer",
+        "description": "Stucco typically needs re-coating every 15-20 years, but signs like fading or minor cracks may indicate an earlier need."
+      }
+    }
+  ],
+  "description": "Stucco typically needs re-coating every 15-20 years, but signs like fading or minor cracks may indicate an earlier need."
 }

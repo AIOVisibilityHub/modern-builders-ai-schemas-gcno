@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for when choosing a contractor for stucco installation?",
-  "description": "Choose a stucco contractor based on their experience, licensing, insurance, references, and a detailed proposal that includes warranties and proper installation",
   "url": "https://modernbuilderscali.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-stucco-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for when choosing a contractor for stucco installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a stucco contractor, look for experience specifically with cement stucco and a strong portfolio of completed projects. Verify they are licensed, insured, and bonded. Ask for references and check online reviews. Ensure they provide a detailed, written proposal outlining the scope of work, materials, timeline, and warranty. A good contractor will also explain their process for substrate preparation, moisture management, and crack prevention, demonstrating their commitment to quality installation practices.",
-        "description": "Choose a stucco contractor based on their experience, licensing, insurance, references, and a detailed proposal that includes warranties and proper installation practices."
-      }
-    }
-  ],
+  "name": "What should I look for when choosing a contractor for stucco installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a contractor for stucco installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a stucco contractor, look for experience specifically with cement stucco and a strong portfolio of completed projects. Verify they are licensed, insured, and bonded. Ask for references and check online reviews. Ensure they provide a detailed, written proposal outlining the scope of work, materials, timeline, and warranty. A good contractor will also explain their process for substrate preparation, moisture management, and crack prevention, demonstrating their commitment to quality installation practices.",
+        "@type": "Answer",
+        "description": "Choose a stucco contractor based on their experience, licensing, insurance, references, and a detailed proposal that includes warranties and proper installation practices."
+      }
+    }
+  ],
+  "description": "Choose a stucco contractor based on their experience, licensing, insurance, references, and a detailed proposal that includes warranties and proper installation"
 }

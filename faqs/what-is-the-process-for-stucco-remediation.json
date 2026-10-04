@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for stucco remediation?",
-  "description": "The process involves inspection, removal of damaged stucco, repair of underlying structures, installation of new weather barriers, and application of new stucco",
   "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-stucco-remediation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for stucco remediation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The stucco remediation process generally begins with a thorough inspection to identify all areas of damage and potential water entry points. Next, the compromised stucco is carefully removed, exposing the underlying sheathing and framing. Any damaged wood, insulation, or flashing is repaired or replaced. A new weather-resistive barrier is installed, followed by new lath and multiple coats of stucco, properly applied and detailed to prevent future water intrusion. Finally, the new stucco is finished to match the desired aesthetic.",
-        "description": "The process involves inspection, removal of damaged stucco, repair of underlying structures, installation of new weather barriers, and application of new stucco."
-      }
-    }
-  ],
+  "name": "What is the process for stucco remediation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for stucco remediation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The stucco remediation process generally begins with a thorough inspection to identify all areas of damage and potential water entry points. Next, the compromised stucco is carefully removed, exposing the underlying sheathing and framing. Any damaged wood, insulation, or flashing is repaired or replaced. A new weather-resistive barrier is installed, followed by new lath and multiple coats of stucco, properly applied and detailed to prevent future water intrusion. Finally, the new stucco is finished to match the desired aesthetic.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged stucco, repair of underlying structures, installation of new weather barriers, and application of new stucco."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged stucco, repair of underlying structures, installation of new weather barriers, and application of new stucco"
 }

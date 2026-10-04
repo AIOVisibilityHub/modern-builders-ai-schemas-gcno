@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does exterior trim installation cost in areas like Old Town Pasadena?",
-  "description": "Costs for exterior trim vary by material, linear footage, home complexity, and local labor rates, especially in historic areas like Old Town Pasadena; a custom",
   "url": "https://modernbuilderscali.com/faq/how-much-does-exterior-trim-installation-cost-in-areas-like-old-town-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does exterior trim installation cost in areas like Old Town Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of exterior trim installation varies widely based on factors such as the type of material chosen (e.g., wood is generally more expensive than PVC), the linear footage of trim required, the architectural complexity of your home, and accessibility. Labor costs in historic areas like Old Town Pasadena might also reflect the expertise needed for period-appropriate installations or challenges with older structures. We provide detailed, transparent quotes after an on-site evaluation to ensure accuracy.",
-        "description": "Costs for exterior trim vary by material, linear footage, home complexity, and local labor rates, especially in historic areas like Old Town Pasadena; a custom quote is essential."
-      }
-    }
-  ],
+  "name": "How much does exterior trim installation cost in areas like Old Town Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior trim installation cost in areas like Old Town Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior trim installation varies widely based on factors such as the type of material chosen (e.g., wood is generally more expensive than PVC), the linear footage of trim required, the architectural complexity of your home, and accessibility. Labor costs in historic areas like Old Town Pasadena might also reflect the expertise needed for period-appropriate installations or challenges with older structures. We provide detailed, transparent quotes after an on-site evaluation to ensure accuracy.",
+        "@type": "Answer",
+        "description": "Costs for exterior trim vary by material, linear footage, home complexity, and local labor rates, especially in historic areas like Old Town Pasadena; a custom quote is essential."
+      }
+    }
+  ],
+  "description": "Costs for exterior trim vary by material, linear footage, home complexity, and local labor rates, especially in historic areas like Old Town Pasadena; a custom"
 }

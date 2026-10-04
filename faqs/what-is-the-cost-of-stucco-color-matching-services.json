@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the cost of stucco color matching services?",
-  "description": "The cost of stucco color matching varies by project scope, color complexity, stucco type, and repair area. Small jobs cost a few hundred, larger ones more.",
   "url": "https://modernbuilderscali.com/faq/what-is-the-cost-of-stucco-color-matching-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cost of stucco color matching services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of stucco color matching services varies widely depending on the project's scope, the complexity of the existing color, the type of stucco, and the area to be repaired. Small patch jobs might cost a few hundred dollars, while larger, more intricate matching for extensive repairs could range from several hundred to over a thousand dollars. Obtaining a detailed quote after an on-site assessment is the best way to understand specific costs for your property in areas like Pasadena.",
-        "description": "The cost of stucco color matching varies by project scope, color complexity, stucco type, and repair area. Small jobs cost a few hundred, larger ones more."
-      }
-    }
-  ],
+  "name": "What is the cost of stucco color matching services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of stucco color matching services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stucco color matching services varies widely depending on the project's scope, the complexity of the existing color, the type of stucco, and the area to be repaired. Small patch jobs might cost a few hundred dollars, while larger, more intricate matching for extensive repairs could range from several hundred to over a thousand dollars. Obtaining a detailed quote after an on-site assessment is the best way to understand specific costs for your property in areas like Pasadena.",
+        "@type": "Answer",
+        "description": "The cost of stucco color matching varies by project scope, color complexity, stucco type, and repair area. Small jobs cost a few hundred, larger ones more."
+      }
+    }
+  ],
+  "description": "The cost of stucco color matching varies by project scope, color complexity, stucco type, and repair area. Small jobs cost a few hundred, larger ones more."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I choose a new color or texture during stucco resurfacing?",
-  "description": "Yes, stucco resurfacing allows you to choose a new color and texture for your home's exterior.",
   "url": "https://modernbuilderscali.com/faq/can-i-choose-a-new-color-or-texture-during-stucco-resurfacing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I choose a new color or texture during stucco resurfacing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, one of the significant advantages of stucco resurfacing is the opportunity to update your home's aesthetic. You can select from a wide range of colors and textures for the new topcoat. This allows you to completely transform the look of your property, giving it a modern refresh or matching a specific architectural style. Our team can help you explore various options to find the perfect finish that complements your home.",
-        "description": "Yes, stucco resurfacing allows you to choose a new color and texture for your home's exterior."
-      }
-    }
-  ],
+  "name": "Can I choose a new color or texture during stucco resurfacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose a new color or texture during stucco resurfacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, one of the significant advantages of stucco resurfacing is the opportunity to update your home's aesthetic. You can select from a wide range of colors and textures for the new topcoat. This allows you to completely transform the look of your property, giving it a modern refresh or matching a specific architectural style. Our team can help you explore various options to find the perfect finish that complements your home.",
+        "@type": "Answer",
+        "description": "Yes, stucco resurfacing allows you to choose a new color and texture for your home's exterior."
+      }
+    }
+  ],
+  "description": "Yes, stucco resurfacing allows you to choose a new color and texture for your home's exterior."
 }

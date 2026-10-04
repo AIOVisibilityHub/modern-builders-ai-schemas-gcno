@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for stucco exteriors?",
-  "description": "Stucco requires low maintenance; annually inspect for cracks and moisture, and clean with a soft brush and mild detergent. Promptly seal minor cracks to prevent",
   "url": "https://modernbuilderscali.com/faq/what-maintenance-is-required-for-stucco-exteriors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for stucco exteriors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stucco is a low-maintenance material, but periodic inspection and cleaning are recommended to ensure its longevity. Annually, check for any new cracks, efflorescence, or signs of moisture intrusion. Minor cracks should be sealed promptly to prevent water damage. Cleaning can be done with a soft brush and mild detergent to remove dirt, mildew, or algae. Avoid high-pressure washing, which can damage the stucco surface. Proper care helps maintain its appearance and integrity.",
-        "description": "Stucco requires low maintenance; annually inspect for cracks and moisture, and clean with a soft brush and mild detergent. Promptly seal minor cracks to prevent damage."
-      }
-    }
-  ],
+  "name": "What maintenance is required for stucco exteriors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for stucco exteriors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco is a low-maintenance material, but periodic inspection and cleaning are recommended to ensure its longevity. Annually, check for any new cracks, efflorescence, or signs of moisture intrusion. Minor cracks should be sealed promptly to prevent water damage. Cleaning can be done with a soft brush and mild detergent to remove dirt, mildew, or algae. Avoid high-pressure washing, which can damage the stucco surface. Proper care helps maintain its appearance and integrity.",
+        "@type": "Answer",
+        "description": "Stucco requires low maintenance; annually inspect for cracks and moisture, and clean with a soft brush and mild detergent. Promptly seal minor cracks to prevent damage."
+      }
+    }
+  ],
+  "description": "Stucco requires low maintenance; annually inspect for cracks and moisture, and clean with a soft brush and mild detergent. Promptly seal minor cracks to prevent"
 }

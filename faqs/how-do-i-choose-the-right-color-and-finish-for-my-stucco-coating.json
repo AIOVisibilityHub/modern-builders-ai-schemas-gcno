@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right color and finish for my stucco coating?",
-  "description": "Choose your stucco coating color and finish by considering your home's style, landscaping, and personal preference, viewing samples in varied lighting. Our cons",
   "url": "https://modernbuilderscali.com/faq/how-do-i-choose-the-right-color-and-finish-for-my-stucco-coating",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right color and finish for my stucco coating?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right color and finish for your stucco coating involves considering your home's architectural style, existing landscaping, and personal aesthetic preferences. We recommend reviewing samples in different lighting conditions throughout the day to see how they appear. Factors like UV reflectivity, dirt resistance, and even neighborhood guidelines can also play a role. Our consultants can provide guidance and show you various options, including smooth, textured, or sand finishes, to complement your property and enhance its curb appeal effectively.",
-        "description": "Choose your stucco coating color and finish by considering your home's style, landscaping, and personal preference, viewing samples in varied lighting. Our consultants can assist."
-      }
-    }
-  ],
+  "name": "How do I choose the right color and finish for my stucco coating?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color and finish for my stucco coating?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right color and finish for your stucco coating involves considering your home's architectural style, existing landscaping, and personal aesthetic preferences. We recommend reviewing samples in different lighting conditions throughout the day to see how they appear. Factors like UV reflectivity, dirt resistance, and even neighborhood guidelines can also play a role. Our consultants can provide guidance and show you various options, including smooth, textured, or sand finishes, to complement your property and enhance its curb appeal effectively.",
+        "@type": "Answer",
+        "description": "Choose your stucco coating color and finish by considering your home's style, landscaping, and personal preference, viewing samples in varied lighting. Our consultants can assist."
+      }
+    }
+  ],
+  "description": "Choose your stucco coating color and finish by considering your home's style, landscaping, and personal preference, viewing samples in varied lighting. Our cons"
 }

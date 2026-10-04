@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you ensure the color of the new stucco matches the existing stucco?",
-  "description": "Color matching involves analyzing existing stucco, custom tinting new material, and testing samples on-site to achieve a seamless blend.",
   "url": "https://modernbuilderscali.com/faq/how-do-you-ensure-the-color-of-the-new-stucco-matches-the-existing-stucco",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you ensure the color of the new stucco matches the existing stucco?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Matching the color of new stucco to existing stucco involves careful analysis and custom tinting. We typically start by assessing the current stucco's color, considering any fading or weathering. Samples are then mixed and applied to a test patch, allowing for comparison under various lighting conditions. Adjustments are made to the pigment ratios until a close match is achieved. The goal is to blend new materials so that color differences are minimized once the new stucco cures.",
-        "description": "Color matching involves analyzing existing stucco, custom tinting new material, and testing samples on-site to achieve a seamless blend."
-      }
-    }
-  ],
+  "name": "How do you ensure the color of the new stucco matches the existing stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure the color of the new stucco matches the existing stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching the color of new stucco to existing stucco involves careful analysis and custom tinting. We typically start by assessing the current stucco's color, considering any fading or weathering. Samples are then mixed and applied to a test patch, allowing for comparison under various lighting conditions. Adjustments are made to the pigment ratios until a close match is achieved. The goal is to blend new materials so that color differences are minimized once the new stucco cures.",
+        "@type": "Answer",
+        "description": "Color matching involves analyzing existing stucco, custom tinting new material, and testing samples on-site to achieve a seamless blend."
+      }
+    }
+  ],
+  "description": "Color matching involves analyzing existing stucco, custom tinting new material, and testing samples on-site to achieve a seamless blend."
 }

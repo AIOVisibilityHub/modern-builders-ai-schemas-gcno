@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the installation process for new stucco?",
-  "description": "New stucco installation involves preparing the surface with a weather barrier and lath, then applying scratch, brown, and finish coats, allowing each to cure pr",
   "url": "https://modernbuilderscali.com/faq/what-is-the-installation-process-for-new-stucco",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the installation process for new stucco?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The stucco installation process typically begins with preparing the exterior surface, which involves applying a weather-resistant barrier and metal lath over the sheathing. Next, a scratch coat of stucco is applied, embedding into the lath for strong adhesion. After it cures, a brown coat is applied to create a smooth, level surface. Finally, the finish coat is applied, which provides the desired color and texture. Each layer requires proper curing time to ensure durability and prevent cracking, ensuring a lasting finish.",
-        "description": "New stucco installation involves preparing the surface with a weather barrier and lath, then applying scratch, brown, and finish coats, allowing each to cure properly."
-      }
-    }
-  ],
+  "name": "What is the installation process for new stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for new stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The stucco installation process typically begins with preparing the exterior surface, which involves applying a weather-resistant barrier and metal lath over the sheathing. Next, a scratch coat of stucco is applied, embedding into the lath for strong adhesion. After it cures, a brown coat is applied to create a smooth, level surface. Finally, the finish coat is applied, which provides the desired color and texture. Each layer requires proper curing time to ensure durability and prevent cracking, ensuring a lasting finish.",
+        "@type": "Answer",
+        "description": "New stucco installation involves preparing the surface with a weather barrier and lath, then applying scratch, brown, and finish coats, allowing each to cure properly."
+      }
+    }
+  ],
+  "description": "New stucco installation involves preparing the surface with a weather barrier and lath, then applying scratch, brown, and finish coats, allowing each to cure pr"
 }

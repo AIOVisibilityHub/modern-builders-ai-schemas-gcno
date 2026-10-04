@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of choosing cement stucco for exterior walls?",
-  "description": "Cement stucco provides durability, fire and pest resistance, moisture protection, insulation, and versatile aesthetic options.",
   "url": "https://modernbuilderscali.com/faq/what-are-the-benefits-of-choosing-cement-stucco-for-exterior-walls",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of choosing cement stucco for exterior walls?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cement stucco offers several benefits for exterior walls. It is highly durable and resistant to impact, fire, and pests. Its seamless nature helps prevent moisture intrusion when properly installed. Stucco provides excellent insulation properties, contributing to energy efficiency. Furthermore, it offers a wide range of aesthetic options through various textures and colors, allowing for diverse architectural styles and long-lasting curb appeal.",
-        "description": "Cement stucco provides durability, fire and pest resistance, moisture protection, insulation, and versatile aesthetic options."
-      }
-    }
-  ],
+  "name": "What are the benefits of choosing cement stucco for exterior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing cement stucco for exterior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cement stucco offers several benefits for exterior walls. It is highly durable and resistant to impact, fire, and pests. Its seamless nature helps prevent moisture intrusion when properly installed. Stucco provides excellent insulation properties, contributing to energy efficiency. Furthermore, it offers a wide range of aesthetic options through various textures and colors, allowing for diverse architectural styles and long-lasting curb appeal.",
+        "@type": "Answer",
+        "description": "Cement stucco provides durability, fire and pest resistance, moisture protection, insulation, and versatile aesthetic options."
+      }
+    }
+  ],
+  "description": "Cement stucco provides durability, fire and pest resistance, moisture protection, insulation, and versatile aesthetic options."
 }

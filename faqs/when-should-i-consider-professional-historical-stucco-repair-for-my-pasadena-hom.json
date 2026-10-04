@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider professional historical stucco repair for my Pasadena home?",
-  "description": "Consider professional repair for cracks, crumbling, water stains, or delamination, especially for historic homes in areas like Pasadena.",
   "url": "https://modernbuilderscali.com/faq/when-should-i-consider-professional-historical-stucco-repair-for-my-pasadena-hom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider professional historical stucco repair for my Pasadena home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider professional historical stucco repair if you observe cracks wider than a hairline, crumbling or soft areas, efflorescence (white powdery deposits), water stains, or delamination where the stucco pulls away from the wall. These signs indicate moisture intrusion or material failure that can compromise the building's structure. For properties in areas like Pasadena's Bungalow Heaven or Oak Knoll, using specialists familiar with historic methods ensures repairs blend seamlessly and protect the home's period accuracy.",
-        "description": "Consider professional repair for cracks, crumbling, water stains, or delamination, especially for historic homes in areas like Pasadena."
-      }
-    }
-  ],
+  "name": "When should I consider professional historical stucco repair for my Pasadena home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional historical stucco repair for my Pasadena home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional historical stucco repair if you observe cracks wider than a hairline, crumbling or soft areas, efflorescence (white powdery deposits), water stains, or delamination where the stucco pulls away from the wall. These signs indicate moisture intrusion or material failure that can compromise the building's structure. For properties in areas like Pasadena's Bungalow Heaven or Oak Knoll, using specialists familiar with historic methods ensures repairs blend seamlessly and protect the home's period accuracy.",
+        "@type": "Answer",
+        "description": "Consider professional repair for cracks, crumbling, water stains, or delamination, especially for historic homes in areas like Pasadena."
+      }
+    }
+  ],
+  "description": "Consider professional repair for cracks, crumbling, water stains, or delamination, especially for historic homes in areas like Pasadena."
 }

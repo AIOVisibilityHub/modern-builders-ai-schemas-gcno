@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I repair stucco cracks?",
-  "description": "Repair stucco cracks as soon as they appear to prevent moisture penetration, water damage, and further deterioration.",
   "url": "https://modernbuilderscali.com/faq/when-should-i-repair-stucco-cracks",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I repair stucco cracks?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to repair stucco cracks as soon as you notice them. Even small cracks can allow moisture to penetrate, leading to water damage, mold growth, and further deterioration of the stucco and underlying structure. Prompt repair helps maintain the integrity of your home's exterior, prevents more extensive and costly damage, and preserves its aesthetic appeal.",
-        "description": "Repair stucco cracks as soon as they appear to prevent moisture penetration, water damage, and further deterioration."
-      }
-    }
-  ],
+  "name": "When should I repair stucco cracks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair stucco cracks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to repair stucco cracks as soon as you notice them. Even small cracks can allow moisture to penetrate, leading to water damage, mold growth, and further deterioration of the stucco and underlying structure. Prompt repair helps maintain the integrity of your home's exterior, prevents more extensive and costly damage, and preserves its aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Repair stucco cracks as soon as they appear to prevent moisture penetration, water damage, and further deterioration."
+      }
+    }
+  ],
+  "description": "Repair stucco cracks as soon as they appear to prevent moisture penetration, water damage, and further deterioration."
 }

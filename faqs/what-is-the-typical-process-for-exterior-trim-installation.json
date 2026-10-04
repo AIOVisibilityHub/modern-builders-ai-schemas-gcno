@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for exterior trim installation?",
-  "description": "The process involves removing old trim, preparing surfaces, measuring and cutting new trim, then securely fastening and sealing it to ensure proper protection a",
   "url": "https://modernbuilderscali.com/faq/what-is-the-typical-process-for-exterior-trim-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for exterior trim installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The installation process typically begins with an assessment of the existing trim and preparation of the surfaces. Old, damaged trim is removed, and any necessary repairs to the underlying structure are made. New trim pieces are then measured, cut, and securely fastened, ensuring proper alignment and tight seals to prevent moisture intrusion. This often involves precise cutting, caulking, and sometimes priming before final painting. The complexity varies based on trim type and project scope.",
-        "description": "The process involves removing old trim, preparing surfaces, measuring and cutting new trim, then securely fastening and sealing it to ensure proper protection and aesthetics."
-      }
-    }
-  ],
+  "name": "What is the typical process for exterior trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for exterior trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with an assessment of the existing trim and preparation of the surfaces. Old, damaged trim is removed, and any necessary repairs to the underlying structure are made. New trim pieces are then measured, cut, and securely fastened, ensuring proper alignment and tight seals to prevent moisture intrusion. This often involves precise cutting, caulking, and sometimes priming before final painting. The complexity varies based on trim type and project scope.",
+        "@type": "Answer",
+        "description": "The process involves removing old trim, preparing surfaces, measuring and cutting new trim, then securely fastening and sealing it to ensure proper protection and aesthetics."
+      }
+    }
+  ],
+  "description": "The process involves removing old trim, preparing surfaces, measuring and cutting new trim, then securely fastening and sealing it to ensure proper protection a"
 }
