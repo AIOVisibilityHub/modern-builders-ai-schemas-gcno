@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What type of drywall is best for a bathroom?",
-  "description": "Moisture-resistant drywall, also known as 'green board' or mold-resistant drywall, is best for bathrooms to prevent mold and mildew.",
   "url": "https://modernbuilderscali.com/faq/what-type-of-drywall-is-best-for-a-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What type of drywall is best for a bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For bathrooms, moisture-resistant drywall, often called 'green board' or mold-resistant drywall, is recommended. It has a special paperless or fiberglass mat face and a moisture-resistant core to prevent mold and mildew growth in high-humidity environments. Regular drywall can quickly degrade and develop mold in bathrooms, so it's best avoided.",
-        "description": "Moisture-resistant drywall, also known as 'green board' or mold-resistant drywall, is best for bathrooms to prevent mold and mildew."
-      }
-    }
-  ],
+  "name": "What type of drywall is best for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall is best for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathrooms, moisture-resistant drywall, often called 'green board' or mold-resistant drywall, is recommended. It has a special paperless or fiberglass mat face and a moisture-resistant core to prevent mold and mildew growth in high-humidity environments. Regular drywall can quickly degrade and develop mold in bathrooms, so it's best avoided.",
+        "@type": "Answer",
+        "description": "Moisture-resistant drywall, also known as 'green board' or mold-resistant drywall, is best for bathrooms to prevent mold and mildew."
+      }
+    }
+  ],
+  "description": "Moisture-resistant drywall, also known as 'green board' or mold-resistant drywall, is best for bathrooms to prevent mold and mildew."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is typical drywall maintenance?",
-  "description": "Typical drywall maintenance includes regular inspections for cracks, holes, and water stains, along with prompt repairs like patching and cleaning to prevent da",
   "url": "https://modernbuilderscali.com/faq/what-is-typical-drywall-maintenance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is typical drywall maintenance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Typical drywall maintenance involves routine inspections for common issues like cracks, holes, and water stains. Addressing these promptly prevents minor damage from escalating. This includes patching small holes with spackle, filling nail pops, and ensuring proper ventilation to avoid moisture accumulation. Regular cleaning with a soft cloth can also help preserve the surface. For more significant damage, such as large cracks or water damage, professional assessment is recommended to determine the best repair method and prevent further structural issues.",
-        "description": "Typical drywall maintenance includes regular inspections for cracks, holes, and water stains, along with prompt repairs like patching and cleaning to prevent damage from escalating."
-      }
-    }
-  ],
+  "name": "What is typical drywall maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is typical drywall maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typical drywall maintenance involves routine inspections for common issues like cracks, holes, and water stains. Addressing these promptly prevents minor damage from escalating. This includes patching small holes with spackle, filling nail pops, and ensuring proper ventilation to avoid moisture accumulation. Regular cleaning with a soft cloth can also help preserve the surface. For more significant damage, such as large cracks or water damage, professional assessment is recommended to determine the best repair method and prevent further structural issues.",
+        "@type": "Answer",
+        "description": "Typical drywall maintenance includes regular inspections for cracks, holes, and water stains, along with prompt repairs like patching and cleaning to prevent damage from escalating."
+      }
+    }
+  ],
+  "description": "Typical drywall maintenance includes regular inspections for cracks, holes, and water stains, along with prompt repairs like patching and cleaning to prevent da"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the benefits of professional gutter installation versus DIY?",
-  "description": "Professional gutter installation ensures proper pitch and secure fastening, crucial for effective drainage, and prevents costly errors common with DIY installat",
   "url": "https://modernbuilderscali.com/faq/what-are-the-benefits-of-professional-gutter-installation-versus-diy",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the benefits of professional gutter installation versus DIY?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional gutter installation ensures proper pitch, secure fastening, and correct downspout placement, which are crucial for effective water drainage and preventing damage to your home's foundation. Professionals have specialized tools and experience to safely and efficiently complete the job, often working with seamless gutter systems that are difficult for DIY installers. While DIY might seem cheaper initially, improper installation can lead to costly repairs down the line due to leaks, water damage, or premature system failure, making professional service a reliable investment.",
-        "description": "Professional gutter installation ensures proper pitch and secure fastening, crucial for effective drainage, and prevents costly errors common with DIY installations."
-      }
-    }
-  ],
+  "name": "What are the benefits of professional gutter installation versus DIY?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of professional gutter installation versus DIY?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional gutter installation ensures proper pitch, secure fastening, and correct downspout placement, which are crucial for effective water drainage and preventing damage to your home's foundation. Professionals have specialized tools and experience to safely and efficiently complete the job, often working with seamless gutter systems that are difficult for DIY installers. While DIY might seem cheaper initially, improper installation can lead to costly repairs down the line due to leaks, water damage, or premature system failure, making professional service a reliable investment.",
+        "@type": "Answer",
+        "description": "Professional gutter installation ensures proper pitch and secure fastening, crucial for effective drainage, and prevents costly errors common with DIY installations."
+      }
+    }
+  ],
+  "description": "Professional gutter installation ensures proper pitch and secure fastening, crucial for effective drainage, and prevents costly errors common with DIY installat"
 }

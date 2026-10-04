@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I call a professional for drywall repair?",
-  "description": "Call a professional for extensive water damage, large holes, sagging drywall, multiple cracks, or damage near electrical/plumbing. They ensure lasting, seamless",
   "url": "https://modernbuilderscali.com/faq/when-should-i-call-a-professional-for-drywall-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I call a professional for drywall repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should call a professional for drywall repair when dealing with extensive water damage, large holes (larger than a fist), sagging drywall, or multiple cracks that suggest structural movement. Professional help is also recommended for damage near electrical outlets or plumbing lines, or if you suspect mold growth. For textured walls, matching the finish can be challenging, making professional intervention beneficial. Experts can accurately diagnose the cause of damage and ensure a lasting, seamless repair that maintains your home's integrity and aesthetic.",
-        "description": "Call a professional for extensive water damage, large holes, sagging drywall, multiple cracks, or damage near electrical/plumbing. They ensure lasting, seamless repairs."
-      }
-    }
-  ],
+  "name": "When should I call a professional for drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for drywall repair when dealing with extensive water damage, large holes (larger than a fist), sagging drywall, or multiple cracks that suggest structural movement. Professional help is also recommended for damage near electrical outlets or plumbing lines, or if you suspect mold growth. For textured walls, matching the finish can be challenging, making professional intervention beneficial. Experts can accurately diagnose the cause of damage and ensure a lasting, seamless repair that maintains your home's integrity and aesthetic.",
+        "@type": "Answer",
+        "description": "Call a professional for extensive water damage, large holes, sagging drywall, multiple cracks, or damage near electrical/plumbing. They ensure lasting, seamless repairs."
+      }
+    }
+  ],
+  "description": "Call a professional for extensive water damage, large holes, sagging drywall, multiple cracks, or damage near electrical/plumbing. They ensure lasting, seamless"
 }

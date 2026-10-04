@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common issues that can occur during drywall installation?",
-  "description": "Common drywall issues include visible seams, nail pops, uneven patches, and cracks, often due to improper mudding, taping, or insufficient drying time.",
   "url": "https://modernbuilderscali.com/faq/what-are-common-issues-that-can-occur-during-drywall-installation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common issues that can occur during drywall installation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common issues during drywall installation include visible seams, nail pops (where screws or nails protrude), uneven or rough patches from improper mudding, and cracking. These problems often stem from insufficient drying time between coats, improper taping, inadequate sanding, or structural movement. Professional installers take measures to prevent these by ensuring proper technique, using quality materials, and allowing sufficient drying.",
-        "description": "Common drywall issues include visible seams, nail pops, uneven patches, and cracks, often due to improper mudding, taping, or insufficient drying time."
-      }
-    }
-  ],
+  "name": "What are common issues that can occur during drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common issues that can occur during drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues during drywall installation include visible seams, nail pops (where screws or nails protrude), uneven or rough patches from improper mudding, and cracking. These problems often stem from insufficient drying time between coats, improper taping, inadequate sanding, or structural movement. Professional installers take measures to prevent these by ensuring proper technique, using quality materials, and allowing sufficient drying.",
+        "@type": "Answer",
+        "description": "Common drywall issues include visible seams, nail pops, uneven patches, and cracks, often due to improper mudding, taping, or insufficient drying time."
+      }
+    }
+  ],
+  "description": "Common drywall issues include visible seams, nail pops, uneven patches, and cracks, often due to improper mudding, taping, or insufficient drying time."
 }

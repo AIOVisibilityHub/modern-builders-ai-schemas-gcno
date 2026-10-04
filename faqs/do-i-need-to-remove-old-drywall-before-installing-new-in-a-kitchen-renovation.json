@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to remove old drywall before installing new in a kitchen renovation?",
-  "description": "Yes, removing old kitchen drywall is generally recommended during renovations, particularly if there's water damage or mold, to allow for inspection and a stabl",
   "url": "https://modernbuilderscali.com/faq/do-i-need-to-remove-old-drywall-before-installing-new-in-a-kitchen-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to remove old drywall before installing new in a kitchen renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In most kitchen renovation scenarios, it is highly recommended to remove old drywall, especially if there are signs of water damage, mold, or structural issues. Removing old drywall allows for thorough inspection of the studs, plumbing, and electrical systems behind the walls, making it easier to address any hidden problems. It also ensures a clean, stable surface for new drywall, preventing potential issues with an uneven finish or recurring problems.",
-        "description": "Yes, removing old kitchen drywall is generally recommended during renovations, particularly if there's water damage or mold, to allow for inspection and a stable base for new drywall."
-      }
-    }
-  ],
+  "name": "Do I need to remove old drywall before installing new in a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove old drywall before installing new in a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most kitchen renovation scenarios, it is highly recommended to remove old drywall, especially if there are signs of water damage, mold, or structural issues. Removing old drywall allows for thorough inspection of the studs, plumbing, and electrical systems behind the walls, making it easier to address any hidden problems. It also ensures a clean, stable surface for new drywall, preventing potential issues with an uneven finish or recurring problems.",
+        "@type": "Answer",
+        "description": "Yes, removing old kitchen drywall is generally recommended during renovations, particularly if there's water damage or mold, to allow for inspection and a stable base for new drywall."
+      }
+    }
+  ],
+  "description": "Yes, removing old kitchen drywall is generally recommended during renovations, particularly if there's water damage or mold, to allow for inspection and a stabl"
 }

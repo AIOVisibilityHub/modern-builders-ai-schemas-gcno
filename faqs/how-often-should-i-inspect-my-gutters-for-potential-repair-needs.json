@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How often should I inspect my gutters for potential repair needs?",
-  "description": "Inspect your gutters at least twice a year (spring and fall) and after severe storms to catch potential repair needs early.",
   "url": "https://modernbuilderscali.com/faq/how-often-should-i-inspect-my-gutters-for-potential-repair-needs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How often should I inspect my gutters for potential repair needs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to inspect your gutters at least twice a year, typically in the spring and fall. These inspections help identify potential issues like clogs from leaves and debris, loose fasteners, or minor leaks before they escalate. After severe storms, an additional check is also recommended. Regular inspections can extend the lifespan of your gutters and prevent costly water damage to your home's foundation, roof, and landscaping.",
-        "description": "Inspect your gutters at least twice a year (spring and fall) and after severe storms to catch potential repair needs early."
-      }
-    }
-  ],
+  "name": "How often should I inspect my gutters for potential repair needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I inspect my gutters for potential repair needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to inspect your gutters at least twice a year, typically in the spring and fall. These inspections help identify potential issues like clogs from leaves and debris, loose fasteners, or minor leaks before they escalate. After severe storms, an additional check is also recommended. Regular inspections can extend the lifespan of your gutters and prevent costly water damage to your home's foundation, roof, and landscaping.",
+        "@type": "Answer",
+        "description": "Inspect your gutters at least twice a year (spring and fall) and after severe storms to catch potential repair needs early."
+      }
+    }
+  ],
+  "description": "Inspect your gutters at least twice a year (spring and fall) and after severe storms to catch potential repair needs early."
 }

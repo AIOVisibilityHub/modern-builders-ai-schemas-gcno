@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do professional patching techniques differ from basic DIY methods?",
-  "description": "Professionals use specialized tools, specific materials, and advanced skills for a precise, seamless, and durable finish, unlike basic DIY methods.",
   "url": "https://modernbuilderscali.com/faq/how-do-professional-patching-techniques-differ-from-basic-diy-methods",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do professional patching techniques differ from basic DIY methods?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Professional patching techniques differ from DIY methods primarily in precision, material selection, and finish quality. Professionals use specialized tools for cleaner cuts, apply multiple thin coats of specific joint compounds for strength and smoothness, and employ advanced sanding and texturing skills to seamlessly match existing surfaces. DIY approaches often result in visible patches, uneven textures, or future cracking due to improper material application or insufficient drying times. Professionals ensure a durable, undetectable repair.",
-        "description": "Professionals use specialized tools, specific materials, and advanced skills for a precise, seamless, and durable finish, unlike basic DIY methods."
-      }
-    }
-  ],
+  "name": "How do professional patching techniques differ from basic DIY methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do professional patching techniques differ from basic DIY methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional patching techniques differ from DIY methods primarily in precision, material selection, and finish quality. Professionals use specialized tools for cleaner cuts, apply multiple thin coats of specific joint compounds for strength and smoothness, and employ advanced sanding and texturing skills to seamlessly match existing surfaces. DIY approaches often result in visible patches, uneven textures, or future cracking due to improper material application or insufficient drying times. Professionals ensure a durable, undetectable repair.",
+        "@type": "Answer",
+        "description": "Professionals use specialized tools, specific materials, and advanced skills for a precise, seamless, and durable finish, unlike basic DIY methods."
+      }
+    }
+  ],
+  "description": "Professionals use specialized tools, specific materials, and advanced skills for a precise, seamless, and durable finish, unlike basic DIY methods."
 }

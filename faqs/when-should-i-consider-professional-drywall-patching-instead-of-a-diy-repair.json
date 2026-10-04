@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider professional drywall patching instead of a DIY repair?",
-  "description": "Consider professional patching for larger damage, water-damaged areas, or if you want a seamless, undetectable finish.",
   "url": "https://modernbuilderscali.com/faq/when-should-i-consider-professional-drywall-patching-instead-of-a-diy-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider professional drywall patching instead of a DIY repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While small, simple holes can sometimes be a DIY project, professional help is recommended for larger damage, water-damaged drywall, or if you desire an undetectable, seamless finish. Professionals have the tools, materials, and expertise to properly match textures, ensure structural integrity, and prevent future cracks or bubbles. Incorrect patching can lead to visible repairs, recurring issues, or even further damage, making professional service a worthwhile investment for quality results.",
-        "description": "Consider professional patching for larger damage, water-damaged areas, or if you want a seamless, undetectable finish."
-      }
-    }
-  ],
+  "name": "When should I consider professional drywall patching instead of a DIY repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional drywall patching instead of a DIY repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While small, simple holes can sometimes be a DIY project, professional help is recommended for larger damage, water-damaged drywall, or if you desire an undetectable, seamless finish. Professionals have the tools, materials, and expertise to properly match textures, ensure structural integrity, and prevent future cracks or bubbles. Incorrect patching can lead to visible repairs, recurring issues, or even further damage, making professional service a worthwhile investment for quality results.",
+        "@type": "Answer",
+        "description": "Consider professional patching for larger damage, water-damaged areas, or if you want a seamless, undetectable finish."
+      }
+    }
+  ],
+  "description": "Consider professional patching for larger damage, water-damaged areas, or if you want a seamless, undetectable finish."
 }

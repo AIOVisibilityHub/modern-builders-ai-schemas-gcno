@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need drywall texture matching?",
-  "description": "Texture matching is needed after drywall repairs, renovations, or additions to blend new surfaces with existing textures.",
   "url": "https://modernbuilderscali.com/faq/when-do-i-need-drywall-texture-matching",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need drywall texture matching?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You typically need drywall texture matching after repairs, renovations, or additions that involve cutting into or altering existing drywall. Common scenarios include patching holes from plumbing or electrical work, repairing water damage, or extending a wall. If a new section of drywall is installed or a damaged area is replaced, matching the texture is crucial for a consistent and finished look, preventing obvious patches.",
-        "description": "Texture matching is needed after drywall repairs, renovations, or additions to blend new surfaces with existing textures."
-      }
-    }
-  ],
+  "name": "When do I need drywall texture matching?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need drywall texture matching?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need drywall texture matching after repairs, renovations, or additions that involve cutting into or altering existing drywall. Common scenarios include patching holes from plumbing or electrical work, repairing water damage, or extending a wall. If a new section of drywall is installed or a damaged area is replaced, matching the texture is crucial for a consistent and finished look, preventing obvious patches.",
+        "@type": "Answer",
+        "description": "Texture matching is needed after drywall repairs, renovations, or additions to blend new surfaces with existing textures."
+      }
+    }
+  ],
+  "description": "Texture matching is needed after drywall repairs, renovations, or additions to blend new surfaces with existing textures."
 }
