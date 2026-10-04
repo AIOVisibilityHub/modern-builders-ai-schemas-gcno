@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for when choosing a ceiling repair contractor?",
-  "description": "Look for licensed, insured contractors with relevant experience, good reviews, and clear communication. Get multiple detailed quotes that cover the scope of wor",
   "url": "https://modernbuilderscali.com/faq/what-should-i-look-for-when-choosing-a-ceiling-repair-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for when choosing a ceiling repair contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a contractor, prioritize experience with your specific type of ceiling damage and material. Look for licensed and insured professionals, and check their references or online reviews. Obtain multiple detailed quotes that outline the scope of work, materials, and timeline. A reputable contractor will also provide a clear communication plan and address any potential underlying issues causing the damage, rather than just patching the surface.",
-        "description": "Look for licensed, insured contractors with relevant experience, good reviews, and clear communication. Get multiple detailed quotes that cover the scope of work and materials."
-      }
-    }
-  ],
+  "name": "What should I look for when choosing a ceiling repair contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a ceiling repair contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor, prioritize experience with your specific type of ceiling damage and material. Look for licensed and insured professionals, and check their references or online reviews. Obtain multiple detailed quotes that outline the scope of work, materials, and timeline. A reputable contractor will also provide a clear communication plan and address any potential underlying issues causing the damage, rather than just patching the surface.",
+        "@type": "Answer",
+        "description": "Look for licensed, insured contractors with relevant experience, good reviews, and clear communication. Get multiple detailed quotes that cover the scope of work and materials."
+      }
+    }
+  ],
+  "description": "Look for licensed, insured contractors with relevant experience, good reviews, and clear communication. Get multiple detailed quotes that cover the scope of wor"
 }

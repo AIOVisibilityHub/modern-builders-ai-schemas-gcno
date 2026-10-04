@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should project planning begin for a new construction project?",
-  "description": "Project planning should begin as early as possible, immediately after the initial project concept is established, to address challenges and define strategies.",
   "url": "https://modernbuilderscali.com/faq/when-should-project-planning-begin-for-a-new-construction-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should project planning begin for a new construction project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Project planning should ideally begin as early as possible, typically immediately after the initial project concept or client brief is established. Engaging in planning during the feasibility and design phases allows for early identification of potential challenges, budget considerations, and regulatory requirements. Starting early ensures that all preliminary decisions are informed by a comprehensive strategy, preventing costly revisions later in the project lifecycle and setting a strong foundation for design and construction phases.",
-        "description": "Project planning should begin as early as possible, immediately after the initial project concept is established, to address challenges and define strategies."
-      }
-    }
-  ],
+  "name": "When should project planning begin for a new construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should project planning begin for a new construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Project planning should ideally begin as early as possible, typically immediately after the initial project concept or client brief is established. Engaging in planning during the feasibility and design phases allows for early identification of potential challenges, budget considerations, and regulatory requirements. Starting early ensures that all preliminary decisions are informed by a comprehensive strategy, preventing costly revisions later in the project lifecycle and setting a strong foundation for design and construction phases.",
+        "@type": "Answer",
+        "description": "Project planning should begin as early as possible, immediately after the initial project concept is established, to address challenges and define strategies."
+      }
+    }
+  ],
+  "description": "Project planning should begin as early as possible, immediately after the initial project concept is established, to address challenges and define strategies."
 }

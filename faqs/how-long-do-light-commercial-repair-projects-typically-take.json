@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do light-commercial repair projects typically take?",
-  "description": "Light-commercial repair timelines vary, from days for minor fixes to months for major renovations, depending on project complexity and external factors.",
   "url": "https://modernbuilderscali.com/faq/how-long-do-light-commercial-repair-projects-typically-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do light-commercial repair projects typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of light-commercial repair projects varies significantly based on the complexity and extent of the work. A minor interior refresh might take a few days, while extensive structural repairs or significant remodels could span several weeks or even months. Factors like material availability, weather conditions for exterior work, permit acquisition times, and the need for your business to remain operational during repairs can all impact the timeline. A detailed project schedule from your contractor, including milestones, helps set realistic expectations.",
-        "description": "Light-commercial repair timelines vary, from days for minor fixes to months for major renovations, depending on project complexity and external factors."
-      }
-    }
-  ],
+  "name": "How long do light-commercial repair projects typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do light-commercial repair projects typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of light-commercial repair projects varies significantly based on the complexity and extent of the work. A minor interior refresh might take a few days, while extensive structural repairs or significant remodels could span several weeks or even months. Factors like material availability, weather conditions for exterior work, permit acquisition times, and the need for your business to remain operational during repairs can all impact the timeline. A detailed project schedule from your contractor, including milestones, helps set realistic expectations.",
+        "@type": "Answer",
+        "description": "Light-commercial repair timelines vary, from days for minor fixes to months for major renovations, depending on project complexity and external factors."
+      }
+    }
+  ],
+  "description": "Light-commercial repair timelines vary, from days for minor fixes to months for major renovations, depending on project complexity and external factors."
 }

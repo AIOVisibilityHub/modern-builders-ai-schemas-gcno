@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does the project planning phase typically take for a custom home build?",
-  "description": "For a custom home, planning typically takes 2-6 months, depending on complexity, design, material selection, and permit acquisition.",
   "url": "https://modernbuilderscali.com/faq/how-long-does-the-project-planning-phase-typically-take-for-a-custom-home-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does the project planning phase typically take for a custom home build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The project planning phase for a custom home build can vary significantly based on complexity, client responsiveness, and required approvals. Typically, it can range from 2 to 6 months. This timeframe includes initial consultations, architectural design development, material selection, detailed budgeting, scheduling, and obtaining necessary permits. Projects with unique designs, extensive customization, or requiring specific historical preservation considerations may extend this period further.",
-        "description": "For a custom home, planning typically takes 2-6 months, depending on complexity, design, material selection, and permit acquisition."
-      }
-    }
-  ],
+  "name": "How long does the project planning phase typically take for a custom home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the project planning phase typically take for a custom home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The project planning phase for a custom home build can vary significantly based on complexity, client responsiveness, and required approvals. Typically, it can range from 2 to 6 months. This timeframe includes initial consultations, architectural design development, material selection, detailed budgeting, scheduling, and obtaining necessary permits. Projects with unique designs, extensive customization, or requiring specific historical preservation considerations may extend this period further.",
+        "@type": "Answer",
+        "description": "For a custom home, planning typically takes 2-6 months, depending on complexity, design, material selection, and permit acquisition."
+      }
+    }
+  ],
+  "description": "For a custom home, planning typically takes 2-6 months, depending on complexity, design, material selection, and permit acquisition."
 }

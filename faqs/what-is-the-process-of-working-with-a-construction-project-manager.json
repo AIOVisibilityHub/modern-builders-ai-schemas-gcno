@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process of working with a construction project manager?",
-  "description": "The process involves initial consultation, planning (design, permits, contractors), construction oversight (scheduling, budget, quality), and project closeout.",
   "url": "https://modernbuilderscali.com/faq/what-is-the-process-of-working-with-a-construction-project-manager",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process of working with a construction project manager?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Working with a construction project manager typically begins with an initial consultation to discuss your project vision, scope, budget, and timeline. Following this, the manager assists with planning, including design review, permit acquisition, and contractor selection. During construction, they oversee daily operations, manage schedules and budgets, conduct quality checks, and handle communications among all parties. The process concludes with final inspections and project closeout, ensuring all deliverables meet your expectations.",
-        "description": "The process involves initial consultation, planning (design, permits, contractors), construction oversight (scheduling, budget, quality), and project closeout."
-      }
-    }
-  ],
+  "name": "What is the process of working with a construction project manager?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of working with a construction project manager?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Working with a construction project manager typically begins with an initial consultation to discuss your project vision, scope, budget, and timeline. Following this, the manager assists with planning, including design review, permit acquisition, and contractor selection. During construction, they oversee daily operations, manage schedules and budgets, conduct quality checks, and handle communications among all parties. The process concludes with final inspections and project closeout, ensuring all deliverables meet your expectations.",
+        "@type": "Answer",
+        "description": "The process involves initial consultation, planning (design, permits, contractors), construction oversight (scheduling, budget, quality), and project closeout."
+      }
+    }
+  ],
+  "description": "The process involves initial consultation, planning (design, permits, contractors), construction oversight (scheduling, budget, quality), and project closeout."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time of year to paint a house exterior in Pasadena?",
-  "description": "Late spring, summer, and early fall are generally the best times for exterior painting in Pasadena due to dry weather and moderate temperatures.",
   "url": "https://modernbuilderscali.com/faq/when-is-the-best-time-of-year-to-paint-a-house-exterior-in-pasadena",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time of year to paint a house exterior in Pasadena?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The ideal time for exterior painting in Pasadena is typically during the late spring, summer, or early fall months. These periods generally offer consistent dry weather, moderate temperatures, and lower humidity, which are crucial for proper paint application and curing. Avoiding the rainy season (winter) prevents delays and potential adhesion issues. Consistent mild conditions ensure the paint dries evenly and adheres well, contributing to a longer-lasting finish.",
-        "description": "Late spring, summer, and early fall are generally the best times for exterior painting in Pasadena due to dry weather and moderate temperatures."
-      }
-    }
-  ],
+  "name": "When is the best time of year to paint a house exterior in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to paint a house exterior in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time for exterior painting in Pasadena is typically during the late spring, summer, or early fall months. These periods generally offer consistent dry weather, moderate temperatures, and lower humidity, which are crucial for proper paint application and curing. Avoiding the rainy season (winter) prevents delays and potential adhesion issues. Consistent mild conditions ensure the paint dries evenly and adheres well, contributing to a longer-lasting finish.",
+        "@type": "Answer",
+        "description": "Late spring, summer, and early fall are generally the best times for exterior painting in Pasadena due to dry weather and moderate temperatures."
+      }
+    }
+  ],
+  "description": "Late spring, summer, and early fall are generally the best times for exterior painting in Pasadena due to dry weather and moderate temperatures."
 }

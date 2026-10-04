@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider repairing versus replacing a damaged part of my home?",
-  "description": "Consider repair for minor, isolated damage. Replace when damage is widespread, recurrent, or the component is at its end of life.",
   "url": "https://modernbuilderscali.com/faq/when-should-i-consider-repairing-versus-replacing-a-damaged-part-of-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider repairing versus replacing a damaged part of my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The decision to repair or replace depends on the extent of the damage, the age of the component, and its overall condition. Minor damage, like a small roof leak or isolated siding issue, is often repairable. However, if the damage is widespread, recurrent, or if the component is near the end of its expected lifespan (e.g., an old roof or HVAC system), replacement might be a more cost-effective and long-term solution. Our experts can help you weigh the costs and benefits of each option.",
-        "description": "Consider repair for minor, isolated damage. Replace when damage is widespread, recurrent, or the component is at its end of life."
-      }
-    }
-  ],
+  "name": "When should I consider repairing versus replacing a damaged part of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing versus replacing a damaged part of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of the damage, the age of the component, and its overall condition. Minor damage, like a small roof leak or isolated siding issue, is often repairable. However, if the damage is widespread, recurrent, or if the component is near the end of its expected lifespan (e.g., an old roof or HVAC system), replacement might be a more cost-effective and long-term solution. Our experts can help you weigh the costs and benefits of each option.",
+        "@type": "Answer",
+        "description": "Consider repair for minor, isolated damage. Replace when damage is widespread, recurrent, or the component is at its end of life."
+      }
+    }
+  ],
+  "description": "Consider repair for minor, isolated damage. Replace when damage is widespread, recurrent, or the component is at its end of life."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between commercial and residential painting?",
-  "description": "Commercial painting involves larger projects, specialized materials, faster timelines, and minimal business disruption compared to residential painting.",
   "url": "https://modernbuilderscali.com/faq/what-is-the-difference-between-commercial-and-residential-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between commercial and residential painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Commercial painting involves larger-scale projects often requiring specialized equipment, durable paints, and adherence to business operational schedules. Unlike residential painting, commercial projects typically demand faster completion times and minimal disruption to business activities. This can include working outside of standard business hours or in phases. The types of surfaces and the need for heavy-duty, long-lasting finishes also differ significantly, often requiring different application techniques and materials to withstand higher traffic and wear.",
-        "description": "Commercial painting involves larger projects, specialized materials, faster timelines, and minimal business disruption compared to residential painting."
-      }
-    }
-  ],
+  "name": "What is the difference between commercial and residential painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between commercial and residential painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial painting involves larger-scale projects often requiring specialized equipment, durable paints, and adherence to business operational schedules. Unlike residential painting, commercial projects typically demand faster completion times and minimal disruption to business activities. This can include working outside of standard business hours or in phases. The types of surfaces and the need for heavy-duty, long-lasting finishes also differ significantly, often requiring different application techniques and materials to withstand higher traffic and wear.",
+        "@type": "Answer",
+        "description": "Commercial painting involves larger projects, specialized materials, faster timelines, and minimal business disruption compared to residential painting."
+      }
+    }
+  ],
+  "description": "Commercial painting involves larger projects, specialized materials, faster timelines, and minimal business disruption compared to residential painting."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a paint color consultation help with exterior colors?",
-  "description": "Yes, consultations help with exterior colors by considering architectural style, landscaping, fixed elements, and the neighborhood to boost curb appeal.",
   "url": "https://modernbuilderscali.com/faq/can-a-paint-color-consultation-help-with-exterior-colors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a paint color consultation help with exterior colors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a paint color consultation is highly beneficial for exterior colors. Our consultants consider factors like your home's architectural style, landscaping, fixed elements (e.g., roof, stone accents), and the surrounding neighborhood. They help you choose colors that enhance curb appeal, complement your home's design, and withstand local environmental conditions.",
-        "description": "Yes, consultations help with exterior colors by considering architectural style, landscaping, fixed elements, and the neighborhood to boost curb appeal."
-      }
-    }
-  ],
+  "name": "Can a paint color consultation help with exterior colors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a paint color consultation help with exterior colors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a paint color consultation is highly beneficial for exterior colors. Our consultants consider factors like your home's architectural style, landscaping, fixed elements (e.g., roof, stone accents), and the surrounding neighborhood. They help you choose colors that enhance curb appeal, complement your home's design, and withstand local environmental conditions.",
+        "@type": "Answer",
+        "description": "Yes, consultations help with exterior colors by considering architectural style, landscaping, fixed elements, and the neighborhood to boost curb appeal."
+      }
+    }
+  ],
+  "description": "Yes, consultations help with exterior colors by considering architectural style, landscaping, fixed elements, and the neighborhood to boost curb appeal."
 }

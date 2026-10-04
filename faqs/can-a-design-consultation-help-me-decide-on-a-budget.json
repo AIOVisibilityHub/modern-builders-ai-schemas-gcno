@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a design consultation help me decide on a budget?",
-  "description": "Yes, a design consultation helps establish or refine your budget by discussing material costs, labor estimates, and project complexities to provide realistic co",
   "url": "https://modernbuilderscali.com/faq/can-a-design-consultation-help-me-decide-on-a-budget",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a design consultation help me decide on a budget?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a design consultation can significantly help in establishing or refining your project budget. During the consultation, we discuss potential material costs, labor estimates, and project complexities that impact overall expenses. While we don't provide a final quote in this initial phase, we offer realistic cost expectations based on similar projects and your specific requirements. This insight empowers you to make informed decisions and align your vision with a feasible financial plan before committing to extensive design or construction work.",
-        "description": "Yes, a design consultation helps establish or refine your budget by discussing material costs, labor estimates, and project complexities to provide realistic cost expectations."
-      }
-    }
-  ],
+  "name": "Can a design consultation help me decide on a budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a design consultation help me decide on a budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a design consultation can significantly help in establishing or refining your project budget. During the consultation, we discuss potential material costs, labor estimates, and project complexities that impact overall expenses. While we don't provide a final quote in this initial phase, we offer realistic cost expectations based on similar projects and your specific requirements. This insight empowers you to make informed decisions and align your vision with a feasible financial plan before committing to extensive design or construction work.",
+        "@type": "Answer",
+        "description": "Yes, a design consultation helps establish or refine your budget by discussing material costs, labor estimates, and project complexities to provide realistic cost expectations."
+      }
+    }
+  ],
+  "description": "Yes, a design consultation helps establish or refine your budget by discussing material costs, labor estimates, and project complexities to provide realistic co"
 }

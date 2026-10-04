@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What qualifications should I look for in a construction project manager?",
-  "description": "Look for a proven track record, relevant certifications (like PMP), strong communication skills, expertise in budgeting and scheduling, and knowledge of local b",
   "url": "https://modernbuilderscali.com/faq/what-qualifications-should-i-look-for-in-a-construction-project-manager",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What qualifications should I look for in a construction project manager?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a construction project manager, look for a proven track record in similar projects, relevant certifications such as PMP (Project Management Professional) or equivalent experience, and strong communication skills. Essential qualities also include expertise in budgeting, scheduling, risk management, and knowledge of local building codes, especially crucial for projects in areas like Pasadena. Professional references and a portfolio of completed projects can provide insight into their capabilities and reliability.",
-        "description": "Look for a proven track record, relevant certifications (like PMP), strong communication skills, expertise in budgeting and scheduling, and knowledge of local building codes."
-      }
-    }
-  ],
+  "name": "What qualifications should I look for in a construction project manager?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifications should I look for in a construction project manager?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a construction project manager, look for a proven track record in similar projects, relevant certifications such as PMP (Project Management Professional) or equivalent experience, and strong communication skills. Essential qualities also include expertise in budgeting, scheduling, risk management, and knowledge of local building codes, especially crucial for projects in areas like Pasadena. Professional references and a portfolio of completed projects can provide insight into their capabilities and reliability.",
+        "@type": "Answer",
+        "description": "Look for a proven track record, relevant certifications (like PMP), strong communication skills, expertise in budgeting and scheduling, and knowledge of local building codes."
+      }
+    }
+  ],
+  "description": "Look for a proven track record, relevant certifications (like PMP), strong communication skills, expertise in budgeting and scheduling, and knowledge of local b"
 }

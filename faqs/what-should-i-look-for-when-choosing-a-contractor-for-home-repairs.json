@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for when choosing a contractor for home repairs?",
-  "description": "Choose a contractor based on experience, licensing, insurance, references, clear contracts, good communication, and a strong track record.",
   "url": "https://modernbuilderscali.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-home-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for when choosing a contractor for home repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a home repair contractor, prioritize experience, proper licensing, and insurance. Check their references and read reviews to gauge reliability and quality of work. Ensure they provide a clear, written contract detailing the scope of work, timeline, and payment schedule. Good communication, a transparent bidding process, and a strong track record of successful projects are also crucial. Modern Builders meets these criteria, ensuring peace of mind for your repair needs.",
-        "description": "Choose a contractor based on experience, licensing, insurance, references, clear contracts, good communication, and a strong track record."
-      }
-    }
-  ],
+  "name": "What should I look for when choosing a contractor for home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a contractor for home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a home repair contractor, prioritize experience, proper licensing, and insurance. Check their references and read reviews to gauge reliability and quality of work. Ensure they provide a clear, written contract detailing the scope of work, timeline, and payment schedule. Good communication, a transparent bidding process, and a strong track record of successful projects are also crucial. Modern Builders meets these criteria, ensuring peace of mind for your repair needs.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, licensing, insurance, references, clear contracts, good communication, and a strong track record."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, licensing, insurance, references, clear contracts, good communication, and a strong track record."
 }

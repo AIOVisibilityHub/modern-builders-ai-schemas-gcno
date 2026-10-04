@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I hire a light-commercial restoration company?",
-  "description": "Hire a light-commercial restoration company immediately after damage occurs to mitigate further issues, assess the extent of loss, and begin the repair process",
   "url": "https://modernbuilderscali.com/faq/when-should-i-hire-a-light-commercial-restoration-company",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I hire a light-commercial restoration company?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should hire a light-commercial restoration company as soon as possible after your commercial property sustains damage from events like water leaks, fires, storms, or mold. Prompt action helps mitigate further damage, prevents secondary issues like mold growth, and can streamline the insurance claim process. Early engagement ensures a professional assessment of the damage and a timely start to the restoration work, minimizing business interruption and preventing costly long-term problems.",
-        "description": "Hire a light-commercial restoration company immediately after damage occurs to mitigate further issues, assess the extent of loss, and begin the repair process efficiently."
-      }
-    }
-  ],
+  "name": "When should I hire a light-commercial restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a light-commercial restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a light-commercial restoration company as soon as possible after your commercial property sustains damage from events like water leaks, fires, storms, or mold. Prompt action helps mitigate further damage, prevents secondary issues like mold growth, and can streamline the insurance claim process. Early engagement ensures a professional assessment of the damage and a timely start to the restoration work, minimizing business interruption and preventing costly long-term problems.",
+        "@type": "Answer",
+        "description": "Hire a light-commercial restoration company immediately after damage occurs to mitigate further issues, assess the extent of loss, and begin the repair process efficiently."
+      }
+    }
+  ],
+  "description": "Hire a light-commercial restoration company immediately after damage occurs to mitigate further issues, assess the extent of loss, and begin the repair process"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for repairing a large hole in a drywall?",
-  "description": "Repairing a large drywall hole involves cutting out the damage, fitting a new patch, applying and sanding multiple coats of joint compound, then priming for pai",
   "url": "https://modernbuilderscali.com/faq/what-is-the-process-for-repairing-a-large-hole-in-a-drywall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for repairing a large hole in a drywall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a large hole in drywall, the process typically involves several steps. First, the damaged area is cut out into a clean square or rectangle. A new piece of drywall, cut to fit, is then secured to furring strips or existing studs behind the opening. Joint compound (mud) is applied over the seams and screws, feathered out smoothly, and allowed to dry. Multiple thin coats, with sanding between each, ensure a seamless finish. Finally, the repaired area is primed and ready for painting.",
-        "description": "Repairing a large drywall hole involves cutting out the damage, fitting a new patch, applying and sanding multiple coats of joint compound, then priming for paint."
-      }
-    }
-  ],
+  "name": "What is the process for repairing a large hole in a drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a large hole in a drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a large hole in drywall, the process typically involves several steps. First, the damaged area is cut out into a clean square or rectangle. A new piece of drywall, cut to fit, is then secured to furring strips or existing studs behind the opening. Joint compound (mud) is applied over the seams and screws, feathered out smoothly, and allowed to dry. Multiple thin coats, with sanding between each, ensure a seamless finish. Finally, the repaired area is primed and ready for painting.",
+        "@type": "Answer",
+        "description": "Repairing a large drywall hole involves cutting out the damage, fitting a new patch, applying and sanding multiple coats of joint compound, then priming for paint."
+      }
+    }
+  ],
+  "description": "Repairing a large drywall hole involves cutting out the damage, fitting a new patch, applying and sanding multiple coats of joint compound, then priming for pai"
 }

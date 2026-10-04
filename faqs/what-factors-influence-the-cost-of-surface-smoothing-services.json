@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors influence the cost of surface smoothing services?",
-  "description": "Cost factors include area size, surface condition, material type, chosen method, desired finish level, and necessary preparation work.",
   "url": "https://modernbuilderscali.com/faq/what-factors-influence-the-cost-of-surface-smoothing-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors influence the cost of surface smoothing services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of surface smoothing services is influenced by several factors. These include the total square footage of the area to be smoothed, the current condition of the surface (e.g., heavily damaged vs. slightly uneven), the type of material (concrete, plaster, drywall), the specific smoothing method required, and the desired level of finish. Accessibility of the area and any necessary surface preparation work, such as cleaning or repairs, will also impact the overall price.",
-        "description": "Cost factors include area size, surface condition, material type, chosen method, desired finish level, and necessary preparation work."
-      }
-    }
-  ],
+  "name": "What factors influence the cost of surface smoothing services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of surface smoothing services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of surface smoothing services is influenced by several factors. These include the total square footage of the area to be smoothed, the current condition of the surface (e.g., heavily damaged vs. slightly uneven), the type of material (concrete, plaster, drywall), the specific smoothing method required, and the desired level of finish. Accessibility of the area and any necessary surface preparation work, such as cleaning or repairs, will also impact the overall price.",
+        "@type": "Answer",
+        "description": "Cost factors include area size, surface condition, material type, chosen method, desired finish level, and necessary preparation work."
+      }
+    }
+  ],
+  "description": "Cost factors include area size, surface condition, material type, chosen method, desired finish level, and necessary preparation work."
 }

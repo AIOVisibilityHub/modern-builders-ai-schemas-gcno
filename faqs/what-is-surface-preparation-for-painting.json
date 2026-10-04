@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is surface preparation for painting?",
-  "description": "Surface preparation is the essential first step before painting, involving cleaning, repairing, and priming to ensure paint adhesion and a long-lasting, quality",
   "url": "https://modernbuilderscali.com/faq/what-is-surface-preparation-for-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is surface preparation for painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Surface preparation is the critical initial phase before applying any paint. It involves cleaning, repairing, and priming the surface to ensure proper adhesion and a durable finish. This can include washing, sanding, scraping loose paint, filling holes or cracks, and applying a suitable primer. Proper preparation prevents issues like peeling, blistering, and uneven finishes, extending the lifespan and appearance of your paint job.",
-        "description": "Surface preparation is the essential first step before painting, involving cleaning, repairing, and priming to ensure paint adhesion and a long-lasting, quality finish."
-      }
-    }
-  ],
+  "name": "What is surface preparation for painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is surface preparation for painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surface preparation is the critical initial phase before applying any paint. It involves cleaning, repairing, and priming the surface to ensure proper adhesion and a durable finish. This can include washing, sanding, scraping loose paint, filling holes or cracks, and applying a suitable primer. Proper preparation prevents issues like peeling, blistering, and uneven finishes, extending the lifespan and appearance of your paint job.",
+        "@type": "Answer",
+        "description": "Surface preparation is the essential first step before painting, involving cleaning, repairing, and priming to ensure paint adhesion and a long-lasting, quality finish."
+      }
+    }
+  ],
+  "description": "Surface preparation is the essential first step before painting, involving cleaning, repairing, and priming to ensure paint adhesion and a long-lasting, quality"
 }
