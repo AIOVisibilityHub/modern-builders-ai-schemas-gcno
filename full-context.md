@@ -1,7 +1,7 @@
 # Modern Builders — Full AI Context
 
 **Canonical URL:** https://modernbuilders.aiovisibility.net
-**Generated:** 2026-09-05
+**Generated:** 2026-10-04
 
 ## Overview
 Modern Builders publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
