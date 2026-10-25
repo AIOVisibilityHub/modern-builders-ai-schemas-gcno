@@ -1,10 +1,7 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Modern Builders",
   "url": "https://modernbuilderscali.com",
-  "description": "Quality Construction, Restoration, and Property Protection for Pasadena and Southern California\n\nModern Builders is a licensed California contractor based in Pasadena, serving homeowners, property managers, and light-commercial property owners throughout Southern California. Led by CEO Bryan Peralta, a contractor with more than 25 years of industry experience, Modern Builders delivers high-quality repair, restoration, installation, and improvement services designed to protect the appearance, performance, and long-term value of every property.\n\nSince 2017, Modern Builders has built its business around a straightforward standard: provide dependable workmanship, solve problems correctly, communicate clearly, and treat every customer’s home or building with care. Whether a client needs a minor repair, a targeted restoration, or a larger improvement project, the team brings practical field experience, detailed project planning, and a commitment to lasting results.\n\nModern Builders specializes in the systems that protect a property from the outside in. From damaged stucco and water intrusion to roofing concerns, cracked drywall, worn paint, and deteriorating exterior finishes, the company helps clients identify the cause of the issue—not simply cover up the visible symptom. The goal is to provide a solution that improves curb appeal, protects structural components, reduces future maintenance concerns, and gives property owners confidence in their investment.\n\nServices Built Around Your Property\nModern Builders provides a broad range of residential and light-commercial contracting services, including:\n\nStucco repair, crack repair, patching, resurfacing, and restucco work\n\nStucco remediation and exterior restoration\n\nWaterproofing and moisture-intrusion solutions\n\nBuilding-envelope repair and protection\n\nResidential roofing services and roofing-project coordination\n\nDrywall installation, drywall repair, texture matching, and finishing\n\nInterior and exterior painting\n\nExterior coatings and surface protection\n\nResidential remodeling, repairs, and property improvements\n\nLight-commercial repair, maintenance, and restoration projects\n\nEvery property is different. Modern Builders evaluates each project based on the condition of the structure, the visible damage, the likely source of the problem, the owner’s goals, and the best path toward a durable repair. That problem-solving mindset helps clients make informed decisions instead of investing in temporary fixes that may fail over time.\n\nMore Than Cosmetic Repairs\nA crack in stucco, a stain on a ceiling, peeling paint, or deteriorating exterior finishes can be a sign of a deeper issue. Water intrusion, roofing failures, compromised coatings, movement in the building structure, damaged drywall, and aging materials can all affect the condition and value of a property.\n\nModern Builders takes a detail-oriented approach to repair and restoration. The team works to understand what is happening beneath the surface, explain the available options, and recommend a solution that aligns with the property’s needs and the customer’s budget. When appropriate, that may include focused repairs; for more extensive concerns, it may involve remediation, waterproofing, resurfacing, or coordinated restoration work.\n\nThis approach is especially valuable for property owners who want a contractor that can address both the visible finish and the underlying conditions affecting the building.\n\nWhy Clients Choose Modern Builders\nChoosing a contractor is about more than hiring someone to complete a task. Property owners need a team they can trust to show up, communicate honestly, protect the jobsite, respect the property, and stand behind the quality of its work.\n\nModern Builders is built around those expectations.\n\n25+ years of construction experience: Bryan Peralta brings decades of hands-on knowledge in repairs, installations, restoration, and property improvement.\n\nLicensed California contractor: Clients work with an established contractor committed to professional standards and quality execution.\n\nPasadena-based, Southern California focused: The company understands the materials, climate conditions, property types, and exterior-maintenance challenges common throughout the region.\n\nResidential and light-commercial capability: Modern Builders works with homeowners, landlords, property managers, and business owners.\n\nA practical, solution-first process: The company focuses on identifying the problem, presenting clear options, and completing work with long-term performance in mind.\n\nRecognized industry affiliations: Modern Builders is a GAF Preferred Contractor, Parex USA Preferred Contractor, and Sherwin-Williams Paint Partner.\n\nCustomer-focused service: The company’s 5-star Yelp reviews reflect its emphasis on reliability, craftsmanship, professionalism, work ethic, and customer satisfaction.\n\nA Better Experience From Start to Finish\nModern Builders believes a successful project starts with listening. The team begins by understanding the property owner’s concerns, assessing the project requirements, and discussing the condition of the affected area. Clients receive straightforward communication about the recommended scope of work, expected outcomes, and the steps involved in completing the project.\n\nThroughout the job, Modern Builders aims to keep communication clear, maintain an organized work area, and deliver work that meets the company’s standards for quality and durability. The team understands that construction work can disrupt daily life or business operations, which is why professionalism, planning, and respect for the customer’s time and property remain central to every project.\n\nProtect Your Property With Modern Builders\nYour home or commercial property is a major investment. Whether you are dealing with cracked stucco, signs of water damage, an aging roof, damaged drywall, failing paint, or a larger restoration need, Modern Builders is ready to help you move forward with clarity and confidence.\n\nFrom the first assessment through final completion, Modern Builders delivers experienced guidance, quality craftsmanship, and practical solutions designed to protect your property for years to come.\n\nContact Modern Builders today to schedule a consultation and discuss your residential or light-commercial construction, restoration, repair, waterproofing, stucco, roofing, drywall, or painting project.",
-  "telephone": "(626) 737-0053",
+  "name": "Modern Builders",
+  "@type": "Organization",
   "sameAs": [
     "https://aiovisibility.net/profiles/modern-builders-cali",
     "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
@@ -46,1305 +43,1308 @@
     "https://aiovisibilityhub-modern-builders-ai-schemas.static.hf.space/index.html",
     "https://modern-builders-ai-schemas-cqme-3cba18.gitlab.io/"
   ],
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Old Town Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "East Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "Bungalow Heaven"
-    },
-    {
-      "@type": "City",
-      "name": "Oak Knoll"
-    },
-    {
-      "@type": "City",
-      "name": "Madison Heights"
-    },
-    {
-      "@type": "City",
-      "name": "Lamanda Park"
-    },
-    {
-      "@type": "City",
-      "name": "East Washington Village"
-    },
-    {
-      "@type": "City",
-      "name": "Linda Vista"
-    },
-    {
-      "@type": "City",
-      "name": "South Arroyo"
-    },
-    {
-      "@type": "City",
-      "name": "Lower Arroyo Seco"
-    },
-    {
-      "@type": "City",
-      "name": "San Rafael"
-    },
-    {
-      "@type": "City",
-      "name": "Orange Grove Boulevard"
-    },
-    {
-      "@type": "City",
-      "name": "Historic Highlands"
-    },
-    {
-      "@type": "City",
-      "name": "Washington Square"
-    },
-    {
-      "@type": "City",
-      "name": "Hastings Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Chapman Woods"
-    },
-    {
-      "@type": "City",
-      "name": "North Pasadena Heights"
-    },
-    {
-      "@type": "City",
-      "name": "Victory Park"
-    },
-    {
-      "@type": "City",
-      "name": "Annandale"
-    },
-    {
-      "@type": "City",
-      "name": "Brigden Ranch"
-    },
-    {
-      "@type": "City",
-      "name": "Casa Grande"
-    },
-    {
-      "@type": "City",
-      "name": "South Pasadena"
-    },
-    {
-      "@type": "City",
-      "name": "San Marino"
-    },
-    {
-      "@type": "City",
-      "name": "Altadena"
-    },
-    {
-      "@type": "City",
-      "name": "West Altadena"
-    },
-    {
-      "@type": "City",
-      "name": "East Altadena"
-    },
-    {
-      "@type": "City",
-      "name": "The Meadows"
-    },
-    {
-      "@type": "City",
-      "name": "Sierra Madre"
-    },
-    {
-      "@type": "City",
-      "name": "Sierra Madre Canyon"
-    },
-    {
-      "@type": "City",
-      "name": "Arcadia"
-    },
-    {
-      "@type": "City",
-      "name": "North Arcadia"
-    },
-    {
-      "@type": "City",
-      "name": "Santa Anita"
-    },
-    {
-      "@type": "City",
-      "name": "Monrovia"
-    },
-    {
-      "@type": "City",
-      "name": "North Monrovia"
-    },
-    {
-      "@type": "City",
-      "name": "Mayflower Village"
-    },
-    {
-      "@type": "City",
-      "name": "Duarte"
-    },
-    {
-      "@type": "City",
-      "name": "Bradbury"
-    },
-    {
-      "@type": "City",
-      "name": "Temple City"
-    },
-    {
-      "@type": "City",
-      "name": "El Monte"
-    },
-    {
-      "@type": "City",
-      "name": "North El Monte"
-    },
-    {
-      "@type": "City",
-      "name": "San Gabriel"
-    },
-    {
-      "@type": "City",
-      "name": "East San Gabriel"
-    },
-    {
-      "@type": "City",
-      "name": "Rosemead"
-    },
-    {
-      "@type": "City",
-      "name": "South San Gabriel"
-    },
-    {
-      "@type": "City",
-      "name": "Alhambra"
-    },
-    {
-      "@type": "City",
-      "name": "Emery Park"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Chevy Chase Canyon"
-    },
-    {
-      "@type": "City",
-      "name": "Adams Hill"
-    },
-    {
-      "@type": "City",
-      "name": "Verdugo Woodlands"
-    },
-    {
-      "@type": "City",
-      "name": "Rossmoyne"
-    },
-    {
-      "@type": "City",
-      "name": "Montrose"
-    },
-    {
-      "@type": "City",
-      "name": "La Crescenta"
-    },
-    {
-      "@type": "City",
-      "name": "Burbank"
-    },
-    {
-      "@type": "City",
-      "name": "Magnolia Park"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho District"
-    },
-    {
-      "@type": "City",
-      "name": "Media District"
-    },
-    {
-      "@type": "City",
-      "name": "La Cañada Flintridge"
-    },
-    {
-      "@type": "City",
-      "name": "Sagebrush"
-    },
-    {
-      "@type": "City",
-      "name": "Glenola Park"
-    },
-    {
-      "@type": "City",
-      "name": "Eagle Rock"
-    },
-    {
-      "@type": "City",
-      "name": "Highland Park"
-    },
-    {
-      "@type": "City",
-      "name": "Montecito Heights"
-    },
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Downtown Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Chinatown"
-    },
-    {
-      "@type": "City",
-      "name": "Little Tokyo"
-    },
-    {
-      "@type": "City",
-      "name": "Arts District"
-    },
-    {
-      "@type": "City",
-      "name": "Echo Park"
-    },
-    {
-      "@type": "City",
-      "name": "Silver Lake"
-    },
-    {
-      "@type": "City",
-      "name": "Westlake"
-    },
-    {
-      "@type": "City",
-      "name": "MacArthur Park"
-    },
-    {
-      "@type": "City",
-      "name": "Koreatown"
-    },
-    {
-      "@type": "City",
-      "name": "Hollywood"
-    },
-    {
-      "@type": "City",
-      "name": "Culver City"
-    },
-    {
-      "@type": "City",
-      "name": "Whittier"
-    },
-    {
-      "@type": "City",
-      "name": "La Puente"
-    },
-    {
-      "@type": "City",
-      "name": "Walnut"
-    },
-    {
-      "@type": "City",
-      "name": "Pomona"
-    },
-    {
-      "@type": "City",
-      "name": "Azusa"
-    },
-    {
-      "@type": "City",
-      "name": "Covina"
-    },
-    {
-      "@type": "City",
-      "name": "West Covina"
-    },
-    {
-      "@type": "City",
-      "name": "Baldwin Park"
-    },
-    {
-      "@type": "City",
-      "name": "Glendora"
-    },
-    {
-      "@type": "City",
-      "name": "La Verne"
-    },
-    {
-      "@type": "City",
-      "name": "Claremont"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Cucamonga"
-    },
-    {
-      "@type": "City",
-      "name": "Ontario"
-    },
-    {
-      "@type": "City",
-      "name": "Upland"
-    },
-    {
-      "@type": "City",
-      "name": "Chino Hills"
-    },
-    {
-      "@type": "City",
-      "name": "Diamond Bar"
-    },
-    {
-      "@type": "City",
-      "name": "Long Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Riverside"
-    },
-    {
-      "@type": "City",
-      "name": "Fontana"
-    },
-    {
-      "@type": "City",
-      "name": "Victorville"
-    },
-    {
-      "@type": "City",
-      "name": "Hesperia"
-    },
-    {
-      "@type": "City",
-      "name": "Apple Valley"
-    }
-  ],
+  "@context": "https://schema.org",
   "employee": [
     {
-      "@type": "Person",
       "name": "Bryan Peralta",
+      "@type": "Person",
       "jobTitle": "Team Member"
     }
   ],
+  "telephone": "(626) 737-0053",
+  "areaServed": [
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Old Town Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "East Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Bungalow Heaven",
+      "@type": "City"
+    },
+    {
+      "name": "Oak Knoll",
+      "@type": "City"
+    },
+    {
+      "name": "Madison Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Lamanda Park",
+      "@type": "City"
+    },
+    {
+      "name": "East Washington Village",
+      "@type": "City"
+    },
+    {
+      "name": "Linda Vista",
+      "@type": "City"
+    },
+    {
+      "name": "South Arroyo",
+      "@type": "City"
+    },
+    {
+      "name": "Lower Arroyo Seco",
+      "@type": "City"
+    },
+    {
+      "name": "San Rafael",
+      "@type": "City"
+    },
+    {
+      "name": "Orange Grove Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Historic Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Washington Square",
+      "@type": "City"
+    },
+    {
+      "name": "Hastings Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Chapman Woods",
+      "@type": "City"
+    },
+    {
+      "name": "North Pasadena Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Victory Park",
+      "@type": "City"
+    },
+    {
+      "name": "Annandale",
+      "@type": "City"
+    },
+    {
+      "name": "Brigden Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Casa Grande",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "Altadena",
+      "@type": "City"
+    },
+    {
+      "name": "West Altadena",
+      "@type": "City"
+    },
+    {
+      "name": "East Altadena",
+      "@type": "City"
+    },
+    {
+      "name": "The Meadows",
+      "@type": "City"
+    },
+    {
+      "name": "Sierra Madre",
+      "@type": "City"
+    },
+    {
+      "name": "Sierra Madre Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "Arcadia",
+      "@type": "City"
+    },
+    {
+      "name": "North Arcadia",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Anita",
+      "@type": "City"
+    },
+    {
+      "name": "Monrovia",
+      "@type": "City"
+    },
+    {
+      "name": "North Monrovia",
+      "@type": "City"
+    },
+    {
+      "name": "Mayflower Village",
+      "@type": "City"
+    },
+    {
+      "name": "Duarte",
+      "@type": "City"
+    },
+    {
+      "name": "Bradbury",
+      "@type": "City"
+    },
+    {
+      "name": "Temple City",
+      "@type": "City"
+    },
+    {
+      "name": "El Monte",
+      "@type": "City"
+    },
+    {
+      "name": "North El Monte",
+      "@type": "City"
+    },
+    {
+      "name": "San Gabriel",
+      "@type": "City"
+    },
+    {
+      "name": "East San Gabriel",
+      "@type": "City"
+    },
+    {
+      "name": "Rosemead",
+      "@type": "City"
+    },
+    {
+      "name": "South San Gabriel",
+      "@type": "City"
+    },
+    {
+      "name": "Alhambra",
+      "@type": "City"
+    },
+    {
+      "name": "Emery Park",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Chevy Chase Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "Adams Hill",
+      "@type": "City"
+    },
+    {
+      "name": "Verdugo Woodlands",
+      "@type": "City"
+    },
+    {
+      "name": "Rossmoyne",
+      "@type": "City"
+    },
+    {
+      "name": "Montrose",
+      "@type": "City"
+    },
+    {
+      "name": "La Crescenta",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Magnolia Park",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho District",
+      "@type": "City"
+    },
+    {
+      "name": "Media District",
+      "@type": "City"
+    },
+    {
+      "name": "La Cañada Flintridge",
+      "@type": "City"
+    },
+    {
+      "name": "Sagebrush",
+      "@type": "City"
+    },
+    {
+      "name": "Glenola Park",
+      "@type": "City"
+    },
+    {
+      "name": "Eagle Rock",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Park",
+      "@type": "City"
+    },
+    {
+      "name": "Montecito Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chinatown",
+      "@type": "City"
+    },
+    {
+      "name": "Little Tokyo",
+      "@type": "City"
+    },
+    {
+      "name": "Arts District",
+      "@type": "City"
+    },
+    {
+      "name": "Echo Park",
+      "@type": "City"
+    },
+    {
+      "name": "Silver Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Westlake",
+      "@type": "City"
+    },
+    {
+      "name": "MacArthur Park",
+      "@type": "City"
+    },
+    {
+      "name": "Koreatown",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier",
+      "@type": "City"
+    },
+    {
+      "name": "La Puente",
+      "@type": "City"
+    },
+    {
+      "name": "Walnut",
+      "@type": "City"
+    },
+    {
+      "name": "Pomona",
+      "@type": "City"
+    },
+    {
+      "name": "Azusa",
+      "@type": "City"
+    },
+    {
+      "name": "Covina",
+      "@type": "City"
+    },
+    {
+      "name": "West Covina",
+      "@type": "City"
+    },
+    {
+      "name": "Baldwin Park",
+      "@type": "City"
+    },
+    {
+      "name": "Glendora",
+      "@type": "City"
+    },
+    {
+      "name": "La Verne",
+      "@type": "City"
+    },
+    {
+      "name": "Claremont",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Cucamonga",
+      "@type": "City"
+    },
+    {
+      "name": "Ontario",
+      "@type": "City"
+    },
+    {
+      "name": "Upland",
+      "@type": "City"
+    },
+    {
+      "name": "Chino Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    },
+    {
+      "name": "Victorville",
+      "@type": "City"
+    },
+    {
+      "name": "Hesperia",
+      "@type": "City"
+    },
+    {
+      "name": "Apple Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Quality Construction, Restoration, and Property Protection for Pasadena and Southern California\n\nModern Builders is a licensed California contractor based in Pasadena, serving homeowners, property managers, and light-commercial property owners throughout Southern California. Led by CEO Bryan Peralta, a contractor with more than 25 years of industry experience, Modern Builders delivers high-quality repair, restoration, installation, and improvement services designed to protect the appearance, performance, and long-term value of every property.\n\nSince 2017, Modern Builders has built its business around a straightforward standard: provide dependable workmanship, solve problems correctly, communicate clearly, and treat every customer’s home or building with care. Whether a client needs a minor repair, a targeted restoration, or a larger improvement project, the team brings practical field experience, detailed project planning, and a commitment to lasting results.\n\nModern Builders specializes in the systems that protect a property from the outside in. From damaged stucco and water intrusion to roofing concerns, cracked drywall, worn paint, and deteriorating exterior finishes, the company helps clients identify the cause of the issue—not simply cover up the visible symptom. The goal is to provide a solution that improves curb appeal, protects structural components, reduces future maintenance concerns, and gives property owners confidence in their investment.\n\nServices Built Around Your Property\nModern Builders provides a broad range of residential and light-commercial contracting services, including:\n\nStucco repair, crack repair, patching, resurfacing, and restucco work\n\nStucco remediation and exterior restoration\n\nWaterproofing and moisture-intrusion solutions\n\nBuilding-envelope repair and protection\n\nResidential roofing services and roofing-project coordination\n\nDrywall installation, drywall repair, texture matching, and finishing\n\nInterior and exterior painting\n\nExterior coatings and surface protection\n\nResidential remodeling, repairs, and property improvements\n\nLight-commercial repair, maintenance, and restoration projects\n\nEvery property is different. Modern Builders evaluates each project based on the condition of the structure, the visible damage, the likely source of the problem, the owner’s goals, and the best path toward a durable repair. That problem-solving mindset helps clients make informed decisions instead of investing in temporary fixes that may fail over time.\n\nMore Than Cosmetic Repairs\nA crack in stucco, a stain on a ceiling, peeling paint, or deteriorating exterior finishes can be a sign of a deeper issue. Water intrusion, roofing failures, compromised coatings, movement in the building structure, damaged drywall, and aging materials can all affect the condition and value of a property.\n\nModern Builders takes a detail-oriented approach to repair and restoration. The team works to understand what is happening beneath the surface, explain the available options, and recommend a solution that aligns with the property’s needs and the customer’s budget. When appropriate, that may include focused repairs; for more extensive concerns, it may involve remediation, waterproofing, resurfacing, or coordinated restoration work.\n\nThis approach is especially valuable for property owners who want a contractor that can address both the visible finish and the underlying conditions affecting the building.\n\nWhy Clients Choose Modern Builders\nChoosing a contractor is about more than hiring someone to complete a task. Property owners need a team they can trust to show up, communicate honestly, protect the jobsite, respect the property, and stand behind the quality of its work.\n\nModern Builders is built around those expectations.\n\n25+ years of construction experience: Bryan Peralta brings decades of hands-on knowledge in repairs, installations, restoration, and property improvement.\n\nLicensed California contractor: Clients work with an established contractor committed to professional standards and quality execution.\n\nPasadena-based, Southern California focused: The company understands the materials, climate conditions, property types, and exterior-maintenance challenges common throughout the region.\n\nResidential and light-commercial capability: Modern Builders works with homeowners, landlords, property managers, and business owners.\n\nA practical, solution-first process: The company focuses on identifying the problem, presenting clear options, and completing work with long-term performance in mind.\n\nRecognized industry affiliations: Modern Builders is a GAF Preferred Contractor, Parex USA Preferred Contractor, and Sherwin-Williams Paint Partner.\n\nCustomer-focused service: The company’s 5-star Yelp reviews reflect its emphasis on reliability, craftsmanship, professionalism, work ethic, and customer satisfaction.\n\nA Better Experience From Start to Finish\nModern Builders believes a successful project starts with listening. The team begins by understanding the property owner’s concerns, assessing the project requirements, and discussing the condition of the affected area. Clients receive straightforward communication about the recommended scope of work, expected outcomes, and the steps involved in completing the project.\n\nThroughout the job, Modern Builders aims to keep communication clear, maintain an organized work area, and deliver work that meets the company’s standards for quality and durability. The team understands that construction work can disrupt daily life or business operations, which is why professionalism, planning, and respect for the customer’s time and property remain central to every project.\n\nProtect Your Property With Modern Builders\nYour home or commercial property is a major investment. Whether you are dealing with cracked stucco, signs of water damage, an aging roof, damaged drywall, failing paint, or a larger restoration need, Modern Builders is ready to help you move forward with clarity and confidence.\n\nFrom the first assessment through final completion, Modern Builders delivers experienced guidance, quality craftsmanship, and practical solutions designed to protect your property for years to come.\n\nContact Modern Builders today to schedule a consultation and discuss your residential or light-commercial construction, restoration, repair, waterproofing, stucco, roofing, drywall, or painting project.",
   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
     "name": "Modern Builders Services",
+    "@type": "OfferCatalog",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco installation"
+          "name": "Stucco installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco repair"
+          "name": "Stucco repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco crack repair"
+          "name": "Stucco crack repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco crack filling"
+          "name": "Stucco crack filling",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco patching"
+          "name": "Stucco patching",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco resurfacing"
+          "name": "Stucco resurfacing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco re-coating"
+          "name": "Stucco re-coating",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Restucco"
+          "name": "Restucco",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco remediation"
+          "name": "Stucco remediation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco texture matching"
+          "name": "Stucco texture matching",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco color matching"
+          "name": "Stucco color matching",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco re-flashing"
+          "name": "Stucco re-flashing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco waterproofing"
+          "name": "Stucco waterproofing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Acrylic stucco installation"
+          "name": "Acrylic stucco installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Cement stucco installation"
+          "name": "Cement stucco installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior stucco coating application"
+          "name": "Exterior stucco coating application",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Waterproof coating application"
+          "name": "Waterproof coating application",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior trim installation"
+          "name": "Exterior trim installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Decorative stucco accent installation"
+          "name": "Decorative stucco accent installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Historical stucco preservation"
+          "name": "Historical stucco preservation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior surface repair"
+          "name": "Exterior surface repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior restoration"
+          "name": "Exterior restoration",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Water-intrusion assessment"
+          "name": "Water-intrusion assessment",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Water-damage repair"
+          "name": "Water-damage repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Wood rot repair"
+          "name": "Wood rot repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Building-envelope repair"
+          "name": "Building-envelope repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Building-envelope restoration"
+          "name": "Building-envelope restoration",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Residential roofing"
+          "name": "Residential roofing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Roof repair"
+          "name": "Roof repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Roof replacement coordination"
+          "name": "Roof replacement coordination",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Roof flashing repair"
+          "name": "Roof flashing repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Gutter installation"
+          "name": "Gutter installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Gutter repair"
+          "name": "Gutter repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall installation"
+          "name": "Drywall installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall repair"
+          "name": "Drywall repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall patching"
+          "name": "Drywall patching",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall maintenance"
+          "name": "Drywall maintenance",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall framing"
+          "name": "Drywall framing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Custom framing"
+          "name": "Custom framing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall texture matching"
+          "name": "Drywall texture matching",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall finishing"
+          "name": "Drywall finishing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Level 5 drywall finishing"
+          "name": "Level 5 drywall finishing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Moisture-resistant drywall installation"
+          "name": "Moisture-resistant drywall installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Bathroom drywall installation"
+          "name": "Bathroom drywall installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Kitchen drywall installation"
+          "name": "Kitchen drywall installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Interior wall repair"
+          "name": "Interior wall repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Ceiling repair"
+          "name": "Ceiling repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Interior painting"
+          "name": "Interior painting",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior painting"
+          "name": "Exterior painting",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "House painting"
+          "name": "House painting",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Commercial painting"
+          "name": "Commercial painting",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Paint color matching"
+          "name": "Paint color matching",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Paint color consultation"
+          "name": "Paint color consultation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Painting surface preparation"
+          "name": "Painting surface preparation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Wall patching"
+          "name": "Wall patching",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Caulking"
+          "name": "Caulking",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Surface smoothing"
+          "name": "Surface smoothing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior coating application"
+          "name": "Exterior coating application",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Residential construction"
+          "name": "Residential construction",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Residential renovation"
+          "name": "Residential renovation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Residential property repair"
+          "name": "Residential property repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Light-commercial construction"
+          "name": "Light-commercial construction",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Light-commercial repair"
+          "name": "Light-commercial repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Light-commercial restoration"
+          "name": "Light-commercial restoration",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "General building services"
+          "name": "General building services",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Design consultation"
+          "name": "Design consultation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Project planning"
+          "name": "Project planning",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Construction project management"
+          "name": "Construction project management",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Onsite project assessment"
+          "name": "Onsite project assessment",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Free project estimates"
+          "name": "Free project estimates",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "New stucco installation (cement and acrylic systems)"
+          "name": "New stucco installation (cement and acrylic systems)",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco repair for cracked walls"
+          "name": "Stucco repair for cracked walls",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco patching for holes and impact damage"
+          "name": "Stucco patching for holes and impact damage",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Full stucco resurfacing (over existing stucco)"
+          "name": "Full stucco resurfacing (over existing stucco)",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco re-coating and color refresh"
+          "name": "Stucco re-coating and color refresh",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Complete restucco for failed systems"
+          "name": "Complete restucco for failed systems",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco water intrusion remediation"
+          "name": "Stucco water intrusion remediation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco flashing repair and replacement"
+          "name": "Stucco flashing repair and replacement",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stucco waterproofing and sealant systems"
+          "name": "Stucco waterproofing and sealant systems",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Acrylic stucco (synthetic) installation and repair"
+          "name": "Acrylic stucco (synthetic) installation and repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Traditional cement stucco installation and repair"
+          "name": "Traditional cement stucco installation and repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Decorative stucco accents and architectural details"
+          "name": "Decorative stucco accents and architectural details",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Historical stucco restoration and preservation"
+          "name": "Historical stucco restoration and preservation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior wall water damage repair"
+          "name": "Exterior wall water damage repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Building envelope leak repair"
+          "name": "Building envelope leak repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Building envelope restoration"
+          "name": "Building envelope restoration",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Sheathing and framing repair from water damage"
+          "name": "Sheathing and framing repair from water damage",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Moisture intrusion assessment for stucco homes"
+          "name": "Moisture intrusion assessment for stucco homes",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior surface repair after storm damage"
+          "name": "Exterior surface repair after storm damage",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Roof leak repair and patching"
+          "name": "Roof leak repair and patching",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Roof replacement project coordination"
+          "name": "Roof replacement project coordination",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "New gutter installation"
+          "name": "New gutter installation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Gutter repair and re-hanging"
+          "name": "Gutter repair and re-hanging",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Gutter leak and seam repair"
+          "name": "Gutter leak and seam repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "New drywall installation (walls and ceilings)"
+          "name": "New drywall installation (walls and ceilings)",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall repair for holes and cracks"
+          "name": "Drywall repair for holes and cracks",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall patching for water damage"
+          "name": "Drywall patching for water damage",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall maintenance for rentals and HOAs"
+          "name": "Drywall maintenance for rentals and HOAs",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Stud framing for new walls and openings"
+          "name": "Stud framing for new walls and openings",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Custom framing for doors, windows, and built-ins"
+          "name": "Custom framing for doors, windows, and built-ins",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall texture matching (popcorn, knockdown, smooth)"
+          "name": "Drywall texture matching (popcorn, knockdown, smooth)",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Drywall finishing and skim coating"
+          "name": "Drywall finishing and skim coating",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Level 5 drywall finish for high-end paint"
+          "name": "Level 5 drywall finish for high-end paint",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Moisture-resistant drywall installation (bathrooms, kitchens)"
+          "name": "Moisture-resistant drywall installation (bathrooms, kitchens)",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Bathroom wall and ceiling drywall repair"
+          "name": "Bathroom wall and ceiling drywall repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Kitchen wall drywall repair and patching"
+          "name": "Kitchen wall drywall repair and patching",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Interior wall crack and nail-pop repair"
+          "name": "Interior wall crack and nail-pop repair",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Ceiling repair for water stains and sagging"
+          "name": "Ceiling repair for water stains and sagging",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Interior house painting"
+          "name": "Interior house painting",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior house painting"
+          "name": "Exterior house painting",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Full home interior and exterior painting"
+          "name": "Full home interior and exterior painting",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Commercial painting for small businesses"
+          "name": "Commercial painting for small businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Paint color matching for touch-ups"
+          "name": "Paint color matching for touch-ups",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Paint color consultation and selection"
+          "name": "Paint color consultation and selection",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Wall and trim surface preparation for painting"
+          "name": "Wall and trim surface preparation for painting",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Caulking and sealing before painting"
+          "name": "Caulking and sealing before painting",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Surface smoothing and skim coating before paint"
+          "name": "Surface smoothing and skim coating before paint",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Exterior protective coating application (elastomeric, waterproof)"
+          "name": "Exterior protective coating application (elastomeric, waterproof)",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Residential new construction (homes and ADUs)"
+          "name": "Residential new construction (homes and ADUs)",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Residential renovation and remodels"
+          "name": "Residential renovation and remodels",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Whole-house repair for investors and landlords"
+          "name": "Whole-house repair for investors and landlords",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Light commercial construction (offices, retail, tenant improvements)"
+          "name": "Light commercial construction (offices, retail, tenant improvements)",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Light commercial repair and restoration"
+          "name": "Light commercial repair and restoration",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "General building services for property managers"
+          "name": "General building services for property managers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Design consultation for exterior and interior projects"
+          "name": "Design consultation for exterior and interior projects",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Construction project planning and phasing"
+          "name": "Construction project planning and phasing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "On-site project assessment and walk-through"
+          "name": "On-site project assessment and walk-through",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Written project estimates and bids"
+          "name": "Written project estimates and bids",
+          "@type": "Service"
         }
       }
     ]
