@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:52:34.807Z",
+  "generatedAt": "2026-10-25T01:25:08.219Z",
   "client": {
     "name": "Modern Builders",
     "canonicalUrl": "https://modernbuilders.aiovisibility.net",
@@ -252,23 +252,23 @@
   },
   "package": {
     "totalFiles": 1259,
-    "totalBytes": 3579546,
+    "totalBytes": 3802360,
     "stats": {
-      "qna": 0,
       "faqs": 872,
-      "press": 25,
-      "total": 1229,
-      "awards": 25,
-      "reviews": 16,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 207,
       "services": 1,
       "webpages": 0,
-      "locations": 1,
       "personnel": 6,
+      "products": 0,
+      "locations": 1,
+      "awards": 25,
       "caseStudies": 75,
-      "helpArticles": 207,
-      "organization": 1
+      "organization": 1,
+      "press": 25,
+      "reviews": 16,
+      "qna": 0,
+      "research": 0,
+      "total": 1229
     }
   },
   "entrypoints": {
@@ -1356,11 +1356,6 @@
         "path": "help/commercial-box-gutter-systems.json",
         "bytes": 695,
         "purpose": "schema"
-      },
-      {
-        "path": "help/publishing-plan.json",
-        "bytes": 48569,
-        "purpose": "schema"
       }
     ],
     "locations": [
@@ -1877,7 +1872,7 @@
     "organization": [
       {
         "path": "organization/modern-builders-organization.json",
-        "bytes": 7180,
+        "bytes": 9713,
         "purpose": "schema"
       }
     ],
@@ -6455,77 +6450,82 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 18844,
+        "bytes": 24648,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 121866,
+        "bytes": 130814,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 115582,
+        "bytes": 129323,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 27076,
+        "bytes": 33112,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17567,
+        "bytes": 23678,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 541627,
+        "bytes": 547765,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 18139,
+        "bytes": 24692,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 70011,
+        "bytes": 76223,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 43717,
+        "bytes": 49806,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 9220,
+        "bytes": 15596,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 17958,
+        "bytes": 24404,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 19021,
+        "bytes": 25438,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 13600,
+        "bytes": 20053,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 13825,
+        "bytes": 20172,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 34210,
+        "bytes": 40665,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/unassigned.html",
+        "bytes": 127801,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -6537,7 +6537,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 6924,
+        "bytes": 10878,
         "purpose": "LLM hint"
       },
       {
@@ -6557,42 +6557,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1613,
+        "bytes": 10109,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 518421,
+        "bytes": 526936,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 147559,
+        "bytes": 151531,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 147559,
+        "bytes": 151531,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 6978,
+        "bytes": 10932,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 171680,
+        "bytes": 175651,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 154291,
+        "bytes": 154290,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1662,
+        "bytes": 1752,
         "purpose": "Standard sitemap"
       }
     ]

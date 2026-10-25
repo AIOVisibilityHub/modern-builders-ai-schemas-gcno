@@ -17,6 +17,38 @@ Modern Builders publishes structured AI-readable data for discovery and recommen
 - [ai-data-hub] Modern Builders — AI Data Hub — https://modernbuilders.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno
 - [mirror-pages] GitHub — AI Data Hub mirror — http://modernbuilders.aiovisibility.net/ai-data.html
+- [same-as] Modern Builders on aiovisibility.net — https://aiovisibility.net/profiles/modern-builders-cali
+- [same-as] Modern Builders on maps.google.com — https://maps.google.com/maps?cid=12150866154190721688
+- [same-as] Modern Builders on yelp.com — https://www.yelp.com/biz/modern-builders-pasadena-5
+- [same-as] Modern Builders on yelp.com — https://www.yelp.com/biz/modern-builders-pasadena-3?start=20
+- [same-as] Modern Builders on yelp.com — https://www.yelp.com/biz/the-modern-builders-pasadena
+- [same-as] Modern Builders on nextdoor.com — https://nextdoor.com/pages/modern-builders-pasadena-ca/
+- [same-as] Modern Builders on mapquest.com — https://www.mapquest.com/us/california/modern-builders-470798488
+- [same-as] Modern Builders on mapquest.com — https://www.mapquest.com/us/california/stucco-contractor-pro-604282722
+- [same-as] Modern Builders on facebook.com — https://www.facebook.com/themodernbuilders/
+- [same-as] Modern Builders on instagram.com — https://www.instagram.com/pasadenastuccocontractor/
+- [same-as] Modern Builders on linkedin.com — https://www.linkedin.com/in/bryan-peralta-54a550178
+- [same-as] Modern Builders on youtube.com — https://www.youtube.com/shorts/mMKHtZCzL_M
+- [same-as] Modern Builders on youtube.com — https://www.youtube.com/shorts/k7Abwb16Vgs
+- [same-as] Modern Builders on pasadena-chamber.org — https://www.pasadena-chamber.org/directory-sub-categories/building-construction-materials-hardware-equipment-sales
+- [same-as] Modern Builders on owenscorning.com — https://www.owenscorning.com/en-us/roofing/contractors/contractor-profile/237364
+- [same-as] Modern Builders on thumbtack.com — https://www.thumbtack.com/ca/pasadena/roofing/stucco-contractor-pro/service/467349293013057544?spotlightWebMarkupEnabled=1
+- [same-as] Modern Builders on townplanner.com — https://www.townplanner.com/pasadena/ca/directory/home-improvement-roofing/modern-builders/246407/
+- [same-as] Modern Builders on contractors.directory — https://www.contractors.directory/united-states/pasadena/contractors/modern-builders-roofing-stucco-drywall-paint-contractor
+- [same-as] Modern Builders on surfyourtown.com — https://www.surfyourtown.com/united-states/pasadena/home-services/modern-builders-roofing-stucco-drywall-paint-contractor
+- [same-as] Modern Builders on bizoforce.com — https://bizoforce.com/business-directory/modern-builders-roofing-stucco-drywall-paint-contractor
+- [same-as] Modern Builders on gigopro.com — https://gigopro.com/california/pasadena/stucco-contractor/stucco-contractor-pro/
+- [same-as] Modern Builders on exchange.construction — https://exchange.construction/contractors/eifs-stucco/stucco-contractor-pro/
+- [same-as] Modern Builders on trustprofile.com — https://www.trustprofile.com/webshop/Stucco-Contractor-Pro_4219396
+- [same-as] Modern Builders on f6s.com — https://www.f6s.com/company/stucco-contractor-pro
+- [same-as] Modern Builders on thelistjohnnybuilt.com — https://thelistjohnnybuilt.com/business/modern-builders-riverside
+- [same-as] Modern Builders on expertise.com — https://www.expertise.com/home-improvement/painting/california/pasadena
+- [same-as] Modern Builders on trustanalytica.org — https://trustanalytica.org/us/ca/best-home-remodeling
+- [same-as] Modern Builders on bizhublocal.com — http://www.bizhublocal.com/home-services?page=764
+- [same-as] Modern Builders on modernbuilders.dripjobs.com — https://modernbuilders.dripjobs.com/
+- [same-as] Modern Builders on openpr.com — https://www.openpr.com/news/3976757/modern-builders-pasadena-s-trusted-experts-in-roofing
+- [same-as] Modern Builders on openpr.com — https://www.openpr.com/news/3843450/roofing-services-in-los-angeles-why-modern-builders-is-the-best
+- [same-as] Modern Builders on melrosefarmservice.com — https://www.melrosefarmservice.com/markets/stocks.php?article=abnewswire-2023-9-23-choosing-the-right-roofing-contractor-in-pasadena-ca
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

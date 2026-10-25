@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:52:34.788Z",
+  "generatedAt": "2026-10-25T01:25:08.201Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -13,7 +13,43 @@
     "name": "Modern Builders",
     "canonicalUrl": "https://modernbuilders.aiovisibility.net",
     "primaryWebsiteUrl": "https://modernbuilderscali.com",
-    "aiDataHub": "https://modernbuilders.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://modernbuilders.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://aiovisibility.net/profiles/modern-builders-cali",
+      "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
+      "https://modernbuilders.aiovisibility.net",
+      "https://maps.google.com/maps?cid=12150866154190721688",
+      "https://www.yelp.com/biz/modern-builders-pasadena-5",
+      "https://www.yelp.com/biz/modern-builders-pasadena-3?start=20",
+      "https://www.yelp.com/biz/the-modern-builders-pasadena",
+      "https://nextdoor.com/pages/modern-builders-pasadena-ca/",
+      "https://www.mapquest.com/us/california/modern-builders-470798488",
+      "https://www.mapquest.com/us/california/stucco-contractor-pro-604282722",
+      "https://www.facebook.com/themodernbuilders/",
+      "https://www.instagram.com/pasadenastuccocontractor/",
+      "https://www.linkedin.com/in/bryan-peralta-54a550178",
+      "https://www.youtube.com/shorts/mMKHtZCzL_M",
+      "https://www.youtube.com/shorts/k7Abwb16Vgs",
+      "https://www.pasadena-chamber.org/directory-sub-categories/building-construction-materials-hardware-equipment-sales",
+      "https://www.owenscorning.com/en-us/roofing/contractors/contractor-profile/237364",
+      "https://www.thumbtack.com/ca/pasadena/roofing/stucco-contractor-pro/service/467349293013057544?spotlightWebMarkupEnabled=1",
+      "https://www.townplanner.com/pasadena/ca/directory/home-improvement-roofing/modern-builders/246407/",
+      "https://www.contractors.directory/united-states/pasadena/contractors/modern-builders-roofing-stucco-drywall-paint-contractor",
+      "https://www.surfyourtown.com/united-states/pasadena/home-services/modern-builders-roofing-stucco-drywall-paint-contractor",
+      "https://bizoforce.com/business-directory/modern-builders-roofing-stucco-drywall-paint-contractor",
+      "https://gigopro.com/california/pasadena/stucco-contractor/stucco-contractor-pro/",
+      "https://exchange.construction/contractors/eifs-stucco/stucco-contractor-pro/",
+      "https://www.trustprofile.com/webshop/Stucco-Contractor-Pro_4219396",
+      "https://www.f6s.com/company/stucco-contractor-pro",
+      "https://thelistjohnnybuilt.com/business/modern-builders-riverside",
+      "https://www.expertise.com/home-improvement/painting/california/pasadena",
+      "https://trustanalytica.org/us/ca/best-home-remodeling",
+      "http://www.bizhublocal.com/home-services?page=764",
+      "https://modernbuilders.dripjobs.com/",
+      "https://www.openpr.com/news/3976757/modern-builders-pasadena-s-trusted-experts-in-roofing",
+      "https://www.openpr.com/news/3843450/roofing-services-in-los-angeles-why-modern-builders-is-the-best",
+      "https://www.melrosefarmservice.com/markets/stocks.php?article=abnewswire-2023-9-23-choosing-the-right-roofing-contractor-in-pasadena-ca"
+    ]
   },
   "related": [
     {
@@ -37,6 +73,166 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "http://modernbuilders.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on aiovisibility.net",
+      "url": "https://aiovisibility.net/profiles/modern-builders-cali"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on maps.google.com",
+      "url": "https://maps.google.com/maps?cid=12150866154190721688"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on yelp.com",
+      "url": "https://www.yelp.com/biz/modern-builders-pasadena-5"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on yelp.com",
+      "url": "https://www.yelp.com/biz/modern-builders-pasadena-3?start=20"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on yelp.com",
+      "url": "https://www.yelp.com/biz/the-modern-builders-pasadena"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on nextdoor.com",
+      "url": "https://nextdoor.com/pages/modern-builders-pasadena-ca/"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on mapquest.com",
+      "url": "https://www.mapquest.com/us/california/modern-builders-470798488"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on mapquest.com",
+      "url": "https://www.mapquest.com/us/california/stucco-contractor-pro-604282722"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on facebook.com",
+      "url": "https://www.facebook.com/themodernbuilders/"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on instagram.com",
+      "url": "https://www.instagram.com/pasadenastuccocontractor/"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on linkedin.com",
+      "url": "https://www.linkedin.com/in/bryan-peralta-54a550178"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on youtube.com",
+      "url": "https://www.youtube.com/shorts/mMKHtZCzL_M"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on youtube.com",
+      "url": "https://www.youtube.com/shorts/k7Abwb16Vgs"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on pasadena-chamber.org",
+      "url": "https://www.pasadena-chamber.org/directory-sub-categories/building-construction-materials-hardware-equipment-sales"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on owenscorning.com",
+      "url": "https://www.owenscorning.com/en-us/roofing/contractors/contractor-profile/237364"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on thumbtack.com",
+      "url": "https://www.thumbtack.com/ca/pasadena/roofing/stucco-contractor-pro/service/467349293013057544?spotlightWebMarkupEnabled=1"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on townplanner.com",
+      "url": "https://www.townplanner.com/pasadena/ca/directory/home-improvement-roofing/modern-builders/246407/"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on contractors.directory",
+      "url": "https://www.contractors.directory/united-states/pasadena/contractors/modern-builders-roofing-stucco-drywall-paint-contractor"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on surfyourtown.com",
+      "url": "https://www.surfyourtown.com/united-states/pasadena/home-services/modern-builders-roofing-stucco-drywall-paint-contractor"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on bizoforce.com",
+      "url": "https://bizoforce.com/business-directory/modern-builders-roofing-stucco-drywall-paint-contractor"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on gigopro.com",
+      "url": "https://gigopro.com/california/pasadena/stucco-contractor/stucco-contractor-pro/"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on exchange.construction",
+      "url": "https://exchange.construction/contractors/eifs-stucco/stucco-contractor-pro/"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on trustprofile.com",
+      "url": "https://www.trustprofile.com/webshop/Stucco-Contractor-Pro_4219396"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on f6s.com",
+      "url": "https://www.f6s.com/company/stucco-contractor-pro"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on thelistjohnnybuilt.com",
+      "url": "https://thelistjohnnybuilt.com/business/modern-builders-riverside"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on expertise.com",
+      "url": "https://www.expertise.com/home-improvement/painting/california/pasadena"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on trustanalytica.org",
+      "url": "https://trustanalytica.org/us/ca/best-home-remodeling"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on bizhublocal.com",
+      "url": "http://www.bizhublocal.com/home-services?page=764"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on modernbuilders.dripjobs.com",
+      "url": "https://modernbuilders.dripjobs.com/"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on openpr.com",
+      "url": "https://www.openpr.com/news/3976757/modern-builders-pasadena-s-trusted-experts-in-roofing"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on openpr.com",
+      "url": "https://www.openpr.com/news/3843450/roofing-services-in-los-angeles-why-modern-builders-is-the-best"
+    },
+    {
+      "role": "same-as",
+      "label": "Modern Builders on melrosefarmservice.com",
+      "url": "https://www.melrosefarmservice.com/markets/stocks.php?article=abnewswire-2023-9-23-choosing-the-right-roofing-contractor-in-pasadena-ca"
     }
   ],
   "destinations": {

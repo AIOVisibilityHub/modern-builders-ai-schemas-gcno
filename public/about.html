@@ -21,9 +21,17 @@ ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
 .svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
 .svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
-.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
-.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
-.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
 .svc-index .n{font-weight:400;color:#666}
 .cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
 .cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
@@ -55,7 +63,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "About Modern Builders",
   "description": "Modern Builders: what we do, services offered, areas served, team members, credentials, and how to get started.",
   "inLanguage": "en-US",
-  "dateModified": "2026-10-04",
+  "dateModified": "2026-10-25",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Modern Builders",
@@ -277,7 +285,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="About Modern Builders" />
 <meta name="twitter:description" content="Modern Builders: what we do, services offered, areas served, team members, credentials, and how to get started." />
-<meta name="dcterms.modified" content="2026-10-04" />
+<meta name="dcterms.modified" content="2026-10-25" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -287,8 +295,8 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "About Modern Builders",
   "description": "Modern Builders: what we do, services offered, areas served, team members, credentials, and how to get started.",
   "inLanguage": "en-US",
-  "datePublished": "2026-10-04",
-  "dateModified": "2026-10-04",
+  "datePublished": "2026-10-25",
+  "dateModified": "2026-10-25",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Modern Builders",
@@ -576,6 +584,42 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Modern Builders",
   "@type": "Organization",
   "email": "bryan@modernbuilderscali.com",
+  "sameAs": [
+    "https://aiovisibility.net/profiles/modern-builders-cali",
+    "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
+    "https://modernbuilders.aiovisibility.net",
+    "https://maps.google.com/maps?cid=12150866154190721688",
+    "https://www.yelp.com/biz/modern-builders-pasadena-5",
+    "https://www.yelp.com/biz/modern-builders-pasadena-3?start=20",
+    "https://www.yelp.com/biz/the-modern-builders-pasadena",
+    "https://nextdoor.com/pages/modern-builders-pasadena-ca/",
+    "https://www.mapquest.com/us/california/modern-builders-470798488",
+    "https://www.mapquest.com/us/california/stucco-contractor-pro-604282722",
+    "https://www.facebook.com/themodernbuilders/",
+    "https://www.instagram.com/pasadenastuccocontractor/",
+    "https://www.linkedin.com/in/bryan-peralta-54a550178",
+    "https://www.youtube.com/shorts/mMKHtZCzL_M",
+    "https://www.youtube.com/shorts/k7Abwb16Vgs",
+    "https://www.pasadena-chamber.org/directory-sub-categories/building-construction-materials-hardware-equipment-sales",
+    "https://www.owenscorning.com/en-us/roofing/contractors/contractor-profile/237364",
+    "https://www.thumbtack.com/ca/pasadena/roofing/stucco-contractor-pro/service/467349293013057544?spotlightWebMarkupEnabled=1",
+    "https://www.townplanner.com/pasadena/ca/directory/home-improvement-roofing/modern-builders/246407/",
+    "https://www.contractors.directory/united-states/pasadena/contractors/modern-builders-roofing-stucco-drywall-paint-contractor",
+    "https://www.surfyourtown.com/united-states/pasadena/home-services/modern-builders-roofing-stucco-drywall-paint-contractor",
+    "https://bizoforce.com/business-directory/modern-builders-roofing-stucco-drywall-paint-contractor",
+    "https://gigopro.com/california/pasadena/stucco-contractor/stucco-contractor-pro/",
+    "https://exchange.construction/contractors/eifs-stucco/stucco-contractor-pro/",
+    "https://www.trustprofile.com/webshop/Stucco-Contractor-Pro_4219396",
+    "https://www.f6s.com/company/stucco-contractor-pro",
+    "https://thelistjohnnybuilt.com/business/modern-builders-riverside",
+    "https://www.expertise.com/home-improvement/painting/california/pasadena",
+    "https://trustanalytica.org/us/ca/best-home-remodeling",
+    "http://www.bizhublocal.com/home-services?page=764",
+    "https://modernbuilders.dripjobs.com/",
+    "https://www.openpr.com/news/3976757/modern-builders-pasadena-s-trusted-experts-in-roofing",
+    "https://www.openpr.com/news/3843450/roofing-services-in-los-angeles-why-modern-builders-is-the-best",
+    "https://www.melrosefarmservice.com/markets/stocks.php?article=abnewswire-2023-9-23-choosing-the-right-roofing-contractor-in-pasadena-ca"
+  ],
   "@context": "https://schema.org",
   "employee": [
     {
