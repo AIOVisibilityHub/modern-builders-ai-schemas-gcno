@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T01:25:22.232Z",
+  "generatedAt": "2026-10-25T01:33:58.679Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -73,6 +73,48 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "http://modernbuilders.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
+      "url": "https://gitlab.com/aiovisibilityhub/modern-builders-ai-schemas-cqme"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://modern-builders-ai-schemas-cqme-3cba18.gitlab.io/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "huggingface",
+      "label": "Hugging Face repository",
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/modern-builders-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "huggingface",
+      "label": "Hugging Face — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub-modern-builders-ai-schemas.static.hf.space/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "codeberg",
+      "label": "Codeberg repository",
+      "url": "https://codeberg.org/aiovisibilityhub/modern-builders-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "codeberg",
+      "label": "Codeberg — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.codeberg.page/modern-builders-ai-schemas/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/23630874"
     },
     {
       "role": "same-as",
@@ -240,6 +282,23 @@
       "url": "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
       "pagesUrl": "http://modernbuilders.aiovisibility.net/",
       "repo": "AIOVisibilityHub/modern-builders-ai-schemas-gcno"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/modern-builders-ai-schemas-cqme",
+      "pagesUrl": "https://modern-builders-ai-schemas-cqme-3cba18.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/modern-builders-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-modern-builders-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/modern-builders-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/modern-builders-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/modern-builders-ai-schemas/",
+      "repo": "aiovisibilityhub/modern-builders-ai-schemas"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23630874"
     }
   }
 }

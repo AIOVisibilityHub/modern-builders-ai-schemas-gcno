@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T01:25:22.247Z",
+  "generatedAt": "2026-10-25T01:33:58.699Z",
   "client": {
     "name": "Modern Builders",
     "canonicalUrl": "https://modernbuilders.aiovisibility.net",
@@ -252,7 +252,7 @@
   },
   "package": {
     "totalFiles": 1259,
-    "totalBytes": 3712080,
+    "totalBytes": 3719961,
     "stats": {
       "faqs": 872,
       "helpArticles": 207,
@@ -6537,7 +6537,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 10878,
+        "bytes": 11671,
         "purpose": "LLM hint"
       },
       {
@@ -6557,32 +6557,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 10109,
+        "bytes": 12277,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 526936,
+        "bytes": 528684,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 151531,
+        "bytes": 152324,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 151531,
+        "bytes": 152324,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 10932,
+        "bytes": 11725,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 175651,
+        "bytes": 176444,
         "purpose": "Repository README"
       },
       {
@@ -6602,6 +6602,23 @@
       "url": "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
       "pagesUrl": "http://modernbuilders.aiovisibility.net/",
       "repo": "AIOVisibilityHub/modern-builders-ai-schemas-gcno"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/modern-builders-ai-schemas-cqme",
+      "pagesUrl": "https://modern-builders-ai-schemas-cqme-3cba18.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/modern-builders-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-modern-builders-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/modern-builders-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/modern-builders-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/modern-builders-ai-schemas/",
+      "repo": "aiovisibilityhub/modern-builders-ai-schemas"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23630874"
     }
   }
 }
