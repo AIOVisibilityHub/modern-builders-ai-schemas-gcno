@@ -2,7 +2,7 @@
 <html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Services — Modern Builders</title>
-<meta name="description" content="Modern Builders services: Acrylic stucco (synthetic) installation and repair, Acrylic stucco installation, Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Building envelope leak repair.">
+<meta name="description" content="Modern Builders services: Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Caulking and sealing before painting, Commercial painting, Commercial painting for small businesses.">
 <style>
 body{font-family:system-ui,-apple-system,sans-serif;max-width:900px;margin:0 auto;padding:2rem 1.5rem;color:#1a1a2e;line-height:1.7}
 h1{border-bottom:2px solid #222;padding-bottom:.4rem}
@@ -21,9 +21,17 @@ ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
 .svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
 .svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
-.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
-.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
-.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
 .svc-index .n{font-weight:400;color:#666}
 .cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
 .cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
@@ -47,9 +55,9 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "position": 1,
       "item": {
         "@type": "Service",
-        "name": "Acrylic stucco (synthetic) installation and repair",
-        "category": "Services",
-        "description": "Assessment and project support for acrylic stucco (synthetic) installation and repair, subject to existing conditions, approved scope, availability, and service area.",
+        "name": "Bathroom drywall installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for bathroom drywall installation, subject to site conditions, approved scope, availability, and service area.",
         "provider": {
           "@type": "Organization",
           "name": "Modern Builders",
@@ -62,9 +70,9 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "position": 2,
       "item": {
         "@type": "Service",
-        "name": "Acrylic stucco installation",
-        "category": "Services",
-        "description": "Planning and project support for acrylic stucco installation, subject to site conditions, approved scope, availability, and service area.",
+        "name": "Bathroom wall and ceiling drywall repair",
+        "category": "Remodeling",
+        "description": "Assessment and project support for bathroom wall and ceiling drywall repair, subject to existing conditions, approved scope, availability, and service area.",
         "provider": {
           "@type": "Organization",
           "name": "Modern Builders",
@@ -77,9 +85,9 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "position": 3,
       "item": {
         "@type": "Service",
-        "name": "Bathroom drywall installation",
-        "category": "Services",
-        "description": "Planning and project support for bathroom drywall installation, subject to site conditions, approved scope, availability, and service area.",
+        "name": "Caulking and sealing before painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for caulking and sealing before painting projects, subject to project scope, availability, and the approved service area.",
         "provider": {
           "@type": "Organization",
           "name": "Modern Builders",
@@ -92,9 +100,9 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "position": 4,
       "item": {
         "@type": "Service",
-        "name": "Bathroom wall and ceiling drywall repair",
-        "category": "Services",
-        "description": "Assessment and project support for bathroom wall and ceiling drywall repair, subject to existing conditions, approved scope, availability, and service area.",
+        "name": "Commercial painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for commercial painting projects, subject to project scope, availability, and the approved service area.",
         "provider": {
           "@type": "Organization",
           "name": "Modern Builders",
@@ -105,6 +113,1521 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     {
       "@type": "ListItem",
       "position": 5,
+      "item": {
+        "@type": "Service",
+        "name": "Commercial painting for small businesses",
+        "category": "Remodeling",
+        "description": "Planning and construction support for commercial painting for small businesses projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Service",
+        "name": "Design consultation for exterior and interior projects",
+        "category": "Remodeling",
+        "description": "Planning and construction support for design consultation for exterior and interior projects projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall finishing",
+        "category": "Remodeling",
+        "description": "Planning and construction support for drywall finishing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall finishing and skim coating",
+        "category": "Remodeling",
+        "description": "Planning and construction support for drywall finishing and skim coating projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall framing",
+        "category": "Remodeling",
+        "description": "Planning and construction support for drywall framing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for drywall installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall maintenance",
+        "category": "Remodeling",
+        "description": "Maintenance support for drywall maintenance, subject to system condition, requested scope, availability, and approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall maintenance for rentals and HOAs",
+        "category": "Remodeling",
+        "description": "Maintenance support for drywall maintenance for rentals and hoas, subject to system condition, requested scope, availability, and approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall patching",
+        "category": "Remodeling",
+        "description": "Planning and construction support for drywall patching projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall repair",
+        "category": "Remodeling",
+        "description": "Assessment and project support for drywall repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall repair for holes and cracks",
+        "category": "Remodeling",
+        "description": "Assessment and project support for drywall repair for holes and cracks, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall texture matching",
+        "category": "Remodeling",
+        "description": "Planning and construction support for drywall texture matching projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall texture matching (popcorn, knockdown, smooth)",
+        "category": "Remodeling",
+        "description": "Planning and construction support for drywall texture matching (popcorn, knockdown, smooth) projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior coating application",
+        "category": "Remodeling",
+        "description": "Planning and construction support for exterior coating application projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior house painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for exterior house painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for exterior painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior protective coating application (elastomeric, waterproof)",
+        "category": "Remodeling",
+        "description": "Planning and construction support for exterior protective coating application (elastomeric, waterproof) projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior restoration",
+        "category": "Remodeling",
+        "description": "Planning and construction support for exterior restoration projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior surface repair",
+        "category": "Remodeling",
+        "description": "Assessment and project support for exterior surface repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior surface repair after storm damage",
+        "category": "Remodeling",
+        "description": "Assessment and project support for exterior surface repair after storm damage, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior trim installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for exterior trim installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "Service",
+        "name": "Full home interior and exterior painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for full home interior and exterior painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "Service",
+        "name": "Full stucco resurfacing (over existing stucco)",
+        "category": "Remodeling",
+        "description": "Planning and construction support for full stucco resurfacing (over existing stucco) projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "@type": "Service",
+        "name": "House painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for house painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
+        "@type": "Service",
+        "name": "Interior house painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for interior house painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "item": {
+        "@type": "Service",
+        "name": "Interior painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for interior painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "item": {
+        "@type": "Service",
+        "name": "Interior wall repair",
+        "category": "Remodeling",
+        "description": "Assessment and project support for interior wall repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen drywall installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for kitchen drywall installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen wall drywall repair and patching",
+        "category": "Remodeling",
+        "description": "Assessment and project support for kitchen wall drywall repair and patching, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "@type": "Service",
+        "name": "Level 5 drywall finish for high-end paint",
+        "category": "Remodeling",
+        "description": "Planning and construction support for level 5 drywall finish for high-end paint projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "item": {
+        "@type": "Service",
+        "name": "Level 5 drywall finishing",
+        "category": "Remodeling",
+        "description": "Planning and construction support for level 5 drywall finishing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "item": {
+        "@type": "Service",
+        "name": "Moisture intrusion assessment for stucco homes",
+        "category": "Remodeling",
+        "description": "Planning and construction support for moisture intrusion assessment for stucco homes projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "item": {
+        "@type": "Service",
+        "name": "Moisture-resistant drywall installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for moisture-resistant drywall installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "item": {
+        "@type": "Service",
+        "name": "Moisture-resistant drywall installation (bathrooms, kitchens)",
+        "category": "Remodeling",
+        "description": "Planning and project support for moisture-resistant drywall installation (bathrooms, kitchens), subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "item": {
+        "@type": "Service",
+        "name": "New drywall installation (walls and ceilings)",
+        "category": "Remodeling",
+        "description": "Planning and project support for new drywall installation (walls and ceilings), subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
+      "item": {
+        "@type": "Service",
+        "name": "Paint color consultation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for paint color consultation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 41,
+      "item": {
+        "@type": "Service",
+        "name": "Paint color consultation and selection",
+        "category": "Remodeling",
+        "description": "Planning and construction support for paint color consultation and selection projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 42,
+      "item": {
+        "@type": "Service",
+        "name": "Paint color matching",
+        "category": "Remodeling",
+        "description": "Planning and construction support for paint color matching projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 43,
+      "item": {
+        "@type": "Service",
+        "name": "Paint color matching for touch-ups",
+        "category": "Remodeling",
+        "description": "Planning and construction support for paint color matching for touch-ups projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 44,
+      "item": {
+        "@type": "Service",
+        "name": "Painting surface preparation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for painting surface preparation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 45,
+      "item": {
+        "@type": "Service",
+        "name": "Residential new construction (homes and ADUs)",
+        "category": "Remodeling",
+        "description": "Planning and construction support for residential new construction (homes and adus) projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 46,
+      "item": {
+        "@type": "Service",
+        "name": "Residential renovation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for residential renovation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 47,
+      "item": {
+        "@type": "Service",
+        "name": "Residential renovation and remodels",
+        "category": "Remodeling",
+        "description": "Planning and construction support for residential renovation and remodels projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 48,
+      "item": {
+        "@type": "Service",
+        "name": "Surface smoothing and skim coating before paint",
+        "category": "Remodeling",
+        "description": "Planning and construction support for surface smoothing and skim coating before paint projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 49,
+      "item": {
+        "@type": "Service",
+        "name": "Wall and trim surface preparation for painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for wall and trim surface preparation for painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 50,
+      "item": {
+        "@type": "Service",
+        "name": "Whole-house repair for investors and landlords",
+        "category": "Remodeling",
+        "description": "Assessment and project support for whole-house repair for investors and landlords, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 51,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco repair for cracked walls",
+        "category": "Outdoor Living",
+        "description": "Assessment and project support for stucco repair for cracked walls, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 52,
+      "item": {
+        "@type": "Service",
+        "name": "Wall patching",
+        "category": "Outdoor Living",
+        "description": "Planning and construction support for wall patching projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 53,
+      "item": {
+        "@type": "Service",
+        "name": "Acrylic stucco (synthetic) installation and repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for acrylic stucco (synthetic) installation and repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 54,
+      "item": {
+        "@type": "Service",
+        "name": "Acrylic stucco installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for acrylic stucco installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 55,
+      "item": {
+        "@type": "Service",
+        "name": "Cement stucco installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for cement stucco installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 56,
+      "item": {
+        "@type": "Service",
+        "name": "Custom framing for doors, windows, and built-ins",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for custom framing for doors, windows, and built-ins projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 57,
+      "item": {
+        "@type": "Service",
+        "name": "Decorative stucco accent installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for decorative stucco accent installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 58,
+      "item": {
+        "@type": "Service",
+        "name": "Decorative stucco accents and architectural details",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for decorative stucco accents and architectural details projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 59,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior stucco coating application",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for exterior stucco coating application projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 60,
+      "item": {
+        "@type": "Service",
+        "name": "Gutter installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for gutter installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 61,
+      "item": {
+        "@type": "Service",
+        "name": "Gutter leak and seam repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for gutter leak and seam repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 62,
+      "item": {
+        "@type": "Service",
+        "name": "Gutter repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for gutter repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 63,
+      "item": {
+        "@type": "Service",
+        "name": "Gutter repair and re-hanging",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for gutter repair and re-hanging, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 64,
+      "item": {
+        "@type": "Service",
+        "name": "Historical stucco preservation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for historical stucco preservation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 65,
+      "item": {
+        "@type": "Service",
+        "name": "Historical stucco restoration and preservation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for historical stucco restoration and preservation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 66,
+      "item": {
+        "@type": "Service",
+        "name": "New gutter installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for new gutter installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 67,
+      "item": {
+        "@type": "Service",
+        "name": "New stucco installation (cement and acrylic systems)",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for new stucco installation (cement and acrylic systems), subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 68,
+      "item": {
+        "@type": "Service",
+        "name": "Residential roofing",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for residential roofing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 69,
+      "item": {
+        "@type": "Service",
+        "name": "Roof flashing repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for roof flashing repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 70,
+      "item": {
+        "@type": "Service",
+        "name": "Roof leak repair and patching",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for roof leak repair and patching, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 71,
+      "item": {
+        "@type": "Service",
+        "name": "Roof repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 72,
+      "item": {
+        "@type": "Service",
+        "name": "Roof replacement coordination",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for roof replacement coordination, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 73,
+      "item": {
+        "@type": "Service",
+        "name": "Roof replacement project coordination",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for roof replacement project coordination, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 74,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco color matching",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco color matching projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 75,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco crack filling",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco crack filling projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 76,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco crack repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for stucco crack repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 77,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco flashing repair and replacement",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for stucco flashing repair and replacement, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 78,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for stucco installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 79,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco patching",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco patching projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 80,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco patching for holes and impact damage",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco patching for holes and impact damage projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 81,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco re-coating",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco re-coating projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 82,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco re-coating and color refresh",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco re-coating and color refresh projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 83,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco re-flashing",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco re-flashing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 84,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco remediation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco remediation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 85,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 86,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco resurfacing",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco resurfacing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 87,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco texture matching",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco texture matching projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 88,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco water intrusion remediation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco water intrusion remediation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 89,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco waterproofing",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco waterproofing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 90,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco waterproofing and sealant systems",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco waterproofing and sealant systems projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 91,
+      "item": {
+        "@type": "Service",
+        "name": "Traditional cement stucco installation and repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for traditional cement stucco installation and repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 92,
+      "item": {
+        "@type": "Service",
+        "name": "Custom framing",
+        "category": "Foundation and Structural",
+        "description": "Planning and construction support for custom framing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 93,
+      "item": {
+        "@type": "Service",
+        "name": "Interior wall crack and nail-pop repair",
+        "category": "Foundation and Structural",
+        "description": "Assessment and project support for interior wall crack and nail-pop repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 94,
+      "item": {
+        "@type": "Service",
+        "name": "Stud framing for new walls and openings",
+        "category": "Foundation and Structural",
+        "description": "Planning and construction support for stud framing for new walls and openings projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 95,
+      "item": {
+        "@type": "Service",
+        "name": "Ceiling repair for water stains and sagging",
+        "category": "Construction",
+        "description": "Assessment and project support for ceiling repair for water stains and sagging, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 96,
+      "item": {
+        "@type": "Service",
+        "name": "Drywall patching for water damage",
+        "category": "Construction",
+        "description": "Planning and construction support for drywall patching for water damage projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 97,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior wall water damage repair",
+        "category": "Construction",
+        "description": "Assessment and project support for exterior wall water damage repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 98,
+      "item": {
+        "@type": "Service",
+        "name": "General building services",
+        "category": "Construction",
+        "description": "Planning and construction support for general building services projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 99,
+      "item": {
+        "@type": "Service",
+        "name": "General building services for property managers",
+        "category": "Construction",
+        "description": "Planning and construction support for general building services for property managers projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 100,
+      "item": {
+        "@type": "Service",
+        "name": "Light commercial construction (offices, retail, tenant improvements)",
+        "category": "Construction",
+        "description": "Planning and construction support for light commercial construction (offices, retail, tenant improvements) projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 101,
+      "item": {
+        "@type": "Service",
+        "name": "On-site project assessment and walk-through",
+        "category": "Construction",
+        "description": "Planning and construction support for on-site project assessment and walk-through projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 102,
+      "item": {
+        "@type": "Service",
+        "name": "Residential construction",
+        "category": "Construction",
+        "description": "Planning and construction support for residential construction projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 103,
+      "item": {
+        "@type": "Service",
+        "name": "Sheathing and framing repair from water damage",
+        "category": "Construction",
+        "description": "Assessment and project support for sheathing and framing repair from water damage, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 104,
+      "item": {
+        "@type": "Service",
+        "name": "Water-damage repair",
+        "category": "Construction",
+        "description": "Assessment and project support for water-damage repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 105,
+      "item": {
+        "@type": "Service",
+        "name": "Water-intrusion assessment",
+        "category": "Construction",
+        "description": "Planning and construction support for water-intrusion assessment projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Modern Builders",
+          "url": "https://modernbuilderscali.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 106,
       "item": {
         "@type": "Service",
         "name": "Building envelope leak repair",
@@ -119,7 +1642,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 6,
+      "position": 107,
       "item": {
         "@type": "Service",
         "name": "Building-envelope repair",
@@ -134,7 +1657,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 7,
+      "position": 108,
       "item": {
         "@type": "Service",
         "name": "Building-envelope restoration",
@@ -149,7 +1672,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 8,
+      "position": 109,
       "item": {
         "@type": "Service",
         "name": "Caulking",
@@ -164,22 +1687,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 9,
-      "item": {
-        "@type": "Service",
-        "name": "Caulking and sealing before painting",
-        "category": "Services",
-        "description": "Planning and construction support for caulking and sealing before painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 10,
+      "position": 110,
       "item": {
         "@type": "Service",
         "name": "Ceiling repair",
@@ -194,67 +1702,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 11,
-      "item": {
-        "@type": "Service",
-        "name": "Ceiling repair for water stains and sagging",
-        "category": "Services",
-        "description": "Assessment and project support for ceiling repair for water stains and sagging, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 12,
-      "item": {
-        "@type": "Service",
-        "name": "Cement stucco installation",
-        "category": "Services",
-        "description": "Planning and project support for cement stucco installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 13,
-      "item": {
-        "@type": "Service",
-        "name": "Commercial painting",
-        "category": "Services",
-        "description": "Planning and construction support for commercial painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 14,
-      "item": {
-        "@type": "Service",
-        "name": "Commercial painting for small businesses",
-        "category": "Services",
-        "description": "Planning and construction support for commercial painting for small businesses projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 15,
+      "position": 111,
       "item": {
         "@type": "Service",
         "name": "Complete restucco for failed systems",
@@ -269,7 +1717,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 16,
+      "position": 112,
       "item": {
         "@type": "Service",
         "name": "construction",
@@ -284,7 +1732,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 17,
+      "position": 113,
       "item": {
         "@type": "Service",
         "name": "Construction project management",
@@ -299,7 +1747,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 18,
+      "position": 114,
       "item": {
         "@type": "Service",
         "name": "Construction project planning and phasing",
@@ -314,67 +1762,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 19,
-      "item": {
-        "@type": "Service",
-        "name": "Custom framing",
-        "category": "Services",
-        "description": "Planning and construction support for custom framing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 20,
-      "item": {
-        "@type": "Service",
-        "name": "Custom framing for doors, windows, and built-ins",
-        "category": "Services",
-        "description": "Planning and construction support for custom framing for doors, windows, and built-ins projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 21,
-      "item": {
-        "@type": "Service",
-        "name": "Decorative stucco accent installation",
-        "category": "Services",
-        "description": "Planning and project support for decorative stucco accent installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 22,
-      "item": {
-        "@type": "Service",
-        "name": "Decorative stucco accents and architectural details",
-        "category": "Services",
-        "description": "Planning and construction support for decorative stucco accents and architectural details projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 23,
+      "position": 115,
       "item": {
         "@type": "Service",
         "name": "Design consultation",
@@ -389,352 +1777,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 24,
-      "item": {
-        "@type": "Service",
-        "name": "Design consultation for exterior and interior projects",
-        "category": "Services",
-        "description": "Planning and construction support for design consultation for exterior and interior projects projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 25,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall finishing",
-        "category": "Services",
-        "description": "Planning and construction support for drywall finishing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 26,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall finishing and skim coating",
-        "category": "Services",
-        "description": "Planning and construction support for drywall finishing and skim coating projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 27,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall framing",
-        "category": "Services",
-        "description": "Planning and construction support for drywall framing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 28,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall installation",
-        "category": "Services",
-        "description": "Planning and project support for drywall installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 29,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall maintenance",
-        "category": "Services",
-        "description": "Maintenance support for drywall maintenance, subject to system condition, requested scope, availability, and approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 30,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall maintenance for rentals and HOAs",
-        "category": "Services",
-        "description": "Maintenance support for drywall maintenance for rentals and hoas, subject to system condition, requested scope, availability, and approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 31,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall patching",
-        "category": "Services",
-        "description": "Planning and construction support for drywall patching projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 32,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall patching for water damage",
-        "category": "Services",
-        "description": "Planning and construction support for drywall patching for water damage projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 33,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall repair",
-        "category": "Services",
-        "description": "Assessment and project support for drywall repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 34,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall repair for holes and cracks",
-        "category": "Services",
-        "description": "Assessment and project support for drywall repair for holes and cracks, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 35,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall texture matching",
-        "category": "Services",
-        "description": "Planning and construction support for drywall texture matching projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 36,
-      "item": {
-        "@type": "Service",
-        "name": "Drywall texture matching (popcorn, knockdown, smooth)",
-        "category": "Services",
-        "description": "Planning and construction support for drywall texture matching (popcorn, knockdown, smooth) projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 37,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior coating application",
-        "category": "Services",
-        "description": "Planning and construction support for exterior coating application projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 38,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior house painting",
-        "category": "Services",
-        "description": "Planning and construction support for exterior house painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 39,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior painting",
-        "category": "Services",
-        "description": "Planning and construction support for exterior painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 40,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior protective coating application (elastomeric, waterproof)",
-        "category": "Services",
-        "description": "Planning and construction support for exterior protective coating application (elastomeric, waterproof) projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 41,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior restoration",
-        "category": "Services",
-        "description": "Planning and construction support for exterior restoration projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 42,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior stucco coating application",
-        "category": "Services",
-        "description": "Planning and construction support for exterior stucco coating application projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 43,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior surface repair",
-        "category": "Services",
-        "description": "Assessment and project support for exterior surface repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 44,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior surface repair after storm damage",
-        "category": "Services",
-        "description": "Assessment and project support for exterior surface repair after storm damage, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 45,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior trim installation",
-        "category": "Services",
-        "description": "Planning and project support for exterior trim installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 46,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior wall water damage repair",
-        "category": "Services",
-        "description": "Assessment and project support for exterior wall water damage repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 47,
+      "position": 116,
       "item": {
         "@type": "Service",
         "name": "Free project estimates",
@@ -749,307 +1792,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 48,
-      "item": {
-        "@type": "Service",
-        "name": "Full home interior and exterior painting",
-        "category": "Services",
-        "description": "Planning and construction support for full home interior and exterior painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 49,
-      "item": {
-        "@type": "Service",
-        "name": "Full stucco resurfacing (over existing stucco)",
-        "category": "Services",
-        "description": "Planning and construction support for full stucco resurfacing (over existing stucco) projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 50,
-      "item": {
-        "@type": "Service",
-        "name": "General building services",
-        "category": "Services",
-        "description": "Planning and construction support for general building services projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 51,
-      "item": {
-        "@type": "Service",
-        "name": "General building services for property managers",
-        "category": "Services",
-        "description": "Planning and construction support for general building services for property managers projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 52,
-      "item": {
-        "@type": "Service",
-        "name": "Gutter installation",
-        "category": "Services",
-        "description": "Planning and project support for gutter installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 53,
-      "item": {
-        "@type": "Service",
-        "name": "Gutter leak and seam repair",
-        "category": "Services",
-        "description": "Assessment and project support for gutter leak and seam repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 54,
-      "item": {
-        "@type": "Service",
-        "name": "Gutter repair",
-        "category": "Services",
-        "description": "Assessment and project support for gutter repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 55,
-      "item": {
-        "@type": "Service",
-        "name": "Gutter repair and re-hanging",
-        "category": "Services",
-        "description": "Assessment and project support for gutter repair and re-hanging, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 56,
-      "item": {
-        "@type": "Service",
-        "name": "Historical stucco preservation",
-        "category": "Services",
-        "description": "Planning and construction support for historical stucco preservation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 57,
-      "item": {
-        "@type": "Service",
-        "name": "Historical stucco restoration and preservation",
-        "category": "Services",
-        "description": "Planning and construction support for historical stucco restoration and preservation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 58,
-      "item": {
-        "@type": "Service",
-        "name": "House painting",
-        "category": "Services",
-        "description": "Planning and construction support for house painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 59,
-      "item": {
-        "@type": "Service",
-        "name": "Interior house painting",
-        "category": "Services",
-        "description": "Planning and construction support for interior house painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 60,
-      "item": {
-        "@type": "Service",
-        "name": "Interior painting",
-        "category": "Services",
-        "description": "Planning and construction support for interior painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 61,
-      "item": {
-        "@type": "Service",
-        "name": "Interior wall crack and nail-pop repair",
-        "category": "Services",
-        "description": "Assessment and project support for interior wall crack and nail-pop repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 62,
-      "item": {
-        "@type": "Service",
-        "name": "Interior wall repair",
-        "category": "Services",
-        "description": "Assessment and project support for interior wall repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 63,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen drywall installation",
-        "category": "Services",
-        "description": "Planning and project support for kitchen drywall installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 64,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen wall drywall repair and patching",
-        "category": "Services",
-        "description": "Assessment and project support for kitchen wall drywall repair and patching, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 65,
-      "item": {
-        "@type": "Service",
-        "name": "Level 5 drywall finish for high-end paint",
-        "category": "Services",
-        "description": "Planning and construction support for level 5 drywall finish for high-end paint projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 66,
-      "item": {
-        "@type": "Service",
-        "name": "Level 5 drywall finishing",
-        "category": "Services",
-        "description": "Planning and construction support for level 5 drywall finishing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 67,
-      "item": {
-        "@type": "Service",
-        "name": "Light commercial construction (offices, retail, tenant improvements)",
-        "category": "Services",
-        "description": "Planning and construction support for light commercial construction (offices, retail, tenant improvements) projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 68,
+      "position": 117,
       "item": {
         "@type": "Service",
         "name": "Light commercial repair and restoration",
@@ -1064,7 +1807,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 69,
+      "position": 118,
       "item": {
         "@type": "Service",
         "name": "Light-commercial construction",
@@ -1079,7 +1822,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 70,
+      "position": 119,
       "item": {
         "@type": "Service",
         "name": "Light-commercial repair",
@@ -1094,7 +1837,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 71,
+      "position": 120,
       "item": {
         "@type": "Service",
         "name": "Light-commercial restoration",
@@ -1109,112 +1852,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 72,
-      "item": {
-        "@type": "Service",
-        "name": "Moisture intrusion assessment for stucco homes",
-        "category": "Services",
-        "description": "Planning and construction support for moisture intrusion assessment for stucco homes projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 73,
-      "item": {
-        "@type": "Service",
-        "name": "Moisture-resistant drywall installation",
-        "category": "Services",
-        "description": "Planning and project support for moisture-resistant drywall installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 74,
-      "item": {
-        "@type": "Service",
-        "name": "Moisture-resistant drywall installation (bathrooms, kitchens)",
-        "category": "Services",
-        "description": "Planning and project support for moisture-resistant drywall installation (bathrooms, kitchens), subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 75,
-      "item": {
-        "@type": "Service",
-        "name": "New drywall installation (walls and ceilings)",
-        "category": "Services",
-        "description": "Planning and project support for new drywall installation (walls and ceilings), subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 76,
-      "item": {
-        "@type": "Service",
-        "name": "New gutter installation",
-        "category": "Services",
-        "description": "Planning and project support for new gutter installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 77,
-      "item": {
-        "@type": "Service",
-        "name": "New stucco installation (cement and acrylic systems)",
-        "category": "Services",
-        "description": "Planning and project support for new stucco installation (cement and acrylic systems), subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 78,
-      "item": {
-        "@type": "Service",
-        "name": "On-site project assessment and walk-through",
-        "category": "Services",
-        "description": "Planning and construction support for on-site project assessment and walk-through projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 79,
+      "position": 121,
       "item": {
         "@type": "Service",
         "name": "Onsite project assessment",
@@ -1229,82 +1867,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 80,
-      "item": {
-        "@type": "Service",
-        "name": "Paint color consultation",
-        "category": "Services",
-        "description": "Planning and construction support for paint color consultation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 81,
-      "item": {
-        "@type": "Service",
-        "name": "Paint color consultation and selection",
-        "category": "Services",
-        "description": "Planning and construction support for paint color consultation and selection projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 82,
-      "item": {
-        "@type": "Service",
-        "name": "Paint color matching",
-        "category": "Services",
-        "description": "Planning and construction support for paint color matching projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 83,
-      "item": {
-        "@type": "Service",
-        "name": "Paint color matching for touch-ups",
-        "category": "Services",
-        "description": "Planning and construction support for paint color matching for touch-ups projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 84,
-      "item": {
-        "@type": "Service",
-        "name": "Painting surface preparation",
-        "category": "Services",
-        "description": "Planning and construction support for painting surface preparation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 85,
+      "position": 122,
       "item": {
         "@type": "Service",
         "name": "Project planning",
@@ -1319,37 +1882,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 86,
-      "item": {
-        "@type": "Service",
-        "name": "Residential construction",
-        "category": "Services",
-        "description": "Planning and construction support for residential construction projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 87,
-      "item": {
-        "@type": "Service",
-        "name": "Residential new construction (homes and ADUs)",
-        "category": "Services",
-        "description": "Planning and construction support for residential new construction (homes and adus) projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 88,
+      "position": 123,
       "item": {
         "@type": "Service",
         "name": "Residential property repair",
@@ -1364,52 +1897,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 89,
-      "item": {
-        "@type": "Service",
-        "name": "Residential renovation",
-        "category": "Services",
-        "description": "Planning and construction support for residential renovation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 90,
-      "item": {
-        "@type": "Service",
-        "name": "Residential renovation and remodels",
-        "category": "Services",
-        "description": "Planning and construction support for residential renovation and remodels projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 91,
-      "item": {
-        "@type": "Service",
-        "name": "Residential roofing",
-        "category": "Services",
-        "description": "Planning and construction support for residential roofing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 92,
+      "position": 124,
       "item": {
         "@type": "Service",
         "name": "Restucco",
@@ -1424,382 +1912,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 93,
-      "item": {
-        "@type": "Service",
-        "name": "Roof flashing repair",
-        "category": "Services",
-        "description": "Assessment and project support for roof flashing repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 94,
-      "item": {
-        "@type": "Service",
-        "name": "Roof leak repair and patching",
-        "category": "Services",
-        "description": "Assessment and project support for roof leak repair and patching, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 95,
-      "item": {
-        "@type": "Service",
-        "name": "Roof repair",
-        "category": "Services",
-        "description": "Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 96,
-      "item": {
-        "@type": "Service",
-        "name": "Roof replacement coordination",
-        "category": "Services",
-        "description": "Assessment and project support for roof replacement coordination, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 97,
-      "item": {
-        "@type": "Service",
-        "name": "Roof replacement project coordination",
-        "category": "Services",
-        "description": "Assessment and project support for roof replacement project coordination, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 98,
-      "item": {
-        "@type": "Service",
-        "name": "Sheathing and framing repair from water damage",
-        "category": "Services",
-        "description": "Assessment and project support for sheathing and framing repair from water damage, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 99,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco color matching",
-        "category": "Services",
-        "description": "Planning and construction support for stucco color matching projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 100,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco crack filling",
-        "category": "Services",
-        "description": "Planning and construction support for stucco crack filling projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 101,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco crack repair",
-        "category": "Services",
-        "description": "Assessment and project support for stucco crack repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 102,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco flashing repair and replacement",
-        "category": "Services",
-        "description": "Assessment and project support for stucco flashing repair and replacement, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 103,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco installation",
-        "category": "Services",
-        "description": "Planning and project support for stucco installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 104,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco patching",
-        "category": "Services",
-        "description": "Planning and construction support for stucco patching projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 105,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco patching for holes and impact damage",
-        "category": "Services",
-        "description": "Planning and construction support for stucco patching for holes and impact damage projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 106,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco re-coating",
-        "category": "Services",
-        "description": "Planning and construction support for stucco re-coating projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 107,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco re-coating and color refresh",
-        "category": "Services",
-        "description": "Planning and construction support for stucco re-coating and color refresh projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 108,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco re-flashing",
-        "category": "Services",
-        "description": "Planning and construction support for stucco re-flashing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 109,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco remediation",
-        "category": "Services",
-        "description": "Planning and construction support for stucco remediation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 110,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco repair",
-        "category": "Services",
-        "description": "Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 111,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco repair for cracked walls",
-        "category": "Services",
-        "description": "Assessment and project support for stucco repair for cracked walls, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 112,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco resurfacing",
-        "category": "Services",
-        "description": "Planning and construction support for stucco resurfacing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 113,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco texture matching",
-        "category": "Services",
-        "description": "Planning and construction support for stucco texture matching projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 114,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco water intrusion remediation",
-        "category": "Services",
-        "description": "Planning and construction support for stucco water intrusion remediation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 115,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco waterproofing",
-        "category": "Services",
-        "description": "Planning and construction support for stucco waterproofing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 116,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco waterproofing and sealant systems",
-        "category": "Services",
-        "description": "Planning and construction support for stucco waterproofing and sealant systems projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 117,
-      "item": {
-        "@type": "Service",
-        "name": "Stud framing for new walls and openings",
-        "category": "Services",
-        "description": "Planning and construction support for stud framing for new walls and openings projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 118,
+      "position": 125,
       "item": {
         "@type": "Service",
         "name": "Surface smoothing",
@@ -1814,117 +1927,12 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 119,
-      "item": {
-        "@type": "Service",
-        "name": "Surface smoothing and skim coating before paint",
-        "category": "Services",
-        "description": "Planning and construction support for surface smoothing and skim coating before paint projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 120,
-      "item": {
-        "@type": "Service",
-        "name": "Traditional cement stucco installation and repair",
-        "category": "Services",
-        "description": "Assessment and project support for traditional cement stucco installation and repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 121,
-      "item": {
-        "@type": "Service",
-        "name": "Wall and trim surface preparation for painting",
-        "category": "Services",
-        "description": "Planning and construction support for wall and trim surface preparation for painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 122,
-      "item": {
-        "@type": "Service",
-        "name": "Wall patching",
-        "category": "Services",
-        "description": "Planning and construction support for wall patching projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 123,
-      "item": {
-        "@type": "Service",
-        "name": "Water-damage repair",
-        "category": "Services",
-        "description": "Assessment and project support for water-damage repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 124,
-      "item": {
-        "@type": "Service",
-        "name": "Water-intrusion assessment",
-        "category": "Services",
-        "description": "Planning and construction support for water-intrusion assessment projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 125,
+      "position": 126,
       "item": {
         "@type": "Service",
         "name": "Waterproof coating application",
         "category": "Services",
         "description": "Planning and construction support for waterproof coating application projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Modern Builders",
-          "url": "https://modernbuilderscali.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 126,
-      "item": {
-        "@type": "Service",
-        "name": "Whole-house repair for investors and landlords",
-        "category": "Services",
-        "description": "Assessment and project support for whole-house repair for investors and landlords, subject to existing conditions, approved scope, availability, and service area.",
         "provider": {
           "@type": "Organization",
           "name": "Modern Builders",
@@ -1968,13 +1976,13 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="author" content="Modern Builders">
 <meta property="og:title" content="Services — Modern Builders" />
-<meta property="og:description" content="Modern Builders services: Acrylic stucco (synthetic) installation and repair, Acrylic stucco installation, Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Building envelope leak repair." />
+<meta property="og:description" content="Modern Builders services: Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Caulking and sealing before painting, Commercial painting, Commercial painting for small businesses." />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Modern Builders" />
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Services — Modern Builders" />
-<meta name="twitter:description" content="Modern Builders services: Acrylic stucco (synthetic) installation and repair, Acrylic stucco installation, Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Building envelope leak repair." />
+<meta name="twitter:description" content="Modern Builders services: Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Caulking and sealing before painting, Commercial painting, Commercial painting for small businesses." />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1982,9 +1990,9 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "@id": "https://modernbuilders.aiovisibility.net/services.html#webpage",
   "url": "https://modernbuilders.aiovisibility.net/services.html",
   "name": "Services — Modern Builders",
-  "description": "Modern Builders services: Acrylic stucco (synthetic) installation and repair, Acrylic stucco installation, Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Building envelope leak repair.",
+  "description": "Modern Builders services: Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Caulking and sealing before painting, Commercial painting, Commercial painting for small businesses.",
   "inLanguage": "en-US",
-  "dateModified": "2026-10-04",
+  "dateModified": "2026-10-25",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Modern Builders",
@@ -2198,15 +2206,15 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <link rel="canonical" href="https://modernbuilders.aiovisibility.net/services.html" />
 <link rel="sitemap" type="application/xml" href="https://modernbuilders.aiovisibility.net/ai-sitemap.xml" />
 <meta property="og:title" content="Services — Modern Builders" />
-<meta property="og:description" content="Modern Builders services: Acrylic stucco (synthetic) installation and repair, Acrylic stucco installation, Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Building envelope leak repair." />
+<meta property="og:description" content="Modern Builders services: Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Caulking and sealing before painting, Commercial painting, Commercial painting for small businesses." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://modernbuilders.aiovisibility.net/services.html" />
 <meta property="og:site_name" content="Modern Builders" />
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Services — Modern Builders" />
-<meta name="twitter:description" content="Modern Builders services: Acrylic stucco (synthetic) installation and repair, Acrylic stucco installation, Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Building envelope leak repair." />
-<meta name="dcterms.modified" content="2026-10-04" />
+<meta name="twitter:description" content="Modern Builders services: Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Caulking and sealing before painting, Commercial painting, Commercial painting for small businesses." />
+<meta name="dcterms.modified" content="2026-10-25" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -2214,10 +2222,10 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "@id": "https://modernbuilders.aiovisibility.net/services.html#webpage",
   "url": "https://modernbuilders.aiovisibility.net/services.html",
   "name": "Services — Modern Builders",
-  "description": "Modern Builders services: Acrylic stucco (synthetic) installation and repair, Acrylic stucco installation, Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Building envelope leak repair.",
+  "description": "Modern Builders services: Bathroom drywall installation, Bathroom wall and ceiling drywall repair, Caulking and sealing before painting, Commercial painting, Commercial painting for small businesses.",
   "inLanguage": "en-US",
-  "datePublished": "2026-10-04",
-  "dateModified": "2026-10-04",
+  "datePublished": "2026-10-25",
+  "dateModified": "2026-10-25",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Modern Builders",
@@ -2438,143 +2446,178 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <a href="articles.html">Articles</a>
 <a href="case-studies.html">Case Studies</a>
 <a href="team-members.html">Team Members</a></nav>
-<nav class="svc-index" id="top" aria-label="Service categories">
-<h2>Browse by category</h2>
-<ul>
-<li><a href="#cat-services">Services <span class="n">128</span></a></li>
+<nav class="svc-index" id="top" aria-label="Services index">
+<h2>Service categories</h2>
+<ul class="svc-bubbles">
+<li><a href="#cat-remodeling">Remodeling <span class="n">(50)</span></a></li>
+<li><a href="#cat-outdoor-living">Outdoor Living <span class="n">(2)</span></a></li>
+<li><a href="#cat-roofing-and-exterior">Roofing and Exterior <span class="n">(39)</span></a></li>
+<li><a href="#cat-foundation-and-structural">Foundation and Structural <span class="n">(3)</span></a></li>
+<li><a href="#cat-construction">Construction <span class="n">(11)</span></a></li>
+<li><a href="#cat-services">Services <span class="n">(23)</span></a></li>
 </ul>
 </nav>
-<section class="cat" id="cat-services">
-<h2>Services<span class="count">128 services</span></h2>
+<section class="cat" id="cat-remodeling">
+<h2>Remodeling<span class="count">50 services</span></h2>
 <ul class="svc-list">
-<li><strong>Acrylic stucco (synthetic) installation and repair</strong> <span class="scope">&mdash; Assessment and project support for acrylic stucco (synthetic) installation and repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Acrylic stucco installation</strong> <span class="scope">&mdash; Planning and project support for acrylic stucco installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Bathroom drywall installation</strong> <span class="scope">&mdash; Planning and project support for bathroom drywall installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Bathroom wall and ceiling drywall repair</strong> <span class="scope">&mdash; Assessment and project support for bathroom wall and ceiling drywall repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Building envelope leak repair</strong> <span class="scope">&mdash; Assessment and project support for building envelope leak repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Building-envelope repair</strong> <span class="scope">&mdash; Assessment and project support for building-envelope repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Building-envelope restoration</strong> <span class="scope">&mdash; Planning and construction support for building-envelope restoration projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Caulking</strong> <span class="scope">&mdash; Planning and construction support for caulking projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Caulking and sealing before painting</strong> <span class="scope">&mdash; Planning and construction support for caulking and sealing before painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Ceiling repair</strong> <span class="scope">&mdash; Assessment and project support for ceiling repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Ceiling repair for water stains and sagging</strong> <span class="scope">&mdash; Assessment and project support for ceiling repair for water stains and sagging, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Cement stucco installation</strong> <span class="scope">&mdash; Planning and project support for cement stucco installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Commercial painting</strong> <span class="scope">&mdash; Planning and construction support for commercial painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Commercial painting for small businesses</strong> <span class="scope">&mdash; Planning and construction support for commercial painting for small businesses projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Complete restucco for failed systems</strong> <span class="scope">&mdash; Planning and construction support for complete restucco for failed systems projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>construction</strong> <span class="scope">&mdash; Modern Builders provides construction in South Pasadena, Glendale, Burbank.</span></li>
-<li><strong>Construction project management</strong> <span class="scope">&mdash; Planning and construction support for construction project management projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Construction project planning and phasing</strong> <span class="scope">&mdash; Planning and construction support for construction project planning and phasing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Custom framing</strong> <span class="scope">&mdash; Planning and construction support for custom framing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Custom framing for doors, windows, and built-ins</strong> <span class="scope">&mdash; Planning and construction support for custom framing for doors, windows, and built-ins projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Decorative stucco accent installation</strong> <span class="scope">&mdash; Planning and project support for decorative stucco accent installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Decorative stucco accents and architectural details</strong> <span class="scope">&mdash; Planning and construction support for decorative stucco accents and architectural details projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Design consultation</strong> <span class="scope">&mdash; Planning and construction support for design consultation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Design consultation for exterior and interior projects</strong> <span class="scope">&mdash; Planning and construction support for design consultation for exterior and interior projects projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Drywall finishing</strong> <span class="scope">&mdash; Planning and construction support for drywall finishing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Drywall finishing and skim coating</strong> <span class="scope">&mdash; Planning and construction support for drywall finishing and skim coating projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Drywall framing</strong> <span class="scope">&mdash; Planning and construction support for drywall framing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Drywall installation</strong> <span class="scope">&mdash; Planning and project support for drywall installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Drywall maintenance</strong> <span class="scope">&mdash; Maintenance support for drywall maintenance, subject to system condition, requested scope, availability, and approved service area.</span></li>
-<li><strong>Drywall maintenance for rentals and HOAs</strong> <span class="scope">&mdash; Maintenance support for drywall maintenance for rentals and hoas, subject to system condition, requested scope, availability, and approved service area.</span></li>
-<li><strong>Drywall patching</strong> <span class="scope">&mdash; Planning and construction support for drywall patching projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Drywall patching for water damage</strong> <span class="scope">&mdash; Planning and construction support for drywall patching for water damage projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Drywall repair</strong> <span class="scope">&mdash; Assessment and project support for drywall repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Drywall repair for holes and cracks</strong> <span class="scope">&mdash; Assessment and project support for drywall repair for holes and cracks, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Drywall texture matching</strong> <span class="scope">&mdash; Planning and construction support for drywall texture matching projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Drywall texture matching (popcorn, knockdown, smooth)</strong> <span class="scope">&mdash; Planning and construction support for drywall texture matching (popcorn, knockdown, smooth) projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Exterior coating application</strong> <span class="scope">&mdash; Planning and construction support for exterior coating application projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Exterior house painting</strong> <span class="scope">&mdash; Planning and construction support for exterior house painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Exterior painting</strong> <span class="scope">&mdash; Planning and construction support for exterior painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Exterior protective coating application (elastomeric, waterproof)</strong> <span class="scope">&mdash; Planning and construction support for exterior protective coating application (elastomeric, waterproof) projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Exterior restoration</strong> <span class="scope">&mdash; Planning and construction support for exterior restoration projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Exterior stucco coating application</strong> <span class="scope">&mdash; Planning and construction support for exterior stucco coating application projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Exterior surface repair</strong> <span class="scope">&mdash; Assessment and project support for exterior surface repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Exterior surface repair after storm damage</strong> <span class="scope">&mdash; Assessment and project support for exterior surface repair after storm damage, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Exterior trim installation</strong> <span class="scope">&mdash; Planning and project support for exterior trim installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Exterior wall water damage repair</strong> <span class="scope">&mdash; Assessment and project support for exterior wall water damage repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Free project estimates</strong> <span class="scope">&mdash; Planning and construction support for free project estimates projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Full home interior and exterior painting</strong> <span class="scope">&mdash; Planning and construction support for full home interior and exterior painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Full stucco resurfacing (over existing stucco)</strong> <span class="scope">&mdash; Planning and construction support for full stucco resurfacing (over existing stucco) projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>General building services</strong> <span class="scope">&mdash; Planning and construction support for general building services projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>General building services for property managers</strong> <span class="scope">&mdash; Planning and construction support for general building services for property managers projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Gutter installation</strong> <span class="scope">&mdash; Planning and project support for gutter installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Gutter leak and seam repair</strong> <span class="scope">&mdash; Assessment and project support for gutter leak and seam repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Gutter repair</strong> <span class="scope">&mdash; Assessment and project support for gutter repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Gutter repair and re-hanging</strong> <span class="scope">&mdash; Assessment and project support for gutter repair and re-hanging, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Historical stucco preservation</strong> <span class="scope">&mdash; Planning and construction support for historical stucco preservation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Historical stucco restoration and preservation</strong> <span class="scope">&mdash; Planning and construction support for historical stucco restoration and preservation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>House painting</strong> <span class="scope">&mdash; Planning and construction support for house painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Interior house painting</strong> <span class="scope">&mdash; Planning and construction support for interior house painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Interior painting</strong> <span class="scope">&mdash; Planning and construction support for interior painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Interior wall crack and nail-pop repair</strong> <span class="scope">&mdash; Assessment and project support for interior wall crack and nail-pop repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Interior wall repair</strong> <span class="scope">&mdash; Assessment and project support for interior wall repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Kitchen drywall installation</strong> <span class="scope">&mdash; Planning and project support for kitchen drywall installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Kitchen wall drywall repair and patching</strong> <span class="scope">&mdash; Assessment and project support for kitchen wall drywall repair and patching, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Level 5 drywall finish for high-end paint</strong> <span class="scope">&mdash; Planning and construction support for level 5 drywall finish for high-end paint projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Level 5 drywall finishing</strong> <span class="scope">&mdash; Planning and construction support for level 5 drywall finishing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Light commercial construction (offices, retail, tenant improvements)</strong> <span class="scope">&mdash; Planning and construction support for light commercial construction (offices, retail, tenant improvements) projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Light commercial repair and restoration</strong> <span class="scope">&mdash; Assessment and project support for light commercial repair and restoration, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Light-commercial construction</strong> <span class="scope">&mdash; Planning and construction support for light-commercial construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Light-commercial repair</strong> <span class="scope">&mdash; Assessment and project support for light-commercial repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Light-commercial restoration</strong> <span class="scope">&mdash; Planning and construction support for light-commercial restoration projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Moisture intrusion assessment for stucco homes</strong> <span class="scope">&mdash; Planning and construction support for moisture intrusion assessment for stucco homes projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Moisture-resistant drywall installation</strong> <span class="scope">&mdash; Planning and project support for moisture-resistant drywall installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Moisture-resistant drywall installation (bathrooms, kitchens)</strong> <span class="scope">&mdash; Planning and project support for moisture-resistant drywall installation (bathrooms, kitchens), subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>New drywall installation (walls and ceilings)</strong> <span class="scope">&mdash; Planning and project support for new drywall installation (walls and ceilings), subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>New gutter installation</strong> <span class="scope">&mdash; Planning and project support for new gutter installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>New stucco installation (cement and acrylic systems)</strong> <span class="scope">&mdash; Planning and project support for new stucco installation (cement and acrylic systems), subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>On-site project assessment and walk-through</strong> <span class="scope">&mdash; Planning and construction support for on-site project assessment and walk-through projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Onsite project assessment</strong> <span class="scope">&mdash; Planning and construction support for onsite project assessment projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Paint color consultation</strong> <span class="scope">&mdash; Planning and construction support for paint color consultation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Paint color consultation and selection</strong> <span class="scope">&mdash; Planning and construction support for paint color consultation and selection projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Paint color matching</strong> <span class="scope">&mdash; Planning and construction support for paint color matching projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Paint color matching for touch-ups</strong> <span class="scope">&mdash; Planning and construction support for paint color matching for touch-ups projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Painting surface preparation</strong> <span class="scope">&mdash; Planning and construction support for painting surface preparation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Project planning</strong> <span class="scope">&mdash; Planning and construction support for project planning projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Residential construction</strong> <span class="scope">&mdash; Planning and construction support for residential construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Residential new construction (homes and ADUs)</strong> <span class="scope">&mdash; Planning and construction support for residential new construction (homes and adus) projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Residential property repair</strong> <span class="scope">&mdash; Assessment and project support for residential property repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Residential renovation</strong> <span class="scope">&mdash; Planning and construction support for residential renovation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Residential renovation and remodels</strong> <span class="scope">&mdash; Planning and construction support for residential renovation and remodels projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Residential roofing</strong> <span class="scope">&mdash; Planning and construction support for residential roofing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Restucco</strong> <span class="scope">&mdash; Planning and construction support for restucco projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Roof flashing repair</strong> <span class="scope">&mdash; Assessment and project support for roof flashing repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Roof leak repair and patching</strong> <span class="scope">&mdash; Assessment and project support for roof leak repair and patching, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Roof repair</strong> <span class="scope">&mdash; Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Roof replacement coordination</strong> <span class="scope">&mdash; Assessment and project support for roof replacement coordination, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Roof replacement project coordination</strong> <span class="scope">&mdash; Assessment and project support for roof replacement project coordination, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Sheathing and framing repair from water damage</strong> <span class="scope">&mdash; Assessment and project support for sheathing and framing repair from water damage, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Stucco color matching</strong> <span class="scope">&mdash; Planning and construction support for stucco color matching projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco crack filling</strong> <span class="scope">&mdash; Planning and construction support for stucco crack filling projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco crack repair</strong> <span class="scope">&mdash; Assessment and project support for stucco crack repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Stucco flashing repair and replacement</strong> <span class="scope">&mdash; Assessment and project support for stucco flashing repair and replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Stucco installation</strong> <span class="scope">&mdash; Planning and project support for stucco installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Stucco patching</strong> <span class="scope">&mdash; Planning and construction support for stucco patching projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco patching for holes and impact damage</strong> <span class="scope">&mdash; Planning and construction support for stucco patching for holes and impact damage projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco re-coating</strong> <span class="scope">&mdash; Planning and construction support for stucco re-coating projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco re-coating and color refresh</strong> <span class="scope">&mdash; Planning and construction support for stucco re-coating and color refresh projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco re-flashing</strong> <span class="scope">&mdash; Planning and construction support for stucco re-flashing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco remediation</strong> <span class="scope">&mdash; Planning and construction support for stucco remediation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco repair</strong> <span class="scope">&mdash; Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Stucco repair for cracked walls</strong> <span class="scope">&mdash; Assessment and project support for stucco repair for cracked walls, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Stucco resurfacing</strong> <span class="scope">&mdash; Planning and construction support for stucco resurfacing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco texture matching</strong> <span class="scope">&mdash; Planning and construction support for stucco texture matching projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco water intrusion remediation</strong> <span class="scope">&mdash; Planning and construction support for stucco water intrusion remediation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco waterproofing</strong> <span class="scope">&mdash; Planning and construction support for stucco waterproofing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stucco waterproofing and sealant systems</strong> <span class="scope">&mdash; Planning and construction support for stucco waterproofing and sealant systems projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Stud framing for new walls and openings</strong> <span class="scope">&mdash; Planning and construction support for stud framing for new walls and openings projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Surface smoothing</strong> <span class="scope">&mdash; Planning and construction support for surface smoothing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Surface smoothing and skim coating before paint</strong> <span class="scope">&mdash; Planning and construction support for surface smoothing and skim coating before paint projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Traditional cement stucco installation and repair</strong> <span class="scope">&mdash; Assessment and project support for traditional cement stucco installation and repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Wall and trim surface preparation for painting</strong> <span class="scope">&mdash; Planning and construction support for wall and trim surface preparation for painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Wall patching</strong> <span class="scope">&mdash; Planning and construction support for wall patching projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Water-damage repair</strong> <span class="scope">&mdash; Assessment and project support for water-damage repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Water-intrusion assessment</strong> <span class="scope">&mdash; Planning and construction support for water-intrusion assessment projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Waterproof coating application</strong> <span class="scope">&mdash; Planning and construction support for waterproof coating application projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Whole-house repair for investors and landlords</strong> <span class="scope">&mdash; Assessment and project support for whole-house repair for investors and landlords, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Wood rot repair</strong> <span class="scope">&mdash; Assessment and project support for wood rot repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Written project estimates and bids</strong> <span class="scope">&mdash; Planning and construction support for written project estimates and bids projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-bathroom-drywall-installation"><strong>Bathroom drywall installation</strong> <span class="scope">&mdash; Planning and project support for bathroom drywall installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-bathroom-wall-and-ceiling-drywall-repair"><strong>Bathroom wall and ceiling drywall repair</strong> <span class="scope">&mdash; Assessment and project support for bathroom wall and ceiling drywall repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-caulking-and-sealing-before-painting"><strong>Caulking and sealing before painting</strong> <span class="scope">&mdash; Planning and construction support for caulking and sealing before painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-commercial-painting"><strong>Commercial painting</strong> <span class="scope">&mdash; Planning and construction support for commercial painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-commercial-painting-for-small-businesses"><strong>Commercial painting for small businesses</strong> <span class="scope">&mdash; Planning and construction support for commercial painting for small businesses projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-design-consultation-for-exterior-and-interior-projects"><strong>Design consultation for exterior and interior projects</strong> <span class="scope">&mdash; Planning and construction support for design consultation for exterior and interior projects projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-drywall-finishing"><strong>Drywall finishing</strong> <span class="scope">&mdash; Planning and construction support for drywall finishing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-drywall-finishing-and-skim-coating"><strong>Drywall finishing and skim coating</strong> <span class="scope">&mdash; Planning and construction support for drywall finishing and skim coating projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-drywall-framing"><strong>Drywall framing</strong> <span class="scope">&mdash; Planning and construction support for drywall framing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-drywall-installation"><strong>Drywall installation</strong> <span class="scope">&mdash; Planning and project support for drywall installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-drywall-maintenance"><strong>Drywall maintenance</strong> <span class="scope">&mdash; Maintenance support for drywall maintenance, subject to system condition, requested scope, availability, and approved service area.</span></li>
+<li id="svc-drywall-maintenance-for-rentals-and-hoas"><strong>Drywall maintenance for rentals and HOAs</strong> <span class="scope">&mdash; Maintenance support for drywall maintenance for rentals and hoas, subject to system condition, requested scope, availability, and approved service area.</span></li>
+<li id="svc-drywall-patching"><strong>Drywall patching</strong> <span class="scope">&mdash; Planning and construction support for drywall patching projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-drywall-repair"><strong>Drywall repair</strong> <span class="scope">&mdash; Assessment and project support for drywall repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-drywall-repair-for-holes-and-cracks"><strong>Drywall repair for holes and cracks</strong> <span class="scope">&mdash; Assessment and project support for drywall repair for holes and cracks, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-drywall-texture-matching"><strong>Drywall texture matching</strong> <span class="scope">&mdash; Planning and construction support for drywall texture matching projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-drywall-texture-matching-popcorn-knockdown-smooth"><strong>Drywall texture matching (popcorn, knockdown, smooth)</strong> <span class="scope">&mdash; Planning and construction support for drywall texture matching (popcorn, knockdown, smooth) projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-coating-application"><strong>Exterior coating application</strong> <span class="scope">&mdash; Planning and construction support for exterior coating application projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-house-painting"><strong>Exterior house painting</strong> <span class="scope">&mdash; Planning and construction support for exterior house painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-painting"><strong>Exterior painting</strong> <span class="scope">&mdash; Planning and construction support for exterior painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-protective-coating-application-elastomeric-waterproof"><strong>Exterior protective coating application (elastomeric, waterproof)</strong> <span class="scope">&mdash; Planning and construction support for exterior protective coating application (elastomeric, waterproof) projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-restoration"><strong>Exterior restoration</strong> <span class="scope">&mdash; Planning and construction support for exterior restoration projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-surface-repair"><strong>Exterior surface repair</strong> <span class="scope">&mdash; Assessment and project support for exterior surface repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-exterior-surface-repair-after-storm-damage"><strong>Exterior surface repair after storm damage</strong> <span class="scope">&mdash; Assessment and project support for exterior surface repair after storm damage, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-exterior-trim-installation"><strong>Exterior trim installation</strong> <span class="scope">&mdash; Planning and project support for exterior trim installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-full-home-interior-and-exterior-painting"><strong>Full home interior and exterior painting</strong> <span class="scope">&mdash; Planning and construction support for full home interior and exterior painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-full-stucco-resurfacing-over-existing-stucco"><strong>Full stucco resurfacing (over existing stucco)</strong> <span class="scope">&mdash; Planning and construction support for full stucco resurfacing (over existing stucco) projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-house-painting"><strong>House painting</strong> <span class="scope">&mdash; Planning and construction support for house painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-house-painting"><strong>Interior house painting</strong> <span class="scope">&mdash; Planning and construction support for interior house painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-painting"><strong>Interior painting</strong> <span class="scope">&mdash; Planning and construction support for interior painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-wall-repair"><strong>Interior wall repair</strong> <span class="scope">&mdash; Assessment and project support for interior wall repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-kitchen-drywall-installation"><strong>Kitchen drywall installation</strong> <span class="scope">&mdash; Planning and project support for kitchen drywall installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-kitchen-wall-drywall-repair-and-patching"><strong>Kitchen wall drywall repair and patching</strong> <span class="scope">&mdash; Assessment and project support for kitchen wall drywall repair and patching, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-level-5-drywall-finish-for-high-end-paint"><strong>Level 5 drywall finish for high-end paint</strong> <span class="scope">&mdash; Planning and construction support for level 5 drywall finish for high-end paint projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-level-5-drywall-finishing"><strong>Level 5 drywall finishing</strong> <span class="scope">&mdash; Planning and construction support for level 5 drywall finishing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-moisture-intrusion-assessment-for-stucco-homes"><strong>Moisture intrusion assessment for stucco homes</strong> <span class="scope">&mdash; Planning and construction support for moisture intrusion assessment for stucco homes projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-moisture-resistant-drywall-installation"><strong>Moisture-resistant drywall installation</strong> <span class="scope">&mdash; Planning and project support for moisture-resistant drywall installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-moisture-resistant-drywall-installation-bathrooms-kitchens"><strong>Moisture-resistant drywall installation (bathrooms, kitchens)</strong> <span class="scope">&mdash; Planning and project support for moisture-resistant drywall installation (bathrooms, kitchens), subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-new-drywall-installation-walls-and-ceilings"><strong>New drywall installation (walls and ceilings)</strong> <span class="scope">&mdash; Planning and project support for new drywall installation (walls and ceilings), subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-paint-color-consultation"><strong>Paint color consultation</strong> <span class="scope">&mdash; Planning and construction support for paint color consultation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-paint-color-consultation-and-selection"><strong>Paint color consultation and selection</strong> <span class="scope">&mdash; Planning and construction support for paint color consultation and selection projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-paint-color-matching"><strong>Paint color matching</strong> <span class="scope">&mdash; Planning and construction support for paint color matching projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-paint-color-matching-for-touch-ups"><strong>Paint color matching for touch-ups</strong> <span class="scope">&mdash; Planning and construction support for paint color matching for touch-ups projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-painting-surface-preparation"><strong>Painting surface preparation</strong> <span class="scope">&mdash; Planning and construction support for painting surface preparation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-residential-new-construction-homes-and-adus"><strong>Residential new construction (homes and ADUs)</strong> <span class="scope">&mdash; Planning and construction support for residential new construction (homes and adus) projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-residential-renovation"><strong>Residential renovation</strong> <span class="scope">&mdash; Planning and construction support for residential renovation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-residential-renovation-and-remodels"><strong>Residential renovation and remodels</strong> <span class="scope">&mdash; Planning and construction support for residential renovation and remodels projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-surface-smoothing-and-skim-coating-before-paint"><strong>Surface smoothing and skim coating before paint</strong> <span class="scope">&mdash; Planning and construction support for surface smoothing and skim coating before paint projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-wall-and-trim-surface-preparation-for-painting"><strong>Wall and trim surface preparation for painting</strong> <span class="scope">&mdash; Planning and construction support for wall and trim surface preparation for painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-whole-house-repair-for-investors-and-landlords"><strong>Whole-house repair for investors and landlords</strong> <span class="scope">&mdash; Assessment and project support for whole-house repair for investors and landlords, subject to existing conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-outdoor-living">
+<h2>Outdoor Living<span class="count">2 services</span></h2>
+<ul class="svc-list">
+<li id="svc-stucco-repair-for-cracked-walls"><strong>Stucco repair for cracked walls</strong> <span class="scope">&mdash; Assessment and project support for stucco repair for cracked walls, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-wall-patching"><strong>Wall patching</strong> <span class="scope">&mdash; Planning and construction support for wall patching projects, subject to project scope, availability, and the approved service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-roofing-and-exterior">
+<h2>Roofing and Exterior<span class="count">39 services</span></h2>
+<ul class="svc-list">
+<li id="svc-acrylic-stucco-synthetic-installation-and-repair"><strong>Acrylic stucco (synthetic) installation and repair</strong> <span class="scope">&mdash; Assessment and project support for acrylic stucco (synthetic) installation and repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-acrylic-stucco-installation"><strong>Acrylic stucco installation</strong> <span class="scope">&mdash; Planning and project support for acrylic stucco installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-cement-stucco-installation"><strong>Cement stucco installation</strong> <span class="scope">&mdash; Planning and project support for cement stucco installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-custom-framing-for-doors-windows-and-built-ins"><strong>Custom framing for doors, windows, and built-ins</strong> <span class="scope">&mdash; Planning and construction support for custom framing for doors, windows, and built-ins projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-decorative-stucco-accent-installation"><strong>Decorative stucco accent installation</strong> <span class="scope">&mdash; Planning and project support for decorative stucco accent installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-decorative-stucco-accents-and-architectural-details"><strong>Decorative stucco accents and architectural details</strong> <span class="scope">&mdash; Planning and construction support for decorative stucco accents and architectural details projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-stucco-coating-application"><strong>Exterior stucco coating application</strong> <span class="scope">&mdash; Planning and construction support for exterior stucco coating application projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-gutter-installation"><strong>Gutter installation</strong> <span class="scope">&mdash; Planning and project support for gutter installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-gutter-leak-and-seam-repair"><strong>Gutter leak and seam repair</strong> <span class="scope">&mdash; Assessment and project support for gutter leak and seam repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-gutter-repair"><strong>Gutter repair</strong> <span class="scope">&mdash; Assessment and project support for gutter repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-gutter-repair-and-re-hanging"><strong>Gutter repair and re-hanging</strong> <span class="scope">&mdash; Assessment and project support for gutter repair and re-hanging, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-historical-stucco-preservation"><strong>Historical stucco preservation</strong> <span class="scope">&mdash; Planning and construction support for historical stucco preservation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-historical-stucco-restoration-and-preservation"><strong>Historical stucco restoration and preservation</strong> <span class="scope">&mdash; Planning and construction support for historical stucco restoration and preservation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-new-gutter-installation"><strong>New gutter installation</strong> <span class="scope">&mdash; Planning and project support for new gutter installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-new-stucco-installation-cement-and-acrylic-systems"><strong>New stucco installation (cement and acrylic systems)</strong> <span class="scope">&mdash; Planning and project support for new stucco installation (cement and acrylic systems), subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-residential-roofing"><strong>Residential roofing</strong> <span class="scope">&mdash; Planning and construction support for residential roofing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-roof-flashing-repair"><strong>Roof flashing repair</strong> <span class="scope">&mdash; Assessment and project support for roof flashing repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-roof-leak-repair-and-patching"><strong>Roof leak repair and patching</strong> <span class="scope">&mdash; Assessment and project support for roof leak repair and patching, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-roof-repair"><strong>Roof repair</strong> <span class="scope">&mdash; Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-roof-replacement-coordination"><strong>Roof replacement coordination</strong> <span class="scope">&mdash; Assessment and project support for roof replacement coordination, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-roof-replacement-project-coordination"><strong>Roof replacement project coordination</strong> <span class="scope">&mdash; Assessment and project support for roof replacement project coordination, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stucco-color-matching"><strong>Stucco color matching</strong> <span class="scope">&mdash; Planning and construction support for stucco color matching projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-crack-filling"><strong>Stucco crack filling</strong> <span class="scope">&mdash; Planning and construction support for stucco crack filling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-crack-repair"><strong>Stucco crack repair</strong> <span class="scope">&mdash; Assessment and project support for stucco crack repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stucco-flashing-repair-and-replacement"><strong>Stucco flashing repair and replacement</strong> <span class="scope">&mdash; Assessment and project support for stucco flashing repair and replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stucco-installation"><strong>Stucco installation</strong> <span class="scope">&mdash; Planning and project support for stucco installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stucco-patching"><strong>Stucco patching</strong> <span class="scope">&mdash; Planning and construction support for stucco patching projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-patching-for-holes-and-impact-damage"><strong>Stucco patching for holes and impact damage</strong> <span class="scope">&mdash; Planning and construction support for stucco patching for holes and impact damage projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-re-coating"><strong>Stucco re-coating</strong> <span class="scope">&mdash; Planning and construction support for stucco re-coating projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-re-coating-and-color-refresh"><strong>Stucco re-coating and color refresh</strong> <span class="scope">&mdash; Planning and construction support for stucco re-coating and color refresh projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-re-flashing"><strong>Stucco re-flashing</strong> <span class="scope">&mdash; Planning and construction support for stucco re-flashing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-remediation"><strong>Stucco remediation</strong> <span class="scope">&mdash; Planning and construction support for stucco remediation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-repair"><strong>Stucco repair</strong> <span class="scope">&mdash; Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stucco-resurfacing"><strong>Stucco resurfacing</strong> <span class="scope">&mdash; Planning and construction support for stucco resurfacing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-texture-matching"><strong>Stucco texture matching</strong> <span class="scope">&mdash; Planning and construction support for stucco texture matching projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-water-intrusion-remediation"><strong>Stucco water intrusion remediation</strong> <span class="scope">&mdash; Planning and construction support for stucco water intrusion remediation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-waterproofing"><strong>Stucco waterproofing</strong> <span class="scope">&mdash; Planning and construction support for stucco waterproofing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-stucco-waterproofing-and-sealant-systems"><strong>Stucco waterproofing and sealant systems</strong> <span class="scope">&mdash; Planning and construction support for stucco waterproofing and sealant systems projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-traditional-cement-stucco-installation-and-repair"><strong>Traditional cement stucco installation and repair</strong> <span class="scope">&mdash; Assessment and project support for traditional cement stucco installation and repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-foundation-and-structural">
+<h2>Foundation and Structural<span class="count">3 services</span></h2>
+<ul class="svc-list">
+<li id="svc-custom-framing"><strong>Custom framing</strong> <span class="scope">&mdash; Planning and construction support for custom framing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-wall-crack-and-nail-pop-repair"><strong>Interior wall crack and nail-pop repair</strong> <span class="scope">&mdash; Assessment and project support for interior wall crack and nail-pop repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stud-framing-for-new-walls-and-openings"><strong>Stud framing for new walls and openings</strong> <span class="scope">&mdash; Planning and construction support for stud framing for new walls and openings projects, subject to project scope, availability, and the approved service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-construction">
+<h2>Construction<span class="count">11 services</span></h2>
+<ul class="svc-list">
+<li id="svc-ceiling-repair-for-water-stains-and-sagging"><strong>Ceiling repair for water stains and sagging</strong> <span class="scope">&mdash; Assessment and project support for ceiling repair for water stains and sagging, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-drywall-patching-for-water-damage"><strong>Drywall patching for water damage</strong> <span class="scope">&mdash; Planning and construction support for drywall patching for water damage projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-wall-water-damage-repair"><strong>Exterior wall water damage repair</strong> <span class="scope">&mdash; Assessment and project support for exterior wall water damage repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-general-building-services"><strong>General building services</strong> <span class="scope">&mdash; Planning and construction support for general building services projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-general-building-services-for-property-managers"><strong>General building services for property managers</strong> <span class="scope">&mdash; Planning and construction support for general building services for property managers projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-light-commercial-construction-offices-retail-tenant-improvements"><strong>Light commercial construction (offices, retail, tenant improvements)</strong> <span class="scope">&mdash; Planning and construction support for light commercial construction (offices, retail, tenant improvements) projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-on-site-project-assessment-and-walk-through"><strong>On-site project assessment and walk-through</strong> <span class="scope">&mdash; Planning and construction support for on-site project assessment and walk-through projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-residential-construction"><strong>Residential construction</strong> <span class="scope">&mdash; Planning and construction support for residential construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-sheathing-and-framing-repair-from-water-damage"><strong>Sheathing and framing repair from water damage</strong> <span class="scope">&mdash; Assessment and project support for sheathing and framing repair from water damage, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-water-damage-repair"><strong>Water-damage repair</strong> <span class="scope">&mdash; Assessment and project support for water-damage repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-water-intrusion-assessment"><strong>Water-intrusion assessment</strong> <span class="scope">&mdash; Planning and construction support for water-intrusion assessment projects, subject to project scope, availability, and the approved service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-services">
+<h2>Services<span class="count">23 services</span></h2>
+<ul class="svc-list">
+<li id="svc-building-envelope-leak-repair"><strong>Building envelope leak repair</strong> <span class="scope">&mdash; Assessment and project support for building envelope leak repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-building-envelope-repair"><strong>Building-envelope repair</strong> <span class="scope">&mdash; Assessment and project support for building-envelope repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-building-envelope-restoration"><strong>Building-envelope restoration</strong> <span class="scope">&mdash; Planning and construction support for building-envelope restoration projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-caulking"><strong>Caulking</strong> <span class="scope">&mdash; Planning and construction support for caulking projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-ceiling-repair"><strong>Ceiling repair</strong> <span class="scope">&mdash; Assessment and project support for ceiling repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-complete-restucco-for-failed-systems"><strong>Complete restucco for failed systems</strong> <span class="scope">&mdash; Planning and construction support for complete restucco for failed systems projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-construction"><strong>construction</strong> <span class="scope">&mdash; Modern Builders provides construction in South Pasadena, Glendale, Burbank.</span></li>
+<li id="svc-construction-project-management"><strong>Construction project management</strong> <span class="scope">&mdash; Planning and construction support for construction project management projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-construction-project-planning-and-phasing"><strong>Construction project planning and phasing</strong> <span class="scope">&mdash; Planning and construction support for construction project planning and phasing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-design-consultation"><strong>Design consultation</strong> <span class="scope">&mdash; Planning and construction support for design consultation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-free-project-estimates"><strong>Free project estimates</strong> <span class="scope">&mdash; Planning and construction support for free project estimates projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-light-commercial-repair-and-restoration"><strong>Light commercial repair and restoration</strong> <span class="scope">&mdash; Assessment and project support for light commercial repair and restoration, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-light-commercial-construction"><strong>Light-commercial construction</strong> <span class="scope">&mdash; Planning and construction support for light-commercial construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-light-commercial-repair"><strong>Light-commercial repair</strong> <span class="scope">&mdash; Assessment and project support for light-commercial repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-light-commercial-restoration"><strong>Light-commercial restoration</strong> <span class="scope">&mdash; Planning and construction support for light-commercial restoration projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-onsite-project-assessment"><strong>Onsite project assessment</strong> <span class="scope">&mdash; Planning and construction support for onsite project assessment projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-project-planning"><strong>Project planning</strong> <span class="scope">&mdash; Planning and construction support for project planning projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-residential-property-repair"><strong>Residential property repair</strong> <span class="scope">&mdash; Assessment and project support for residential property repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-restucco"><strong>Restucco</strong> <span class="scope">&mdash; Planning and construction support for restucco projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-surface-smoothing"><strong>Surface smoothing</strong> <span class="scope">&mdash; Planning and construction support for surface smoothing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-waterproof-coating-application"><strong>Waterproof coating application</strong> <span class="scope">&mdash; Planning and construction support for waterproof coating application projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-wood-rot-repair"><strong>Wood rot repair</strong> <span class="scope">&mdash; Assessment and project support for wood rot repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-written-project-estimates-and-bids"><strong>Written project estimates and bids</strong> <span class="scope">&mdash; Planning and construction support for written project estimates and bids projects, subject to project scope, availability, and the approved service area.</span></li>
 </ul>
 <p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
