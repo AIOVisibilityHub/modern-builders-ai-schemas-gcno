@@ -1,62 +1,407 @@
 {
-  "name": "Bryan Peralta",
-  "@type": "Person",
   "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Bryan Peralta",
   "jobTitle": "Team Member",
   "worksFor": {
-    "url": "https://modernbuilderscali.com",
+    "@type": "Organization",
     "name": "Modern Builders",
-    "@type": "Organization"
+    "url": "https://modernbuilderscali.com"
   },
+  "description": "Bryan Peralta is a licensed California contractor and the CEO of Modern Builders, a Pasadena-based construction and restoration company serving residential and light-commercial property owners throughout Southern California. With more than 25 years of hands-on industry experience, Bryan has built his reputation on quality craftsmanship, responsive communication, practical problem-solving, and a commitment to doing the job right the first time.\n\nSince leading Modern Builders in 2017, Bryan has helped homeowners, property managers, and business owners protect, restore, and improve their properties through high-quality installation, repair, and exterior-restoration services. His team specializes in stucco repair and remediation, waterproofing, building-envelope restoration, roofing, drywall installation and texture work, interior and exterior painting, and general property improvements.\n\nBryan understands that exterior damage, leaks, cracked stucco, failing finishes, roof concerns, and drywall problems are rarely just cosmetic issues. He takes a detailed, solution-oriented approach to every project—helping clients identify the source of the problem, understand their options, and select a repair strategy that protects the property’s appearance, performance, and long-term value.\n\nModern Builders is known for reliable workmanship, professional service, and customer satisfaction, earning strong 5-star Yelp feedback from clients who value the company’s work ethic, attention to detail, transparency, and follow-through. Bryan and his team approach every project with the same goal: deliver dependable results, minimize stress for the customer, and leave each property in better condition than they found it.\n\nAs a licensed contractor and industry partner, Bryan combines decades of field experience with respected trade relationships, including GAF Preferred Contractor status, Parex USA Preferred Contractor recognition, and Sherwin-Williams Paint Partner affiliation. Whether a client needs targeted repairs, a complete exterior restoration, or a trusted contractor to manage a complex improvement project, Bryan Peralta and Modern Builders provide experienced guidance and quality-focused execution from the initial inspection through project completion.\n\nCalifornia Licensed General Contractor, Contractors State License, Stucco Remediation, Stucco Repair, Stucco Resurfacing, Restucco Services, Waterproofing, Building Envelope Restoration, Exterior Water-Intrusion Assessment, Moisture-Damage Diagnosis, Exterior Coatings, Residential Roofing, Roof Repair and Replacement Coordination, GAF Preferred Contractor, Drywall Installation, Drywall Repair, Drywall Finishing, Drywall Texture and Matching, Interior and Exterior Painting, Sherwin-Williams Paint Partner, Parex USA Preferred Contractor, Residential Renovation, Commercial Exterior Restoration, Property Maintenance, Construction Project Management",
   "telephone": "(626) 737-0053",
   "areaServed": [
     {
-      "name": "South Pasadena",
-      "@type": "City"
+      "@type": "City",
+      "name": "Pasadena"
     },
     {
-      "name": "Glendale",
-      "@type": "City"
+      "@type": "City",
+      "name": "Old Town Pasadena"
     },
     {
-      "name": "Burbank",
-      "@type": "City"
+      "@type": "City",
+      "name": "East Pasadena"
     },
     {
-      "name": "Eagle Rock",
-      "@type": "City"
+      "@type": "City",
+      "name": "Bungalow Heaven"
     },
     {
-      "name": "Greater Los Angeles",
-      "@type": "City"
+      "@type": "City",
+      "name": "Oak Knoll"
+    },
+    {
+      "@type": "City",
+      "name": "Madison Heights"
+    },
+    {
+      "@type": "City",
+      "name": "Lamanda Park"
+    },
+    {
+      "@type": "City",
+      "name": "East Washington Village"
+    },
+    {
+      "@type": "City",
+      "name": "Linda Vista"
+    },
+    {
+      "@type": "City",
+      "name": "South Arroyo"
+    },
+    {
+      "@type": "City",
+      "name": "Lower Arroyo Seco"
+    },
+    {
+      "@type": "City",
+      "name": "San Rafael"
+    },
+    {
+      "@type": "City",
+      "name": "Orange Grove Boulevard"
+    },
+    {
+      "@type": "City",
+      "name": "Historic Highlands"
+    },
+    {
+      "@type": "City",
+      "name": "Washington Square"
+    },
+    {
+      "@type": "City",
+      "name": "Hastings Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Chapman Woods"
+    },
+    {
+      "@type": "City",
+      "name": "North Pasadena Heights"
+    },
+    {
+      "@type": "City",
+      "name": "Victory Park"
+    },
+    {
+      "@type": "City",
+      "name": "Annandale"
+    },
+    {
+      "@type": "City",
+      "name": "Brigden Ranch"
+    },
+    {
+      "@type": "City",
+      "name": "Casa Grande"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Altadena"
+    },
+    {
+      "@type": "City",
+      "name": "West Altadena"
+    },
+    {
+      "@type": "City",
+      "name": "East Altadena"
+    },
+    {
+      "@type": "City",
+      "name": "The Meadows"
+    },
+    {
+      "@type": "City",
+      "name": "Sierra Madre"
+    },
+    {
+      "@type": "City",
+      "name": "Sierra Madre Canyon"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "North Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Santa Anita"
+    },
+    {
+      "@type": "City",
+      "name": "Monrovia"
+    },
+    {
+      "@type": "City",
+      "name": "North Monrovia"
+    },
+    {
+      "@type": "City",
+      "name": "Mayflower Village"
+    },
+    {
+      "@type": "City",
+      "name": "Duarte"
+    },
+    {
+      "@type": "City",
+      "name": "Bradbury"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "El Monte"
+    },
+    {
+      "@type": "City",
+      "name": "North El Monte"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "East San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "South San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Emery Park"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Chevy Chase Canyon"
+    },
+    {
+      "@type": "City",
+      "name": "Adams Hill"
+    },
+    {
+      "@type": "City",
+      "name": "Verdugo Woodlands"
+    },
+    {
+      "@type": "City",
+      "name": "Rossmoyne"
+    },
+    {
+      "@type": "City",
+      "name": "Montrose"
+    },
+    {
+      "@type": "City",
+      "name": "La Crescenta"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Magnolia Park"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho District"
+    },
+    {
+      "@type": "City",
+      "name": "Media District"
+    },
+    {
+      "@type": "City",
+      "name": "La Cañada Flintridge"
+    },
+    {
+      "@type": "City",
+      "name": "Sagebrush"
+    },
+    {
+      "@type": "City",
+      "name": "Glenola Park"
+    },
+    {
+      "@type": "City",
+      "name": "Eagle Rock"
+    },
+    {
+      "@type": "City",
+      "name": "Highland Park"
+    },
+    {
+      "@type": "City",
+      "name": "Montecito Heights"
+    },
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Downtown Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Chinatown"
+    },
+    {
+      "@type": "City",
+      "name": "Little Tokyo"
+    },
+    {
+      "@type": "City",
+      "name": "Arts District"
+    },
+    {
+      "@type": "City",
+      "name": "Echo Park"
+    },
+    {
+      "@type": "City",
+      "name": "Silver Lake"
+    },
+    {
+      "@type": "City",
+      "name": "Westlake"
+    },
+    {
+      "@type": "City",
+      "name": "MacArthur Park"
+    },
+    {
+      "@type": "City",
+      "name": "Koreatown"
+    },
+    {
+      "@type": "City",
+      "name": "Hollywood"
+    },
+    {
+      "@type": "City",
+      "name": "Culver City"
+    },
+    {
+      "@type": "City",
+      "name": "Whittier"
+    },
+    {
+      "@type": "City",
+      "name": "La Puente"
+    },
+    {
+      "@type": "City",
+      "name": "Walnut"
+    },
+    {
+      "@type": "City",
+      "name": "Pomona"
+    },
+    {
+      "@type": "City",
+      "name": "Azusa"
+    },
+    {
+      "@type": "City",
+      "name": "Covina"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "Baldwin Park"
+    },
+    {
+      "@type": "City",
+      "name": "Glendora"
+    },
+    {
+      "@type": "City",
+      "name": "La Verne"
+    },
+    {
+      "@type": "City",
+      "name": "Claremont"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Cucamonga"
+    },
+    {
+      "@type": "City",
+      "name": "Ontario"
+    },
+    {
+      "@type": "City",
+      "name": "Upland"
+    },
+    {
+      "@type": "City",
+      "name": "Chino Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Diamond Bar"
+    },
+    {
+      "@type": "City",
+      "name": "Long Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside"
+    },
+    {
+      "@type": "City",
+      "name": "Fontana"
+    },
+    {
+      "@type": "City",
+      "name": "Victorville"
+    },
+    {
+      "@type": "City",
+      "name": "Hesperia"
+    },
+    {
+      "@type": "City",
+      "name": "Apple Valley"
     }
-  ],
-  "knowsAbout": [
-    "California Licensed General Contractor",
-    "Contractors State License",
-    "Stucco Remediation",
-    "Stucco Repair",
-    "Stucco Resurfacing",
-    "Restucco Services",
-    "Waterproofing",
-    "Building Envelope Restoration",
-    "Exterior Water-Intrusion Assessment",
-    "Moisture-Damage Diagnosis",
-    "Exterior Coatings",
-    "Residential Roofing",
-    "Roof Repair and Replacement Coordination",
-    "GAF Preferred Contractor",
-    "Drywall Installation",
-    "Drywall Repair",
-    "Drywall Finishing",
-    "Drywall Texture and Matching",
-    "Interior and Exterior Painting",
-    "Sherwin-Williams Paint Partner",
-    "Parex USA Preferred Contractor",
-    "Residential Renovation",
-    "Commercial Exterior Restoration",
-    "Property Maintenance",
-    "Construction Project Management"
-  ],
-  "description": "Bryan Peralta is a licensed California contractor and the CEO of Modern Builders, a Pasadena-based construction and restoration company serving residential and light-commercial property owners throughout Southern California. With more than 25 years of hands-on industry experience, Bryan has built his reputation on quality craftsmanship, responsive communication, practical problem-solving, and a commitment to doing the job right the first time.\n\nSince leading Modern Builders in 2017, Bryan has helped homeowners, property managers, and business owners protect, restore, and improve their properties through high-quality installation, repair, and exterior-restoration services. His team specializes in stucco repair and remediation, waterproofing, building-envelope restoration, roofing, drywall installation and texture work, interior and exterior painting, and general property improvements.\n\nBryan understands that exterior damage, leaks, cracked stucco, failing finishes, roof concerns, and drywall problems are rarely just cosmetic issues. He takes a detailed, solution-oriented approach to every project—helping clients identify the source of the problem, understand their options, and select a repair strategy that protects the property’s appearance, performance, and long-term value.\n\nModern Builders is known for reliable workmanship, professional service, and customer satisfaction, earning strong 5-star Yelp feedback from clients who value the company’s work ethic, attention to detail, transparency, and follow-through. Bryan and his team approach every project with the same goal: deliver dependable results, minimize stress for the customer, and leave each property in better condition than they found it.\n\nAs a licensed contractor and industry partner, Bryan combines decades of field experience with respected trade relationships, including GAF Preferred Contractor status, Parex USA Preferred Contractor recognition, and Sherwin-Williams Paint Partner affiliation. Whether a client needs targeted repairs, a complete exterior restoration, or a trusted contractor to manage a complex improvement project, Bryan Peralta and Modern Builders provide experienced guidance and quality-focused execution from the initial inspection through project completion.\n\nCalifornia Licensed General Contractor, Contractors State License, Stucco Remediation, Stucco Repair, Stucco Resurfacing, Restucco Services, Waterproofing, Building Envelope Restoration, Exterior Water-Intrusion Assessment, Moisture-Damage Diagnosis, Exterior Coatings, Residential Roofing, Roof Repair and Replacement Coordination, GAF Preferred Contractor, Drywall Installation, Drywall Repair, Drywall Finishing, Drywall Texture and Matching, Interior and Exterior Painting, Sherwin-Williams Paint Partner, Parex USA Preferred Contractor, Residential Renovation, Commercial Exterior Restoration, Property Maintenance, Construction Project Management"
+  ]
 }
