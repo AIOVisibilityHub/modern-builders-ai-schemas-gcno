@@ -9,7 +9,7 @@ Package contents:
 - 872 faqs
 - 207 helpArticles
 - 1 services
-- 6 personnel
+- 1 personnel
 - 1 locations
 - 25 awards
 - 75 caseStudies
@@ -22,13 +22,6 @@ Package contents:
 - [ai-data-hub] Modern Builders — AI Data Hub — https://modernbuilders.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno
 - [mirror-pages] GitHub — AI Data Hub mirror — http://modernbuilders.aiovisibility.net/ai-data.html
-- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/modern-builders-ai-schemas-cqme
-- [mirror-pages] GitLab — AI Data Hub mirror — https://modern-builders-ai-schemas-cqme-3cba18.gitlab.io/ai-data.html
-- [mirror-repo] Hugging Face repository — https://huggingface.co/spaces/AIOVisibilityHub/modern-builders-ai-schemas
-- [mirror-pages] Hugging Face — AI Data Hub mirror — https://aiovisibilityhub-modern-builders-ai-schemas.static.hf.space/ai-data.html
-- [mirror-repo] Codeberg repository — https://codeberg.org/aiovisibilityhub/modern-builders-ai-schemas
-- [mirror-pages] Codeberg — AI Data Hub mirror — https://aiovisibilityhub.codeberg.page/modern-builders-ai-schemas/ai-data.html
-- [mirror-repo] Zenodo repository — https://zenodo.org/record/23630874
 - [same-as] Modern Builders on aiovisibility.net — https://aiovisibility.net/profiles/modern-builders-cali
 - [same-as] Modern Builders on maps.google.com — https://maps.google.com/maps?cid=12150866154190721688
 - [same-as] Modern Builders on yelp.com — https://www.yelp.com/biz/modern-builders-pasadena-5
@@ -61,6 +54,11 @@ Package contents:
 - [same-as] Modern Builders on openpr.com — https://www.openpr.com/news/3976757/modern-builders-pasadena-s-trusted-experts-in-roofing
 - [same-as] Modern Builders on openpr.com — https://www.openpr.com/news/3843450/roofing-services-in-los-angeles-why-modern-builders-is-the-best
 - [same-as] Modern Builders on melrosefarmservice.com — https://www.melrosefarmservice.com/markets/stocks.php?article=abnewswire-2023-9-23-choosing-the-right-roofing-contractor-in-pasadena-ca
+- [same-as] Modern Builders on aiovisibilityhub.srht.site — https://aiovisibilityhub.srht.site/modern-builders-ai-schemas/
+- [same-as] Modern Builders on zenodo.org — https://zenodo.org/records/23630874
+- [same-as] Modern Builders on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/modern-builders-ai-schemas/
+- [same-as] Modern Builders on aiovisibilityhub-modern-builders-ai-schemas.static.hf.space — https://aiovisibilityhub-modern-builders-ai-schemas.static.hf.space/index.html
+- [same-as] Modern Builders on modern-builders-ai-schemas-cqme-3cba18.gitlab.io — https://modern-builders-ai-schemas-cqme-3cba18.gitlab.io/
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
@@ -315,13 +313,8 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 ### Locations (1)
 - https://modernbuilders.aiovisibility.net/locations/modern-builders-office.json — schema
 
-### Team Members (6)
-- https://modernbuilders.aiovisibility.net/team/bryan-peralta-burbank.json — schema
-- https://modernbuilders.aiovisibility.net/team/bryan-peralta-eagle-rock.json — schema
-- https://modernbuilders.aiovisibility.net/team/bryan-peralta-glendale.json — schema
-- https://modernbuilders.aiovisibility.net/team/bryan-peralta-greater-los-angeles.json — schema
+### Team Members (1)
 - https://modernbuilders.aiovisibility.net/team/bryan-peralta-profile.json — schema
-- https://modernbuilders.aiovisibility.net/team/bryan-peralta-south-pasadena.json — schema
 
 ### FAQs (872)
 - https://modernbuilders.aiovisibility.net/faqs/aluminum-vs-steel-gutters.json — schema

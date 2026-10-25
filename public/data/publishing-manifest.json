@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T01:33:58.699Z",
+  "generatedAt": "2026-10-25T01:39:34.640Z",
   "client": {
     "name": "Modern Builders",
     "canonicalUrl": "https://modernbuilders.aiovisibility.net",
@@ -251,14 +251,14 @@
     ]
   },
   "package": {
-    "totalFiles": 1259,
-    "totalBytes": 3719961,
+    "totalFiles": 1254,
+    "totalBytes": 3798487,
     "stats": {
       "faqs": 872,
       "helpArticles": 207,
       "services": 1,
       "webpages": 0,
-      "personnel": 6,
+      "personnel": 1,
       "products": 0,
       "locations": 1,
       "awards": 25,
@@ -268,7 +268,7 @@
       "reviews": 16,
       "qna": 0,
       "research": 0,
-      "total": 1229
+      "total": 1224
     }
   },
   "entrypoints": {
@@ -292,32 +292,7 @@
     "team": [
       {
         "path": "team/bryan-peralta-profile.json",
-        "bytes": 4089,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/bryan-peralta-south-pasadena.json",
-        "bytes": 3935,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/bryan-peralta-glendale.json",
-        "bytes": 3929,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/bryan-peralta-burbank.json",
-        "bytes": 3928,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/bryan-peralta-eagle-rock.json",
-        "bytes": 3931,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/bryan-peralta-greater-los-angeles.json",
-        "bytes": 3940,
+        "bytes": 6993,
         "purpose": "schema"
       }
     ],
@@ -1872,7 +1847,7 @@
     "organization": [
       {
         "path": "organization/modern-builders-organization.json",
-        "bytes": 9713,
+        "bytes": 25301,
         "purpose": "schema"
       }
     ],
@@ -6450,82 +6425,82 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 18844,
+        "bytes": 24648,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 125150,
+        "bytes": 141637,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 123437,
+        "bytes": 129323,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 27650,
+        "bytes": 33112,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18141,
+        "bytes": 23678,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 542201,
+        "bytes": 547765,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 19130,
+        "bytes": 24692,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 70585,
+        "bytes": 76223,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 44291,
+        "bytes": 33910,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 9958,
+        "bytes": 15596,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 18696,
+        "bytes": 24404,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 19759,
+        "bytes": 25438,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 14338,
+        "bytes": 20053,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 14563,
+        "bytes": 20172,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 34948,
+        "bytes": 40665,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 122219,
+        "bytes": 127801,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -6537,7 +6512,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 11671,
+        "bytes": 11534,
         "purpose": "LLM hint"
       },
       {
@@ -6557,37 +6532,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 12277,
+        "bytes": 11388,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 528684,
+        "bytes": 526628,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 152324,
+        "bytes": 151734,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 152324,
+        "bytes": 151734,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 11725,
+        "bytes": 11588,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 176444,
+        "bytes": 175841,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 154290,
+        "bytes": 153782,
         "purpose": "AI sitemap"
       },
       {
@@ -6602,23 +6577,6 @@
       "url": "https://github.com/AIOVisibilityHub/modern-builders-ai-schemas-gcno",
       "pagesUrl": "http://modernbuilders.aiovisibility.net/",
       "repo": "AIOVisibilityHub/modern-builders-ai-schemas-gcno"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/modern-builders-ai-schemas-cqme",
-      "pagesUrl": "https://modern-builders-ai-schemas-cqme-3cba18.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/modern-builders-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-modern-builders-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/modern-builders-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/modern-builders-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/modern-builders-ai-schemas/",
-      "repo": "aiovisibilityhub/modern-builders-ai-schemas"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23630874"
     }
   }
 }
